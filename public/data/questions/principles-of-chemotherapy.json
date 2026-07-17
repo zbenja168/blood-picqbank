@@ -1,0 +1,84 @@
+{
+  "categoryId": "principles-of-chemotherapy",
+  "categoryName": "Principles of Chemotherapy",
+  "questions": [
+    {
+      "id": "blpic-172",
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "stem": "This graph plots the logarithm of tumor cell number against time during chemotherapy, showing sawtooth reductions with each treatment. What core principle of tumor kinetics does this curve illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single dose can eradicate all tumor cells if the dose is high enough"
+        },
+        {
+          "label": "B",
+          "text": "Each dose kills a constant absolute number of tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "Tumor regrowth between doses is impossible once treatment starts"
+        },
+        {
+          "label": "D",
+          "text": "Tumor cells stop dividing entirely once therapy begins"
+        },
+        {
+          "label": "E",
+          "text": "Each dose kills a constant fraction (not a constant number) of tumor cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The plot depicts the log-cell kill hypothesis: because chemotherapy follows first-order kinetics, each cycle destroys a fixed proportion of remaining cells, so tumor burden falls logarithmically and multiple cycles are required to reach a clinically undetectable level.",
+        "whyCorrect": "The plot depicts the log-cell kill hypothesis: because chemotherapy follows first-order kinetics, each cycle destroys a fixed proportion of remaining cells, so tumor burden falls logarithmically and multiple cycles are required to reach a clinically undetectable level.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-172_bl023_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-173",
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "stem": "This step-wise graph shows tumor cell count dropping by an equal proportion after each labeled 'X Dose'. What does the repeated 'constant fraction of cell kill' bracket demonstrate about why cure requires many cycles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Each dose becomes progressively more potent as tumor burden falls"
+        },
+        {
+          "label": "B",
+          "text": "A single dose reduces the tumor to zero cells"
+        },
+        {
+          "label": "C",
+          "text": "Later doses kill a larger absolute number of cells than early doses"
+        },
+        {
+          "label": "D",
+          "text": "Each identical dose eliminates the same percentage of surviving cells, so absolute kill shrinks as fewer cells remain"
+        },
+        {
+          "label": "E",
+          "text": "The tumor becomes resistant after the first dose, halting further kill"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because a fixed fraction is killed each cycle, the number of cells destroyed decreases as the population shrinks, meaning several cycles are needed to drive the count low enough for the immune system or other therapy to clear residual disease.",
+        "whyCorrect": "Because a fixed fraction is killed each cycle, the number of cells destroyed decreases as the population shrinks, meaning several cycles are needed to drive the count low enough for the immune system or other therapy to clear residual disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-173_bl023_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

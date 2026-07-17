@@ -1,0 +1,123 @@
+{
+  "categoryId": "polycythemia-vera",
+  "categoryName": "Polycythemia Vera",
+  "questions": [
+    {
+      "id": "blpic-060",
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "stem": "This peripheral blood smear is from a patient with polycythemia vera. Which feature best characterizes the appearance shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Predominance of blasts containing Auer rods"
+        },
+        {
+          "label": "B",
+          "text": "Marked spherocytosis with polychromasia"
+        },
+        {
+          "label": "C",
+          "text": "A crowded field of increased but morphologically normal red cells"
+        },
+        {
+          "label": "D",
+          "text": "Numerous teardrop cells with nucleated red cells"
+        },
+        {
+          "label": "E",
+          "text": "Prominent rouleaux formation on a blue background"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
+        "whyCorrect": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-060_bl040_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-116",
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "stem": "This gross specimen is a markedly enlarged organ removed from a patient with advanced polycythemia vera. What process most likely accounts for the enlargement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid infiltration"
+        },
+        {
+          "label": "B",
+          "text": "Portal hypertension due to cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic carcinoma deposits"
+        },
+        {
+          "label": "D",
+          "text": "Reactive hyperplasia from infectious mononucleosis"
+        },
+        {
+          "label": "E",
+          "text": "Extramedullary hematopoiesis in the setting of marrow fibrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
+        "whyCorrect": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-116_bl040_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-177",
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "stem": "This schematic contrasts erythropoietin signaling in a normal red-cell precursor with that in polycythemia vera. What is the key molecular abnormality driving the uncontrolled cell growth depicted on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal secretion of erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Overexpression of the erythropoietin receptor on the cell surface"
+        },
+        {
+          "label": "C",
+          "text": "Loss of a tumor suppressor gene controlling apoptosis"
+        },
+        {
+          "label": "D",
+          "text": "A JAK2 mutation causing constitutive, EPO-independent activation of the signaling pathway"
+        },
+        {
+          "label": "E",
+          "text": "A BCR-ABL fusion tyrosine kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
+        "whyCorrect": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-177_bl040_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

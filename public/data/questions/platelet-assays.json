@@ -1,0 +1,123 @@
+{
+  "categoryId": "platelet-assays",
+  "categoryName": "Platelet Assays",
+  "questions": [
+    {
+      "id": "blpic-008",
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "stem": "This peripheral blood smear is marked with colored arrows pointing to abnormal cellular elements among the red cells. What do the arrowed structures most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Target cells"
+        },
+        {
+          "label": "B",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "C",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "D",
+          "text": "Giant platelets"
+        },
+        {
+          "label": "E",
+          "text": "Spherocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review.",
+        "whyCorrect": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-008_bl019_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-040",
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "stem": "These platelet aggregation tracings show normal aggregation curves in response to ADP, adrenaline, and collagen, but an essentially flat (absent) response to ristocetin. Which category of disorder does this pattern best suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defect in the vWF-GPIb adhesion pathway (von Willebrand disease or Bernard-Soulier syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A (factor VIII deficiency)"
+        },
+        {
+          "label": "C",
+          "text": "Glanzmann thrombasthenia (GPIIb/IIIa defect)"
+        },
+        {
+          "label": "D",
+          "text": "Recent aspirin ingestion"
+        },
+        {
+          "label": "E",
+          "text": "Storage pool disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
+        "whyCorrect": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-040_bl019_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-165",
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "stem": "This schematic shows platelets adhering to a damaged vessel wall via several labeled surface glycoprotein receptors and their ligands. A deficiency of which labeled receptor is responsible for Bernard-Soulier syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The collagen receptor"
+        },
+        {
+          "label": "B",
+          "text": "P2Y12"
+        },
+        {
+          "label": "C",
+          "text": "GPIb"
+        },
+        {
+          "label": "D",
+          "text": "GPIIb/IIIa"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinogen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GPIb is the platelet receptor that binds von Willebrand factor to mediate initial adhesion. In Bernard-Soulier syndrome platelets lack normal GPIb, so they cannot bind vWF and fail to aggregate in response to ristocetin despite normal responses to other agonists.",
+        "whyCorrect": "GPIb is the platelet receptor that binds von Willebrand factor to mediate initial adhesion. In Bernard-Soulier syndrome platelets lack normal GPIb, so they cannot bind vWF and fail to aggregate in response to ristocetin despite normal responses to other agonists.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-165_bl019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

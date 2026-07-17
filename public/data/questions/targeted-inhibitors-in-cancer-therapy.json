@@ -1,0 +1,45 @@
+{
+  "categoryId": "targeted-inhibitors-in-cancer-therapy",
+  "categoryName": "Targeted Inhibitors in Cancer Therapy",
+  "questions": [
+    {
+      "id": "blpic-140",
+      "topicId": "targeted-inhibitors-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors in Cancer Therapy",
+      "stem": "This diagram compares two classes of targeted agents blocking signal transduction at the same receptor. Why do the agents depicted acting inside the cell tend to cause more off-target adverse effects than those acting outside the cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They selectively target a single cell-surface antigen"
+        },
+        {
+          "label": "B",
+          "text": "They are large proteins that provoke severe immune reactions"
+        },
+        {
+          "label": "C",
+          "text": "They bind extracellular receptors irreversibly"
+        },
+        {
+          "label": "D",
+          "text": "They enter the cell and competitively block ATP binding with relatively low target specificity"
+        },
+        {
+          "label": "E",
+          "text": "They can only be administered by continuous IV infusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
+        "whyCorrect": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-140_bl038_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

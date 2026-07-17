@@ -1,0 +1,123 @@
+{
+  "categoryId": "glucose-6-phosphate-dehydrogenase-and-pyruvate-kinase-deficiencies",
+  "categoryName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+  "questions": [
+    {
+      "id": "blpic-077",
+      "topicId": "glucose-6-phosphate-dehydrogenase-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "stem": "This peripheral blood smear from a patient with G6PD deficiency shows red cells containing small dark peripheral inclusions (arrowed). What are these inclusions composed of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Precipitated intracellular fibrin"
+        },
+        {
+          "label": "B",
+          "text": "Denatured, precipitated hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Iron-laden mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "Residual nuclear DNA remnants"
+        },
+        {
+          "label": "E",
+          "text": "Aggregated ribosomal RNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The inclusions are Heinz bodies, clumps of oxidatively denatured hemoglobin that attach to the inner RBC membrane. They form during oxidative stress in G6PD deficiency and are best seen with supravital stains.",
+        "whyCorrect": "The inclusions are Heinz bodies, clumps of oxidatively denatured hemoglobin that attach to the inner RBC membrane. They form during oxidative stress in G6PD deficiency and are best seen with supravital stains.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-077_bl003_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-078",
+      "topicId": "glucose-6-phosphate-dehydrogenase-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "stem": "This blood smear from a G6PD-deficient patient shows red cells with a scooped-out defect in their membrane (arrowed), alongside a neutrophil and normal erythrocytes. What mechanism produces this characteristic cell shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic swelling from excess intracellular water"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical shearing of RBCs by intravascular fibrin strands"
+        },
+        {
+          "label": "C",
+          "text": "Antibody and complement-mediated membrane lysis"
+        },
+        {
+          "label": "D",
+          "text": "Splenic macrophages remove the membrane segment containing a Heinz body"
+        },
+        {
+          "label": "E",
+          "text": "Enzymatic digestion of the membrane by neutrophil elastase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "These are bite cells. As RBCs with Heinz bodies pass through the spleen, macrophages engulf and remove the portion of membrane to which the Heinz body is attached, leaving a bitten-out contour rather than destroying the whole cell.",
+        "whyCorrect": "These are bite cells. As RBCs with Heinz bodies pass through the spleen, macrophages engulf and remove the portion of membrane to which the Heinz body is attached, leaving a bitten-out contour rather than destroying the whole cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-078_bl003_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-150",
+      "topicId": "glucose-6-phosphate-dehydrogenase-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "stem": "This labeled diagram shows the enzyme (in red) driving conversion of glucose-6-phosphate to 6-phosphogluconate while cycling NADP+/NADPH and oxidized/reduced glutathione. Deficiency of this enzyme most directly causes which consequence in red blood cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerated iron incorporation into heme"
+        },
+        {
+          "label": "B",
+          "text": "Increased ATP production for membrane ion pumps"
+        },
+        {
+          "label": "C",
+          "text": "Increased susceptibility to oxidative injury and hemolysis"
+        },
+        {
+          "label": "D",
+          "text": "Excessive 2,3-BPG accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Increased oxygen affinity of hemoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram is the hexose monophosphate (pentose phosphate) shunt step catalyzed by G6PD, which regenerates NADPH. NADPH keeps glutathione reduced so it can detoxify peroxides; when G6PD is deficient, reduced glutathione falls and RBCs cannot neutralize oxidative stress, leading to hemolysis.",
+        "whyCorrect": "The diagram is the hexose monophosphate (pentose phosphate) shunt step catalyzed by G6PD, which regenerates NADPH. NADPH keeps glutathione reduced so it can detoxify peroxides; when G6PD is deficient, reduced glutathione falls and RBCs cannot neutralize oxidative stress, leading to hemolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-150_bl003_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

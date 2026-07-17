@@ -1,0 +1,162 @@
+{
+  "categoryId": "disorders-of-the-spleen",
+  "categoryName": "Disorders of the Spleen",
+  "questions": [
+    {
+      "id": "blpic-004",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "Based on the anatomical location shown in this diagram, the highlighted organ in the left upper quadrant is most vulnerable to injury from trauma to which region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The right flank"
+        },
+        {
+          "label": "B",
+          "text": "The lower left ribs / left chest wall"
+        },
+        {
+          "label": "C",
+          "text": "The midline epigastrium"
+        },
+        {
+          "label": "D",
+          "text": "The right upper quadrant ribs"
+        },
+        {
+          "label": "E",
+          "text": "The pelvis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side.",
+        "whyCorrect": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-004_bl048_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-065",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "This contrast CT after blunt abdominal trauma shows a darker region within the spleen (arrow) with surrounding free fluid. What is the most immediate life-threatening concern with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overwhelming post-splenectomy infection"
+        },
+        {
+          "label": "B",
+          "text": "Splenic abscess with sepsis"
+        },
+        {
+          "label": "C",
+          "text": "Portal hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Hemorrhage leading to hypovolemic shock from splenic rupture"
+        },
+        {
+          "label": "E",
+          "text": "Splenic vein thrombosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
+        "whyCorrect": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-065_bl048_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-124",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "This CT of the abdomen in a patient with sickle cell disease shows a small, calcified spleen (arrow). What process produced this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Splenic abscess formation"
+        },
+        {
+          "label": "B",
+          "text": "Traumatic splenic hematoma"
+        },
+        {
+          "label": "C",
+          "text": "Splenic auto-infarction"
+        },
+        {
+          "label": "D",
+          "text": "Portal venous varicosity"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyCorrect": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-124_bl048_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-181",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "This diagram of the portal venous system helps explain why chronic liver disease leads to splenomegaly. Which mechanism is primarily responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Entrapment of rigid red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Increased splenic immune hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Extramedullary hematopoiesis within the spleen"
+        },
+        {
+          "label": "D",
+          "text": "Infiltration by amyloid protein"
+        },
+        {
+          "label": "E",
+          "text": "Increased portal and splenic vein pressure causing vascular congestion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
+        "whyCorrect": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-181_bl048_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

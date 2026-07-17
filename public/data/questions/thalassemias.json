@@ -1,0 +1,45 @@
+{
+  "categoryId": "thalassemias",
+  "categoryName": "Thalassemias",
+  "questions": [
+    {
+      "id": "blpic-134",
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "stem": "This child with severe thalassemia has a prominent, bossed forehead. What process most directly produces this skeletal change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Expansion of the marrow cavity from erythroid hyperplasia driven by ineffective erythropoiesis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic corticosteroid therapy"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D deficiency causing rickets"
+        },
+        {
+          "label": "D",
+          "text": "Excess growth hormone secretion"
+        },
+        {
+          "label": "E",
+          "text": "Iron deposition within the cranial bones"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ineffective erythropoiesis drives massive marrow hyperplasia; in severe thalassemia the marrow expands the skull and facial bones, producing frontal bossing, malar prominence, and maxillary hypertrophy.",
+        "whyCorrect": "Ineffective erythropoiesis drives massive marrow hyperplasia; in severe thalassemia the marrow expands the skull and facial bones, producing frontal bossing, malar prominence, and maxillary hypertrophy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-134_bl056_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

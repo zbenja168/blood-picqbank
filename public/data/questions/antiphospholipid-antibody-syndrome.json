@@ -1,0 +1,45 @@
+{
+  "categoryId": "antiphospholipid-antibody-syndrome",
+  "categoryName": "Antiphospholipid Antibody Syndrome",
+  "questions": [
+    {
+      "id": "blpic-081",
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "stem": "This clinical photograph shows a lacy, reticulated, mottled purplish-red skin discoloration on the lower limb of a patient. What is the underlying mechanism producing this skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstruction of superficial dermal capillaries by microthrombi"
+        },
+        {
+          "label": "B",
+          "text": "Dilation of superficial venules from hepatic dysfunction"
+        },
+        {
+          "label": "C",
+          "text": "Immune complex deposition in vessel walls with leukocytoclastic vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "Extravasation of red cells from platelet-deficient capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Autoantibody-mediated destruction of dermal melanocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mottled, net-like discoloration is livedo reticularis, a characteristic skin manifestation of antiphospholipid antibody syndrome. It results from obstruction of small superficial capillaries by microthrombi, reflecting the prothrombotic state that also causes DVT, PE, stroke, and recurrent pregnancy loss.",
+        "whyCorrect": "The mottled, net-like discoloration is livedo reticularis, a characteristic skin manifestation of antiphospholipid antibody syndrome. It results from obstruction of small superficial capillaries by microthrombi, reflecting the prothrombotic state that also causes DVT, PE, stroke, and recurrent pregnancy loss.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-081_bl013_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

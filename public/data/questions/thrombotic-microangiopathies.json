@@ -1,0 +1,240 @@
+{
+  "categoryId": "thrombotic-microangiopathies",
+  "categoryName": "Thrombotic Microangiopathies",
+  "questions": [
+    {
+      "id": "blpic-041",
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "stem": "The fragmented red cells highlighted in this peripheral blood smear are specific for which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microangiopathic hemolytic anemia (MAHA)"
+        },
+        {
+          "label": "B",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Sickle cell disease"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative (G6PD) hemolysis"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary spherocytosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These cells never appear in normal or artifactual smears; their presence indicates mechanical red-cell fragmentation from intravascular microthrombi, i.e., MAHA.",
+        "whyCorrect": "These cells never appear in normal or artifactual smears; their presence indicates mechanical red-cell fragmentation from intravascular microthrombi, i.e., MAHA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-041_bl020_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-042",
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "stem": "The labeled cells in this smear (including helmet cells and triangulocytes alongside intact red cells) point to which underlying pathology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated red-cell destruction"
+        },
+        {
+          "label": "B",
+          "text": "Splenic sequestration of red cells"
+        },
+        {
+          "label": "C",
+          "text": "Defective globin chain synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical red-cell fragmentation by microthrombi"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative membrane injury"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Helmet cells and triangulocytes are morphologic subtypes of schistocytes, formed when red cells are cut passing through fibrin/platelet microthrombi in small vessels.",
+        "whyCorrect": "Helmet cells and triangulocytes are morphologic subtypes of schistocytes, formed when red cells are cut passing through fibrin/platelet microthrombi in small vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-042_bl020_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-087",
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "stem": "A patient with thrombotic microangiopathy has these skin findings. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutropenia predisposing to infection"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular fragility from vitamin C deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Vasculitis of dermal arterioles"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated fungal emboli"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytopenia impairing clot formation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The petechiae and purpura pictured result from low platelet counts (consumed in microthrombi), which cause bleeding into the skin and oozing from small vessels.",
+        "whyCorrect": "The petechiae and purpura pictured result from low platelet counts (consumed in microthrombi), which cause bleeding into the skin and oozing from small vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-087_bl020_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-166",
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "stem": "This diagram shows the normal enzymatic cleavage of ultra-large von Willebrand factor multimers at the endothelium. Loss of this depicted function would most likely cause which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemolytic-uremic syndrome (HUS)"
+        },
+        {
+          "label": "B",
+          "text": "Thrombotic thrombocytopenic purpura (TTP)"
+        },
+        {
+          "label": "C",
+          "text": "Immune thrombocytopenic purpura (ITP)"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated intravascular coagulation (DIC)"
+        },
+        {
+          "label": "E",
+          "text": "Hemophilia A"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The enzyme shown normally cleaves ultra-large vWF multimers; its deficiency leaves these sticky multimers uncleaved, causing platelet-rich microthrombi characteristic of TTP.",
+        "whyCorrect": "The enzyme shown normally cleaves ultra-large vWF multimers; its deficiency leaves these sticky multimers uncleaved, causing platelet-rich microthrombi characteristic of TTP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-166_bl020_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-167",
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "stem": "The vessel depicted shows uncleaved ultra-large multimers trapping platelets into thrombi. As red cells are sheared passing these thrombi, which type of anemia develops?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Warm autoimmune hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Megaloblastic anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The platelet-vWF thrombi mechanically fragment passing erythrocytes, producing the microangiopathic hemolytic anemia seen in TTP.",
+        "whyCorrect": "The platelet-vWF thrombi mechanically fragment passing erythrocytes, producing the microangiopathic hemolytic anemia seen in TTP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-167_bl020_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-168",
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "stem": "This schematic shows a red cell contacting an intravascular thrombus and being cut as it passes. This mechanism is the basis of which finding in thrombotic microangiopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Immune thrombocytopenia"
+        },
+        {
+          "label": "C",
+          "text": "Neutropenia"
+        },
+        {
+          "label": "D",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Polycythemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thrombus acts like a blade, shearing intact erythrocytes into fragmented cells; this intravascular mechanical hemolysis defines microangiopathic hemolytic anemia.",
+        "whyCorrect": "The thrombus acts like a blade, shearing intact erythrocytes into fragmented cells; this intravascular mechanical hemolysis defines microangiopathic hemolytic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-168_bl020_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

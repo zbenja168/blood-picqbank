@@ -1,0 +1,123 @@
+{
+  "categoryId": "myelodysplastic-neoplasms",
+  "categoryName": "Myelodysplastic Neoplasms",
+  "questions": [
+    {
+      "id": "blpic-119",
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "stem": "This schematic classifies hematologic neoplasms into their major branches, with myelodysplastic syndromes (MDS) grouped under the myeloid neoplasms. Progression of MDS most commonly leads to which of the related conditions also shown on this classification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "C",
+          "text": "Hairy cell leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
+        "whyCorrect": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-119_bl044_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-120",
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "stem": "In this peripheral blood smear the central white cell has very few granules and an almost completely clear cytoplasm. This dysplastic granulocyte change is characteristically associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infectious mononucleosis"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial sepsis with toxic granulation"
+        },
+        {
+          "label": "D",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Myelodysplastic syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
+        "whyCorrect": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-120_bl044_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-121",
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "stem": "The arrows in this bone marrow field indicate abnormally small cells with single, non-lobulated nuclei. These are dysplastic megakaryocytes; their abnormality would most directly impair production of which blood component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophils"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Platelets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
+        "whyCorrect": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-121_bl044_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

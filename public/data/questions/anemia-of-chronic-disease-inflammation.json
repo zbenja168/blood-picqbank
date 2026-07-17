@@ -1,0 +1,84 @@
+{
+  "categoryId": "anemia-of-chronic-disease-inflammation",
+  "categoryName": "Anemia of Chronic Disease/Inflammation",
+  "questions": [
+    {
+      "id": "blpic-026",
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "stem": "This H&E-stained histologic field appears in a discussion of conditions that cause anemia of chronic disease. The dense basophilic (blue-purple) cellularity shown is most characteristic of which tissue process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An acute suppurative (neutrophil-rich) abscess"
+        },
+        {
+          "label": "B",
+          "text": "Normal adipose tissue"
+        },
+        {
+          "label": "C",
+          "text": "A chronic inflammatory / lymphocytic infiltrate"
+        },
+        {
+          "label": "D",
+          "text": "Mature fibrous scar tissue"
+        },
+        {
+          "label": "E",
+          "text": "Normal cardiac muscle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The field is packed with small, densely staining mononuclear cells typical of a chronic inflammatory (lymphocyte/plasma-cell) infiltrate. Sustained inflammation of this kind drives the cytokine response (IL-6) that underlies anemia of chronic disease, rather than the fat, neutrophilic pus, dense collagen, or striated fibers of the other choices.",
+        "whyCorrect": "The field is packed with small, densely staining mononuclear cells typical of a chronic inflammatory (lymphocyte/plasma-cell) infiltrate. Sustained inflammation of this kind drives the cytokine response (IL-6) that underlies anemia of chronic disease, rather than the fat, neutrophilic pus, dense collagen, or striated fibers of the other choices.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-026_bl057_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-185",
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "stem": "This signaling schematic shows the central hormone of iron regulation that is upregulated in chronic inflammation, leading to internalization and degradation of ferroportin-1. Which inflammatory mediator most directly drives increased production of this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-10 (IL-10)"
+        },
+        {
+          "label": "C",
+          "text": "Interferon-gamma (IFN-gamma)"
+        },
+        {
+          "label": "D",
+          "text": "Interleukin-6 (IL-6)"
+        },
+        {
+          "label": "E",
+          "text": "Transforming growth factor-beta (TGF-beta)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IL-6 is the principal inflammatory cytokine that stimulates hepatic synthesis of hepcidin. Elevated hepcidin causes internalization and degradation of ferroportin-1, blocking iron release from enterocytes, macrophages, and hepatocytes, so less iron reaches the marrow and anemia results. IL-10 and TGF-beta are anti-inflammatory, IFN-gamma is not the primary hepcidin driver, and erythropoietin actually suppresses hepcidin.",
+        "whyCorrect": "IL-6 is the principal inflammatory cytokine that stimulates hepatic synthesis of hepcidin. Elevated hepcidin causes internalization and degradation of ferroportin-1, blocking iron release from enterocytes, macrophages, and hepatocytes, so less iron reaches the marrow and anemia results. IL-10 and TGF-beta are anti-inflammatory, IFN-gamma is not the primary hepcidin driver, and erythropoietin actually suppresses hepcidin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-185_bl057_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

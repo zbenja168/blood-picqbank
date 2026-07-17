@@ -1,0 +1,279 @@
+{
+  "categoryId": "benign-leukocytosis",
+  "categoryName": "Benign Leukocytosis",
+  "questions": [
+    {
+      "id": "blpic-090",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This peripheral blood smear shows an increased number of the arrowed cells, all with normal nuclear segmentation of 2 to 5 lobes. What is the most common underlying cause of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Viral hepatitis"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial infection or inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Acute lymphoblastic leukemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
+        "whyCorrect": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-090_bl025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-091",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "The neutrophil at the center of this smear contains prominent dark primary granules that stain nearly the same color as its nucleus. What does this toxic change most commonly indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Parasitic infestation"
+        },
+        {
+          "label": "C",
+          "text": "Allergic reaction"
+        },
+        {
+          "label": "D",
+          "text": "Severe bacterial infection or inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Megaloblastic anemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
+        "whyCorrect": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-091_bl025_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-092",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This neutrophil shows small clear bubbles in its cytoplasm in addition to coarse toxic granules. What process produces these vacuoles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degranulation of lysosomes during phagocytosis, typically in sepsis"
+        },
+        {
+          "label": "B",
+          "text": "Nuclear fragmentation from apoptosis"
+        },
+        {
+          "label": "C",
+          "text": "Lipid deposition from hyperlipidemia"
+        },
+        {
+          "label": "D",
+          "text": "Viral inclusion body formation"
+        },
+        {
+          "label": "E",
+          "text": "Accumulation of hemosiderin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
+        "whyCorrect": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-092_bl025_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-093",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "The arrow points to a small pale blue-gray inclusion at the periphery of this neutrophil's cytoplasm. What is this structure composed of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ribosomes and remnants of rough endoplasmic reticulum"
+        },
+        {
+          "label": "B",
+          "text": "Phagocytosed bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Denatured nuclear DNA"
+        },
+        {
+          "label": "D",
+          "text": "Aggregated hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Condensed mitochondria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
+        "whyCorrect": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-093_bl025_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-094",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This figure compares lymphocyte morphology: cell A appears small and normal, while cells B and C are larger, with more abundant and irregular cytoplasm. What term best describes cells B and C?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Blast cells"
+        },
+        {
+          "label": "C",
+          "text": "Smudge cells"
+        },
+        {
+          "label": "D",
+          "text": "Reactive lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Atypical granulocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
+        "whyCorrect": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-094_bl025_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-095",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This smear shows enlarged lymphocytes with abundant, deeply basophilic cytoplasm that molds around neighboring red cells. This reactive appearance is most characteristic of which category of illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Viral infection such as infectious mononucleosis"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Allergic drug reaction"
+        },
+        {
+          "label": "D",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial pneumonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
+        "whyCorrect": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-095_bl025_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-096",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This large lymphocyte has abundant pale cytoplasm that abuts and molds around the adjacent red blood cells, giving a 'fried egg' appearance. It is most classically associated with which virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis C virus"
+        },
+        {
+          "label": "B",
+          "text": "Influenza virus"
+        },
+        {
+          "label": "C",
+          "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "D",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Epstein-Barr virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
+        "whyCorrect": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-096_bl025_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

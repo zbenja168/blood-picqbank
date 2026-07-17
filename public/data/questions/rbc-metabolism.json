@@ -1,0 +1,123 @@
+{
+  "categoryId": "rbc-metabolism",
+  "categoryName": "RBC Metabolism",
+  "questions": [
+    {
+      "id": "blpic-043",
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "stem": "In this photograph, the blood sample on the right, drawn from a patient, appears distinctly darker and brown compared with the normal sample on the left. Which condition most likely accounts for this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sickle cell disease"
+        },
+        {
+          "label": "B",
+          "text": "Carbon monoxide poisoning"
+        },
+        {
+          "label": "C",
+          "text": "Methemoglobinemia"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "E",
+          "text": "Iron-deficiency anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
+        "whyCorrect": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-043_bl021_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-169",
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "stem": "This schematic depicts the metabolic pathway that generates NADPH in the mature red blood cell. What is the primary protective role of the NADPH produced here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reducing methemoglobin back to functional hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Regenerating reduced glutathione (GSH) to neutralize oxidative species"
+        },
+        {
+          "label": "C",
+          "text": "Providing ATP to power the Na+/K+ membrane pump"
+        },
+        {
+          "label": "D",
+          "text": "Producing lactate to sustain anaerobic glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Synthesizing 2,3-BPG to lower hemoglobin oxygen affinity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the pentose phosphate pathway, glucose-6-phosphate dehydrogenase (G6PD) generates NADPH, which regenerates reduced glutathione (GSH) via glutathione reductase. GSH is then used by glutathione peroxidase to neutralize peroxides and other reactive oxygen species, protecting the RBC from oxidative damage and hemolysis.",
+        "whyCorrect": "In the pentose phosphate pathway, glucose-6-phosphate dehydrogenase (G6PD) generates NADPH, which regenerates reduced glutathione (GSH) via glutathione reductase. GSH is then used by glutathione peroxidase to neutralize peroxides and other reactive oxygen species, protecting the RBC from oxidative damage and hemolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-169_bl021_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-170",
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "stem": "This diagram shows the enzymatic pathways that reduce methemoglobin (Hb-Fe3+) back to functional hemoglobin. Methylene blue is used to treat acquired methemoglobinemia by stimulating one of these routes. Which pathway does methylene blue activate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cytochrome b5 reductase (NADH-dependent) pathway"
+        },
+        {
+          "label": "B",
+          "text": "Direct chemical binding of ferric heme"
+        },
+        {
+          "label": "C",
+          "text": "The catalase pathway"
+        },
+        {
+          "label": "D",
+          "text": "The NADPH-dependent methemoglobin reductase pathway"
+        },
+        {
+          "label": "E",
+          "text": "The glutathione peroxidase pathway"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Methylene blue is reduced to leukomethylene blue by NADPH-methemoglobin reductase, using NADPH supplied by G6PD in the pentose phosphate pathway; leukomethylene blue then reduces metHb. Because this route depends on NADPH, methylene blue is ineffective and relatively contraindicated in G6PD-deficient patients. Under normal conditions cytochrome b5 reductase performs the majority of metHb reduction.",
+        "whyCorrect": "Methylene blue is reduced to leukomethylene blue by NADPH-methemoglobin reductase, using NADPH supplied by G6PD in the pentose phosphate pathway; leukomethylene blue then reduces metHb. Because this route depends on NADPH, methylene blue is ineffective and relatively contraindicated in G6PD-deficient patients. Under normal conditions cytochrome b5 reductase performs the majority of metHb reduction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-170_bl021_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

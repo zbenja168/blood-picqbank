@@ -1,0 +1,111 @@
+{
+  "categoryId": "plasmodium-babesia-and-brucella-spp",
+  "categoryName": "Plasmodium, Babesia, and Brucella spp.",
+  "questions": [
+    {
+      "id": "blpic-067",
+      "topicId": "plasmodium-babesia-and-brucella-spp",
+      "topicName": "Plasmodium, Babesia, and Brucella spp.",
+      "stem": "This Giemsa-stained peripheral blood smear shows a distinctive crescent (banana) shaped intracellular form. This morphology is characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasmodium vivax ring form"
+        },
+        {
+          "label": "B",
+          "text": "Plasmodium falciparum gametocyte"
+        },
+        {
+          "label": "C",
+          "text": "Babesia microti trophozoite"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma brucei trypomastigote"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
+        "whyCorrect": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-067_bl051_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-068",
+      "topicId": "plasmodium-babesia-and-brucella-spp",
+      "topicName": "Plasmodium, Babesia, and Brucella spp.",
+      "stem": "These three peripheral blood smear fields show dark-stained inclusions located within red blood cells. These findings are most consistent with infection by which class of organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malarial (Plasmodium) parasites"
+        },
+        {
+          "label": "B",
+          "text": "Extracellular bacterial cocci"
+        },
+        {
+          "label": "C",
+          "text": "Intranuclear viral inclusions"
+        },
+        {
+          "label": "D",
+          "text": "Budding fungal yeast forms"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The dark-stained organisms lie inside the erythrocytes, a hallmark of intraerythrocytic malarial parasites. Bacteria, viral inclusions, and yeast forms would not produce this intra-RBC parasitized appearance across multiple fields.",
+        "whyCorrect": "The dark-stained organisms lie inside the erythrocytes, a hallmark of intraerythrocytic malarial parasites. Bacteria, viral inclusions, and yeast forms would not produce this intra-RBC parasitized appearance across multiple fields.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-068_bl051_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-069",
+      "topicId": "plasmodium-babesia-and-brucella-spp",
+      "topicName": "Plasmodium, Babesia, and Brucella spp.",
+      "stem": "This blood smear shows organisms within red blood cells arranged as a four-part tetrad (compared with the cross shown for reference). This finding is characteristic of which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Babesiosis (Babesia spp.)"
+        },
+        {
+          "label": "B",
+          "text": "Falciparum malaria"
+        },
+        {
+          "label": "C",
+          "text": "Bartonellosis"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosomiasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
+        "whyCorrect": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-069_bl051_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

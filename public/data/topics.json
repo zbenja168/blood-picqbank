@@ -1,74 +1,662 @@
 {
   "categories": [
     {
-      "id": "gross-anatomy",
-      "name": "Gross Anatomy",
+      "id": "acute-lymphoblastic-leukemia-lymphoma",
+      "name": "Acute Lymphoblastic Leukemia/Lymphoma",
       "topics": [
         {
-          "id": "gross-anatomy",
-          "name": "Gross Anatomy",
-          "sourceFile": "blood bricks",
+          "id": "acute-lymphoblastic-leukemia-lymphoma",
+          "name": "Acute Lymphoblastic Leukemia/Lymphoma",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "acute-myeloid-leukemia",
+      "name": "Acute Myeloid Leukemia",
+      "topics": [
+        {
+          "id": "acute-myeloid-leukemia",
+          "name": "Acute Myeloid Leukemia",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "alkylating-agents",
+      "name": "Alkylating Agents",
+      "topics": [
+        {
+          "id": "alkylating-agents",
+          "name": "Alkylating Agents",
+          "sourceFile": "brick",
           "questionCount": 4
         }
       ]
     },
     {
-      "id": "histology-cell-biology",
-      "name": "Histology & Cell Biology",
+      "id": "anemia-of-chronic-disease-inflammation",
+      "name": "Anemia of Chronic Disease/Inflammation",
       "topics": [
         {
-          "id": "histology-cell-biology",
-          "name": "Histology & Cell Biology",
-          "sourceFile": "blood bricks",
-          "questionCount": 23
+          "id": "anemia-of-chronic-disease-inflammation",
+          "name": "Anemia of Chronic Disease/Inflammation",
+          "sourceFile": "brick",
+          "questionCount": 2
         }
       ]
     },
     {
-      "id": "lab-diagnostics",
-      "name": "Lab & Diagnostics",
+      "id": "antiemetics-for-chemotherapy-patients",
+      "name": "Antiemetics for Chemotherapy Patients",
       "topics": [
         {
-          "id": "lab-diagnostics",
-          "name": "Lab & Diagnostics",
-          "sourceFile": "blood bricks",
-          "questionCount": 47
+          "id": "antiemetics-for-chemotherapy-patients",
+          "name": "Antiemetics for Chemotherapy Patients",
+          "sourceFile": "brick",
+          "questionCount": 1
         }
       ]
     },
     {
-      "id": "pathology",
-      "name": "Pathology",
+      "id": "antimetabolite-agents",
+      "name": "Antimetabolite Agents",
       "topics": [
         {
-          "id": "pathology",
-          "name": "Pathology",
-          "sourceFile": "blood bricks",
-          "questionCount": 60
+          "id": "antimetabolite-agents",
+          "name": "Antimetabolite Agents",
+          "sourceFile": "brick",
+          "questionCount": 2
         }
       ]
     },
     {
-      "id": "pharmacology",
-      "name": "Pharmacology",
+      "id": "antiphospholipid-antibody-syndrome",
+      "name": "Antiphospholipid Antibody Syndrome",
       "topics": [
         {
-          "id": "pharmacology",
-          "name": "Pharmacology",
-          "sourceFile": "blood bricks",
-          "questionCount": 12
+          "id": "antiphospholipid-antibody-syndrome",
+          "name": "Antiphospholipid Antibody Syndrome",
+          "sourceFile": "brick",
+          "questionCount": 1
         }
       ]
     },
     {
-      "id": "physiology-mechanisms",
-      "name": "Physiology & Mechanisms",
+      "id": "aplastic-anemia",
+      "name": "Aplastic Anemia",
       "topics": [
         {
-          "id": "physiology-mechanisms",
-          "name": "Physiology & Mechanisms",
-          "sourceFile": "blood bricks",
-          "questionCount": 39
+          "id": "aplastic-anemia",
+          "name": "Aplastic Anemia",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "arboviruses",
+      "name": "Arboviruses",
+      "topics": [
+        {
+          "id": "arboviruses",
+          "name": "Arboviruses",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "autoimmune-hemolytic-anemias",
+      "name": "Autoimmune Hemolytic Anemias",
+      "topics": [
+        {
+          "id": "autoimmune-hemolytic-anemias",
+          "name": "Autoimmune Hemolytic Anemias",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "b-cell-non-hodgkin-lymphomas",
+      "name": "B-Cell Non-Hodgkin Lymphomas",
+      "topics": [
+        {
+          "id": "b-cell-non-hodgkin-lymphomas",
+          "name": "B-Cell Non-Hodgkin Lymphomas",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "benign-leukocytosis",
+      "name": "Benign Leukocytosis",
+      "topics": [
+        {
+          "id": "benign-leukocytosis",
+          "name": "Benign Leukocytosis",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "benign-lymphadenopathies",
+      "name": "Benign Lymphadenopathies",
+      "topics": [
+        {
+          "id": "benign-lymphadenopathies",
+          "name": "Benign Lymphadenopathies",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "chronic-myeloid-leukemia",
+      "name": "Chronic Myeloid Leukemia",
+      "topics": [
+        {
+          "id": "chronic-myeloid-leukemia",
+          "name": "Chronic Myeloid Leukemia",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "disorders-of-the-spleen",
+      "name": "Disorders of the Spleen",
+      "topics": [
+        {
+          "id": "disorders-of-the-spleen",
+          "name": "Disorders of the Spleen",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "drugs-to-treat-plasmodium-babesia-and-brucella",
+      "name": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+      "topics": [
+        {
+          "id": "drugs-to-treat-plasmodium-babesia-and-brucella",
+          "name": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "essential-thrombocythemia",
+      "name": "Essential Thrombocythemia",
+      "topics": [
+        {
+          "id": "essential-thrombocythemia",
+          "name": "Essential Thrombocythemia",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "genetic-thrombotic-disorders",
+      "name": "Genetic Thrombotic Disorders",
+      "topics": [
+        {
+          "id": "genetic-thrombotic-disorders",
+          "name": "Genetic Thrombotic Disorders",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "glucose-6-phosphate-dehydrogenase-and-pyruvate-kinase-deficiencies",
+      "name": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "topics": [
+        {
+          "id": "glucose-6-phosphate-dehydrogenase-and-pyruvate-kinase-deficiencies",
+          "name": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "hematopoiesis",
+      "name": "Hematopoiesis",
+      "topics": [
+        {
+          "id": "hematopoiesis",
+          "name": "Hematopoiesis",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "name": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "topics": [
+        {
+          "id": "hematopoietic-neoplasms-foundations-and-frameworks",
+          "name": "Hematopoietic Neoplasms: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "hematopoietic-stem-cell-transplantation",
+      "name": "Hematopoietic Stem Cell Transplantation",
+      "topics": [
+        {
+          "id": "hematopoietic-stem-cell-transplantation",
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "hemophilia",
+      "name": "Hemophilia",
+      "topics": [
+        {
+          "id": "hemophilia",
+          "name": "Hemophilia",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "hemorrhagic-viruses",
+      "name": "Hemorrhagic Viruses",
+      "topics": [
+        {
+          "id": "hemorrhagic-viruses",
+          "name": "Hemorrhagic Viruses",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "hemostasis",
+      "name": "Hemostasis",
+      "topics": [
+        {
+          "id": "hemostasis",
+          "name": "Hemostasis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "hereditary-platelet-disorders",
+      "name": "Hereditary Platelet Disorders",
+      "topics": [
+        {
+          "id": "hereditary-platelet-disorders",
+          "name": "Hereditary Platelet Disorders",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "hereditary-spherocytosis",
+      "name": "Hereditary Spherocytosis",
+      "topics": [
+        {
+          "id": "hereditary-spherocytosis",
+          "name": "Hereditary Spherocytosis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "hodgkin-lymphoma",
+      "name": "Hodgkin Lymphoma",
+      "topics": [
+        {
+          "id": "hodgkin-lymphoma",
+          "name": "Hodgkin Lymphoma",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "immune-thrombocytopenia",
+      "name": "Immune Thrombocytopenia",
+      "topics": [
+        {
+          "id": "immune-thrombocytopenia",
+          "name": "Immune Thrombocytopenia",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "iron-deficiency-anemia",
+      "name": "Iron-Deficiency Anemia",
+      "topics": [
+        {
+          "id": "iron-deficiency-anemia",
+          "name": "Iron-Deficiency Anemia",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "leptospirosis-and-lymphatic-filariasis",
+      "name": "Leptospirosis and Lymphatic Filariasis",
+      "topics": [
+        {
+          "id": "leptospirosis-and-lymphatic-filariasis",
+          "name": "Leptospirosis and Lymphatic Filariasis",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "megaloblastic-anemia",
+      "name": "Megaloblastic Anemia",
+      "topics": [
+        {
+          "id": "megaloblastic-anemia",
+          "name": "Megaloblastic Anemia",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "multiple-myeloma-and-plasma-cell-disorders",
+      "name": "Multiple Myeloma and Plasma Cell Disorders",
+      "topics": [
+        {
+          "id": "multiple-myeloma-and-plasma-cell-disorders",
+          "name": "Multiple Myeloma and Plasma Cell Disorders",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "myelodysplastic-neoplasms",
+      "name": "Myelodysplastic Neoplasms",
+      "topics": [
+        {
+          "id": "myelodysplastic-neoplasms",
+          "name": "Myelodysplastic Neoplasms",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "plasmodium-babesia-and-brucella-spp",
+      "name": "Plasmodium, Babesia, and Brucella spp.",
+      "topics": [
+        {
+          "id": "plasmodium-babesia-and-brucella-spp",
+          "name": "Plasmodium, Babesia, and Brucella spp.",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "platelet-assays",
+      "name": "Platelet Assays",
+      "topics": [
+        {
+          "id": "platelet-assays",
+          "name": "Platelet Assays",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "polycythemia-vera",
+      "name": "Polycythemia Vera",
+      "topics": [
+        {
+          "id": "polycythemia-vera",
+          "name": "Polycythemia Vera",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "primary-myelofibrosis",
+      "name": "Primary Myelofibrosis",
+      "topics": [
+        {
+          "id": "primary-myelofibrosis",
+          "name": "Primary Myelofibrosis",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "principles-of-chemotherapy",
+      "name": "Principles of Chemotherapy",
+      "topics": [
+        {
+          "id": "principles-of-chemotherapy",
+          "name": "Principles of Chemotherapy",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "rbc-metabolism",
+      "name": "RBC Metabolism",
+      "topics": [
+        {
+          "id": "rbc-metabolism",
+          "name": "RBC Metabolism",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "red-blood-cell-laboratory-tests",
+      "name": "Red Blood Cell Laboratory Tests",
+      "topics": [
+        {
+          "id": "red-blood-cell-laboratory-tests",
+          "name": "Red Blood Cell Laboratory Tests",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "sickle-cell-disease",
+      "name": "Sickle Cell Disease",
+      "topics": [
+        {
+          "id": "sickle-cell-disease",
+          "name": "Sickle Cell Disease",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "sideroblastic-anemia",
+      "name": "Sideroblastic Anemia",
+      "topics": [
+        {
+          "id": "sideroblastic-anemia",
+          "name": "Sideroblastic Anemia",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "structure-and-function-of-the-spleen",
+      "name": "Structure and Function of the Spleen",
+      "topics": [
+        {
+          "id": "structure-and-function-of-the-spleen",
+          "name": "Structure and Function of the Spleen",
+          "sourceFile": "brick",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "id": "structure-function-and-disorders-of-the-thymus",
+      "name": "Structure, Function, and Disorders of the Thymus",
+      "topics": [
+        {
+          "id": "structure-function-and-disorders-of-the-thymus",
+          "name": "Structure, Function, and Disorders of the Thymus",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "t-cell-non-hodgkin-lymphomas",
+      "name": "T-Cell Non-Hodgkin Lymphomas",
+      "topics": [
+        {
+          "id": "t-cell-non-hodgkin-lymphomas",
+          "name": "T-Cell Non-Hodgkin Lymphomas",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "targeted-inhibitors-in-cancer-therapy",
+      "name": "Targeted Inhibitors in Cancer Therapy",
+      "topics": [
+        {
+          "id": "targeted-inhibitors-in-cancer-therapy",
+          "name": "Targeted Inhibitors in Cancer Therapy",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "thalassemias",
+      "name": "Thalassemias",
+      "topics": [
+        {
+          "id": "thalassemias",
+          "name": "Thalassemias",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "thrombocytopenia",
+      "name": "Thrombocytopenia",
+      "topics": [
+        {
+          "id": "thrombocytopenia",
+          "name": "Thrombocytopenia",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "thrombotic-disorders-foundations-and-frameworks",
+      "name": "Thrombotic Disorders: Foundations and Frameworks",
+      "topics": [
+        {
+          "id": "thrombotic-disorders-foundations-and-frameworks",
+          "name": "Thrombotic Disorders: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "thrombotic-microangiopathies",
+      "name": "Thrombotic Microangiopathies",
+      "topics": [
+        {
+          "id": "thrombotic-microangiopathies",
+          "name": "Thrombotic Microangiopathies",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "topoisomerase-microtubule-inhibitors-and-antitumor-antibiotics",
+      "name": "Topoisomerase, Microtubule Inhibitors, and Antitumor Antibiotics",
+      "topics": [
+        {
+          "id": "topoisomerase-microtubule-inhibitors-and-antitumor-antibiotics",
+          "name": "Topoisomerase, Microtubule Inhibitors, and Antitumor Antibiotics",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "transfusion-medicine",
+      "name": "Transfusion Medicine",
+      "topics": [
+        {
+          "id": "transfusion-medicine",
+          "name": "Transfusion Medicine",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "von-willebrand-disease",
+      "name": "von Willebrand Disease",
+      "topics": [
+        {
+          "id": "von-willebrand-disease",
+          "name": "von Willebrand Disease",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "y-pestis-f-tularemia-and-b-henselae",
+      "name": "Y. pestis, F. tularemia, and B. henselae",
+      "topics": [
+        {
+          "id": "y-pestis-f-tularemia-and-b-henselae",
+          "name": "Y. pestis, F. tularemia, and B. henselae",
+          "sourceFile": "brick",
+          "questionCount": 8
         }
       ]
     }

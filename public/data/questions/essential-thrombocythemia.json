@@ -1,0 +1,45 @@
+{
+  "categoryId": "essential-thrombocythemia",
+  "categoryName": "Essential Thrombocythemia",
+  "questions": [
+    {
+      "id": "blpic-117",
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "stem": "This normocellular bone marrow biopsy is from a patient with essential thrombocythemia. Proliferation of which cell type is the characteristic finding that accounts for the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Megakaryocytes (large, clustered)"
+        },
+        {
+          "label": "C",
+          "text": "Mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Lymphoblasts"
+        },
+        {
+          "label": "E",
+          "text": "Erythroid precursors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
+        "whyCorrect": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-117_bl041_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

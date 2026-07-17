@@ -1,0 +1,240 @@
+{
+  "categoryId": "hematopoietic-stem-cell-transplantation",
+  "categoryName": "Hematopoietic Stem Cell Transplantation",
+  "questions": [
+    {
+      "id": "blpic-018",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "This diagram traces the development of every blood cell lineage from a single precursor at the top of the hierarchy. Which property uniquely defines the apex cell shown at the top?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capacity for both self-renewal and differentiation into all blood cell lineages"
+        },
+        {
+          "label": "B",
+          "text": "Terminal differentiation with no further division"
+        },
+        {
+          "label": "C",
+          "text": "Production of hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Ability to phagocytose pathogens"
+        },
+        {
+          "label": "E",
+          "text": "Restriction to only the myeloid lineage"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
+        "whyCorrect": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-018_bl046_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-062",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "The paired diagram and photograph show a large-bore needle being inserted to harvest hematopoietic stem cells. From which anatomical site is this sample most commonly obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sternum"
+        },
+        {
+          "label": "B",
+          "text": "Proximal tibia"
+        },
+        {
+          "label": "C",
+          "text": "Anterior superior iliac spine"
+        },
+        {
+          "label": "D",
+          "text": "Femoral shaft"
+        },
+        {
+          "label": "E",
+          "text": "Posterior iliac crest"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
+        "whyCorrect": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-062_bl046_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-063",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "The machine depicted separates circulating stem cells while returning the remaining blood to the donor. What agent is most commonly given beforehand to mobilize these cells into the bloodstream and raise the collection yield?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rituximab"
+        },
+        {
+          "label": "B",
+          "text": "G-CSF (granulocyte colony-stimulating factor)"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin"
+        },
+        {
+          "label": "D",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous iron"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
+        "whyCorrect": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-063_bl046_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-122",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "These intraoral photographs from a transplant recipient show a common regimen-related toxicity. What is the primary cause of this mucosal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin C deficiency (scurvy)"
+        },
+        {
+          "label": "B",
+          "text": "Primary herpes simplex infection"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial gingivitis from poor oral hygiene"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune pemphigus vulgaris"
+        },
+        {
+          "label": "E",
+          "text": "Cytotoxic damage from the high-intensity conditioning regimen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
+        "whyCorrect": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-122_bl046_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-123",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "This chart plots the temporal onset of syndromes complicating marrow transplantation across the post-transplant period. Which complication characteristically appears LATEST, extending well beyond day 100?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucositis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic graft-versus-host disease"
+        },
+        {
+          "label": "C",
+          "text": "Sinusoidal obstruction syndrome (veno-occlusive disease)"
+        },
+        {
+          "label": "D",
+          "text": "Acute graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Early Gram-negative bacterial sepsis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
+        "whyCorrect": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-123_bl046_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-178",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "The post-transplant recovery timeline shown distinguishes an early from a late form of one immune complication on the allogeneic track. Around which time point does the transition from acute to chronic graft-versus-host disease conventionally occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 14 days after infusion"
+        },
+        {
+          "label": "B",
+          "text": "About 100 days after infusion"
+        },
+        {
+          "label": "C",
+          "text": "About 7 days after infusion"
+        },
+        {
+          "label": "D",
+          "text": "About 30 days after infusion"
+        },
+        {
+          "label": "E",
+          "text": "About 2 years after infusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
+        "whyCorrect": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-178_bl046_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

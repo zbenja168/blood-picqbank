@@ -1,0 +1,318 @@
+{
+  "categoryId": "y-pestis-f-tularemia-and-b-henselae",
+  "categoryName": "Y. pestis, F. tularemia, and B. henselae",
+  "questions": [
+    {
+      "id": "blpic-050",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This stained smear shows bacilli with a 'safety-pin' appearance (arrow). What staining feature produces this look?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central endospore formation"
+        },
+        {
+          "label": "B",
+          "text": "Bipolar staining (dye concentrates at the two poles of the bacillus)"
+        },
+        {
+          "label": "C",
+          "text": "Intracytoplasmic inclusion bodies"
+        },
+        {
+          "label": "D",
+          "text": "A refractile capsular halo"
+        },
+        {
+          "label": "E",
+          "text": "Metachromatic volutin (polar) granules"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyCorrect": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-050_bl027_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-097",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This CDC map plots reported human cases concentrated in the western United States. Which zoonotic infection is being mapped?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tularemia"
+        },
+        {
+          "label": "B",
+          "text": "Hantavirus pulmonary syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Rocky Mountain spotted fever"
+        },
+        {
+          "label": "D",
+          "text": "Lyme disease"
+        },
+        {
+          "label": "E",
+          "text": "Plague (Yersinia pestis)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
+        "whyCorrect": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-097_bl027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-098",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This markedly enlarged, tender lymph node in a febrile patient is the defining lesion of which form of plague?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillary angiomatosis"
+        },
+        {
+          "label": "B",
+          "text": "Pneumonic plague"
+        },
+        {
+          "label": "C",
+          "text": "Septicemic plague"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Bubonic plague"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyCorrect": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-098_bl027_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-099",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This blackened, gangrenous necrosis of the fingers in a septic patient reflects which underlying process that gave plague its 'Black Death' nickname?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct dermonecrotic exotoxin injury"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex leukocytoclastic vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Superficial venous thrombophlebitis"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated intravascular coagulation with peripheral ischemic necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Localized flea-bite hypersensitivity reaction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
+        "whyCorrect": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-099_bl027_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-100",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This map shows US cases of a rabbit-associated zoonosis clustered in the Ozarks. How is this organism usually transmitted to humans?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bite of an infected rat flea"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of contaminated drinking water"
+        },
+        {
+          "label": "C",
+          "text": "A cat scratch or bite"
+        },
+        {
+          "label": "D",
+          "text": "Direct contact with infected rabbits or bites of ticks and deer flies"
+        },
+        {
+          "label": "E",
+          "text": "Person-to-person respiratory droplets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
+        "whyCorrect": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-100_bl027_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-101",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This punched-out ulcer at an inoculation site, with regional lymphadenopathy in a rabbit hunter, is characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bubonic plague"
+        },
+        {
+          "label": "B",
+          "text": "Cat scratch disease inoculation papule"
+        },
+        {
+          "label": "C",
+          "text": "Primary syphilitic chancre"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Cutaneous anthrax eschar"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
+        "whyCorrect": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-101_bl027_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-102",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This crusted primary inoculation papule with adjacent lymphadenitis on the neck of a young child with cat exposure is most consistent with which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcal impetigo"
+        },
+        {
+          "label": "B",
+          "text": "Cat scratch disease (Bartonella henselae)"
+        },
+        {
+          "label": "C",
+          "text": "Kawasaki disease"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Mycobacterial scrofula"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
+        "whyCorrect": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-102_bl027_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-103",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "These multiple red-purple vascular skin nodules in a severely immunocompromised transplant recipient, caused by a gram-negative bacillus, represent which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous metastatic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Kaposi sarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Multiple pyogenic granulomas"
+        },
+        {
+          "label": "D",
+          "text": "Bacillary angiomatosis (Bartonella henselae)"
+        },
+        {
+          "label": "E",
+          "text": "Disseminated candidiasis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyCorrect": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-103_bl027_f12.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categoryId": "autoimmune-hemolytic-anemias",
+  "categoryName": "Autoimmune Hemolytic Anemias",
+  "questions": [
+    {
+      "id": "blpic-005",
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "stem": "The rounded cells on the right of this diagram formed after partial removal of the red cell membrane. Why are these cells especially prone to hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They lack GPI-anchored complement inhibitors CD55 and CD59"
+        },
+        {
+          "label": "B",
+          "text": "They have a spectrin cytoskeletal mutation acquired in warm AHA"
+        },
+        {
+          "label": "C",
+          "text": "They have lost excess membrane and cannot deform to pass through splenic microvasculature, so they rupture"
+        },
+        {
+          "label": "D",
+          "text": "They contain hemoglobin S that polymerizes under low oxygen tension"
+        },
+        {
+          "label": "E",
+          "text": "They are overloaded with iron granules that damage the membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed.",
+        "whyCorrect": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-005_bl004_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-151",
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "stem": "This pentameric antibody is characteristic of cold autoimmune hemolytic anemia. Which property allows it to cause the red cell clumping illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It opsonizes cells only for splenic phagocytosis at body temperature"
+        },
+        {
+          "label": "B",
+          "text": "It inserts directly into the RBC membrane to form lytic pores"
+        },
+        {
+          "label": "C",
+          "text": "It binds the Rh D antigen with high avidity at 37 degrees C"
+        },
+        {
+          "label": "D",
+          "text": "It is warm-reactive and most active in the trunk vasculature"
+        },
+        {
+          "label": "E",
+          "text": "Its ten antigen-binding sites let a single molecule bridge multiple RBCs, agglutinating them"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "As a pentamer with ten binding sites, this antibody cross-links several red cells at once, forming the agglutinates typical of cold AHA when blood cools.",
+        "whyCorrect": "As a pentamer with ten binding sites, this antibody cross-links several red cells at once, forming the agglutinates typical of cold AHA when blood cools.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-151_bl004_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categoryId": "genetic-thrombotic-disorders",
+  "categoryName": "Genetic Thrombotic Disorders",
+  "questions": [
+    {
+      "id": "blpic-082",
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "stem": "This patient developed sharply demarcated hemorrhagic skin necrosis on the thigh shortly after starting an oral anticoagulant. Which underlying deficiency most predisposes to this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prothrombin G20210A mutation"
+        },
+        {
+          "label": "B",
+          "text": "Protein C deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Antithrombin deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Factor V Leiden"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Warfarin-induced skin necrosis occurs because protein C (a vitamin K-dependent factor with a short half-life) falls faster than the procoagulant factors after warfarin is started, producing a transient hypercoagulable state with microvascular thrombosis. It is characteristically seen in patients with underlying protein C deficiency; protein S deficiency rarely causes it.",
+        "whyCorrect": "Warfarin-induced skin necrosis occurs because protein C (a vitamin K-dependent factor with a short half-life) falls faster than the procoagulant factors after warfarin is started, producing a transient hypercoagulable state with microvascular thrombosis. It is characteristically seen in patients with underlying protein C deficiency; protein S deficiency rarely causes it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-082_bl014_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-162",
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "stem": "This schematic maps the coagulation cascade and highlights where the inherited thrombotic disorders act. In the group of disorders that BLOCK termination of thrombosis, which physiologic anticoagulant is depicted inactivating both factor Va and factor VIIIa?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated protein C (with protein S as cofactor)"
+        },
+        {
+          "label": "B",
+          "text": "Antithrombin"
+        },
+        {
+          "label": "C",
+          "text": "Thrombomodulin"
+        },
+        {
+          "label": "D",
+          "text": "Plasmin"
+        },
+        {
+          "label": "E",
+          "text": "Tissue factor pathway inhibitor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Activated protein C, using protein S as a cofactor, proteolytically inactivates factors Va and VIIIa to switch off the common pathway. Factor V Leiden resists this cleavage, and protein C or S deficiency removes this brake, both causing hypercoagulability. Antithrombin instead inhibits thrombin and factor Xa.",
+        "whyCorrect": "Activated protein C, using protein S as a cofactor, proteolytically inactivates factors Va and VIIIa to switch off the common pathway. Factor V Leiden resists this cleavage, and protein C or S deficiency removes this brake, both causing hypercoagulability. Antithrombin instead inhibits thrombin and factor Xa.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-162_bl014_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

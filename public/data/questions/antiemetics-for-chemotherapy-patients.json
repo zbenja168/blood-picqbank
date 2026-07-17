@@ -1,0 +1,45 @@
+{
+  "categoryId": "antiemetics-for-chemotherapy-patients",
+  "categoryName": "Antiemetics for Chemotherapy Patients",
+  "questions": [
+    {
+      "id": "blpic-183",
+      "topicId": "antiemetics-for-chemotherapy-patients",
+      "topicName": "Antiemetics for Chemotherapy Patients",
+      "stem": "This diagram maps the neural pathways and structures that trigger nausea and vomiting. The structure labeled as the chemoreceptor trigger zone (area postrema) is uniquely able to sense blood-borne emetic agents such as chemotherapy drugs. What structural feature allows it to do this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the only brain region expressing histamine-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "It receives direct arterial supply that bypasses the systemic circulation"
+        },
+        {
+          "label": "C",
+          "text": "It contains dense sympathetic ganglia that amplify vagal signals"
+        },
+        {
+          "label": "D",
+          "text": "It lies outside the blood-brain barrier, so circulating toxins can reach its chemoreceptors"
+        },
+        {
+          "label": "E",
+          "text": "It secretes cerebrospinal fluid directly into the fourth ventricle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
+        "whyCorrect": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-183_bl050_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

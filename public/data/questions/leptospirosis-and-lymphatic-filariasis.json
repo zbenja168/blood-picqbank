@@ -1,0 +1,201 @@
+{
+  "categoryId": "leptospirosis-and-lymphatic-filariasis",
+  "categoryName": "Leptospirosis and Lymphatic Filariasis",
+  "questions": [
+    {
+      "id": "blpic-051",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This Giemsa-stained thick blood smear shows an elongated, sheathed larval organism coiling among the red cells. What is this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trypanosoma brucei trypomastigote"
+        },
+        {
+          "label": "B",
+          "text": "Loa loa adult worm"
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium falciparum gametocyte"
+        },
+        {
+          "label": "D",
+          "text": "Wuchereria bancrofti microfilaria"
+        },
+        {
+          "label": "E",
+          "text": "Borrelia recurrentis spirochete"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyCorrect": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-051_bl028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-052",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This Giemsa-stained thick blood smear from a febrile traveler shows a long, coiled, sheathed larva among the red cells. Detection of this organism confirms infection with which parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasmodium falciparum"
+        },
+        {
+          "label": "B",
+          "text": "Babesia microti"
+        },
+        {
+          "label": "C",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma cruzi"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
+        "whyCorrect": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-052_bl028_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-053",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This thick blood smear stained with Giemsa demonstrates a single elongated sheathed microfilaria. Given this organism's periodicity, when should the blood sample ideally be collected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early in the morning at waking"
+        },
+        {
+          "label": "B",
+          "text": "Immediately after a fatty meal"
+        },
+        {
+          "label": "C",
+          "text": "At night, around 10 PM to 2 AM"
+        },
+        {
+          "label": "D",
+          "text": "At any random time of day"
+        },
+        {
+          "label": "E",
+          "text": "At midday"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
+        "whyCorrect": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-053_bl028_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-104",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "Panel (a) shows marked conjunctival redness without purulent discharge and panel (b) shows oral mucosal hemorrhage in a systemically ill patient. These findings are most characteristic of severe disease caused by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "B",
+          "text": "Yellow fever virus"
+        },
+        {
+          "label": "C",
+          "text": "Dengue virus"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
+        "whyCorrect": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-104_bl028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-105",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This patient shows gross enlargement, hyperkeratosis, and thickening of the lower leg due to long-standing lymphatic obstruction. What is the most likely underlying infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Onchocerca volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "C",
+          "text": "Loa loa"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma mansoni"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyCorrect": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-105_bl028_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

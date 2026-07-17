@@ -1,0 +1,45 @@
+{
+  "categoryId": "primary-myelofibrosis",
+  "categoryName": "Primary Myelofibrosis",
+  "questions": [
+    {
+      "id": "blpic-118",
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "stem": "This stained bone marrow section from a patient with primary myelofibrosis best demonstrates which underlying pathologic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infiltration of the marrow space by sheets of monomorphic lymphoblasts"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation with epithelioid macrophages and giant cells"
+        },
+        {
+          "label": "C",
+          "text": "Replacement of hematopoietic marrow by a dense fibrous (reticulin/collagen) meshwork"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse deposition of amorphous eosinophilic amyloid around vessels"
+        },
+        {
+          "label": "E",
+          "text": "Necrotic gelatinous transformation of marrow fat with serous atrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
+        "whyCorrect": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-118_bl042_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

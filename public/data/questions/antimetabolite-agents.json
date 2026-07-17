@@ -1,0 +1,84 @@
+{
+  "categoryId": "antimetabolite-agents",
+  "categoryName": "Antimetabolite Agents",
+  "questions": [
+    {
+      "id": "blpic-139",
+      "topicId": "antimetabolite-agents",
+      "topicName": "Antimetabolite Agents",
+      "stem": "In this diagram of where chemotherapy drug classes act across the cell cycle, why are the antimetabolite agents positioned to act specifically during the highlighted synthesis phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They block mitotic spindle assembly, which occurs during the S phase"
+        },
+        {
+          "label": "B",
+          "text": "They crosslink DNA in a cell-cycle-independent manner concentrated in the S phase"
+        },
+        {
+          "label": "C",
+          "text": "They interfere with nucleotide/DNA synthesis, which only occurs during the S phase"
+        },
+        {
+          "label": "D",
+          "text": "They arrest cells at the G1/S checkpoint before DNA is copied"
+        },
+        {
+          "label": "E",
+          "text": "They inhibit topoisomerase-mediated transcription unique to the S phase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
+        "whyCorrect": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-139_bl030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-175",
+      "topicId": "antimetabolite-agents",
+      "topicName": "Antimetabolite Agents",
+      "stem": "This diagram maps the folate cycle that produces thymidine. What is the direct downstream consequence of the drug-mediated enzyme inhibition shown blocking dihydrofolate reductase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetrahydrofolate cannot be regenerated, so dUMP is no longer converted to dTMP and DNA synthesis stalls"
+        },
+        {
+          "label": "B",
+          "text": "dTMP accumulates and feedback-inhibits thymidylate synthase to protect the cell"
+        },
+        {
+          "label": "C",
+          "text": "Excess tetrahydrofolate is shunted into increased purine synthesis"
+        },
+        {
+          "label": "D",
+          "text": "dUMP and dTMP become covalently crosslinked within the DNA strand"
+        },
+        {
+          "label": "E",
+          "text": "Thymidylate synthase is activated to bypass the folate requirement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
+        "whyCorrect": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-175_bl030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

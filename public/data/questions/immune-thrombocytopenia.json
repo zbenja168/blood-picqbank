@@ -1,0 +1,84 @@
+{
+  "categoryId": "immune-thrombocytopenia",
+  "categoryName": "Immune Thrombocytopenia",
+  "questions": [
+    {
+      "id": "blpic-086",
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "stem": "A patient with immune thrombocytopenia has the skin findings shown here (pinpoint red-purple spots on the ankle, left; a larger flat purplish bruise on the thigh, right). What is the direct underlying cause of these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Occlusion of dermal vessels by platelet-rich microthrombi"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex vasculitis inflaming the small dermal vessels"
+        },
+        {
+          "label": "C",
+          "text": "Increased capillary fragility from vitamin C deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Bleeding into the skin from a critically reduced circulating platelet count"
+        },
+        {
+          "label": "E",
+          "text": "Deficiency of clotting factor VIII causing deep-tissue hemorrhage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The small pinpoint lesions are petechiae and the larger flat purple lesions are purpura/bruising. In ITP the platelet count falls so low that spontaneous bleeding from small dermal vessels leaks into the skin. There is no vessel occlusion, clotting-factor defect, vasculitis, or scurvy; the abnormality is purely a quantitative platelet deficiency.",
+        "whyCorrect": "The small pinpoint lesions are petechiae and the larger flat purple lesions are purpura/bruising. In ITP the platelet count falls so low that spontaneous bleeding from small dermal vessels leaks into the skin. There is no vessel occlusion, clotting-factor defect, vasculitis, or scurvy; the abnormality is purely a quantitative platelet deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-086_bl018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-164",
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "stem": "This schematic shows how IgG antiplatelet antibodies coat platelets, which are then bound by macrophage Fc receptors and phagocytosed. Based on this mechanism, why are platelet transfusions generally ineffective in ITP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The donor platelets are permanently sequestered and stored intact within the liver"
+        },
+        {
+          "label": "B",
+          "text": "The transfused platelets are also coated by circulating antibody and are rapidly cleared by splenic macrophages"
+        },
+        {
+          "label": "C",
+          "text": "The infused platelets suppress the patient's own megakaryocyte production"
+        },
+        {
+          "label": "D",
+          "text": "Transfused platelets provoke a severe anaphylactic transfusion reaction"
+        },
+        {
+          "label": "E",
+          "text": "Antibodies consume the transfused platelets' clotting factors before they can function"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diagram shows opsonization of platelets by IgG and their destruction by macrophages via Fc receptors in the spleen. Any transfused platelets are opsonized by the same circulating antibody and destroyed just as fast as the patient's own, so transfusion gives only a fleeting rise and is reserved for severe, actively bleeding patients.",
+        "whyCorrect": "The diagram shows opsonization of platelets by IgG and their destruction by macrophages via Fc receptors in the spleen. Any transfused platelets are opsonized by the same circulating antibody and destroyed just as fast as the patient's own, so transfusion gives only a fleeting rise and is reserved for severe, actively bleeding patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-164_bl018_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

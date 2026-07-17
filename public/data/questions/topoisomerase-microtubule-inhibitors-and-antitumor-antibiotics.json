@@ -1,0 +1,45 @@
+{
+  "categoryId": "topoisomerase-microtubule-inhibitors-and-antitumor-antibiotics",
+  "categoryName": "Topoisomerase, Microtubule Inhibitors, and Antitumor Antibiotics",
+  "questions": [
+    {
+      "id": "blpic-176",
+      "topicId": "topoisomerase-microtubule-inhibitors-and-antitumor-antibiotics",
+      "topicName": "Topoisomerase, Microtubule Inhibitors, and Antitumor Antibiotics",
+      "stem": "This schematic contrasts the enzymatic mechanisms of the two DNA-relaxing enzymes shown on the left and on the right. What is the key mechanistic difference between them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left enzyme requires ATP, while the right enzyme cuts a single strand without energy"
+        },
+        {
+          "label": "B",
+          "text": "The left enzyme adds nucleotides while the right enzyme removes them"
+        },
+        {
+          "label": "C",
+          "text": "The left enzyme cleaves only one DNA strand, while the right enzyme cleaves both strands and requires ATP"
+        },
+        {
+          "label": "D",
+          "text": "Both enzymes cleave double strands, but only the right one is reversible"
+        },
+        {
+          "label": "E",
+          "text": "Both enzymes cut a single strand, but only the left one needs ATP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
+        "whyCorrect": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-176_bl031_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categoryId": "acute-lymphoblastic-leukemia-lymphoma",
+  "categoryName": "Acute Lymphoblastic Leukemia/Lymphoma",
+  "questions": [
+    {
+      "id": "blpic-047",
+      "topicId": "acute-lymphoblastic-leukemia-lymphoma",
+      "topicName": "Acute Lymphoblastic Leukemia/Lymphoma",
+      "stem": "This illustration shows the procedure essential for confirming ALL when blood counts are abnormal. In an adult, from which site is the needle most commonly inserted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Distal femoral metaphysis"
+        },
+        {
+          "label": "B",
+          "text": "Proximal tibial plateau"
+        },
+        {
+          "label": "C",
+          "text": "Body of the sternum"
+        },
+        {
+          "label": "D",
+          "text": "Posterior superior iliac crest"
+        },
+        {
+          "label": "E",
+          "text": "Lumbar spinous process"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
+        "whyCorrect": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-047_bl024_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-048",
+      "topicId": "acute-lymphoblastic-leukemia-lymphoma",
+      "topicName": "Acute Lymphoblastic Leukemia/Lymphoma",
+      "stem": "The left chest radiograph from a child with T-cell ALL differs from the normal film on the right at the arrow. What abnormality does the arrow indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Anterior mediastinal mass (mediastinal lymphadenopathy)"
+        },
+        {
+          "label": "E",
+          "text": "Large pleural effusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyCorrect": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-048_bl024_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

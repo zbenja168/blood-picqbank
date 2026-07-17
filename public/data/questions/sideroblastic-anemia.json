@@ -1,0 +1,45 @@
+{
+  "categoryId": "sideroblastic-anemia",
+  "categoryName": "Sideroblastic Anemia",
+  "questions": [
+    {
+      "id": "blpic-071",
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "stem": "This Prussian blue-stained peripheral blood smear (arrows) shows blue granular inclusions clustered at the periphery of red blood cells. These inclusions are aggregates of which substance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Precipitated globin chains"
+        },
+        {
+          "label": "C",
+          "text": "Denatured hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Residual nuclear DNA"
+        },
+        {
+          "label": "E",
+          "text": "Ribosomal RNA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrows indicate Pappenheimer bodies, iron-containing granules that stain with Prussian blue and cluster at the RBC periphery. They reflect abnormal iron incorporation seen in sideroblastic anemia, not hemoglobin, nuclear, or RNA remnants.",
+        "whyCorrect": "The arrows indicate Pappenheimer bodies, iron-containing granules that stain with Prussian blue and cluster at the RBC periphery. They reflect abnormal iron incorporation seen in sideroblastic anemia, not hemoglobin, nuclear, or RNA remnants.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-071_bl058_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

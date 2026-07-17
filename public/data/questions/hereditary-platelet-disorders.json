@@ -1,0 +1,84 @@
+{
+  "categoryId": "hereditary-platelet-disorders",
+  "categoryName": "Hereditary Platelet Disorders",
+  "questions": [
+    {
+      "id": "blpic-084",
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "stem": "This skin finding of pinpoint and blotchy red-purple lesions is the classic bleeding pattern seen in platelet disorders. What is the category of bleeding it represents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemarthrosis"
+        },
+        {
+          "label": "B",
+          "text": "Intracranial bleeding from factor deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Retroperitoneal hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Deep muscle hematoma"
+        },
+        {
+          "label": "E",
+          "text": "Mucocutaneous bleeding"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Petechiae, purpura, and ecchymoses on the skin are mucocutaneous bleeding, characteristic of platelet (primary hemostasis) disorders. Deep tissue and joint bleeding instead point to clotting factor deficiencies such as hemophilia.",
+        "whyCorrect": "Petechiae, purpura, and ecchymoses on the skin are mucocutaneous bleeding, characteristic of platelet (primary hemostasis) disorders. Deep tissue and joint bleeding instead point to clotting factor deficiencies such as hemophilia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-084_bl016_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-163",
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "stem": "This illustration shows the structure that forms within a blood vessel to stop bleeding. Which blood component aggregates first to initiate formation of this structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages"
+        },
+        {
+          "label": "C",
+          "text": "Platelets"
+        },
+        {
+          "label": "D",
+          "text": "Erythrocytes"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The image depicts a hemostatic clot plugging a vessel. Clot formation begins with platelet adhesion and aggregation at the site of injury, which then triggers the fibrin mesh that stabilizes the clot.",
+        "whyCorrect": "The image depicts a hemostatic clot plugging a vessel. Clot formation begins with platelet adhesion and aggregation at the site of injury, which then triggers the fibrin mesh that stabilizes the clot.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-163_bl016_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

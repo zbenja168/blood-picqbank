@@ -1,0 +1,162 @@
+{
+  "categoryId": "structure-function-and-disorders-of-the-thymus",
+  "categoryName": "Structure, Function, and Disorders of the Thymus",
+  "questions": [
+    {
+      "id": "blpic-066",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "In the right-hand radiograph, the arrow marks a mediastinal contour abnormality causing loss of the upper-left heart border silhouette. In which compartment is this thymic mass located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Anterior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial cavity"
+        },
+        {
+          "label": "D",
+          "text": "Lung apex"
+        },
+        {
+          "label": "E",
+          "text": "Pleural space"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
+        "whyCorrect": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-066_bl049_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-125",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "These histologic fields are from a slow-growing anterior mediastinal tumor in an adult. Patients with this tumor are at increased risk of which associated condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type 1 diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Graves disease"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "E",
+          "text": "Multiple sclerosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
+        "whyCorrect": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-125_bl049_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-126",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "This diffuse skin finding on the trunk of a young boy, together with recurrent infections and easy bruising from small platelets, is part of the triad of which X-linked disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wiskott-Aldrich syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Ataxia-telangiectasia"
+        },
+        {
+          "label": "C",
+          "text": "Severe combined immunodeficiency"
+        },
+        {
+          "label": "D",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Bruton agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
+        "whyCorrect": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-126_bl049_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-182",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "This diagram depicts the fate of developing T cells based on how strongly their receptors bind self-antigen. What is the primary purpose of eliminating cells that bind self-antigen with high affinity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To increase B-cell antibody diversity"
+        },
+        {
+          "label": "B",
+          "text": "To establish central tolerance and prevent autoimmunity"
+        },
+        {
+          "label": "C",
+          "text": "To promote clonal proliferation of effector cells"
+        },
+        {
+          "label": "D",
+          "text": "To generate red blood cell precursors"
+        },
+        {
+          "label": "E",
+          "text": "To expand memory T-cell populations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
+        "whyCorrect": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-182_bl049_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

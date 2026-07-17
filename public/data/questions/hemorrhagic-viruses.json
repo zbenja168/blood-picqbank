@@ -1,0 +1,162 @@
+{
+  "categoryId": "hemorrhagic-viruses",
+  "categoryName": "Hemorrhagic Viruses",
+  "questions": [
+    {
+      "id": "blpic-024",
+      "topicId": "hemorrhagic-viruses",
+      "topicName": "Hemorrhagic Viruses",
+      "stem": "This colorized transmission electron micrograph shows virions of a hemorrhagic fever virus family. Which structural feature is characteristic of the particles shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brick-shaped complex virion"
+        },
+        {
+          "label": "B",
+          "text": "Spherical, segmented particles"
+        },
+        {
+          "label": "C",
+          "text": "Bullet-shaped virion"
+        },
+        {
+          "label": "D",
+          "text": "Filamentous, thread-like enveloped particles"
+        },
+        {
+          "label": "E",
+          "text": "Icosahedral naked capsid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology.",
+        "whyCorrect": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-024_bl053_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-127",
+      "topicId": "hemorrhagic-viruses",
+      "topicName": "Hemorrhagic Viruses",
+      "stem": "This animal appears in a section on filovirus transmission. What is its epidemiologic role for Marburg virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intermediate amplifying host"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical fomite carrier"
+        },
+        {
+          "label": "C",
+          "text": "Dead-end host"
+        },
+        {
+          "label": "D",
+          "text": "Arthropod vector"
+        },
+        {
+          "label": "E",
+          "text": "Natural reservoir host"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bats serve as the natural reservoir for Marburg virus and the likely reservoir for Ebola virus; spillover into humans occurs through contact with infected animal fluids.",
+        "whyCorrect": "Bats serve as the natural reservoir for Marburg virus and the likely reservoir for Ebola virus; spillover into humans occurs through contact with infected animal fluids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-127_bl053_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-128",
+      "topicId": "hemorrhagic-viruses",
+      "topicName": "Hemorrhagic Viruses",
+      "stem": "This animal is shown in the hantavirus epidemiology section. How do humans most commonly acquire hantavirus infection from it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhalation of aerosolized excreta"
+        },
+        {
+          "label": "B",
+          "text": "Bite of the animal"
+        },
+        {
+          "label": "C",
+          "text": "Tick-borne transmission"
+        },
+        {
+          "label": "D",
+          "text": "Direct blood contact during handling"
+        },
+        {
+          "label": "E",
+          "text": "Ingestion of contaminated meat"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rodents are the reservoir for hantaviruses; humans are infected mainly by inhaling aerosolized particles from rodent feces, urine, and saliva.",
+        "whyCorrect": "Rodents are the reservoir for hantaviruses; humans are infected mainly by inhaling aerosolized particles from rodent feces, urine, and saliva.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-128_bl053_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-146",
+      "topicId": "hemorrhagic-viruses",
+      "topicName": "Hemorrhagic Viruses",
+      "stem": "This schematic maps where FDA-approved monoclonal antibody therapies bind on the Ebola virus surface glycoprotein. By what mechanism do these antibodies neutralize the virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking glycoprotein binding to host cell receptors"
+        },
+        {
+          "label": "B",
+          "text": "Blocking viral budding from the membrane"
+        },
+        {
+          "label": "C",
+          "text": "Degrading the viral envelope lipid"
+        },
+        {
+          "label": "D",
+          "text": "Preventing nucleocapsid assembly"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting the viral RNA polymerase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The monoclonal antibodies bind the viral surface glycoprotein and block its engagement of cognate host receptors, neutralizing the virus; they also mediate antibody-dependent cellular cytotoxicity.",
+        "whyCorrect": "The monoclonal antibodies bind the viral surface glycoprotein and block its engagement of cognate host receptors, neutralizing the virus; they also mediate antibody-dependent cellular cytotoxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-146_bl053_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

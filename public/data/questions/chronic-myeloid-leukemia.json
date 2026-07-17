@@ -1,0 +1,123 @@
+{
+  "categoryId": "chronic-myeloid-leukemia",
+  "categoryName": "Chronic Myeloid Leukemia",
+  "questions": [
+    {
+      "id": "blpic-016",
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "stem": "This bone marrow section from chronic-phase CML most characteristically demonstrates which feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sheets of neoplastic plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Marked hypercellularity with granulocytic predominance and few fat spaces"
+        },
+        {
+          "label": "C",
+          "text": "Dense fibrosis obliterating hematopoietic elements"
+        },
+        {
+          "label": "D",
+          "text": "Near-total aplasia with fatty replacement"
+        },
+        {
+          "label": "E",
+          "text": "Predominance of erythroid precursors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
+        "whyCorrect": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-016_bl039_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-115",
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "stem": "The reciprocal chromosomal event depicted creates a fusion gene whose protein product is best described as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An overactive transcription factor driving erythropoiesis"
+        },
+        {
+          "label": "B",
+          "text": "A defective DNA mismatch-repair enzyme"
+        },
+        {
+          "label": "C",
+          "text": "A non-functional membrane folate transporter"
+        },
+        {
+          "label": "D",
+          "text": "A loss-of-function tumor suppressor protein"
+        },
+        {
+          "label": "E",
+          "text": "A constitutively active tyrosine kinase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
+        "whyCorrect": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-115_bl039_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-141",
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "stem": "In the mechanism shown on the right side of the schematic, the small-molecule agent produces its effect on the receptor by which action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cross-linking two extracellular ligand-binding domains"
+        },
+        {
+          "label": "B",
+          "text": "Neutralizing the circulating ligand before it binds"
+        },
+        {
+          "label": "C",
+          "text": "Degrading the receptor mRNA in the cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Binding the intracellular kinase domain to block receptor autophosphorylation"
+        },
+        {
+          "label": "E",
+          "text": "Competitively occupying the extracellular ligand-binding site"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
+        "whyCorrect": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-141_bl039_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

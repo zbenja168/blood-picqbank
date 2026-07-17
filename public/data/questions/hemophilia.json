@@ -1,0 +1,123 @@
+{
+  "categoryId": "hemophilia",
+  "categoryName": "Hemophilia",
+  "questions": [
+    {
+      "id": "blpic-080",
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "stem": "A 6-year-old boy with a lifelong history of easy bruising and prolonged bleeding presents with the painful, swollen knee highlighted in this photograph. What is the most likely cause of the swelling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleeding into the joint space (hemarthrosis)"
+        },
+        {
+          "label": "B",
+          "text": "Urate crystal deposition (gouty arthritis)"
+        },
+        {
+          "label": "C",
+          "text": "Fat and marrow leakage from an occult fracture (lipohemarthrosis)"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial infection of the joint (septic arthritis)"
+        },
+        {
+          "label": "E",
+          "text": "Autoimmune synovial inflammation (rheumatoid pannus)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Repeated spontaneous bleeding into weight-bearing joints such as the knees, ankles, and elbows (hemarthrosis) is a hallmark of hemophilia and, over time, produces chronic joint swelling, pain, and deformity.",
+        "whyCorrect": "Repeated spontaneous bleeding into weight-bearing joints such as the knees, ankles, and elbows (hemarthrosis) is a hallmark of hemophilia and, over time, produces chronic joint swelling, pain, and deformity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-080_bl009_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-158",
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "stem": "In this diagram of the clotting cascade, the two marked deficiencies (factor VIII and factor IX) both disrupt the same limb of coagulation. What pattern of routine coagulation studies would result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prolongation of both PT and aPTT"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged PT with a normal aPTT"
+        },
+        {
+          "label": "C",
+          "text": "Isolated prolonged thrombin time"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged aPTT with a normal PT"
+        },
+        {
+          "label": "E",
+          "text": "Isolated prolonged bleeding time with normal aPTT"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Factors VIII and IX act in the intrinsic arm of the cascade, which is measured by the activated partial thromboplastin time (aPTT). Their deficiency therefore prolongs the aPTT while leaving the extrinsic-pathway-dependent PT normal.",
+        "whyCorrect": "Factors VIII and IX act in the intrinsic arm of the cascade, which is measured by the activated partial thromboplastin time (aPTT). Their deficiency therefore prolongs the aPTT while leaving the extrinsic-pathway-dependent PT normal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-158_bl009_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-159",
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "stem": "This diagram traces how the gene defect underlying hemophilia A and B passes from an unaffected father and a carrier mother to their children. What inheritance pattern does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitochondrial (maternal)"
+        },
+        {
+          "label": "B",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal recessive"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hemophilia A and B are X-linked recessive disorders. Sons of a carrier mother have a 50% chance of being affected, and daughters have a 50% chance of being carriers, which is why the disease predominantly affects males.",
+        "whyCorrect": "Hemophilia A and B are X-linked recessive disorders. Sons of a carrier mother have a 50% chance of being affected, and daughters have a 50% chance of being carriers, which is why the disease predominantly affects males.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-159_bl009_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

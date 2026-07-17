@@ -1,0 +1,123 @@
+{
+  "categoryId": "thrombotic-disorders-foundations-and-frameworks",
+  "categoryName": "Thrombotic Disorders: Foundations and Frameworks",
+  "questions": [
+    {
+      "id": "blpic-083",
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "stem": "These photographs show a dermatologic complication that can occur soon after starting an oral anticoagulant. What mechanism produces this skin damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transient hypercoagulability from rapid depletion of proteins C and S causing microvascular thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Immune-mediated vasculitis from drug hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Capillary fragility from vitamin K deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Direct cytotoxic drug effect on keratinocytes"
+        },
+        {
+          "label": "E",
+          "text": "Heparin-antibody-induced platelet activation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
+        "whyCorrect": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-083_bl015_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-135",
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "stem": "The boxed factors in this figure indicate where warfarin exerts its effect on the clotting cascade. What is the biochemical basis for warfarin acting on exactly this set of factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They share a calcium-binding site independent of vitamin K"
+        },
+        {
+          "label": "B",
+          "text": "They are all synthesized by vascular endothelium"
+        },
+        {
+          "label": "C",
+          "text": "They are the only factors of the intrinsic pathway"
+        },
+        {
+          "label": "D",
+          "text": "They are all serine proteases uniquely cleaved by thrombin"
+        },
+        {
+          "label": "E",
+          "text": "They are vitamin K-dependent factors requiring gamma-carboxylation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Warfarin inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X and the regulatory proteins C and S, which are exactly the elements highlighted.",
+        "whyCorrect": "Warfarin inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X and the regulatory proteins C and S, which are exactly the elements highlighted.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-135_bl015_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-136",
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "stem": "This figure illustrates how heparin acts on the coagulation cascade, marking its effect at factors Xa and IIa. Through what mechanism does heparin inhibit these factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks platelet GPIIb/IIIa aggregation"
+        },
+        {
+          "label": "B",
+          "text": "It inhibits vitamin K epoxide reductase"
+        },
+        {
+          "label": "C",
+          "text": "It chelates the calcium required by the cascade"
+        },
+        {
+          "label": "D",
+          "text": "It directly binds and cleaves thrombin"
+        },
+        {
+          "label": "E",
+          "text": "It activates antithrombin, which then inhibits factors Xa and IIa"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Heparin works indirectly by activating endogenous antithrombin; the activated antithrombin then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
+        "whyCorrect": "Heparin works indirectly by activating endogenous antithrombin; the activated antithrombin then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-136_bl015_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

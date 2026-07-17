@@ -1,0 +1,84 @@
+{
+  "categoryId": "aplastic-anemia",
+  "categoryName": "Aplastic Anemia",
+  "questions": [
+    {
+      "id": "blpic-075",
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "stem": "A 3-year-old with these findings — a brown macule (cafe-au-lait spot) on the trunk and a malformed thumb — together with pancytopenia most likely has which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diamond-Blackfan syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "C",
+          "text": "Acquired aplastic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Fanconi anemia"
+        },
+        {
+          "label": "E",
+          "text": "Immune thrombocytopenic purpura"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
+        "whyCorrect": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-075_bl000_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-147",
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "stem": "This schematic maps the differentiation of a single precursor into all blood cell types. In aplastic anemia the marrow defect shown here spares one branch relatively — cells of which lineage are LEAST reduced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Platelets"
+        },
+        {
+          "label": "B",
+          "text": "Monocytes"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocytes (lymphoid lineage)"
+        },
+        {
+          "label": "D",
+          "text": "Erythrocytes"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aplastic anemia is caused by loss of myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall (pancytopenia). Lymphoid progenitors arise from a separate branch of this scheme and are relatively preserved, so lymphocyte counts remain near normal on a CBC.",
+        "whyCorrect": "Aplastic anemia is caused by loss of myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall (pancytopenia). Lymphoid progenitors arise from a separate branch of this scheme and are relatively preserved, so lymphocyte counts remain near normal on a CBC.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-147_bl000_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "multiple-myeloma-and-plasma-cell-disorders",
+  "categoryName": "Multiple Myeloma and Plasma Cell Disorders",
+  "questions": [
+    {
+      "id": "blpic-015",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This high-power marrow field shows numerous cells with an eccentric nucleus and a pale perinuclear zone, some with a spoked chromatin pattern (arrows). Which cell type predominates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myeloblasts"
+        },
+        {
+          "label": "B",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "C",
+          "text": "Erythroblasts"
+        },
+        {
+          "label": "D",
+          "text": "Reactive small lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Malignant plasma cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyCorrect": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-015_bl037_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-057",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This peripheral blood smear shows red blood cells stacked like coins (circled areas). What underlying change produces this arrangement in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated agglutination of RBCs into clumps"
+        },
+        {
+          "label": "B",
+          "text": "Microcytosis from iron deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum immunoglobulin reduces the surface charge that normally keeps RBCs apart"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic swelling of RBCs in hypotonic plasma"
+        },
+        {
+          "label": "E",
+          "text": "Increased rigidity of the RBC membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
+        "whyCorrect": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-057_bl037_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-058",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This lateral skull radiograph shows multiple sharply demarcated, punched-out lucencies. What process produces these lesions in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic dystrophic calcification"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial osteomyelitis"
+        },
+        {
+          "label": "C",
+          "text": "Osteoclast-mediated bone resorption stimulated by infiltrating plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Osteoblastic new bone formation"
+        },
+        {
+          "label": "E",
+          "text": "Fibrous dysplasia remodeling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyCorrect": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-058_bl037_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-059",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This gel study shows a discrete band aligning in one heavy-chain lane and one light-chain lane. What does this test add beyond serum protein electrophoresis in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It assesses bone marrow cellularity"
+        },
+        {
+          "label": "B",
+          "text": "It identifies the specific heavy- and light-chain class (isotype) of the monoclonal protein"
+        },
+        {
+          "label": "C",
+          "text": "It measures the erythrocyte sedimentation rate"
+        },
+        {
+          "label": "D",
+          "text": "It detects circulating bacterial antigens"
+        },
+        {
+          "label": "E",
+          "text": "It quantifies the total serum protein concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
+        "whyCorrect": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-059_bl037_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

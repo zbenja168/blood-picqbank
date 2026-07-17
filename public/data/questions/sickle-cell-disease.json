@@ -1,0 +1,162 @@
+{
+  "categoryId": "sickle-cell-disease",
+  "categoryName": "Sickle Cell Disease",
+  "questions": [
+    {
+      "id": "blpic-031",
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "stem": "The small, round, deeply basophilic inclusions within several red cells on this smear are which structures, and their persistence indicates what functional state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Howell-Jolly bodies indicating functional asplenia"
+        },
+        {
+          "label": "B",
+          "text": "Heinz bodies indicating oxidative injury"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular malarial parasites"
+        },
+        {
+          "label": "D",
+          "text": "Basophilic stippling indicating lead poisoning"
+        },
+        {
+          "label": "E",
+          "text": "Pappenheimer bodies indicating iron overload"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
+        "whyCorrect": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-031_bl002_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-032",
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "stem": "On this cellulose acetate gel, hemoglobin variants migrate to different positions. HbS is separated from normal HbA primarily because of a difference in what property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Solubility alone"
+        },
+        {
+          "label": "B",
+          "text": "Molecular weight alone"
+        },
+        {
+          "label": "C",
+          "text": "Electrical charge (HbS is less negatively charged)"
+        },
+        {
+          "label": "D",
+          "text": "Iron content of the heme groups"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen-binding affinity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The glutamate-to-valine substitution removes a negative charge, so HbS migrates less far toward the anode than HbA in an electric field. Electrophoresis therefore separates hemoglobins mainly by charge.",
+        "whyCorrect": "The glutamate-to-valine substitution removes a negative charge, so HbS migrates less far toward the anode than HbA in an electric field. Electrophoresis therefore separates hemoglobins mainly by charge.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-032_bl002_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-076",
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "stem": "This illustration of rigid sickled cells lodged within a small blood vessel depicts the mechanism underlying which major consequence of sickle cell disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune thrombocytopenia"
+        },
+        {
+          "label": "B",
+          "text": "Vaso-occlusion"
+        },
+        {
+          "label": "C",
+          "text": "Iron overload"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune red cell destruction"
+        },
+        {
+          "label": "E",
+          "text": "Extravascular hemolysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sickled cells lose flexibility and become trapped in capillaries, blocking blood flow. The resulting ischemia and infarction of downstream tissue is termed vaso-occlusive disease.",
+        "whyCorrect": "Sickled cells lose flexibility and become trapped in capillaries, blocking blood flow. The resulting ischemia and infarction of downstream tissue is termed vaso-occlusive disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-076_bl002_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-149",
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "stem": "In this schematic, HbS molecules aggregate into long strands when blood becomes deoxygenated, distorting the cell. What molecular process deforms the red blood cell into a sickle shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic swelling from water influx"
+        },
+        {
+          "label": "B",
+          "text": "Polymerization of deoxygenated HbS"
+        },
+        {
+          "label": "C",
+          "text": "Antibody-mediated agglutination"
+        },
+        {
+          "label": "D",
+          "text": "Loss of membrane spectrin"
+        },
+        {
+          "label": "E",
+          "text": "Oxidation of hemoglobin to methemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the taut, deoxygenated state the exposed hydrophobic valine residues cause HbS molecules to line up into rigid polymers. These insoluble strands physically contort the RBC into a sickle shape.",
+        "whyCorrect": "In the taut, deoxygenated state the exposed hydrophobic valine residues cause HbS molecules to line up into rigid polymers. These insoluble strands physically contort the RBC into a sickle shape.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-149_bl002_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

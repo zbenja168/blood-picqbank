@@ -1,0 +1,162 @@
+{
+  "categoryId": "hemostasis",
+  "categoryName": "Hemostasis",
+  "questions": [
+    {
+      "id": "blpic-079",
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "stem": "This bleeding into the joint (seen here in the knee) occurring after minimal or no trauma most strongly suggests which underlying disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thrombocytopenia"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia (an X-linked deficiency of an intrinsic-pathway clotting factor)"
+        },
+        {
+          "label": "C",
+          "text": "von Willebrand disease"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency from malabsorption"
+        },
+        {
+          "label": "E",
+          "text": "Factor XII (Hageman factor) deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
+        "whyCorrect": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-079_bl007_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-153",
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "stem": "The process illustrated, which reinforces the soft platelet plug, is significant because it accomplishes what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It triggers vasoconstriction to slow bleeding"
+        },
+        {
+          "label": "B",
+          "text": "It chelates calcium to halt further clotting"
+        },
+        {
+          "label": "C",
+          "text": "It mediates the initial platelet adhesion to collagen"
+        },
+        {
+          "label": "D",
+          "text": "It dissolves the platelet plug once repair is complete"
+        },
+        {
+          "label": "E",
+          "text": "It stabilizes the temporary platelet plug into a permanent crosslinked fibrin clot (secondary hemostasis)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure depicts secondary hemostasis: tissue factor drives thrombin generation, which converts fibrinogen to fibrin. The fibrin mesh weaves through and stabilizes the fragile platelet plug into a durable clot.",
+        "whyCorrect": "The figure depicts secondary hemostasis: tissue factor drives thrombin generation, which converts fibrinogen to fibrin. The fibrin mesh weaves through and stabilizes the fragile platelet plug into a durable clot.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-153_bl007_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-154",
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "stem": "Based on the ion highlighted at multiple steps throughout this cascade, why does collecting blood in an EDTA or citrate tube prevent it from clotting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They enhance antithrombin activity like heparin"
+        },
+        {
+          "label": "B",
+          "text": "They directly inhibit thrombin at the final common pathway"
+        },
+        {
+          "label": "C",
+          "text": "EDTA and citrate chelate calcium, which is required as a cofactor at numerous points of the coagulation cascade"
+        },
+        {
+          "label": "D",
+          "text": "They block vitamin K-dependent gamma-carboxylation"
+        },
+        {
+          "label": "E",
+          "text": "They activate plasmin to degrade any fibrin that forms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure marks calcium (Ca2+) participating in the intrinsic, extrinsic, and common pathways. Chelating agents like EDTA and citrate bind free calcium, so its removal blocks the cascade at multiple steps and keeps collected blood liquid.",
+        "whyCorrect": "The figure marks calcium (Ca2+) participating in the intrinsic, extrinsic, and common pathways. Chelating agents like EDTA and citrate bind free calcium, so its removal blocks the cascade at multiple steps and keeps collected blood liquid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-154_bl007_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-155",
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "stem": "The three natural inhibitors acting at the points marked on this cascade share what overall physiologic purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They accelerate platelet adhesion at the injury site"
+        },
+        {
+          "label": "B",
+          "text": "They dissolve fibrin strands within already-formed clots"
+        },
+        {
+          "label": "C",
+          "text": "They keep coagulation localized and self-limited, preventing runaway clot formation"
+        },
+        {
+          "label": "D",
+          "text": "They promote vasoconstriction of the damaged vessel"
+        },
+        {
+          "label": "E",
+          "text": "They drive hepatic synthesis of new clotting factors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram shows TFPI, activated Protein C, and antithrombin turning off the cascade at specific steps. These anticoagulant mechanisms restrain clotting to the site of injury and shut it down when no longer needed; clot breakdown itself is a separate fibrinolytic process.",
+        "whyCorrect": "The diagram shows TFPI, activated Protein C, and antithrombin turning off the cascade at specific steps. These anticoagulant mechanisms restrain clotting to the site of injury and shut it down when no longer needed; clot breakdown itself is a separate fibrinolytic process.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-155_bl007_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

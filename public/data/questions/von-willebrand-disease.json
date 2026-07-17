@@ -1,0 +1,45 @@
+{
+  "categoryId": "von-willebrand-disease",
+  "categoryName": "von Willebrand Disease",
+  "questions": [
+    {
+      "id": "blpic-161",
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "stem": "This diagram illustrates how the gene defect responsible for von Willebrand disease is most commonly passed from parents to offspring. Which mode of inheritance is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial (maternal)"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal dominant"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The pedigree shows an affected parent transmitting the trait to roughly half of the children of either sex, with no skipping of generations and no sex predominance, which is the pattern of autosomal dominant inheritance. Most cases of von Willebrand disease follow this pattern, although rare autosomal recessive (e.g., type 3) forms exist.",
+        "whyCorrect": "The pedigree shows an affected parent transmitting the trait to roughly half of the children of either sex, with no skipping of generations and no sex predominance, which is the pattern of autosomal dominant inheritance. Most cases of von Willebrand disease follow this pattern, although rare autosomal recessive (e.g., type 3) forms exist.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-161_bl011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

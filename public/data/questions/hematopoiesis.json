@@ -1,0 +1,123 @@
+{
+  "categoryId": "hematopoiesis",
+  "categoryName": "Hematopoiesis",
+  "questions": [
+    {
+      "id": "blpic-006",
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "stem": "This series illustrates the six maturation stages of a granulocyte. As the cells mature from the earliest to the final stage, what characteristic change occurs in the nucleus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The nucleus becomes round and steadily enlarges"
+        },
+        {
+          "label": "B",
+          "text": "The nucleus becomes progressively segmented and lobulated"
+        },
+        {
+          "label": "C",
+          "text": "The nucleus develops a single large prominent nucleolus"
+        },
+        {
+          "label": "D",
+          "text": "The cell loses its nucleus entirely"
+        },
+        {
+          "label": "E",
+          "text": "The nucleus fragments into multiple separate nuclei"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil.",
+        "whyCorrect": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-006_bl010_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-037",
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "stem": "The red arrows on this peripheral blood smear indicate small anucleate structures scattered among the red blood cells. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "C",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "D",
+          "text": "Platelets (thrombocytes)"
+        },
+        {
+          "label": "E",
+          "text": "Reticulocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Platelets are small (1-3 microns) anucleate cytoplasmic fragments shed from megakaryocytes, appearing as tiny purple bodies between erythrocytes on a smear. They lack a nucleus, unlike lymphocytes, and are separate cells rather than inclusions like Howell-Jolly bodies.",
+        "whyCorrect": "Platelets are small (1-3 microns) anucleate cytoplasmic fragments shed from megakaryocytes, appearing as tiny purple bodies between erythrocytes on a smear. They lack a nucleus, unlike lymphocytes, and are separate cells rather than inclusions like Howell-Jolly bodies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-037_bl010_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-160",
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "stem": "This graph plots the relative contribution of different organs to hematopoiesis across gestation. When does the bone marrow first become the dominant hematopoietic organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At the same time as the yolk sac phase"
+        },
+        {
+          "label": "B",
+          "text": "In the middle of the second trimester"
+        },
+        {
+          "label": "C",
+          "text": "During the third trimester, approaching birth"
+        },
+        {
+          "label": "D",
+          "text": "During the first month of embryonic life"
+        },
+        {
+          "label": "E",
+          "text": "Only after the first year of postnatal life"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The curves show hematopoiesis beginning in the yolk sac, shifting to the liver (with a minor spleen contribution) through mid-gestation, and being taken over by the bone marrow late in gestation so that the marrow is the predominant site by the third trimester and birth.",
+        "whyCorrect": "The curves show hematopoiesis beginning in the yolk sac, shifting to the liver (with a minor spleen contribution) through mid-gestation, and being taken over by the bone marrow late in gestation so that the marrow is the predominant site by the third trimester and birth.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-160_bl010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "drugs-to-treat-plasmodium-babesia-and-brucella",
+  "categoryName": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+  "questions": [
+    {
+      "id": "blpic-142",
+      "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
+      "topicName": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+      "stem": "The adverse reactions illustrated are caused by an antimalarial drug. By what mechanism does this drug kill the parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits parasite dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits mitochondrial electron transport of the parasite"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits protein synthesis at the 30S ribosomal subunit"
+        },
+        {
+          "label": "D",
+          "text": "Binds parasite DNA and disrupts mitochondrial function"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits conversion of toxic heme to hemozoin and raises lysosomal pH in the digestive vacuole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chloroquine and hydroxychloroquine block detoxification of heme to hemozoin and increase digestive-vacuole pH, causing accumulation of toxic heme that damages the parasite. Their adverse effects include pruritus, cardiomyopathy, and hemolysis (especially in G6PD deficiency).",
+        "whyCorrect": "Chloroquine and hydroxychloroquine block detoxification of heme to hemozoin and increase digestive-vacuole pH, causing accumulation of toxic heme that damages the parasite. Their adverse effects include pruritus, cardiomyopathy, and hemolysis (especially in G6PD deficiency).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-142_bl052_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-143",
+      "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
+      "topicName": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+      "stem": "The adverse reactions shown belong to a first-line combination prophylaxis. What is the combined mechanism of its two components?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds parasite DNA and disrupts mitochondria"
+        },
+        {
+          "label": "B",
+          "text": "Interferes with parasite 80S protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits mitochondrial electron transport and blocks folate (dihydrofolate reductase) synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits heme detoxification within the digestive vacuole"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits protein synthesis at the 30S ribosomal subunit"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Atovaquone selectively inhibits parasite mitochondrial electron transport, while proguanil's metabolite inhibits dihydrofolate reductase, blocking folate/DNA synthesis. Common adverse effects include nausea, abdominal pain, and transaminitis (increased AST/ALT).",
+        "whyCorrect": "Atovaquone selectively inhibits parasite mitochondrial electron transport, while proguanil's metabolite inhibits dihydrofolate reductase, blocking folate/DNA synthesis. Common adverse effects include nausea, abdominal pain, and transaminitis (increased AST/ALT).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-143_bl052_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-144",
+      "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
+      "topicName": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+      "stem": "The adverse effects depicted are associated with a tetracycline-class antimalarial. What is its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits parasite protein synthesis at the 30S ribosomal subunit"
+        },
+        {
+          "label": "B",
+          "text": "Binds parasite DNA and disrupts mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits heme detoxification in the digestive vacuole"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits mitochondrial electron transport"
+        },
+        {
+          "label": "E",
+          "text": "Cleaves an endoperoxide bridge to generate free radicals"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Doxycycline is a 30S protein-synthesis inhibitor that prevents the parasite from replicating. Its adverse effects include GI disturbances (diarrhea, vomiting, nausea) and photosensitivity, plus chelation with cations.",
+        "whyCorrect": "Doxycycline is a 30S protein-synthesis inhibitor that prevents the parasite from replicating. Its adverse effects include GI disturbances (diarrhea, vomiting, nausea) and photosensitivity, plus chelation with cations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-144_bl052_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-145",
+      "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
+      "topicName": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+      "stem": "The adverse effects shown are caused by an antimalarial used to prevent relapse of P. ovale and P. vivax. What is its mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits heme detoxification in the digestive vacuole"
+        },
+        {
+          "label": "B",
+          "text": "Interferes with 80S protein synthesis and heme digestion"
+        },
+        {
+          "label": "C",
+          "text": "Disrupts parasite mitochondrial function and binds parasite DNA"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits mitochondrial electron transport and folate synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits protein synthesis at the 30S ribosomal subunit"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primaquine disrupts mitochondria and binds parasite DNA, and is uniquely active against exoerythrocytic (hypnozoite) stages. Its adverse effects include cardiac arrhythmias (QT prolongation), leukopenia, and hemolytic anemia in G6PD deficiency.",
+        "whyCorrect": "Primaquine disrupts mitochondria and binds parasite DNA, and is uniquely active against exoerythrocytic (hypnozoite) stages. Its adverse effects include cardiac arrhythmias (QT prolongation), leukopenia, and hemolytic anemia in G6PD deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-145_bl052_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

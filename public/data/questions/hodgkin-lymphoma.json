@@ -1,0 +1,84 @@
+{
+  "categoryId": "hodgkin-lymphoma",
+  "categoryName": "Hodgkin Lymphoma",
+  "questions": [
+    {
+      "id": "blpic-014",
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "stem": "The left panel of this lymph node histology shows nodules separated by broad fibrous bands, and the right panel shows cells sitting within clear lacunar spaces. Which histologic subtype of Hodgkin lymphoma does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocyte-rich"
+        },
+        {
+          "label": "B",
+          "text": "Mixed cellularity"
+        },
+        {
+          "label": "C",
+          "text": "Nodular sclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Nodular lymphocyte-predominant"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocyte-depleted"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
+        "whyCorrect": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-014_bl036_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-114",
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "stem": "This graph plots the incidence of Hodgkin lymphoma against patient age. What pattern of age distribution does it demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bimodal distribution with peaks in young adults and again in older adults"
+        },
+        {
+          "label": "B",
+          "text": "A single peak in middle age only"
+        },
+        {
+          "label": "C",
+          "text": "A flat, uniform incidence across all age groups"
+        },
+        {
+          "label": "D",
+          "text": "A steady, continuous rise in incidence with advancing age"
+        },
+        {
+          "label": "E",
+          "text": "A single peak confined to early childhood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
+        "whyCorrect": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-114_bl036_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

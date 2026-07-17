@@ -1,0 +1,123 @@
+{
+  "categoryId": "megaloblastic-anemia",
+  "categoryName": "Megaloblastic Anemia",
+  "questions": [
+    {
+      "id": "blpic-033",
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "stem": "The arrow on this peripheral blood smear points to an abnormally large, oval-shaped red blood cell among smaller normal erythrocytes. What is this cell called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spherocyte"
+        },
+        {
+          "label": "B",
+          "text": "Target cell"
+        },
+        {
+          "label": "C",
+          "text": "Macro-ovalocyte"
+        },
+        {
+          "label": "D",
+          "text": "Schistocyte"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
+        "whyCorrect": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-033_bl005_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-034",
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "stem": "The central labeled white blood cell on this smear is characteristic of megaloblastic anemia. A neutrophil is considered hypersegmented when its nucleus contains more than how many lobes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ten lobes"
+        },
+        {
+          "label": "B",
+          "text": "Two lobes"
+        },
+        {
+          "label": "C",
+          "text": "Five lobes"
+        },
+        {
+          "label": "D",
+          "text": "Seven lobes"
+        },
+        {
+          "label": "E",
+          "text": "Three lobes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypersegmented neutrophils have nuclei with more than five lobes and are a hallmark of megaloblastic anemia due to impaired DNA synthesis in myeloid precursors. They appear alongside macro-ovalocytes on the peripheral smear.",
+        "whyCorrect": "Hypersegmented neutrophils have nuclei with more than five lobes and are a hallmark of megaloblastic anemia due to impaired DNA synthesis in myeloid precursors. They appear alongside macro-ovalocytes on the peripheral smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-034_bl005_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-152",
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "stem": "This schematic shows the metabolic pathway leading from fatty acids and branched-chain amino acids to myelin. The enzyme converting methylmalonyl-CoA to succinyl-CoA requires a cofactor; when that cofactor is deficient, which substance accumulates and can be measured in serum to confirm the deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactic acid"
+        },
+        {
+          "label": "B",
+          "text": "Ammonia"
+        },
+        {
+          "label": "C",
+          "text": "Methylmalonic acid"
+        },
+        {
+          "label": "D",
+          "text": "Homocysteine"
+        },
+        {
+          "label": "E",
+          "text": "Uric acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The reaction converting methylmalonyl-CoA to succinyl-CoA is catalyzed by methylmalonyl-CoA mutase, which uses vitamin B12 as a cofactor. In B12 deficiency this step is blocked, methylmalonyl-CoA accumulates, and elevated serum methylmalonic acid results, impairing myelin synthesis and producing neurologic deficits.",
+        "whyCorrect": "The reaction converting methylmalonyl-CoA to succinyl-CoA is catalyzed by methylmalonyl-CoA mutase, which uses vitamin B12 as a cofactor. In B12 deficiency this step is blocked, methylmalonyl-CoA accumulates, and elevated serum methylmalonic acid results, impairing myelin synthesis and producing neurologic deficits.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-152_bl005_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

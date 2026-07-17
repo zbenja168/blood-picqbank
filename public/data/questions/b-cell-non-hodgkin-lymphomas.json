@@ -1,0 +1,201 @@
+{
+  "categoryId": "b-cell-non-hodgkin-lymphomas",
+  "categoryName": "B-Cell Non-Hodgkin Lymphomas",
+  "questions": [
+    {
+      "id": "blpic-011",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This high-power histology field from a hyper-aggressive lymphoma shows a dense sea of uniform medium-sized lymphocytes interrupted by scattered pale macrophages that have engulfed apoptotic debris. Which lymphoma produces this characteristic appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse large B-cell lymphoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyCorrect": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-011_bl034_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-056",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This peripheral blood smear from a patient with a marked lymphocytosis shows many small mature-appearing lymphocytes, along with a fragile cell (circled) that was crushed during slide preparation. What is this circled structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reed-Sternberg cell"
+        },
+        {
+          "label": "B",
+          "text": "Heinz body"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "D",
+          "text": "Auer rod"
+        },
+        {
+          "label": "E",
+          "text": "Smudge cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyCorrect": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-056_bl033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-107",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This lymph node biopsy shows low-power effacement of nodal architecture (top) by diffuse sheets of small round lymphocytes at high power (bottom), with a scattered larger cell bearing a central nucleolus. Which disorder does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Small lymphocytic lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
+        "whyCorrect": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-107_bl033_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-108",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This gastric biopsy shows neoplastic marginal-zone B cells infiltrating and disrupting the glandular epithelium. This lymphoma is most strongly associated with chronic infection by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Human herpesvirus-8"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Helicobacter pylori"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
+        "whyCorrect": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-108_bl033_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-109",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This lymphoma shows a diffuse proliferation of small-to-intermediate sized lymphocytes on H&E (left) that stain strongly positive with the nuclear immunostain shown (right, brown). Which lymphoma is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Chronic lymphocytic leukemia/small lymphocytic lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Follicular lymphoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
+        "whyCorrect": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-109_bl034_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

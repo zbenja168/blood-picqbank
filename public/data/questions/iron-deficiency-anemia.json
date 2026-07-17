@@ -1,0 +1,162 @@
+{
+  "categoryId": "iron-deficiency-anemia",
+  "categoryName": "Iron-Deficiency Anemia",
+  "questions": [
+    {
+      "id": "blpic-070",
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "stem": "The lower eyelid of an anemic patient has been everted to reveal the finding shown here. This clinical sign most directly reflects which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced hemoglobin concentration"
+        },
+        {
+          "label": "B",
+          "text": "Increased carboxyhemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral cyanosis from hypoxemia"
+        },
+        {
+          "label": "E",
+          "text": "Conjunctival dehydration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pallor of the palpebral conjunctiva reflects a reduced hemoglobin concentration and is a classic bedside sign of anemia. Elevated bilirubin would yellow the sclera (jaundice), and cyanosis produces a bluish rather than pale appearance.",
+        "whyCorrect": "Pallor of the palpebral conjunctiva reflects a reduced hemoglobin concentration and is a classic bedside sign of anemia. Elevated bilirubin would yellow the sclera (jaundice), and cyanosis produces a bluish rather than pale appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-070_bl054_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-129",
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "stem": "This peripheral blood smear is from a patient with chronic fatigue. The red cells show enlarged central pallor and vary noticeably in size. Which single laboratory value is most specific for the deficiency responsible for this morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum ferritin"
+        },
+        {
+          "label": "B",
+          "text": "Low total iron-binding capacity"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum vitamin B12"
+        },
+        {
+          "label": "D",
+          "text": "Elevated reticulocyte count"
+        },
+        {
+          "label": "E",
+          "text": "Low serum ferritin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
+        "whyCorrect": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-129_bl054_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-130",
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "stem": "This chronic fingernail change, in which the nail flattens and curves upward into a concave, spoon-like shape, is a long-standing manifestation of which nutritional deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin C deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Folate deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Zinc deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
+        "whyCorrect": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-130_bl054_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-184",
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "stem": "This schematic traces the signaling cascade of a peptide hormone (top center) that is upregulated by plasma iron and inflammatory cytokines but suppressed by increased erythropoietic activity. Sustained overactivity of this cascade is the central mechanism underlying which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "B",
+          "text": "Anemia of chronic disease"
+        },
+        {
+          "label": "C",
+          "text": "Acute hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Sideroblastic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary hemochromatosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The hormone is hepcidin. Inflammatory cytokines drive hepcidin, which internalizes and degrades ferroportin, trapping iron inside enterocytes and macrophages and lowering serum iron. Chronic inflammation therefore produces the functional iron restriction of anemia of chronic disease. Hemochromatosis, by contrast, results from inappropriately LOW hepcidin.",
+        "whyCorrect": "The hormone is hepcidin. Inflammatory cytokines drive hepcidin, which internalizes and degrades ferroportin, trapping iron inside enterocytes and macrophages and lowering serum iron. Chronic inflammation therefore produces the functional iron restriction of anemia of chronic disease. Hemochromatosis, by contrast, results from inappropriately LOW hepcidin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-184_bl054_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

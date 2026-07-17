@@ -1,0 +1,84 @@
+{
+  "categoryId": "benign-lymphadenopathies",
+  "categoryName": "Benign Lymphadenopathies",
+  "questions": [
+    {
+      "id": "blpic-009",
+      "topicId": "benign-lymphadenopathies",
+      "topicName": "Benign Lymphadenopathies",
+      "stem": "In the deep cortical region of the lymph node labeled the paracortex in this diagram, which lymphocyte population predominates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "T cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
+        "whyCorrect": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-009_bl026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-049",
+      "topicId": "benign-lymphadenopathies",
+      "topicName": "Benign Lymphadenopathies",
+      "stem": "This chest radiograph shows symmetric enlargement of both hilar regions (arrows) in a young adult. Which condition is the most likely underlying cause of this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Bronchogenic carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasmosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyCorrect": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-049_bl026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "transfusion-medicine",
+  "categoryName": "Transfusion Medicine",
+  "questions": [
+    {
+      "id": "blpic-035",
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "stem": "In this blood-typing panel, positive wells show visible clumping of red cells after mixing with reagents. Which antibody class, naturally present against ABO antigens, is chiefly responsible for producing this visible clumping?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgG"
+        },
+        {
+          "label": "D",
+          "text": "IgE"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naturally occurring anti-A and anti-B antibodies are pentameric IgM. Its ten antigen-binding sites let it bridge antigens on many adjacent red cells at once, producing the macroscopic agglutination read as a positive result.",
+        "whyCorrect": "Naturally occurring anti-A and anti-B antibodies are pentameric IgM. Its ten antigen-binding sites let it bridge antigens on many adjacent red cells at once, producing the macroscopic agglutination read as a positive result.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-035_bl008_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-036",
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "stem": "This test mixes the recipient's plasma with the prospective donor's red cells, and clumping or lysis of the donor cells appears. What does this outcome signify for the planned transfusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The reaction reflects laboratory artifact and can be ignored"
+        },
+        {
+          "label": "B",
+          "text": "The blood is incompatible and must not be transfused to this patient"
+        },
+        {
+          "label": "C",
+          "text": "The blood is compatible and safe to transfuse"
+        },
+        {
+          "label": "D",
+          "text": "The recipient can now receive any ABO type"
+        },
+        {
+          "label": "E",
+          "text": "The donor is a universal donor for this patient"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Agglutination or hemolysis of donor cells means the recipient has antibodies against antigens on the donor red cells. This positive cross-match indicates incompatibility, so that unit must not be transfused.",
+        "whyCorrect": "Agglutination or hemolysis of donor cells means the recipient has antibodies against antigens on the donor red cells. This positive cross-match indicates incompatibility, so that unit must not be transfused.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-036_bl008_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-156",
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "stem": "All four red cells depicted carry a common precursor surface antigen that is present even on the cell shown without colored antigen dots. What is this shared precursor antigen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "H antigen"
+        },
+        {
+          "label": "B",
+          "text": "Lewis antigen"
+        },
+        {
+          "label": "C",
+          "text": "i antigen"
+        },
+        {
+          "label": "D",
+          "text": "D (Rh) antigen"
+        },
+        {
+          "label": "E",
+          "text": "Kell antigen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Every red cell, including type O cells that lack A and B sugars, expresses the H antigen precursor. Enzymes add A or B sugars onto the H substrate to form the A and B antigens; type O cells leave the H antigen unmodified.",
+        "whyCorrect": "Every red cell, including type O cells that lack A and B sugars, expresses the H antigen precursor. Enzymes add A or B sugars onto the H substrate to form the A and B antigens; type O cells leave the H antigen unmodified.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-156_bl008_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-157",
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "stem": "This sequence shows an Rh-negative mother sensitized in a first pregnancy who then harms an Rh-positive fetus in a later pregnancy. Which maternal antibody class is responsible for crossing the placenta and attacking fetal red cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgD"
+        },
+        {
+          "label": "B",
+          "text": "IgA"
+        },
+        {
+          "label": "C",
+          "text": "IgM"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgE"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Initial sensitization produces IgM, which is too large to cross the placenta. On re-exposure the mother makes IgG anti-Rh antibodies, which do cross the placenta and hemolyze fetal Rh-positive red cells, causing hemolytic disease of the newborn.",
+        "whyCorrect": "Initial sensitization produces IgM, which is too large to cross the placenta. On re-exposure the mother makes IgG anti-Rh antibodies, which do cross the placenta and hemolyze fetal Rh-positive red cells, causing hemolytic disease of the newborn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-157_bl008_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

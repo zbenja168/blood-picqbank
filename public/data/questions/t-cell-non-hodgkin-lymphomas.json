@@ -1,0 +1,240 @@
+{
+  "categoryId": "t-cell-non-hodgkin-lymphomas",
+  "categoryName": "T-Cell Non-Hodgkin Lymphomas",
+  "questions": [
+    {
+      "id": "blpic-012",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This peripheral blood field shows a single large lymphoid cell with a deeply grooved, highly convoluted nucleus among normal red cells. What is the significance of this nuclear morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It represents a Reed-Sternberg cell diagnostic of Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "It is a myeloblast with an Auer rod signaling acute leukemia"
+        },
+        {
+          "label": "C",
+          "text": "It is a reactive atypical lymphocyte seen in viral infection"
+        },
+        {
+          "label": "D",
+          "text": "It indicates a plasma cell producing monoclonal immunoglobulin"
+        },
+        {
+          "label": "E",
+          "text": "It reflects the cerebriform nucleus characteristic of the malignant cell of mycosis fungoides/Sezary syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyCorrect": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-012_bl035_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-013",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This H&E skin biopsy (malignant cells highlighted by the red circle) shows a cluster of atypical lymphocytes within the epidermis. What is this finding, and what does it consist of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cluster of eosinophils indicating a hypersensitivity reaction"
+        },
+        {
+          "label": "B",
+          "text": "A Pautrier microabscess made up of clustered neoplastic T lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "A Munro microabscess of neutrophils typical of psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "A neutrophilic abscess consistent with bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "A collection of Langerhans cells forming a granuloma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyCorrect": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-013_bl035_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-110",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This clinical photograph shows an early skin finding on the trunk of a patient later diagnosed with a cutaneous T-cell neoplasm. What best explains why lesions like this are frequently misdiagnosed for years before the correct diagnosis is made?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They appear only after systemic organ involvement is already advanced"
+        },
+        {
+          "label": "B",
+          "text": "They occur exclusively on sun-exposed skin, pointing to actinic damage"
+        },
+        {
+          "label": "C",
+          "text": "They are painful vesicular lesions that resemble a viral exanthem"
+        },
+        {
+          "label": "D",
+          "text": "They are pigmented nodules easily mistaken for melanoma"
+        },
+        {
+          "label": "E",
+          "text": "They closely mimic benign inflammatory dermatoses such as eczema and psoriasis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
+        "whyCorrect": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-110_bl035_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-111",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This raised, thick, red skin lesion is a more advanced form of a cutaneous T-cell lymphoma. In the classic staged progression of this disease, this type of lesion typically follows which earlier finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lytic bone lesions with hypercalcemia"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral blood leukemic flower cells"
+        },
+        {
+          "label": "C",
+          "text": "Flat scaly patches and plaques"
+        },
+        {
+          "label": "D",
+          "text": "Generalized erythroderma covering most of the body"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse lymphadenopathy with hepatosplenomegaly"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
+        "whyCorrect": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-111_bl035_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-112",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This historical photograph shows advanced nodular, mushroom-like tumors on the skin. These growths are directly responsible for which feature of the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The triad defining Sezary syndrome"
+        },
+        {
+          "label": "B",
+          "text": "The presence of Reed-Sternberg cells"
+        },
+        {
+          "label": "C",
+          "text": "Classification as a fungal (mold) infection"
+        },
+        {
+          "label": "D",
+          "text": "Its association with HTLV-1 infection"
+        },
+        {
+          "label": "E",
+          "text": "The name 'mycosis fungoides' (fungus/mushroom-like tumors)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
+        "whyCorrect": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-112_bl035_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-113",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This patient shows diffuse red, itchy, peeling skin over most of the body along with involvement of the palms. This presentation is a defining component of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult T-cell leukemia/lymphoma acute form"
+        },
+        {
+          "label": "B",
+          "text": "Hodgkin lymphoma with skin involvement"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral T-cell lymphoma, not otherwise specified"
+        },
+        {
+          "label": "D",
+          "text": "Sezary syndrome (erythrodermic cutaneous T-cell lymphoma)"
+        },
+        {
+          "label": "E",
+          "text": "Early-patch-stage mycosis fungoides"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
+        "whyCorrect": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-113_bl035_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

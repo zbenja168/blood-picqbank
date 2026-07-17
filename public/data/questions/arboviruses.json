@@ -1,0 +1,162 @@
+{
+  "categoryId": "arboviruses",
+  "categoryName": "Arboviruses",
+  "questions": [
+    {
+      "id": "blpic-025",
+      "topicId": "arboviruses",
+      "topicName": "Arboviruses",
+      "stem": "In this liver histology from a fatal yellow fever case, the arrows indicate small, shrunken, intensely eosinophilic hepatocytes that lack or have a pyknotic nucleus. What cellular process do these bodies represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis of individual hepatocytes"
+        },
+        {
+          "label": "B",
+          "text": "Coagulative necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Macrovesicular steatosis"
+        },
+        {
+          "label": "D",
+          "text": "Ballooning (hydropic) degeneration"
+        },
+        {
+          "label": "E",
+          "text": "Mitotic regeneration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
+        "whyCorrect": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-025_bl055_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-131",
+      "topicId": "arboviruses",
+      "topicName": "Arboviruses",
+      "stem": "In this classification chart of viral hemorrhagic fever agents, what single feature separates the viruses placed in the green 'Arboviruses' branch from those in the blue 'Not Arboviruses' branch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-human animal reservoir"
+        },
+        {
+          "label": "B",
+          "text": "Possession of a lipid envelope"
+        },
+        {
+          "label": "C",
+          "text": "Transmission by an arthropod vector"
+        },
+        {
+          "label": "D",
+          "text": "Ability to cause hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "A segmented RNA genome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Arbovirus means arthropod-borne virus. The green branch (yellow fever, dengue, Zika, West Nile, chikungunya, Rift Valley, CCHF) is spread by mosquitoes or ticks, whereas the blue branch (Ebola, Marburg, hantavirus, Lassa) is acquired from bat or rodent contact, not a vector.",
+        "whyCorrect": "Arbovirus means arthropod-borne virus. The green branch (yellow fever, dengue, Zika, West Nile, chikungunya, Rift Valley, CCHF) is spread by mosquitoes or ticks, whereas the blue branch (Ebola, Marburg, hantavirus, Lassa) is acquired from bat or rodent contact, not a vector.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-131_bl055_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-132",
+      "topicId": "arboviruses",
+      "topicName": "Arboviruses",
+      "stem": "This historical series of portraits illustrates a clinical course progressing from fever and flushing to marked scleral/skin yellowing and finally to hemorrhage with black (coffee-ground) vomit. Which disease is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dengue hemorrhagic fever"
+        },
+        {
+          "label": "B",
+          "text": "Falciparum malaria"
+        },
+        {
+          "label": "C",
+          "text": "Leptospirosis"
+        },
+        {
+          "label": "D",
+          "text": "Yellow fever"
+        },
+        {
+          "label": "E",
+          "text": "Ebola virus disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The sequence shows the classic toxic phase of yellow fever: high fever followed by jaundice (hence the name) from hepatic injury, then mucosal erosion and hematemesis of partially digested blood ('black vomit').",
+        "whyCorrect": "The sequence shows the classic toxic phase of yellow fever: high fever followed by jaundice (hence the name) from hepatic injury, then mucosal erosion and hematemesis of partially digested blood ('black vomit').",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-132_bl055_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-133",
+      "topicId": "arboviruses",
+      "topicName": "Arboviruses",
+      "stem": "These images of an infant show cranial/skull irregularities, redundant scalp folds, and a lateral skull radiograph demonstrating a strikingly small calvarium. Congenital infection by which virus is responsible for this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dengue virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "D",
+          "text": "Zika virus"
+        },
+        {
+          "label": "E",
+          "text": "Chikungunya virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
+        "whyCorrect": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-133_bl055_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

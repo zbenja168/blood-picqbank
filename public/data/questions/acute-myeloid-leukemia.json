@@ -1,0 +1,84 @@
+{
+  "categoryId": "acute-myeloid-leukemia",
+  "categoryName": "Acute Myeloid Leukemia",
+  "questions": [
+    {
+      "id": "blpic-017",
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "stem": "This peripheral blood smear is from a patient with acute myeloid leukemia. What morphologic feature best identifies the large arrowed cells as myeloblasts rather than mature leukocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bilobed nucleus filled with bright eosinophilic granules"
+        },
+        {
+          "label": "B",
+          "text": "Abundant granular cytoplasm with a segmented multilobed nucleus"
+        },
+        {
+          "label": "C",
+          "text": "A small round condensed nucleus with scant clear cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "A high nuclear-to-cytoplasmic ratio with fine chromatin and visible nucleoli"
+        },
+        {
+          "label": "E",
+          "text": "Densely clumped chromatin with no discernible nucleoli"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
+        "whyCorrect": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-017_bl045_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-061",
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "stem": "The left centrifuged specimen is from a leukemia patient with a WBC count over 600,000/microL; the right is from a healthy donor. What accounts for the markedly expanded middle layer in the patient's sample?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An accumulation of plasma lipids"
+        },
+        {
+          "label": "B",
+          "text": "A massive increase in circulating white blood cells (leukocytes)"
+        },
+        {
+          "label": "C",
+          "text": "A large rise in plasma protein concentration"
+        },
+        {
+          "label": "D",
+          "text": "A marked excess of platelets alone"
+        },
+        {
+          "label": "E",
+          "text": "An expansion of the red blood cell mass (polycythemia)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
+        "whyCorrect": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-061_bl045_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

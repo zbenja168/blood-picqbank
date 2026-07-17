@@ -1,0 +1,162 @@
+{
+  "categoryId": "alkylating-agents",
+  "categoryName": "Alkylating Agents",
+  "questions": [
+    {
+      "id": "blpic-106",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This patient developed the oral findings shown after starting chemotherapy. What underlying mechanism best explains why the oral mucosa is affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial superinfection of the gingiva"
+        },
+        {
+          "label": "B",
+          "text": "A direct chemical burn from the drug contacting the mouth"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of the salivary glands"
+        },
+        {
+          "label": "D",
+          "text": "A nutritional vitamin deficiency from poor oral intake"
+        },
+        {
+          "label": "E",
+          "text": "Chemotherapy kills the rapidly dividing cells of the oral mucosal lining"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
+        "whyCorrect": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-106_bl029_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-137",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This chemical schematic shows mechlorethamine reacting with guanine bases located on adjacent DNA strands. What class of DNA lesion is being formed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyrimidine (thymine) dimer"
+        },
+        {
+          "label": "B",
+          "text": "Depurination (abasic) site"
+        },
+        {
+          "label": "C",
+          "text": "Single-strand nick"
+        },
+        {
+          "label": "D",
+          "text": "Base-pair mismatch"
+        },
+        {
+          "label": "E",
+          "text": "Interstrand cross-link"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
+        "whyCorrect": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-137_bl029_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-138",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This figure links specific chemotherapy agents to their characteristic organ toxicities. Cyclophosphamide is mapped to the bladder; which urinary metabolite is directly responsible for that toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acrolein"
+        },
+        {
+          "label": "B",
+          "text": "Acetaldehyde"
+        },
+        {
+          "label": "C",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "D",
+          "text": "Phosphoramide mustard"
+        },
+        {
+          "label": "E",
+          "text": "Mesna"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
+        "whyCorrect": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-138_bl029_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-174",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This illustration shows an alkylating agent modifying DNA across three sequential panels. What is the ultimate cellular consequence depicted by the fragmented strand in the final panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improved fidelity of DNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic reversal of the alkyl adducts by a methyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Increased transcription of DNA repair genes"
+        },
+        {
+          "label": "D",
+          "text": "Restoration of normal complementary base pairing"
+        },
+        {
+          "label": "E",
+          "text": "DNA strand breakage that suppresses replication and triggers apoptosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
+        "whyCorrect": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-174_bl029_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "thrombocytopenia",
+  "categoryName": "Thrombocytopenia",
+  "questions": [
+    {
+      "id": "blpic-007",
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "stem": "This bone marrow aspirate shows two large cells with abundant cytoplasm and multilobated nuclei. What is the normal function of these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They differentiate into mature red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "They fragment to release platelets into the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "They produce antibodies against foreign antigens"
+        },
+        {
+          "label": "D",
+          "text": "They synthesize and secrete clotting factors"
+        },
+        {
+          "label": "E",
+          "text": "They phagocytose senescent erythrocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
+        "whyCorrect": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-007_bl017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-038",
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "stem": "This peripheral blood smear shows a dense aggregate of platelets among the red cells. What artifact does this finding most likely produce on an automated complete blood count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A falsely elevated mean corpuscular volume"
+        },
+        {
+          "label": "B",
+          "text": "A falsely elevated white blood cell count"
+        },
+        {
+          "label": "C",
+          "text": "A falsely decreased platelet count (pseudothrombocytopenia)"
+        },
+        {
+          "label": "D",
+          "text": "A falsely decreased hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "A falsely elevated platelet count"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
+        "whyCorrect": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-038_bl017_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-039",
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "stem": "This peripheral blood smear (circled cells) shows fragmented red blood cells. The presence of these fragments most strongly implies which underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune thrombocytopenic purpura"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Megaloblastic anemia from B12 deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
+        "whyCorrect": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-039_bl017_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-085",
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "stem": "A 46-year-old man with a low platelet count has the skin lesions shown. The multiple small red-purple spots do not blanch with pressure. What best explains their appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extravasation of blood from small vessels into the skin"
+        },
+        {
+          "label": "B",
+          "text": "Proliferation of abnormal dermal blood vessels"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of hemosiderin from chronic venous stasis"
+        },
+        {
+          "label": "D",
+          "text": "Dilation of superficial dermal capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Inflammatory infiltration of small-vessel walls"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The nonblanching red-purple macules are petechiae and purpura, caused by extravasation of blood from small vessels into the skin due to insufficient platelets. Blanching lesions like telangiectasias are due to vessel dilation, not bleeding.",
+        "whyCorrect": "The nonblanching red-purple macules are petechiae and purpura, caused by extravasation of blood from small vessels into the skin due to insufficient platelets. Blanching lesions like telangiectasias are due to vessel dilation, not bleeding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-085_bl017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

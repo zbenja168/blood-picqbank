@@ -1,0 +1,435 @@
+{
+  "categoryId": "structure-and-function-of-the-spleen",
+  "categoryName": "Structure and Function of the Spleen",
+  "questions": [
+    {
+      "id": "blpic-001",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "In which region of the abdomen is the organ shown in this anatomical illustration (the spleen) normally located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Suprapubic (hypogastric) region"
+        },
+        {
+          "label": "B",
+          "text": "Right upper quadrant"
+        },
+        {
+          "label": "C",
+          "text": "Left upper quadrant"
+        },
+        {
+          "label": "D",
+          "text": "Right lower quadrant"
+        },
+        {
+          "label": "E",
+          "text": "Left lower quadrant"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The spleen lies in the left upper quadrant, tucked beneath the diaphragm and posterolateral to the stomach, shielded by ribs 9-11. Its position explains why splenic enlargement is felt below the left costal margin.",
+        "whyCorrect": "The spleen lies in the left upper quadrant, tucked beneath the diaphragm and posterolateral to the stomach, shielded by ribs 9-11. Its position explains why splenic enlargement is felt below the left costal margin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-001_bl047_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-002",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "The peritoneal ligament shown connecting the greater curvature of the stomach to the spleen transmits which vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal artery and vein"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic artery proper and portal vein"
+        },
+        {
+          "label": "C",
+          "text": "Superior mesenteric artery and vein"
+        },
+        {
+          "label": "D",
+          "text": "Inferior mesenteric artery and vein"
+        },
+        {
+          "label": "E",
+          "text": "Short gastric and left gastroepiploic vessels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The gastrosplenic ligament carries the short gastric arteries/veins and the left gastroepiploic vessels, all branches of the splenic vessels. The nearby splenorenal ligament instead conveys the splenic artery and vein and the tail of the pancreas.",
+        "whyCorrect": "The gastrosplenic ligament carries the short gastric arteries/veins and the left gastroepiploic vessels, all branches of the splenic vessels. The nearby splenorenal ligament instead conveys the splenic artery and vein and the tail of the pancreas.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-002_bl047_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-003",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "The artery that supplies the spleen shown in this vascular diagram is the first major branch of which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac trunk"
+        },
+        {
+          "label": "B",
+          "text": "Common hepatic artery"
+        },
+        {
+          "label": "C",
+          "text": "Left gastric artery"
+        },
+        {
+          "label": "D",
+          "text": "Superior mesenteric artery"
+        },
+        {
+          "label": "E",
+          "text": "Inferior mesenteric artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The splenic artery is the largest branch of the celiac trunk. Its accompanying splenic vein leaves the hilum and unites with the superior mesenteric vein to form the hepatic portal vein, as depicted.",
+        "whyCorrect": "The splenic artery is the largest branch of the celiac trunk. Its accompanying splenic vein leaves the hilum and unites with the superior mesenteric vein to form the hepatic portal vein, as depicted.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-003_bl047_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-019",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "The elongated endothelial (stave) cells and encircling reticulin fibers shown build the sinusoid wall in a way that creates which feature essential to RBC filtration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A ciliated luminal surface that actively propels cells"
+        },
+        {
+          "label": "B",
+          "text": "Narrow slit-like openings that only flexible red cells can traverse"
+        },
+        {
+          "label": "C",
+          "text": "A thick continuous basement membrane sealing the vessel"
+        },
+        {
+          "label": "D",
+          "text": "Continuous tight junctions that block passage of all cells"
+        },
+        {
+          "label": "E",
+          "text": "One-way valves that regulate the direction of blood flow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis.",
+        "whyCorrect": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-019_bl047_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-020",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "In this schematic of splenic white pulp, the sheath wrapping the central arteriole (the PALS) is populated predominantly by which cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages"
+        },
+        {
+          "label": "C",
+          "text": "T lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "E",
+          "text": "B lymphocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens.",
+        "whyCorrect": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-020_bl047_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-021",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "This histologic section showing pink red pulp and bluish lymphoid white pulp around central arterioles is taken from which organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymph node"
+        },
+        {
+          "label": "B",
+          "text": "Spleen"
+        },
+        {
+          "label": "C",
+          "text": "Palatine tonsil"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "E",
+          "text": "Thymus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles.",
+        "whyCorrect": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-021_bl047_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-022",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "The densely packed lymphocytes forming the sheath around the central arteriole (PALS) seen in this histology field are predominantly which cell type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T cells"
+        },
+        {
+          "label": "B",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath.",
+        "whyCorrect": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-022_bl047_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-023",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "In this diagram of a splenic follicle, the germinal center at its core contains predominantly activated cells of which type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "T cells"
+        },
+        {
+          "label": "E",
+          "text": "Erythrocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS.",
+        "whyCorrect": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-023_bl047_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-064",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "This labeled axial cross-sectional image of the upper abdomen was produced by which imaging modality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Magnetic resonance imaging (MRI)"
+        },
+        {
+          "label": "B",
+          "text": "Positron emission tomography (PET)"
+        },
+        {
+          "label": "C",
+          "text": "Plain (conventional) radiograph"
+        },
+        {
+          "label": "D",
+          "text": "Ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Computed tomography (CT)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The image is an axial CT slice: it shows a single transverse plane with soft-tissue attenuation differences distinguishing liver, stomach, aorta and spleen, and the vertebral body posteriorly. CT provides this cross-sectional bony-and-soft-tissue detail in one plane.",
+        "whyCorrect": "The image is an axial CT slice: it shows a single transverse plane with soft-tissue attenuation differences distinguishing liver, stomach, aorta and spleen, and the vertebral body posteriorly. CT provides this cross-sectional bony-and-soft-tissue detail in one plane.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-064_bl047_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-179",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "Based on the open-circulation pathway diagrammed, why does routing blood through the splenic cords allow effective red cell filtration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cords add oxygen to passing red cells before they return to circulation"
+        },
+        {
+          "label": "B",
+          "text": "Blood is centrifuged by rapid arteriolar spin to separate cells by density"
+        },
+        {
+          "label": "C",
+          "text": "The cords produce antibodies that coat and remove every passing red cell"
+        },
+        {
+          "label": "D",
+          "text": "Splenic cords chemically lyse all red cells regardless of their condition"
+        },
+        {
+          "label": "E",
+          "text": "RBCs must squeeze through narrow slits to re-enter sinusoids, so only flexible healthy cells pass while damaged rigid cells are retained and phagocytosed"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In open circulation, blood empties into the splenic cords and RBCs must deform to pass through slits between sinusoidal stave cells. Aged or abnormal (inflexible) RBCs cannot pass and are retained and destroyed by cord macrophages, while healthy deformable cells re-enter the sinusoids.",
+        "whyCorrect": "In open circulation, blood empties into the splenic cords and RBCs must deform to pass through slits between sinusoidal stave cells. Aged or abnormal (inflexible) RBCs cannot pass and are retained and destroyed by cord macrophages, while healthy deformable cells re-enter the sinusoids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-179_bl047_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-180",
+      "topicId": "structure-and-function-of-the-spleen",
+      "topicName": "Structure and Function of the Spleen",
+      "stem": "In this overview of splenic microanatomy, the marginal zone positioned between the white pulp and red pulp primarily serves which function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It filters lymph delivered by afferent lymphatic vessels"
+        },
+        {
+          "label": "B",
+          "text": "It stores the body's entire platelet reserve for clotting"
+        },
+        {
+          "label": "C",
+          "text": "It continuously screens blood for antigens and traps pathogens/opsonized cells for presentation to lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "It secretes digestive enzymes into the portal circulation"
+        },
+        {
+          "label": "E",
+          "text": "It generates new red blood cells in the adult by erythropoiesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The marginal zone sits at the interface of white and red pulp and is the site where blood-borne antigens, opsonized bacteria and immune complexes are captured and handed off to B cells and to T cells in the PALS, linking innate blood filtration with adaptive immunity.",
+        "whyCorrect": "The marginal zone sits at the interface of white and red pulp and is the site where blood-borne antigens, opsonized bacteria and immune complexes are captured and handed off to B cells and to T cells in the PALS, linking innate blood filtration with adaptive immunity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-180_bl047_f11.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

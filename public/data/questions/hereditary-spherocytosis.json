@@ -1,0 +1,162 @@
+{
+  "categoryId": "hereditary-spherocytosis",
+  "categoryName": "Hereditary Spherocytosis",
+  "questions": [
+    {
+      "id": "blpic-028",
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "stem": "In the experiment shown, the abnormal cells rupture much more readily than normal red cells when placed in the hypotonic solution. What property accounts for their heightened susceptibility to lysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They lack membrane reserve, so they cannot accommodate water influx before bursting"
+        },
+        {
+          "label": "B",
+          "text": "Membrane-bound antibody makes their lipid bilayer intrinsically fragile"
+        },
+        {
+          "label": "C",
+          "text": "They contain unstable hemoglobin that precipitates and ruptures the cell on swelling"
+        },
+        {
+          "label": "D",
+          "text": "Their high surface-area-to-volume ratio accelerates osmotic water entry"
+        },
+        {
+          "label": "E",
+          "text": "Their sodium-potassium pumps actively pull additional water into the cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is the osmotic fragility test. Normal biconcave cells have excess membrane and can swell to absorb water; spherocytes have little membrane reserve, so even modest water influx in a hypotonic solution causes them to lyse, giving increased osmotic fragility.",
+        "whyCorrect": "This is the osmotic fragility test. Normal biconcave cells have excess membrane and can swell to absorb water; spherocytes have little membrane reserve, so even modest water influx in a hypotonic solution causes them to lyse, giving increased osmotic fragility.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-028_bl001_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-029",
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "stem": "This peripheral blood smear shows numerous red cells with an abnormal elongated, cigar-like shape. Which inherited red-cell membrane disorder does this finding most strongly suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sickle cell anemia"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary elliptocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary pyropoikilocytosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
+        "whyCorrect": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-029_bl001_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-030",
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "stem": "This peripheral smear shows markedly fragmented red cells of widely varying size and shape, resembling the appearance seen in patients with extensive burns. Which disorder does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hereditary elliptocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary pyropoikilocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary spherocytosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hereditary pyropoikilocytosis, caused by two hereditary elliptocytosis mutations, produces striking red-cell fragmentation and bizarre poikilocytes that resemble the burned red cells seen after severe thermal injury.",
+        "whyCorrect": "Hereditary pyropoikilocytosis, caused by two hereditary elliptocytosis mutations, produces striking red-cell fragmentation and bizarre poikilocytes that resemble the burned red cells seen after severe thermal injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-030_bl001_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-148",
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "stem": "Compared with the cells on the left, the cells on the right have lost the shape that normally lets red cells deform. What is the main clinical consequence of this altered morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A marked reduction in the oxygen-carrying capacity of each cell"
+        },
+        {
+          "label": "B",
+          "text": "Failure to be recognized and cleared by the reticuloendothelial system"
+        },
+        {
+          "label": "C",
+          "text": "Increased entrapment and destruction within the splenic sinusoids"
+        },
+        {
+          "label": "D",
+          "text": "Widespread intravascular hemolysis within small capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the ability to bind and consume haptoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The rounded cells on the right (spherocytes) lack the membrane excess that allows normal biconcave cells to squeeze through splenic sinusoids, so they are trapped and destroyed there, producing extravascular hemolysis. Their oxygen-carrying capacity remains essentially normal.",
+        "whyCorrect": "The rounded cells on the right (spherocytes) lack the membrane excess that allows normal biconcave cells to squeeze through splenic sinusoids, so they are trapped and destroyed there, producing extravascular hemolysis. Their oxygen-carrying capacity remains essentially normal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-148_bl001_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

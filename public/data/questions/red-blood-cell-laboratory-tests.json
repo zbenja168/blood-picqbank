@@ -1,0 +1,279 @@
+{
+  "categoryId": "red-blood-cell-laboratory-tests",
+  "categoryName": "Red Blood Cell Laboratory Tests",
+  "questions": [
+    {
+      "id": "blpic-010",
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "stem": "This Wright-Giemsa blood smear shows normal red blood cells. The pale zone at the center of each cell reflects which structural feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A membrane defect from a cytoskeletal mutation"
+        },
+        {
+          "label": "B",
+          "text": "The biconcave-disc shape, which thins the center of the cell"
+        },
+        {
+          "label": "C",
+          "text": "Cell swelling from osmotic water influx"
+        },
+        {
+          "label": "D",
+          "text": "A retained central nuclear remnant"
+        },
+        {
+          "label": "E",
+          "text": "Complete loss of hemoglobin from the cell interior"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant.",
+        "whyCorrect": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-010_bl032_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-027",
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "stem": "This high-power Wright-Giemsa blood smear shows normal red blood cells. What does the pale central region seen in each cell represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A vacuole formed during slide fixation"
+        },
+        {
+          "label": "B",
+          "text": "An area of increased hemoglobin concentration"
+        },
+        {
+          "label": "C",
+          "text": "The thin center of the biconcave disc, where little hemoglobin is present"
+        },
+        {
+          "label": "D",
+          "text": "A region of degraded hemoglobin forming a Heinz body"
+        },
+        {
+          "label": "E",
+          "text": "A nuclear remnant retained by the mature cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings.",
+        "whyCorrect": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-027_bl059_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-054",
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "stem": "In this hemoglobin electrophoresis diagram, hemoglobin S migrates a shorter distance toward the anode than hemoglobin A. What property of HbS accounts for its slower migration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has a substantially higher molecular weight than HbA"
+        },
+        {
+          "label": "B",
+          "text": "It lacks beta-globin chains entirely"
+        },
+        {
+          "label": "C",
+          "text": "It is net positively charged at the gel pH"
+        },
+        {
+          "label": "D",
+          "text": "It carries a more negative charge than HbA"
+        },
+        {
+          "label": "E",
+          "text": "It carries a less negative charge than HbA"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Electrophoretic separation depends on charge: negatively charged hemoglobin moves toward the anode. The glutamate-to-valine substitution in HbS removes a negative charge, so HbS is less negatively charged than HbA and migrates less far, allowing the variants to be distinguished.",
+        "whyCorrect": "Electrophoretic separation depends on charge: negatively charged hemoglobin moves toward the anode. The glutamate-to-valine substitution in HbS removes a negative charge, so HbS is less negatively charged than HbA and migrates less far, allowing the variants to be distinguished.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-054_bl032_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-055",
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "stem": "This schematic illustrates the direct antiglobulin (Coombs) test. Agglutination develops after Coombs reagent is added because the patient's red cells are already coated with what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody or complement"
+        },
+        {
+          "label": "B",
+          "text": "Residual ribosomal RNA"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial surface antigens"
+        },
+        {
+          "label": "D",
+          "text": "Excess intracellular iron granules"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal hemoglobin variants"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The direct antiglobulin test detects RBCs already coated in vivo with antibody or complement. Coombs reagent (anti-human immunoglobulin/complement) cross-links these coated cells, producing visible agglutination, a positive result seen in autoimmune hemolytic anemia, hemolytic transfusion reactions, and hemolytic disease of the newborn.",
+        "whyCorrect": "The direct antiglobulin test detects RBCs already coated in vivo with antibody or complement. Coombs reagent (anti-human immunoglobulin/complement) cross-links these coated cells, producing visible agglutination, a positive result seen in autoimmune hemolytic anemia, hemolytic transfusion reactions, and hemolytic disease of the newborn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-055_bl032_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-072",
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "stem": "In this hemoglobin electrophoresis schematic, hemoglobin variants migrate different distances from the origin toward the anode. What property primarily determines how far each variant travels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its molecular weight alone"
+        },
+        {
+          "label": "B",
+          "text": "Its iron content"
+        },
+        {
+          "label": "C",
+          "text": "Its oxygen affinity"
+        },
+        {
+          "label": "D",
+          "text": "Its plasma concentration"
+        },
+        {
+          "label": "E",
+          "text": "Its net electrical charge"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In gel electrophoresis, an applied electric field causes charged hemoglobin molecules to migrate; the net surface charge (determined by amino acid substitutions in the globin chains) chiefly governs the migration distance, allowing separation of variants such as HbA, HbF, HbS, and HbC.",
+        "whyCorrect": "In gel electrophoresis, an applied electric field causes charged hemoglobin molecules to migrate; the net surface charge (determined by amino acid substitutions in the globin chains) chiefly governs the migration distance, allowing separation of variants such as HbA, HbF, HbS, and HbC.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-072_bl059_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-073",
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "stem": "This graph plots percent RBC hemolysis against decreasing NaCl concentration for several conditions. A curve shifted to the left, so that lysis occurs at higher NaCl concentrations, indicates which change in the red cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced resistance to hypotonic lysis"
+        },
+        {
+          "label": "B",
+          "text": "Increased membrane surface-area-to-volume ratio"
+        },
+        {
+          "label": "C",
+          "text": "Reduced intracellular solute content"
+        },
+        {
+          "label": "D",
+          "text": "Increased osmotic fragility"
+        },
+        {
+          "label": "E",
+          "text": "Decreased osmotic fragility"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cells that lyse at relatively high (less hypotonic) NaCl concentrations are more fragile; this leftward-shifted curve is classic for hereditary spherocytosis, whose spherocytes have a low surface-area-to-volume ratio and rupture easily. Conditions like sickle cell anemia and thalassemia instead show decreased fragility.",
+        "whyCorrect": "Cells that lyse at relatively high (less hypotonic) NaCl concentrations are more fragile; this leftward-shifted curve is classic for hereditary spherocytosis, whose spherocytes have a low surface-area-to-volume ratio and rupture easily. Conditions like sickle cell anemia and thalassemia instead show decreased fragility.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-073_bl059_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-074",
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "stem": "This schematic illustrates the direct antiglobulin (Coombs) test. Agglutination of the patient's cells after adding Coombs reagent indicates what about those red blood cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are already coated with antibody or complement in vivo"
+        },
+        {
+          "label": "B",
+          "text": "They lack surface membrane antigens"
+        },
+        {
+          "label": "C",
+          "text": "They have an elevated reticulocyte count"
+        },
+        {
+          "label": "D",
+          "text": "They contain an abnormal hemoglobin variant"
+        },
+        {
+          "label": "E",
+          "text": "They have increased osmotic fragility"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The direct antiglobulin test uses anti-immunoglobulin (Coombs) reagent that cross-links RBCs already coated in vivo with antibody or complement, producing visible agglutination. A positive DAT indicates in vivo sensitization, as in autoimmune hemolytic anemia or hemolytic disease of the newborn.",
+        "whyCorrect": "The direct antiglobulin test uses anti-immunoglobulin (Coombs) reagent that cross-links RBCs already coated in vivo with antibody or complement, producing visible agglutination. A positive DAT indicates in vivo sensitization, as in autoimmune hemolytic anemia or hemolytic disease of the newborn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-074_bl059_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

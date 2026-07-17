@@ -1,0 +1,240 @@
+{
+  "categoryId": "hematopoietic-neoplasms-foundations-and-frameworks",
+  "categoryName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+  "questions": [
+    {
+      "id": "blpic-044",
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "stem": "This photograph shows tissue specimens embedded in solid wax cassettes in preparation for microscopic examination. What is the primary purpose of embedding the tissue in these blocks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To stain the tissue with hematoxylin and eosin"
+        },
+        {
+          "label": "B",
+          "text": "To provide a firm supporting medium so the tissue can be cut into very thin sections"
+        },
+        {
+          "label": "C",
+          "text": "To keep the cells alive for flow cytometry"
+        },
+        {
+          "label": "D",
+          "text": "To lyse the red blood cells before analysis"
+        },
+        {
+          "label": "E",
+          "text": "To amplify the tissue's DNA for molecular testing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These are formalin-fixed, paraffin-embedded (FFPE) blocks. The paraffin provides a firm medium that supports the fixed tissue so a microtome can slice it into thin sections for staining and microscopy. FFPE blocks also preserve morphology and can be stored for years.",
+        "whyCorrect": "These are formalin-fixed, paraffin-embedded (FFPE) blocks. The paraffin provides a firm medium that supports the fixed tissue so a microtome can slice it into thin sections for staining and microscopy. FFPE blocks also preserve morphology and can be stored for years.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-044_bl022_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-045",
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "stem": "In this stained section, many tumor nuclei display a brown chromogen while others remain blue. What does the brown signal indicate about the positively stained cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are undergoing apoptosis"
+        },
+        {
+          "label": "B",
+          "text": "They lack the target antigen"
+        },
+        {
+          "label": "C",
+          "text": "They contain excess hemosiderin (iron)"
+        },
+        {
+          "label": "D",
+          "text": "They express the specific target antigen the antibody was directed against"
+        },
+        {
+          "label": "E",
+          "text": "They are non-viable necrotic cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is an immunohistochemical (IHC) stain: a labeled antibody binds its target antigen, and a chromogen deposits brown color wherever the antigen is present. Brown-positive nuclei therefore express the specific protein being tested, which helps classify the tumor.",
+        "whyCorrect": "This is an immunohistochemical (IHC) stain: a labeled antibody binds its target antigen, and a chromogen deposits brown color wherever the antigen is present. Brown-positive nuclei therefore express the specific protein being tested, which helps classify the tumor.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-045_bl022_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-046",
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "stem": "In this image, interphase nuclei are counterstained blue and a chromosome-specific fluorescent probe appears as bright green signals. Finding three green signals per nucleus, rather than the expected two, indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An extra copy of that chromosome (trisomy)"
+        },
+        {
+          "label": "B",
+          "text": "A single point mutation"
+        },
+        {
+          "label": "C",
+          "text": "Loss of one chromosome (monosomy)"
+        },
+        {
+          "label": "D",
+          "text": "A balanced reciprocal translocation"
+        },
+        {
+          "label": "E",
+          "text": "A deletion of that chromosome region"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is fluorescence in situ hybridization (FISH). Each probe signal marks one copy of the targeted chromosome; three signals instead of two means an extra copy is present (trisomy). Because FISH uses specific probes, you must know which chromosome to interrogate.",
+        "whyCorrect": "This is fluorescence in situ hybridization (FISH). Each probe signal marks one copy of the targeted chromosome; three signals instead of two means an extra copy is present (trisomy). Because FISH uses specific probes, you must know which chromosome to interrogate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-046_bl022_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-088",
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "stem": "This flowchart organizes hematopoietic neoplasms into a branching hierarchy. What single feature does the WHO classification use at the FIRST branch point to divide these neoplasms into their two major groups?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lineage/cell of origin (myeloid vs lymphoid)"
+        },
+        {
+          "label": "B",
+          "text": "The rapidity of clinical progression (acute vs chronic)"
+        },
+        {
+          "label": "C",
+          "text": "The tumor's response to chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "The patient's age at diagnosis"
+        },
+        {
+          "label": "E",
+          "text": "The anatomic site of the tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The WHO system first separates neoplasms by the cell of origin, distinguishing those arising from the myeloid stem cell line from those arising from the lymphoid line. Subsequent branches then subclassify within each group.",
+        "whyCorrect": "The WHO system first separates neoplasms by the cell of origin, distinguishing those arising from the myeloid stem cell line from those arising from the lymphoid line. Subsequent branches then subclassify within each group.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-088_bl022_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-089",
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "stem": "This H&E field (arrow) shows a gigantic cell with two mirror-image nuclei, each containing a single prominent nucleolus, giving an 'owl-eye' appearance. Identification of this cell is diagnostic of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The binucleate 'owl-eye' cell is a Reed-Sternberg cell, the defining feature of Hodgkin lymphoma. Although derived from B cells, these cells have lost their characteristic B-cell expression pattern, which is why Hodgkin lymphoma is classified separately from the B-cell neoplasms.",
+        "whyCorrect": "The binucleate 'owl-eye' cell is a Reed-Sternberg cell, the defining feature of Hodgkin lymphoma. Although derived from B cells, these cells have lost their characteristic B-cell expression pattern, which is why Hodgkin lymphoma is classified separately from the B-cell neoplasms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-089_bl022_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-171",
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "stem": "This schematic traces how a single precursor at the top of the hierarchy gives rise to every mature blood cell, split into myeloid and lymphoid lines. Malignant transformation of that precursor produces myeloid or lymphoid neoplasms. In which anatomic site does this precursor normally reside and begin differentiation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Thymus"
+        },
+        {
+          "label": "D",
+          "text": "Spleen"
+        },
+        {
+          "label": "E",
+          "text": "Circulating peripheral blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The single precursor at the apex is the hematopoietic stem cell, which resides in the bone marrow. Early differentiation into both the myeloid and lymphoid lineages occurs there before mature cells are released into the blood.",
+        "whyCorrect": "The single precursor at the apex is the hematopoietic stem cell, which resides in the bone marrow. Early differentiation into both the myeloid and lymphoid lineages occurs there before mature cells are released into the blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-171_bl022_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
