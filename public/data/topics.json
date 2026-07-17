@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "id": "histology-cell-biology",
+      "name": "Histology & Cell Biology",
+      "topics": [
+        {
+          "id": "histology-cell-biology",
+          "name": "Histology & Cell Biology",
+          "sourceFile": "blood bricks",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "lab-diagnostics",
+      "name": "Lab & Diagnostics",
+      "topics": [
+        {
+          "id": "lab-diagnostics",
+          "name": "Lab & Diagnostics",
+          "sourceFile": "blood bricks",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "pathology",
+      "name": "Pathology",
+      "topics": [
+        {
+          "id": "pathology",
+          "name": "Pathology",
+          "sourceFile": "blood bricks",
+          "questionCount": 14
+        }
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "topics": [
+        {
+          "id": "pharmacology",
+          "name": "Pharmacology",
+          "sourceFile": "blood bricks",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "physiology-mechanisms",
+      "name": "Physiology & Mechanisms",
+      "topics": [
+        {
+          "id": "physiology-mechanisms",
+          "name": "Physiology & Mechanisms",
+          "sourceFile": "blood bricks",
+          "questionCount": 3
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 28
+}

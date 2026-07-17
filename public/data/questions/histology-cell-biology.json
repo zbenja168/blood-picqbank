@@ -1,0 +1,162 @@
+{
+  "categoryId": "histology-cell-biology",
+  "categoryName": "Histology & Cell Biology",
+  "questions": [
+    {
+      "id": "blpic-001",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This schematic traces how blood cells arise from a common precursor and mature through the bone marrow, blood, and tissue compartments. In aplastic anemia, loss of which population at the top of this scheme accounts for the pancytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tissue macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Mature circulating erythrocytes"
+        },
+        {
+          "label": "C",
+          "text": "Myeloid hematopoietic stem cells"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow adipocytes"
+        },
+        {
+          "label": "E",
+          "text": "Lymphoid progenitor cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram shows a multipotent stem cell giving rise to myeloid and lymphoid lineages. Aplastic anemia results from destruction of the myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall while lymphocytes (lymphoid-derived) are relatively spared.",
+        "whyCorrect": "The diagram shows a multipotent stem cell giving rise to myeloid and lymphoid lineages. Aplastic anemia results from destruction of the myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall while lymphocytes (lymphoid-derived) are relatively spared.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-001_bl00_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-002",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "These images depict the six maturation stages of a granulocyte. At which point in this sequence does the cell lose its ability to divide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At the myeloblast stage, before any granules appear"
+        },
+        {
+          "label": "B",
+          "text": "It continues to divide at every stage until it is fully segmented"
+        },
+        {
+          "label": "C",
+          "text": "At the band stage, just before nuclear segmentation"
+        },
+        {
+          "label": "D",
+          "text": "Only the final segmented cell retains the ability to divide"
+        },
+        {
+          "label": "E",
+          "text": "At the metamyelocyte stage; cells beyond the myelocyte no longer divide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neutrophil precursors proliferate through the myeloblast, promyelocyte, and myelocyte stages. Once the cell reaches the metamyelocyte stage it can no longer divide and only matures (nuclear indentation to band, then segmentation).",
+        "whyCorrect": "Neutrophil precursors proliferate through the myeloblast, promyelocyte, and myelocyte stages. Once the cell reaches the metamyelocyte stage it can no longer divide and only matures (nuclear indentation to band, then segmentation).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-002_bl02_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-003",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "Several abnormal red cell forms are labeled on this blood smear (schistocytes, triangulocytes, helmet cells). What single event produces all of these shapes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shearing of red cells by intravascular microthrombi"
+        },
+        {
+          "label": "B",
+          "text": "A hereditary defect in membrane spectrin"
+        },
+        {
+          "label": "C",
+          "text": "Oxidative denaturation of hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Splenic macrophage digestion of red cell membrane"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic swelling in hypotonic plasma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Helmet cells, triangulocytes, and other schistocyte forms all arise from mechanical fragmentation as red cells pass fibrin strands and microthrombi, so they share the same microangiopathic origin.",
+        "whyCorrect": "Helmet cells, triangulocytes, and other schistocyte forms all arise from mechanical fragmentation as red cells pass fibrin strands and microthrombi, so they share the same microangiopathic origin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-003_bl04_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-004",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This figure compares lymphocyte morphology across three fields: a small round cell in panel A versus the larger, more irregular and voluminous cells in panels B and C. Cells like those in B and C are best described as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "Reactive lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes"
+        },
+        {
+          "label": "D",
+          "text": "Blast cells of acute leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Panel A shows normal-appearing lymphocytes, as seen when a benign lymphocytosis increases normal cells. Panels B and C show reactive lymphocytes, which are larger with more voluminous, sometimes deeply basophilic cytoplasm and are typical of viral infection.",
+        "whyCorrect": "Panel A shows normal-appearing lymphocytes, as seen when a benign lymphocytosis increases normal cells. Panels B and C show reactive lymphocytes, which are larger with more voluminous, sometimes deeply basophilic cytoplasm and are typical of viral infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-004_bl05_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

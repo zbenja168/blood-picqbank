@@ -1,0 +1,123 @@
+{
+  "categoryId": "pharmacology",
+  "categoryName": "Pharmacology",
+  "questions": [
+    {
+      "id": "blpic-023",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The highlighted drug in this diagram blocks production of the several clotting factors and regulatory proteins marked at each red box. By what biochemical mechanism does it reduce the activity of these factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It potentiates antithrombin to inactivate factor Xa"
+        },
+        {
+          "label": "B",
+          "text": "It cleaves cross-linked fibrin to dissolve clots"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of vitamin K-dependent factors"
+        },
+        {
+          "label": "D",
+          "text": "It directly binds and inhibits the active site of thrombin"
+        },
+        {
+          "label": "E",
+          "text": "It chelates ionized calcium required by the cascade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Warfarin is a vitamin K antagonist: it inhibits vitamin K epoxide reductase, impairing the gamma-carboxylation needed to activate factors II, VII, IX, and X and proteins C and S.",
+        "whyCorrect": "Warfarin is a vitamin K antagonist: it inhibits vitamin K epoxide reductase, impairing the gamma-carboxylation needed to activate factors II, VII, IX, and X and proteins C and S.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-023_bl03_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-024",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The agent shown here acts at the two points marked in the common pathway of this cascade. Through which mechanism does it inhibit factors Xa and IIa?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks exposure of tissue factor"
+        },
+        {
+          "label": "B",
+          "text": "It directly binds the active site of thrombin"
+        },
+        {
+          "label": "C",
+          "text": "It enzymatically degrades fibrinogen"
+        },
+        {
+          "label": "D",
+          "text": "It activates antithrombin, which then inhibits factors Xa and thrombin"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits vitamin K epoxide reductase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Heparin acts indirectly by activating the endogenous anticoagulant antithrombin, which then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
+        "whyCorrect": "Heparin acts indirectly by activating the endogenous anticoagulant antithrombin, which then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-024_bl03_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-025",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic organizes classes of cytotoxic chemotherapy drugs according to the point in the cell cycle at which they act. Based on where the antimetabolite agents are positioned, what property of a cancer cell makes it especially vulnerable to these drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its high rate of DNA replication during the synthesis phase"
+        },
+        {
+          "label": "B",
+          "text": "Its dependence on microtubule assembly during mitosis"
+        },
+        {
+          "label": "C",
+          "text": "Its loss of checkpoint control that acts independently of cell-cycle phase"
+        },
+        {
+          "label": "D",
+          "text": "Its reliance on topoisomerase to unwind DNA in interphase"
+        },
+        {
+          "label": "E",
+          "text": "Its increased membrane permeability to platinum-based agents"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antimetabolites are placed at the S (synthesis) phase because they masquerade as nucleosides and disrupt DNA synthesis. Rapidly dividing cancer cells spend proportionally more time actively replicating DNA, so blocking nucleotide/DNA synthesis in S phase preferentially kills them. Microtubule inhibitors act in M phase, topoisomerase and alkylating/platinum agents work by other mechanisms shown elsewhere on the diagram.",
+        "whyCorrect": "Antimetabolites are placed at the S (synthesis) phase because they masquerade as nucleosides and disrupt DNA synthesis. Rapidly dividing cancer cells spend proportionally more time actively replicating DNA, so blocking nucleotide/DNA synthesis in S phase preferentially kills them. Microtubule inhibitors act in M phase, topoisomerase and alkylating/platinum agents work by other mechanisms shown elsewhere on the diagram.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-025_bl06_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

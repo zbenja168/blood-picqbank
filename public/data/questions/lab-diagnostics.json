@@ -1,0 +1,162 @@
+{
+  "categoryId": "lab-diagnostics",
+  "categoryName": "Lab & Diagnostics",
+  "questions": [
+    {
+      "id": "blpic-005",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This blood smear shows a white cell with a nucleus of more than five lobes. What does this finding most strongly indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sickle cell disease"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Megaloblastic anemia from impaired DNA synthesis (vitamin B12 or folate deficiency)"
+        },
+        {
+          "label": "D",
+          "text": "Acute bacterial infection with a left shift"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary spherocytosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A hypersegmented neutrophil (more than five nuclear lobes) reflects defective DNA synthesis and is characteristic of megaloblastic anemia caused by vitamin B12 or folate deficiency. Bacterial infection instead causes a left shift with band forms, and the other options do not produce hypersegmentation.",
+        "whyCorrect": "A hypersegmented neutrophil (more than five nuclear lobes) reflects defective DNA synthesis and is characteristic of megaloblastic anemia caused by vitamin B12 or folate deficiency. Bacterial infection instead causes a left shift with band forms, and the other options do not produce hypersegmentation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-005_bl01_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-006",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The red arrows in this peripheral blood smear point to small anucleate structures scattered among the red blood cells. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reticulocytes"
+        },
+        {
+          "label": "B",
+          "text": "Platelets"
+        },
+        {
+          "label": "C",
+          "text": "Basophilic stippling"
+        },
+        {
+          "label": "D",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The small purple bodies indicated are platelets (thrombocytes), anucleate cytoplasmic fragments derived from megakaryocytes. They are only 1 to 3 micrometers wide, far smaller than the surrounding biconcave red blood cells, and participate in clot formation.",
+        "whyCorrect": "The small purple bodies indicated are platelets (thrombocytes), anucleate cytoplasmic fragments derived from megakaryocytes. They are only 1 to 3 micrometers wide, far smaller than the surrounding biconcave red blood cells, and participate in clot formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-006_bl02_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-007",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral blood smear from an anemic patient shows the arrowed fragmented red cells. Their presence indicates which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Warm autoimmune hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Microangiopathic hemolytic anemia from mechanical RBC fragmentation"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "D",
+          "text": "Sideroblastic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Megaloblastic anemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The small, irregular fragments lacking central pallor are schistocytes. They are produced when red cells are sheared by intravascular microthrombi and are the hallmark of microangiopathic hemolytic anemia.",
+        "whyCorrect": "The small, irregular fragments lacking central pallor are schistocytes. They are produced when red cells are sheared by intravascular microthrombi and are the hallmark of microangiopathic hemolytic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-007_bl04_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-008",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This circulating lymphocyte on a peripheral smear shows a markedly convoluted, brain-like nuclear contour among normal red cells. What is this diagnostic cell called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flower cell"
+        },
+        {
+          "label": "B",
+          "text": "Reed-Sternberg cell"
+        },
+        {
+          "label": "C",
+          "text": "Smudge cell"
+        },
+        {
+          "label": "D",
+          "text": "Cerebriform (Sezary) cell"
+        },
+        {
+          "label": "E",
+          "text": "Atypical plasma cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The deeply grooved, gyriform nucleus is termed cerebriform; such cerebriform (Sezary) cells are the malignant CD4+ T lymphocytes of mycosis fungoides/Sezary syndrome.",
+        "whyCorrect": "The deeply grooved, gyriform nucleus is termed cerebriform; such cerebriform (Sezary) cells are the malignant CD4+ T lymphocytes of mycosis fungoides/Sezary syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-008_bl07_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

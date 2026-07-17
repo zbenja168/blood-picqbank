@@ -1,0 +1,123 @@
+{
+  "categoryId": "physiology-mechanisms",
+  "categoryName": "Physiology & Mechanisms",
+  "questions": [
+    {
+      "id": "blpic-026",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic shows the vitamin B12-dependent conversion of methylmalonyl-CoA to succinyl-CoA. When this reaction is disrupted, what is the MOST direct mechanism of the resulting clinical harm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of homocysteine remethylation raises serum homocysteine and clots vessels"
+        },
+        {
+          "label": "B",
+          "text": "Trapping of folate as methyl-THF halts thymidine synthesis in marrow precursors"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of methylmalonyl-CoA disrupts normal myelin formation, producing neurologic deficits"
+        },
+        {
+          "label": "D",
+          "text": "Depletion of heme precursors blocks hemoglobin assembly in erythroblasts"
+        },
+        {
+          "label": "E",
+          "text": "Increased purine breakdown deposits urate crystals in peripheral nerves"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methylmalonyl-CoA mutase requires vitamin B12. In B12 deficiency the substrate accumulates and abnormal fatty acids are incorporated into myelin, causing demyelination and the neurologic findings (e.g., subacute combined degeneration). Folate deficiency does not affect this pathway, which is why folate deficiency lacks neurologic symptoms.",
+        "whyCorrect": "Methylmalonyl-CoA mutase requires vitamin B12. In B12 deficiency the substrate accumulates and abnormal fatty acids are incorporated into myelin, causing demyelination and the neurologic findings (e.g., subacute combined degeneration). Folate deficiency does not affect this pathway, which is why folate deficiency lacks neurologic symptoms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-026_bl01_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-027",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "The highlighted enzyme in this schematic cleaves ultra-large von Willebrand factor multimers. A deficiency of this enzyme causes which disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "von Willebrand disease"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated intravascular coagulation (DIC)"
+        },
+        {
+          "label": "C",
+          "text": "Thrombotic thrombocytopenic purpura (TTP)"
+        },
+        {
+          "label": "D",
+          "text": "Hemolytic-uremic syndrome (HUS)"
+        },
+        {
+          "label": "E",
+          "text": "Immune thrombocytopenic purpura (ITP)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ADAMTS13 normally trims ultra-large vWF multimers so they cannot bind platelets. Its deficiency leaves these multimers intact, driving platelet microthrombi and TTP.",
+        "whyCorrect": "ADAMTS13 normally trims ultra-large vWF multimers so they cannot bind platelets. Its deficiency leaves these multimers intact, driving platelet microthrombi and TTP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-027_bl04_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-028",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic shows a red blood cell passing a thrombus and emerging as a schistocyte. This mechanism underlies which finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Anemia of chronic disease"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Thalassemia"
+        },
+        {
+          "label": "E",
+          "text": "Autoimmune hemolytic anemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The intraluminal thrombus acts like a blade, cutting red cells that contact it into fragments (schistocytes); this mechanical, intravascular destruction defines microangiopathic hemolytic anemia.",
+        "whyCorrect": "The intraluminal thrombus acts like a blade, cutting red cells that contact it into fragments (schistocytes); this mechanical, intravascular destruction defines microangiopathic hemolytic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-028_bl04_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
