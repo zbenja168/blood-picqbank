@@ -3,10 +3,595 @@
   "categoryName": "Lab & Diagnostics",
   "questions": [
     {
-      "id": "blpic-005",
+      "id": "blpic-028",
       "topicId": "lab-diagnostics",
       "topicName": "Lab & Diagnostics",
-      "stem": "This blood smear shows a white cell with a nucleus of more than five lobes. What does this finding most strongly indicate?",
+      "stem": "In the experiment shown, the abnormal cells rupture much more readily than normal red cells when placed in the hypotonic solution. What property accounts for their heightened susceptibility to lysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They lack membrane reserve, so they cannot accommodate water influx before bursting"
+        },
+        {
+          "label": "B",
+          "text": "Membrane-bound antibody makes their lipid bilayer intrinsically fragile"
+        },
+        {
+          "label": "C",
+          "text": "They contain unstable hemoglobin that precipitates and ruptures the cell on swelling"
+        },
+        {
+          "label": "D",
+          "text": "Their high surface-area-to-volume ratio accelerates osmotic water entry"
+        },
+        {
+          "label": "E",
+          "text": "Their sodium-potassium pumps actively pull additional water into the cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is the osmotic fragility test. Normal biconcave cells have excess membrane and can swell to absorb water; spherocytes have little membrane reserve, so even modest water influx in a hypotonic solution causes them to lyse, giving increased osmotic fragility.",
+        "whyCorrect": "This is the osmotic fragility test. Normal biconcave cells have excess membrane and can swell to absorb water; spherocytes have little membrane reserve, so even modest water influx in a hypotonic solution causes them to lyse, giving increased osmotic fragility.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-028_bl001_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-029",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral blood smear shows numerous red cells with an abnormal elongated, cigar-like shape. Which inherited red-cell membrane disorder does this finding most strongly suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sickle cell anemia"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary elliptocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary pyropoikilocytosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
+        "whyCorrect": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-029_bl001_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-030",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral smear shows markedly fragmented red cells of widely varying size and shape, resembling the appearance seen in patients with extensive burns. Which disorder does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hereditary elliptocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary pyropoikilocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary spherocytosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hereditary pyropoikilocytosis, caused by two hereditary elliptocytosis mutations, produces striking red-cell fragmentation and bizarre poikilocytes that resemble the burned red cells seen after severe thermal injury.",
+        "whyCorrect": "Hereditary pyropoikilocytosis, caused by two hereditary elliptocytosis mutations, produces striking red-cell fragmentation and bizarre poikilocytes that resemble the burned red cells seen after severe thermal injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-030_bl001_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-031",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The small, round, deeply basophilic inclusions within several red cells on this smear are which structures, and their persistence indicates what functional state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Howell-Jolly bodies indicating functional asplenia"
+        },
+        {
+          "label": "B",
+          "text": "Heinz bodies indicating oxidative injury"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular malarial parasites"
+        },
+        {
+          "label": "D",
+          "text": "Basophilic stippling indicating lead poisoning"
+        },
+        {
+          "label": "E",
+          "text": "Pappenheimer bodies indicating iron overload"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
+        "whyCorrect": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-031_bl002_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-032",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "On this cellulose acetate gel, hemoglobin variants migrate to different positions. HbS is separated from normal HbA primarily because of a difference in what property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Solubility alone"
+        },
+        {
+          "label": "B",
+          "text": "Molecular weight alone"
+        },
+        {
+          "label": "C",
+          "text": "Electrical charge (HbS is less negatively charged)"
+        },
+        {
+          "label": "D",
+          "text": "Iron content of the heme groups"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen-binding affinity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The glutamate-to-valine substitution removes a negative charge, so HbS migrates less far toward the anode than HbA in an electric field. Electrophoresis therefore separates hemoglobins mainly by charge.",
+        "whyCorrect": "The glutamate-to-valine substitution removes a negative charge, so HbS migrates less far toward the anode than HbA in an electric field. Electrophoresis therefore separates hemoglobins mainly by charge.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-032_bl002_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-033",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The arrow on this peripheral blood smear points to an abnormally large, oval-shaped red blood cell among smaller normal erythrocytes. What is this cell called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spherocyte"
+        },
+        {
+          "label": "B",
+          "text": "Target cell"
+        },
+        {
+          "label": "C",
+          "text": "Macro-ovalocyte"
+        },
+        {
+          "label": "D",
+          "text": "Schistocyte"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
+        "whyCorrect": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-033_bl005_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-034",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The central labeled white blood cell on this smear is characteristic of megaloblastic anemia. A neutrophil is considered hypersegmented when its nucleus contains more than how many lobes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ten lobes"
+        },
+        {
+          "label": "B",
+          "text": "Two lobes"
+        },
+        {
+          "label": "C",
+          "text": "Five lobes"
+        },
+        {
+          "label": "D",
+          "text": "Seven lobes"
+        },
+        {
+          "label": "E",
+          "text": "Three lobes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypersegmented neutrophils have nuclei with more than five lobes and are a hallmark of megaloblastic anemia due to impaired DNA synthesis in myeloid precursors. They appear alongside macro-ovalocytes on the peripheral smear.",
+        "whyCorrect": "Hypersegmented neutrophils have nuclei with more than five lobes and are a hallmark of megaloblastic anemia due to impaired DNA synthesis in myeloid precursors. They appear alongside macro-ovalocytes on the peripheral smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-034_bl005_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-035",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this blood-typing panel, positive wells show visible clumping of red cells after mixing with reagents. Which antibody class, naturally present against ABO antigens, is chiefly responsible for producing this visible clumping?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA"
+        },
+        {
+          "label": "B",
+          "text": "IgD"
+        },
+        {
+          "label": "C",
+          "text": "IgG"
+        },
+        {
+          "label": "D",
+          "text": "IgE"
+        },
+        {
+          "label": "E",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naturally occurring anti-A and anti-B antibodies are pentameric IgM. Its ten antigen-binding sites let it bridge antigens on many adjacent red cells at once, producing the macroscopic agglutination read as a positive result.",
+        "whyCorrect": "Naturally occurring anti-A and anti-B antibodies are pentameric IgM. Its ten antigen-binding sites let it bridge antigens on many adjacent red cells at once, producing the macroscopic agglutination read as a positive result.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-035_bl008_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-036",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This test mixes the recipient's plasma with the prospective donor's red cells, and clumping or lysis of the donor cells appears. What does this outcome signify for the planned transfusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The reaction reflects laboratory artifact and can be ignored"
+        },
+        {
+          "label": "B",
+          "text": "The blood is incompatible and must not be transfused to this patient"
+        },
+        {
+          "label": "C",
+          "text": "The blood is compatible and safe to transfuse"
+        },
+        {
+          "label": "D",
+          "text": "The recipient can now receive any ABO type"
+        },
+        {
+          "label": "E",
+          "text": "The donor is a universal donor for this patient"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Agglutination or hemolysis of donor cells means the recipient has antibodies against antigens on the donor red cells. This positive cross-match indicates incompatibility, so that unit must not be transfused.",
+        "whyCorrect": "Agglutination or hemolysis of donor cells means the recipient has antibodies against antigens on the donor red cells. This positive cross-match indicates incompatibility, so that unit must not be transfused.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-036_bl008_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-037",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The red arrows on this peripheral blood smear indicate small anucleate structures scattered among the red blood cells. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "C",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "D",
+          "text": "Platelets (thrombocytes)"
+        },
+        {
+          "label": "E",
+          "text": "Reticulocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Platelets are small (1-3 microns) anucleate cytoplasmic fragments shed from megakaryocytes, appearing as tiny purple bodies between erythrocytes on a smear. They lack a nucleus, unlike lymphocytes, and are separate cells rather than inclusions like Howell-Jolly bodies.",
+        "whyCorrect": "Platelets are small (1-3 microns) anucleate cytoplasmic fragments shed from megakaryocytes, appearing as tiny purple bodies between erythrocytes on a smear. They lack a nucleus, unlike lymphocytes, and are separate cells rather than inclusions like Howell-Jolly bodies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-037_bl010_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-038",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral blood smear shows a dense aggregate of platelets among the red cells. What artifact does this finding most likely produce on an automated complete blood count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A falsely elevated mean corpuscular volume"
+        },
+        {
+          "label": "B",
+          "text": "A falsely elevated white blood cell count"
+        },
+        {
+          "label": "C",
+          "text": "A falsely decreased platelet count (pseudothrombocytopenia)"
+        },
+        {
+          "label": "D",
+          "text": "A falsely decreased hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "A falsely elevated platelet count"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
+        "whyCorrect": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-038_bl017_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-039",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral blood smear (circled cells) shows fragmented red blood cells. The presence of these fragments most strongly implies which underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune thrombocytopenic purpura"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Megaloblastic anemia from B12 deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
+        "whyCorrect": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-039_bl017_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-040",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These platelet aggregation tracings show normal aggregation curves in response to ADP, adrenaline, and collagen, but an essentially flat (absent) response to ristocetin. Which category of disorder does this pattern best suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defect in the vWF-GPIb adhesion pathway (von Willebrand disease or Bernard-Soulier syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A (factor VIII deficiency)"
+        },
+        {
+          "label": "C",
+          "text": "Glanzmann thrombasthenia (GPIIb/IIIa defect)"
+        },
+        {
+          "label": "D",
+          "text": "Recent aspirin ingestion"
+        },
+        {
+          "label": "E",
+          "text": "Storage pool disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
+        "whyCorrect": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-040_bl019_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-041",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The fragmented red cells highlighted in this peripheral blood smear are specific for which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microangiopathic hemolytic anemia (MAHA)"
+        },
+        {
+          "label": "B",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Sickle cell disease"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative (G6PD) hemolysis"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary spherocytosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These cells never appear in normal or artifactual smears; their presence indicates mechanical red-cell fragmentation from intravascular microthrombi, i.e., MAHA.",
+        "whyCorrect": "These cells never appear in normal or artifactual smears; their presence indicates mechanical red-cell fragmentation from intravascular microthrombi, i.e., MAHA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-041_bl020_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-042",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The labeled cells in this smear (including helmet cells and triangulocytes alongside intact red cells) point to which underlying pathology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated red-cell destruction"
+        },
+        {
+          "label": "B",
+          "text": "Splenic sequestration of red cells"
+        },
+        {
+          "label": "C",
+          "text": "Defective globin chain synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical red-cell fragmentation by microthrombi"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative membrane injury"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Helmet cells and triangulocytes are morphologic subtypes of schistocytes, formed when red cells are cut passing through fibrin/platelet microthrombi in small vessels.",
+        "whyCorrect": "Helmet cells and triangulocytes are morphologic subtypes of schistocytes, formed when red cells are cut passing through fibrin/platelet microthrombi in small vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-042_bl020_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-043",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this photograph, the blood sample on the right, drawn from a patient, appears distinctly darker and brown compared with the normal sample on the left. Which condition most likely accounts for this appearance?",
       "choices": [
         {
           "label": "A",
@@ -14,146 +599,1226 @@
         },
         {
           "label": "B",
-          "text": "Iron deficiency anemia"
+          "text": "Carbon monoxide poisoning"
         },
         {
           "label": "C",
-          "text": "Megaloblastic anemia from impaired DNA synthesis (vitamin B12 or folate deficiency)"
+          "text": "Methemoglobinemia"
         },
         {
           "label": "D",
-          "text": "Acute bacterial infection with a left shift"
+          "text": "Polycythemia vera"
         },
         {
           "label": "E",
-          "text": "Hereditary spherocytosis"
+          "text": "Iron-deficiency anemia"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "A hypersegmented neutrophil (more than five nuclear lobes) reflects defective DNA synthesis and is characteristic of megaloblastic anemia caused by vitamin B12 or folate deficiency. Bacterial infection instead causes a left shift with band forms, and the other options do not produce hypersegmentation.",
-        "whyCorrect": "A hypersegmented neutrophil (more than five nuclear lobes) reflects defective DNA synthesis and is characteristic of megaloblastic anemia caused by vitamin B12 or folate deficiency. Bacterial infection instead causes a left shift with band forms, and the other options do not produce hypersegmentation.",
+        "summary": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
+        "whyCorrect": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-005_bl01_f03.png",
+      "imageRef": "blpic-043_bl021_f03.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-006",
+      "id": "blpic-044",
       "topicId": "lab-diagnostics",
       "topicName": "Lab & Diagnostics",
-      "stem": "The red arrows in this peripheral blood smear point to small anucleate structures scattered among the red blood cells. What are they?",
+      "stem": "This photograph shows tissue specimens embedded in solid wax cassettes in preparation for microscopic examination. What is the primary purpose of embedding the tissue in these blocks?",
       "choices": [
         {
           "label": "A",
-          "text": "Reticulocytes"
+          "text": "To stain the tissue with hematoxylin and eosin"
         },
         {
           "label": "B",
-          "text": "Platelets"
+          "text": "To provide a firm supporting medium so the tissue can be cut into very thin sections"
         },
         {
           "label": "C",
-          "text": "Basophilic stippling"
+          "text": "To keep the cells alive for flow cytometry"
         },
         {
           "label": "D",
-          "text": "Howell-Jolly bodies"
+          "text": "To lyse the red blood cells before analysis"
         },
         {
           "label": "E",
-          "text": "Lymphocytes"
+          "text": "To amplify the tissue's DNA for molecular testing"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The small purple bodies indicated are platelets (thrombocytes), anucleate cytoplasmic fragments derived from megakaryocytes. They are only 1 to 3 micrometers wide, far smaller than the surrounding biconcave red blood cells, and participate in clot formation.",
-        "whyCorrect": "The small purple bodies indicated are platelets (thrombocytes), anucleate cytoplasmic fragments derived from megakaryocytes. They are only 1 to 3 micrometers wide, far smaller than the surrounding biconcave red blood cells, and participate in clot formation.",
+        "summary": "These are formalin-fixed, paraffin-embedded (FFPE) blocks. The paraffin provides a firm medium that supports the fixed tissue so a microtome can slice it into thin sections for staining and microscopy. FFPE blocks also preserve morphology and can be stored for years.",
+        "whyCorrect": "These are formalin-fixed, paraffin-embedded (FFPE) blocks. The paraffin provides a firm medium that supports the fixed tissue so a microtome can slice it into thin sections for staining and microscopy. FFPE blocks also preserve morphology and can be stored for years.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-006_bl02_f06.png",
+      "imageRef": "blpic-044_bl022_f05.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-007",
+      "id": "blpic-045",
       "topicId": "lab-diagnostics",
       "topicName": "Lab & Diagnostics",
-      "stem": "This peripheral blood smear from an anemic patient shows the arrowed fragmented red cells. Their presence indicates which process?",
+      "stem": "In this stained section, many tumor nuclei display a brown chromogen while others remain blue. What does the brown signal indicate about the positively stained cells?",
       "choices": [
         {
           "label": "A",
-          "text": "Warm autoimmune hemolytic anemia"
+          "text": "They are undergoing apoptosis"
         },
         {
           "label": "B",
-          "text": "Microangiopathic hemolytic anemia from mechanical RBC fragmentation"
+          "text": "They lack the target antigen"
         },
         {
           "label": "C",
-          "text": "Iron deficiency anemia"
+          "text": "They contain excess hemosiderin (iron)"
         },
         {
           "label": "D",
-          "text": "Sideroblastic anemia"
+          "text": "They express the specific target antigen the antibody was directed against"
         },
         {
           "label": "E",
-          "text": "Megaloblastic anemia"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The small, irregular fragments lacking central pallor are schistocytes. They are produced when red cells are sheared by intravascular microthrombi and are the hallmark of microangiopathic hemolytic anemia.",
-        "whyCorrect": "The small, irregular fragments lacking central pallor are schistocytes. They are produced when red cells are sheared by intravascular microthrombi and are the hallmark of microangiopathic hemolytic anemia.",
-        "whyWrongByChoice": {}
-      },
-      "difficulty": "medium",
-      "imageRef": "blpic-007_bl04_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "blpic-008",
-      "topicId": "lab-diagnostics",
-      "topicName": "Lab & Diagnostics",
-      "stem": "This circulating lymphocyte on a peripheral smear shows a markedly convoluted, brain-like nuclear contour among normal red cells. What is this diagnostic cell called?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Flower cell"
-        },
-        {
-          "label": "B",
-          "text": "Reed-Sternberg cell"
-        },
-        {
-          "label": "C",
-          "text": "Smudge cell"
-        },
-        {
-          "label": "D",
-          "text": "Cerebriform (Sezary) cell"
-        },
-        {
-          "label": "E",
-          "text": "Atypical plasma cell"
+          "text": "They are non-viable necrotic cells"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The deeply grooved, gyriform nucleus is termed cerebriform; such cerebriform (Sezary) cells are the malignant CD4+ T lymphocytes of mycosis fungoides/Sezary syndrome.",
-        "whyCorrect": "The deeply grooved, gyriform nucleus is termed cerebriform; such cerebriform (Sezary) cells are the malignant CD4+ T lymphocytes of mycosis fungoides/Sezary syndrome.",
+        "summary": "This is an immunohistochemical (IHC) stain: a labeled antibody binds its target antigen, and a chromogen deposits brown color wherever the antigen is present. Brown-positive nuclei therefore express the specific protein being tested, which helps classify the tumor.",
+        "whyCorrect": "This is an immunohistochemical (IHC) stain: a labeled antibody binds its target antigen, and a chromogen deposits brown color wherever the antigen is present. Brown-positive nuclei therefore express the specific protein being tested, which helps classify the tumor.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-008_bl07_f06.png",
+      "imageRef": "blpic-045_bl022_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-046",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this image, interphase nuclei are counterstained blue and a chromosome-specific fluorescent probe appears as bright green signals. Finding three green signals per nucleus, rather than the expected two, indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An extra copy of that chromosome (trisomy)"
+        },
+        {
+          "label": "B",
+          "text": "A single point mutation"
+        },
+        {
+          "label": "C",
+          "text": "Loss of one chromosome (monosomy)"
+        },
+        {
+          "label": "D",
+          "text": "A balanced reciprocal translocation"
+        },
+        {
+          "label": "E",
+          "text": "A deletion of that chromosome region"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is fluorescence in situ hybridization (FISH). Each probe signal marks one copy of the targeted chromosome; three signals instead of two means an extra copy is present (trisomy). Because FISH uses specific probes, you must know which chromosome to interrogate.",
+        "whyCorrect": "This is fluorescence in situ hybridization (FISH). Each probe signal marks one copy of the targeted chromosome; three signals instead of two means an extra copy is present (trisomy). Because FISH uses specific probes, you must know which chromosome to interrogate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-046_bl022_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-047",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This illustration shows the procedure essential for confirming ALL when blood counts are abnormal. In an adult, from which site is the needle most commonly inserted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Distal femoral metaphysis"
+        },
+        {
+          "label": "B",
+          "text": "Proximal tibial plateau"
+        },
+        {
+          "label": "C",
+          "text": "Body of the sternum"
+        },
+        {
+          "label": "D",
+          "text": "Posterior superior iliac crest"
+        },
+        {
+          "label": "E",
+          "text": "Lumbar spinous process"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
+        "whyCorrect": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-047_bl024_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-048",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The left chest radiograph from a child with T-cell ALL differs from the normal film on the right at the arrow. What abnormality does the arrow indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Anterior mediastinal mass (mediastinal lymphadenopathy)"
+        },
+        {
+          "label": "E",
+          "text": "Large pleural effusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyCorrect": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-048_bl024_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-049",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This chest radiograph shows symmetric enlargement of both hilar regions (arrows) in a young adult. Which condition is the most likely underlying cause of this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Bronchogenic carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasmosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyCorrect": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-049_bl026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-050",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This stained smear shows bacilli with a 'safety-pin' appearance (arrow). What staining feature produces this look?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central endospore formation"
+        },
+        {
+          "label": "B",
+          "text": "Bipolar staining (dye concentrates at the two poles of the bacillus)"
+        },
+        {
+          "label": "C",
+          "text": "Intracytoplasmic inclusion bodies"
+        },
+        {
+          "label": "D",
+          "text": "A refractile capsular halo"
+        },
+        {
+          "label": "E",
+          "text": "Metachromatic volutin (polar) granules"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyCorrect": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-050_bl027_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-051",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This Giemsa-stained thick blood smear shows an elongated, sheathed larval organism coiling among the red cells. What is this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trypanosoma brucei trypomastigote"
+        },
+        {
+          "label": "B",
+          "text": "Loa loa adult worm"
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium falciparum gametocyte"
+        },
+        {
+          "label": "D",
+          "text": "Wuchereria bancrofti microfilaria"
+        },
+        {
+          "label": "E",
+          "text": "Borrelia recurrentis spirochete"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyCorrect": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-051_bl028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-052",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This Giemsa-stained thick blood smear from a febrile traveler shows a long, coiled, sheathed larva among the red cells. Detection of this organism confirms infection with which parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasmodium falciparum"
+        },
+        {
+          "label": "B",
+          "text": "Babesia microti"
+        },
+        {
+          "label": "C",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma cruzi"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
+        "whyCorrect": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-052_bl028_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-053",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This thick blood smear stained with Giemsa demonstrates a single elongated sheathed microfilaria. Given this organism's periodicity, when should the blood sample ideally be collected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early in the morning at waking"
+        },
+        {
+          "label": "B",
+          "text": "Immediately after a fatty meal"
+        },
+        {
+          "label": "C",
+          "text": "At night, around 10 PM to 2 AM"
+        },
+        {
+          "label": "D",
+          "text": "At any random time of day"
+        },
+        {
+          "label": "E",
+          "text": "At midday"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
+        "whyCorrect": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-053_bl028_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-054",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this hemoglobin electrophoresis diagram, hemoglobin S migrates a shorter distance toward the anode than hemoglobin A. What property of HbS accounts for its slower migration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has a substantially higher molecular weight than HbA"
+        },
+        {
+          "label": "B",
+          "text": "It lacks beta-globin chains entirely"
+        },
+        {
+          "label": "C",
+          "text": "It is net positively charged at the gel pH"
+        },
+        {
+          "label": "D",
+          "text": "It carries a more negative charge than HbA"
+        },
+        {
+          "label": "E",
+          "text": "It carries a less negative charge than HbA"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Electrophoretic separation depends on charge: negatively charged hemoglobin moves toward the anode. The glutamate-to-valine substitution in HbS removes a negative charge, so HbS is less negatively charged than HbA and migrates less far, allowing the variants to be distinguished.",
+        "whyCorrect": "Electrophoretic separation depends on charge: negatively charged hemoglobin moves toward the anode. The glutamate-to-valine substitution in HbS removes a negative charge, so HbS is less negatively charged than HbA and migrates less far, allowing the variants to be distinguished.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-054_bl032_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-055",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This schematic illustrates the direct antiglobulin (Coombs) test. Agglutination develops after Coombs reagent is added because the patient's red cells are already coated with what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody or complement"
+        },
+        {
+          "label": "B",
+          "text": "Residual ribosomal RNA"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial surface antigens"
+        },
+        {
+          "label": "D",
+          "text": "Excess intracellular iron granules"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal hemoglobin variants"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The direct antiglobulin test detects RBCs already coated in vivo with antibody or complement. Coombs reagent (anti-human immunoglobulin/complement) cross-links these coated cells, producing visible agglutination, a positive result seen in autoimmune hemolytic anemia, hemolytic transfusion reactions, and hemolytic disease of the newborn.",
+        "whyCorrect": "The direct antiglobulin test detects RBCs already coated in vivo with antibody or complement. Coombs reagent (anti-human immunoglobulin/complement) cross-links these coated cells, producing visible agglutination, a positive result seen in autoimmune hemolytic anemia, hemolytic transfusion reactions, and hemolytic disease of the newborn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-055_bl032_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-056",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral blood smear from a patient with a marked lymphocytosis shows many small mature-appearing lymphocytes, along with a fragile cell (circled) that was crushed during slide preparation. What is this circled structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reed-Sternberg cell"
+        },
+        {
+          "label": "B",
+          "text": "Heinz body"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "D",
+          "text": "Auer rod"
+        },
+        {
+          "label": "E",
+          "text": "Smudge cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyCorrect": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-056_bl033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-057",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral blood smear shows red blood cells stacked like coins (circled areas). What underlying change produces this arrangement in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated agglutination of RBCs into clumps"
+        },
+        {
+          "label": "B",
+          "text": "Microcytosis from iron deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum immunoglobulin reduces the surface charge that normally keeps RBCs apart"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic swelling of RBCs in hypotonic plasma"
+        },
+        {
+          "label": "E",
+          "text": "Increased rigidity of the RBC membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
+        "whyCorrect": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-057_bl037_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-058",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This lateral skull radiograph shows multiple sharply demarcated, punched-out lucencies. What process produces these lesions in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic dystrophic calcification"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial osteomyelitis"
+        },
+        {
+          "label": "C",
+          "text": "Osteoclast-mediated bone resorption stimulated by infiltrating plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Osteoblastic new bone formation"
+        },
+        {
+          "label": "E",
+          "text": "Fibrous dysplasia remodeling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyCorrect": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-058_bl037_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-059",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This gel study shows a discrete band aligning in one heavy-chain lane and one light-chain lane. What does this test add beyond serum protein electrophoresis in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It assesses bone marrow cellularity"
+        },
+        {
+          "label": "B",
+          "text": "It identifies the specific heavy- and light-chain class (isotype) of the monoclonal protein"
+        },
+        {
+          "label": "C",
+          "text": "It measures the erythrocyte sedimentation rate"
+        },
+        {
+          "label": "D",
+          "text": "It detects circulating bacterial antigens"
+        },
+        {
+          "label": "E",
+          "text": "It quantifies the total serum protein concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
+        "whyCorrect": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-059_bl037_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-060",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This peripheral blood smear is from a patient with polycythemia vera. Which feature best characterizes the appearance shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Predominance of blasts containing Auer rods"
+        },
+        {
+          "label": "B",
+          "text": "Marked spherocytosis with polychromasia"
+        },
+        {
+          "label": "C",
+          "text": "A crowded field of increased but morphologically normal red cells"
+        },
+        {
+          "label": "D",
+          "text": "Numerous teardrop cells with nucleated red cells"
+        },
+        {
+          "label": "E",
+          "text": "Prominent rouleaux formation on a blue background"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
+        "whyCorrect": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-060_bl040_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-061",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The left centrifuged specimen is from a leukemia patient with a WBC count over 600,000/microL; the right is from a healthy donor. What accounts for the markedly expanded middle layer in the patient's sample?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An accumulation of plasma lipids"
+        },
+        {
+          "label": "B",
+          "text": "A massive increase in circulating white blood cells (leukocytes)"
+        },
+        {
+          "label": "C",
+          "text": "A large rise in plasma protein concentration"
+        },
+        {
+          "label": "D",
+          "text": "A marked excess of platelets alone"
+        },
+        {
+          "label": "E",
+          "text": "An expansion of the red blood cell mass (polycythemia)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
+        "whyCorrect": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-061_bl045_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-062",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The paired diagram and photograph show a large-bore needle being inserted to harvest hematopoietic stem cells. From which anatomical site is this sample most commonly obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sternum"
+        },
+        {
+          "label": "B",
+          "text": "Proximal tibia"
+        },
+        {
+          "label": "C",
+          "text": "Anterior superior iliac spine"
+        },
+        {
+          "label": "D",
+          "text": "Femoral shaft"
+        },
+        {
+          "label": "E",
+          "text": "Posterior iliac crest"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
+        "whyCorrect": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-062_bl046_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-063",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The machine depicted separates circulating stem cells while returning the remaining blood to the donor. What agent is most commonly given beforehand to mobilize these cells into the bloodstream and raise the collection yield?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rituximab"
+        },
+        {
+          "label": "B",
+          "text": "G-CSF (granulocyte colony-stimulating factor)"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin"
+        },
+        {
+          "label": "D",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous iron"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
+        "whyCorrect": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-063_bl046_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-064",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This labeled axial cross-sectional image of the upper abdomen was produced by which imaging modality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Magnetic resonance imaging (MRI)"
+        },
+        {
+          "label": "B",
+          "text": "Positron emission tomography (PET)"
+        },
+        {
+          "label": "C",
+          "text": "Plain (conventional) radiograph"
+        },
+        {
+          "label": "D",
+          "text": "Ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Computed tomography (CT)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The image is an axial CT slice: it shows a single transverse plane with soft-tissue attenuation differences distinguishing liver, stomach, aorta and spleen, and the vertebral body posteriorly. CT provides this cross-sectional bony-and-soft-tissue detail in one plane.",
+        "whyCorrect": "The image is an axial CT slice: it shows a single transverse plane with soft-tissue attenuation differences distinguishing liver, stomach, aorta and spleen, and the vertebral body posteriorly. CT provides this cross-sectional bony-and-soft-tissue detail in one plane.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-064_bl047_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-065",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This contrast CT after blunt abdominal trauma shows a darker region within the spleen (arrow) with surrounding free fluid. What is the most immediate life-threatening concern with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overwhelming post-splenectomy infection"
+        },
+        {
+          "label": "B",
+          "text": "Splenic abscess with sepsis"
+        },
+        {
+          "label": "C",
+          "text": "Portal hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Hemorrhage leading to hypovolemic shock from splenic rupture"
+        },
+        {
+          "label": "E",
+          "text": "Splenic vein thrombosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
+        "whyCorrect": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-065_bl048_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-066",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In the right-hand radiograph, the arrow marks a mediastinal contour abnormality causing loss of the upper-left heart border silhouette. In which compartment is this thymic mass located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Anterior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial cavity"
+        },
+        {
+          "label": "D",
+          "text": "Lung apex"
+        },
+        {
+          "label": "E",
+          "text": "Pleural space"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
+        "whyCorrect": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-066_bl049_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-067",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This Giemsa-stained peripheral blood smear shows a distinctive crescent (banana) shaped intracellular form. This morphology is characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasmodium vivax ring form"
+        },
+        {
+          "label": "B",
+          "text": "Plasmodium falciparum gametocyte"
+        },
+        {
+          "label": "C",
+          "text": "Babesia microti trophozoite"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma brucei trypomastigote"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
+        "whyCorrect": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-067_bl051_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-068",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These three peripheral blood smear fields show dark-stained inclusions located within red blood cells. These findings are most consistent with infection by which class of organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malarial (Plasmodium) parasites"
+        },
+        {
+          "label": "B",
+          "text": "Extracellular bacterial cocci"
+        },
+        {
+          "label": "C",
+          "text": "Intranuclear viral inclusions"
+        },
+        {
+          "label": "D",
+          "text": "Budding fungal yeast forms"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The dark-stained organisms lie inside the erythrocytes, a hallmark of intraerythrocytic malarial parasites. Bacteria, viral inclusions, and yeast forms would not produce this intra-RBC parasitized appearance across multiple fields.",
+        "whyCorrect": "The dark-stained organisms lie inside the erythrocytes, a hallmark of intraerythrocytic malarial parasites. Bacteria, viral inclusions, and yeast forms would not produce this intra-RBC parasitized appearance across multiple fields.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-068_bl051_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-069",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This blood smear shows organisms within red blood cells arranged as a four-part tetrad (compared with the cross shown for reference). This finding is characteristic of which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Babesiosis (Babesia spp.)"
+        },
+        {
+          "label": "B",
+          "text": "Falciparum malaria"
+        },
+        {
+          "label": "C",
+          "text": "Bartonellosis"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosomiasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
+        "whyCorrect": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-069_bl051_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-070",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The lower eyelid of an anemic patient has been everted to reveal the finding shown here. This clinical sign most directly reflects which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced hemoglobin concentration"
+        },
+        {
+          "label": "B",
+          "text": "Increased carboxyhemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral cyanosis from hypoxemia"
+        },
+        {
+          "label": "E",
+          "text": "Conjunctival dehydration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pallor of the palpebral conjunctiva reflects a reduced hemoglobin concentration and is a classic bedside sign of anemia. Elevated bilirubin would yellow the sclera (jaundice), and cyanosis produces a bluish rather than pale appearance.",
+        "whyCorrect": "Pallor of the palpebral conjunctiva reflects a reduced hemoglobin concentration and is a classic bedside sign of anemia. Elevated bilirubin would yellow the sclera (jaundice), and cyanosis produces a bluish rather than pale appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-070_bl054_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-071",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This Prussian blue-stained peripheral blood smear (arrows) shows blue granular inclusions clustered at the periphery of red blood cells. These inclusions are aggregates of which substance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Precipitated globin chains"
+        },
+        {
+          "label": "C",
+          "text": "Denatured hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Residual nuclear DNA"
+        },
+        {
+          "label": "E",
+          "text": "Ribosomal RNA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrows indicate Pappenheimer bodies, iron-containing granules that stain with Prussian blue and cluster at the RBC periphery. They reflect abnormal iron incorporation seen in sideroblastic anemia, not hemoglobin, nuclear, or RNA remnants.",
+        "whyCorrect": "The arrows indicate Pappenheimer bodies, iron-containing granules that stain with Prussian blue and cluster at the RBC periphery. They reflect abnormal iron incorporation seen in sideroblastic anemia, not hemoglobin, nuclear, or RNA remnants.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-071_bl058_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-072",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this hemoglobin electrophoresis schematic, hemoglobin variants migrate different distances from the origin toward the anode. What property primarily determines how far each variant travels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its molecular weight alone"
+        },
+        {
+          "label": "B",
+          "text": "Its iron content"
+        },
+        {
+          "label": "C",
+          "text": "Its oxygen affinity"
+        },
+        {
+          "label": "D",
+          "text": "Its plasma concentration"
+        },
+        {
+          "label": "E",
+          "text": "Its net electrical charge"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In gel electrophoresis, an applied electric field causes charged hemoglobin molecules to migrate; the net surface charge (determined by amino acid substitutions in the globin chains) chiefly governs the migration distance, allowing separation of variants such as HbA, HbF, HbS, and HbC.",
+        "whyCorrect": "In gel electrophoresis, an applied electric field causes charged hemoglobin molecules to migrate; the net surface charge (determined by amino acid substitutions in the globin chains) chiefly governs the migration distance, allowing separation of variants such as HbA, HbF, HbS, and HbC.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-072_bl059_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-073",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This graph plots percent RBC hemolysis against decreasing NaCl concentration for several conditions. A curve shifted to the left, so that lysis occurs at higher NaCl concentrations, indicates which change in the red cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced resistance to hypotonic lysis"
+        },
+        {
+          "label": "B",
+          "text": "Increased membrane surface-area-to-volume ratio"
+        },
+        {
+          "label": "C",
+          "text": "Reduced intracellular solute content"
+        },
+        {
+          "label": "D",
+          "text": "Increased osmotic fragility"
+        },
+        {
+          "label": "E",
+          "text": "Decreased osmotic fragility"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cells that lyse at relatively high (less hypotonic) NaCl concentrations are more fragile; this leftward-shifted curve is classic for hereditary spherocytosis, whose spherocytes have a low surface-area-to-volume ratio and rupture easily. Conditions like sickle cell anemia and thalassemia instead show decreased fragility.",
+        "whyCorrect": "Cells that lyse at relatively high (less hypotonic) NaCl concentrations are more fragile; this leftward-shifted curve is classic for hereditary spherocytosis, whose spherocytes have a low surface-area-to-volume ratio and rupture easily. Conditions like sickle cell anemia and thalassemia instead show decreased fragility.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-073_bl059_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-074",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This schematic illustrates the direct antiglobulin (Coombs) test. Agglutination of the patient's cells after adding Coombs reagent indicates what about those red blood cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are already coated with antibody or complement in vivo"
+        },
+        {
+          "label": "B",
+          "text": "They lack surface membrane antigens"
+        },
+        {
+          "label": "C",
+          "text": "They have an elevated reticulocyte count"
+        },
+        {
+          "label": "D",
+          "text": "They contain an abnormal hemoglobin variant"
+        },
+        {
+          "label": "E",
+          "text": "They have increased osmotic fragility"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The direct antiglobulin test uses anti-immunoglobulin (Coombs) reagent that cross-links RBCs already coated in vivo with antibody or complement, producing visible agglutination. A positive DAT indicates in vivo sensitization, as in autoimmune hemolytic anemia or hemolytic disease of the newborn.",
+        "whyCorrect": "The direct antiglobulin test uses anti-immunoglobulin (Coombs) reagent that cross-links RBCs already coated in vivo with antibody or complement, producing visible agglutination. A positive DAT indicates in vivo sensitization, as in autoimmune hemolytic anemia or hemolytic disease of the newborn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-074_bl059_f05.png",
       "tags": [
         "picture"
       ]

@@ -3,92 +3,1457 @@
   "categoryName": "Physiology & Mechanisms",
   "questions": [
     {
-      "id": "blpic-026",
+      "id": "blpic-147",
       "topicId": "physiology-mechanisms",
       "topicName": "Physiology & Mechanisms",
-      "stem": "This schematic shows the vitamin B12-dependent conversion of methylmalonyl-CoA to succinyl-CoA. When this reaction is disrupted, what is the MOST direct mechanism of the resulting clinical harm?",
+      "stem": "This schematic maps the differentiation of a single precursor into all blood cell types. In aplastic anemia the marrow defect shown here spares one branch relatively — cells of which lineage are LEAST reduced?",
       "choices": [
         {
           "label": "A",
-          "text": "Failure of homocysteine remethylation raises serum homocysteine and clots vessels"
+          "text": "Platelets"
         },
         {
           "label": "B",
-          "text": "Trapping of folate as methyl-THF halts thymidine synthesis in marrow precursors"
+          "text": "Monocytes"
         },
         {
           "label": "C",
-          "text": "Accumulation of methylmalonyl-CoA disrupts normal myelin formation, producing neurologic deficits"
+          "text": "Lymphocytes (lymphoid lineage)"
         },
         {
           "label": "D",
-          "text": "Depletion of heme precursors blocks hemoglobin assembly in erythroblasts"
+          "text": "Erythrocytes"
         },
         {
           "label": "E",
-          "text": "Increased purine breakdown deposits urate crystals in peripheral nerves"
+          "text": "Neutrophils"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Methylmalonyl-CoA mutase requires vitamin B12. In B12 deficiency the substrate accumulates and abnormal fatty acids are incorporated into myelin, causing demyelination and the neurologic findings (e.g., subacute combined degeneration). Folate deficiency does not affect this pathway, which is why folate deficiency lacks neurologic symptoms.",
-        "whyCorrect": "Methylmalonyl-CoA mutase requires vitamin B12. In B12 deficiency the substrate accumulates and abnormal fatty acids are incorporated into myelin, causing demyelination and the neurologic findings (e.g., subacute combined degeneration). Folate deficiency does not affect this pathway, which is why folate deficiency lacks neurologic symptoms.",
+        "summary": "Aplastic anemia is caused by loss of myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall (pancytopenia). Lymphoid progenitors arise from a separate branch of this scheme and are relatively preserved, so lymphocyte counts remain near normal on a CBC.",
+        "whyCorrect": "Aplastic anemia is caused by loss of myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall (pancytopenia). Lymphoid progenitors arise from a separate branch of this scheme and are relatively preserved, so lymphocyte counts remain near normal on a CBC.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-026_bl01_f01.png",
+      "imageRef": "blpic-147_bl000_f01.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-027",
+      "id": "blpic-148",
       "topicId": "physiology-mechanisms",
       "topicName": "Physiology & Mechanisms",
-      "stem": "The highlighted enzyme in this schematic cleaves ultra-large von Willebrand factor multimers. A deficiency of this enzyme causes which disorder?",
+      "stem": "Compared with the cells on the left, the cells on the right have lost the shape that normally lets red cells deform. What is the main clinical consequence of this altered morphology?",
       "choices": [
         {
           "label": "A",
-          "text": "von Willebrand disease"
+          "text": "A marked reduction in the oxygen-carrying capacity of each cell"
         },
         {
           "label": "B",
-          "text": "Disseminated intravascular coagulation (DIC)"
+          "text": "Failure to be recognized and cleared by the reticuloendothelial system"
         },
         {
           "label": "C",
-          "text": "Thrombotic thrombocytopenic purpura (TTP)"
+          "text": "Increased entrapment and destruction within the splenic sinusoids"
         },
         {
           "label": "D",
+          "text": "Widespread intravascular hemolysis within small capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the ability to bind and consume haptoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The rounded cells on the right (spherocytes) lack the membrane excess that allows normal biconcave cells to squeeze through splenic sinusoids, so they are trapped and destroyed there, producing extravascular hemolysis. Their oxygen-carrying capacity remains essentially normal.",
+        "whyCorrect": "The rounded cells on the right (spherocytes) lack the membrane excess that allows normal biconcave cells to squeeze through splenic sinusoids, so they are trapped and destroyed there, producing extravascular hemolysis. Their oxygen-carrying capacity remains essentially normal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-148_bl001_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-149",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In this schematic, HbS molecules aggregate into long strands when blood becomes deoxygenated, distorting the cell. What molecular process deforms the red blood cell into a sickle shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic swelling from water influx"
+        },
+        {
+          "label": "B",
+          "text": "Polymerization of deoxygenated HbS"
+        },
+        {
+          "label": "C",
+          "text": "Antibody-mediated agglutination"
+        },
+        {
+          "label": "D",
+          "text": "Loss of membrane spectrin"
+        },
+        {
+          "label": "E",
+          "text": "Oxidation of hemoglobin to methemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the taut, deoxygenated state the exposed hydrophobic valine residues cause HbS molecules to line up into rigid polymers. These insoluble strands physically contort the RBC into a sickle shape.",
+        "whyCorrect": "In the taut, deoxygenated state the exposed hydrophobic valine residues cause HbS molecules to line up into rigid polymers. These insoluble strands physically contort the RBC into a sickle shape.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-149_bl002_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-150",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This labeled diagram shows the enzyme (in red) driving conversion of glucose-6-phosphate to 6-phosphogluconate while cycling NADP+/NADPH and oxidized/reduced glutathione. Deficiency of this enzyme most directly causes which consequence in red blood cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerated iron incorporation into heme"
+        },
+        {
+          "label": "B",
+          "text": "Increased ATP production for membrane ion pumps"
+        },
+        {
+          "label": "C",
+          "text": "Increased susceptibility to oxidative injury and hemolysis"
+        },
+        {
+          "label": "D",
+          "text": "Excessive 2,3-BPG accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Increased oxygen affinity of hemoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram is the hexose monophosphate (pentose phosphate) shunt step catalyzed by G6PD, which regenerates NADPH. NADPH keeps glutathione reduced so it can detoxify peroxides; when G6PD is deficient, reduced glutathione falls and RBCs cannot neutralize oxidative stress, leading to hemolysis.",
+        "whyCorrect": "The diagram is the hexose monophosphate (pentose phosphate) shunt step catalyzed by G6PD, which regenerates NADPH. NADPH keeps glutathione reduced so it can detoxify peroxides; when G6PD is deficient, reduced glutathione falls and RBCs cannot neutralize oxidative stress, leading to hemolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-150_bl003_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-151",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This pentameric antibody is characteristic of cold autoimmune hemolytic anemia. Which property allows it to cause the red cell clumping illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It opsonizes cells only for splenic phagocytosis at body temperature"
+        },
+        {
+          "label": "B",
+          "text": "It inserts directly into the RBC membrane to form lytic pores"
+        },
+        {
+          "label": "C",
+          "text": "It binds the Rh D antigen with high avidity at 37 degrees C"
+        },
+        {
+          "label": "D",
+          "text": "It is warm-reactive and most active in the trunk vasculature"
+        },
+        {
+          "label": "E",
+          "text": "Its ten antigen-binding sites let a single molecule bridge multiple RBCs, agglutinating them"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "As a pentamer with ten binding sites, this antibody cross-links several red cells at once, forming the agglutinates typical of cold AHA when blood cools.",
+        "whyCorrect": "As a pentamer with ten binding sites, this antibody cross-links several red cells at once, forming the agglutinates typical of cold AHA when blood cools.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-151_bl004_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-152",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic shows the metabolic pathway leading from fatty acids and branched-chain amino acids to myelin. The enzyme converting methylmalonyl-CoA to succinyl-CoA requires a cofactor; when that cofactor is deficient, which substance accumulates and can be measured in serum to confirm the deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactic acid"
+        },
+        {
+          "label": "B",
+          "text": "Ammonia"
+        },
+        {
+          "label": "C",
+          "text": "Methylmalonic acid"
+        },
+        {
+          "label": "D",
+          "text": "Homocysteine"
+        },
+        {
+          "label": "E",
+          "text": "Uric acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The reaction converting methylmalonyl-CoA to succinyl-CoA is catalyzed by methylmalonyl-CoA mutase, which uses vitamin B12 as a cofactor. In B12 deficiency this step is blocked, methylmalonyl-CoA accumulates, and elevated serum methylmalonic acid results, impairing myelin synthesis and producing neurologic deficits.",
+        "whyCorrect": "The reaction converting methylmalonyl-CoA to succinyl-CoA is catalyzed by methylmalonyl-CoA mutase, which uses vitamin B12 as a cofactor. In B12 deficiency this step is blocked, methylmalonyl-CoA accumulates, and elevated serum methylmalonic acid results, impairing myelin synthesis and producing neurologic deficits.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-152_bl005_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-153",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "The process illustrated, which reinforces the soft platelet plug, is significant because it accomplishes what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It triggers vasoconstriction to slow bleeding"
+        },
+        {
+          "label": "B",
+          "text": "It chelates calcium to halt further clotting"
+        },
+        {
+          "label": "C",
+          "text": "It mediates the initial platelet adhesion to collagen"
+        },
+        {
+          "label": "D",
+          "text": "It dissolves the platelet plug once repair is complete"
+        },
+        {
+          "label": "E",
+          "text": "It stabilizes the temporary platelet plug into a permanent crosslinked fibrin clot (secondary hemostasis)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure depicts secondary hemostasis: tissue factor drives thrombin generation, which converts fibrinogen to fibrin. The fibrin mesh weaves through and stabilizes the fragile platelet plug into a durable clot.",
+        "whyCorrect": "The figure depicts secondary hemostasis: tissue factor drives thrombin generation, which converts fibrinogen to fibrin. The fibrin mesh weaves through and stabilizes the fragile platelet plug into a durable clot.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-153_bl007_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-154",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "Based on the ion highlighted at multiple steps throughout this cascade, why does collecting blood in an EDTA or citrate tube prevent it from clotting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They enhance antithrombin activity like heparin"
+        },
+        {
+          "label": "B",
+          "text": "They directly inhibit thrombin at the final common pathway"
+        },
+        {
+          "label": "C",
+          "text": "EDTA and citrate chelate calcium, which is required as a cofactor at numerous points of the coagulation cascade"
+        },
+        {
+          "label": "D",
+          "text": "They block vitamin K-dependent gamma-carboxylation"
+        },
+        {
+          "label": "E",
+          "text": "They activate plasmin to degrade any fibrin that forms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure marks calcium (Ca2+) participating in the intrinsic, extrinsic, and common pathways. Chelating agents like EDTA and citrate bind free calcium, so its removal blocks the cascade at multiple steps and keeps collected blood liquid.",
+        "whyCorrect": "The figure marks calcium (Ca2+) participating in the intrinsic, extrinsic, and common pathways. Chelating agents like EDTA and citrate bind free calcium, so its removal blocks the cascade at multiple steps and keeps collected blood liquid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-154_bl007_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-155",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "The three natural inhibitors acting at the points marked on this cascade share what overall physiologic purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They accelerate platelet adhesion at the injury site"
+        },
+        {
+          "label": "B",
+          "text": "They dissolve fibrin strands within already-formed clots"
+        },
+        {
+          "label": "C",
+          "text": "They keep coagulation localized and self-limited, preventing runaway clot formation"
+        },
+        {
+          "label": "D",
+          "text": "They promote vasoconstriction of the damaged vessel"
+        },
+        {
+          "label": "E",
+          "text": "They drive hepatic synthesis of new clotting factors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram shows TFPI, activated Protein C, and antithrombin turning off the cascade at specific steps. These anticoagulant mechanisms restrain clotting to the site of injury and shut it down when no longer needed; clot breakdown itself is a separate fibrinolytic process.",
+        "whyCorrect": "The diagram shows TFPI, activated Protein C, and antithrombin turning off the cascade at specific steps. These anticoagulant mechanisms restrain clotting to the site of injury and shut it down when no longer needed; clot breakdown itself is a separate fibrinolytic process.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-155_bl007_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-156",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "All four red cells depicted carry a common precursor surface antigen that is present even on the cell shown without colored antigen dots. What is this shared precursor antigen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "H antigen"
+        },
+        {
+          "label": "B",
+          "text": "Lewis antigen"
+        },
+        {
+          "label": "C",
+          "text": "i antigen"
+        },
+        {
+          "label": "D",
+          "text": "D (Rh) antigen"
+        },
+        {
+          "label": "E",
+          "text": "Kell antigen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Every red cell, including type O cells that lack A and B sugars, expresses the H antigen precursor. Enzymes add A or B sugars onto the H substrate to form the A and B antigens; type O cells leave the H antigen unmodified.",
+        "whyCorrect": "Every red cell, including type O cells that lack A and B sugars, expresses the H antigen precursor. Enzymes add A or B sugars onto the H substrate to form the A and B antigens; type O cells leave the H antigen unmodified.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-156_bl008_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-157",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This sequence shows an Rh-negative mother sensitized in a first pregnancy who then harms an Rh-positive fetus in a later pregnancy. Which maternal antibody class is responsible for crossing the placenta and attacking fetal red cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgD"
+        },
+        {
+          "label": "B",
+          "text": "IgA"
+        },
+        {
+          "label": "C",
+          "text": "IgM"
+        },
+        {
+          "label": "D",
+          "text": "IgG"
+        },
+        {
+          "label": "E",
+          "text": "IgE"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Initial sensitization produces IgM, which is too large to cross the placenta. On re-exposure the mother makes IgG anti-Rh antibodies, which do cross the placenta and hemolyze fetal Rh-positive red cells, causing hemolytic disease of the newborn.",
+        "whyCorrect": "Initial sensitization produces IgM, which is too large to cross the placenta. On re-exposure the mother makes IgG anti-Rh antibodies, which do cross the placenta and hemolyze fetal Rh-positive red cells, causing hemolytic disease of the newborn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-157_bl008_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-158",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In this diagram of the clotting cascade, the two marked deficiencies (factor VIII and factor IX) both disrupt the same limb of coagulation. What pattern of routine coagulation studies would result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prolongation of both PT and aPTT"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged PT with a normal aPTT"
+        },
+        {
+          "label": "C",
+          "text": "Isolated prolonged thrombin time"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged aPTT with a normal PT"
+        },
+        {
+          "label": "E",
+          "text": "Isolated prolonged bleeding time with normal aPTT"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Factors VIII and IX act in the intrinsic arm of the cascade, which is measured by the activated partial thromboplastin time (aPTT). Their deficiency therefore prolongs the aPTT while leaving the extrinsic-pathway-dependent PT normal.",
+        "whyCorrect": "Factors VIII and IX act in the intrinsic arm of the cascade, which is measured by the activated partial thromboplastin time (aPTT). Their deficiency therefore prolongs the aPTT while leaving the extrinsic-pathway-dependent PT normal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-158_bl009_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-159",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram traces how the gene defect underlying hemophilia A and B passes from an unaffected father and a carrier mother to their children. What inheritance pattern does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitochondrial (maternal)"
+        },
+        {
+          "label": "B",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal recessive"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hemophilia A and B are X-linked recessive disorders. Sons of a carrier mother have a 50% chance of being affected, and daughters have a 50% chance of being carriers, which is why the disease predominantly affects males.",
+        "whyCorrect": "Hemophilia A and B are X-linked recessive disorders. Sons of a carrier mother have a 50% chance of being affected, and daughters have a 50% chance of being carriers, which is why the disease predominantly affects males.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-159_bl009_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-160",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This graph plots the relative contribution of different organs to hematopoiesis across gestation. When does the bone marrow first become the dominant hematopoietic organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At the same time as the yolk sac phase"
+        },
+        {
+          "label": "B",
+          "text": "In the middle of the second trimester"
+        },
+        {
+          "label": "C",
+          "text": "During the third trimester, approaching birth"
+        },
+        {
+          "label": "D",
+          "text": "During the first month of embryonic life"
+        },
+        {
+          "label": "E",
+          "text": "Only after the first year of postnatal life"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The curves show hematopoiesis beginning in the yolk sac, shifting to the liver (with a minor spleen contribution) through mid-gestation, and being taken over by the bone marrow late in gestation so that the marrow is the predominant site by the third trimester and birth.",
+        "whyCorrect": "The curves show hematopoiesis beginning in the yolk sac, shifting to the liver (with a minor spleen contribution) through mid-gestation, and being taken over by the bone marrow late in gestation so that the marrow is the predominant site by the third trimester and birth.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-160_bl010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-161",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram illustrates how the gene defect responsible for von Willebrand disease is most commonly passed from parents to offspring. Which mode of inheritance is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial (maternal)"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal dominant"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The pedigree shows an affected parent transmitting the trait to roughly half of the children of either sex, with no skipping of generations and no sex predominance, which is the pattern of autosomal dominant inheritance. Most cases of von Willebrand disease follow this pattern, although rare autosomal recessive (e.g., type 3) forms exist.",
+        "whyCorrect": "The pedigree shows an affected parent transmitting the trait to roughly half of the children of either sex, with no skipping of generations and no sex predominance, which is the pattern of autosomal dominant inheritance. Most cases of von Willebrand disease follow this pattern, although rare autosomal recessive (e.g., type 3) forms exist.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-161_bl011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-162",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic maps the coagulation cascade and highlights where the inherited thrombotic disorders act. In the group of disorders that BLOCK termination of thrombosis, which physiologic anticoagulant is depicted inactivating both factor Va and factor VIIIa?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated protein C (with protein S as cofactor)"
+        },
+        {
+          "label": "B",
+          "text": "Antithrombin"
+        },
+        {
+          "label": "C",
+          "text": "Thrombomodulin"
+        },
+        {
+          "label": "D",
+          "text": "Plasmin"
+        },
+        {
+          "label": "E",
+          "text": "Tissue factor pathway inhibitor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Activated protein C, using protein S as a cofactor, proteolytically inactivates factors Va and VIIIa to switch off the common pathway. Factor V Leiden resists this cleavage, and protein C or S deficiency removes this brake, both causing hypercoagulability. Antithrombin instead inhibits thrombin and factor Xa.",
+        "whyCorrect": "Activated protein C, using protein S as a cofactor, proteolytically inactivates factors Va and VIIIa to switch off the common pathway. Factor V Leiden resists this cleavage, and protein C or S deficiency removes this brake, both causing hypercoagulability. Antithrombin instead inhibits thrombin and factor Xa.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-162_bl014_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-163",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This illustration shows the structure that forms within a blood vessel to stop bleeding. Which blood component aggregates first to initiate formation of this structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages"
+        },
+        {
+          "label": "C",
+          "text": "Platelets"
+        },
+        {
+          "label": "D",
+          "text": "Erythrocytes"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The image depicts a hemostatic clot plugging a vessel. Clot formation begins with platelet adhesion and aggregation at the site of injury, which then triggers the fibrin mesh that stabilizes the clot.",
+        "whyCorrect": "The image depicts a hemostatic clot plugging a vessel. Clot formation begins with platelet adhesion and aggregation at the site of injury, which then triggers the fibrin mesh that stabilizes the clot.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-163_bl016_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-164",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic shows how IgG antiplatelet antibodies coat platelets, which are then bound by macrophage Fc receptors and phagocytosed. Based on this mechanism, why are platelet transfusions generally ineffective in ITP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The donor platelets are permanently sequestered and stored intact within the liver"
+        },
+        {
+          "label": "B",
+          "text": "The transfused platelets are also coated by circulating antibody and are rapidly cleared by splenic macrophages"
+        },
+        {
+          "label": "C",
+          "text": "The infused platelets suppress the patient's own megakaryocyte production"
+        },
+        {
+          "label": "D",
+          "text": "Transfused platelets provoke a severe anaphylactic transfusion reaction"
+        },
+        {
+          "label": "E",
+          "text": "Antibodies consume the transfused platelets' clotting factors before they can function"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diagram shows opsonization of platelets by IgG and their destruction by macrophages via Fc receptors in the spleen. Any transfused platelets are opsonized by the same circulating antibody and destroyed just as fast as the patient's own, so transfusion gives only a fleeting rise and is reserved for severe, actively bleeding patients.",
+        "whyCorrect": "The diagram shows opsonization of platelets by IgG and their destruction by macrophages via Fc receptors in the spleen. Any transfused platelets are opsonized by the same circulating antibody and destroyed just as fast as the patient's own, so transfusion gives only a fleeting rise and is reserved for severe, actively bleeding patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-164_bl018_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-165",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic shows platelets adhering to a damaged vessel wall via several labeled surface glycoprotein receptors and their ligands. A deficiency of which labeled receptor is responsible for Bernard-Soulier syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The collagen receptor"
+        },
+        {
+          "label": "B",
+          "text": "P2Y12"
+        },
+        {
+          "label": "C",
+          "text": "GPIb"
+        },
+        {
+          "label": "D",
+          "text": "GPIIb/IIIa"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinogen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GPIb is the platelet receptor that binds von Willebrand factor to mediate initial adhesion. In Bernard-Soulier syndrome platelets lack normal GPIb, so they cannot bind vWF and fail to aggregate in response to ristocetin despite normal responses to other agonists.",
+        "whyCorrect": "GPIb is the platelet receptor that binds von Willebrand factor to mediate initial adhesion. In Bernard-Soulier syndrome platelets lack normal GPIb, so they cannot bind vWF and fail to aggregate in response to ristocetin despite normal responses to other agonists.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-165_bl019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-166",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram shows the normal enzymatic cleavage of ultra-large von Willebrand factor multimers at the endothelium. Loss of this depicted function would most likely cause which disease?",
+      "choices": [
+        {
+          "label": "A",
           "text": "Hemolytic-uremic syndrome (HUS)"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Thrombotic thrombocytopenic purpura (TTP)"
+        },
+        {
+          "label": "C",
           "text": "Immune thrombocytopenic purpura (ITP)"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated intravascular coagulation (DIC)"
+        },
+        {
+          "label": "E",
+          "text": "Hemophilia A"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "ADAMTS13 normally trims ultra-large vWF multimers so they cannot bind platelets. Its deficiency leaves these multimers intact, driving platelet microthrombi and TTP.",
-        "whyCorrect": "ADAMTS13 normally trims ultra-large vWF multimers so they cannot bind platelets. Its deficiency leaves these multimers intact, driving platelet microthrombi and TTP.",
+        "summary": "The enzyme shown normally cleaves ultra-large vWF multimers; its deficiency leaves these sticky multimers uncleaved, causing platelet-rich microthrombi characteristic of TTP.",
+        "whyCorrect": "The enzyme shown normally cleaves ultra-large vWF multimers; its deficiency leaves these sticky multimers uncleaved, causing platelet-rich microthrombi characteristic of TTP.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-027_bl04_f03.png",
+      "imageRef": "blpic-166_bl020_f03.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-028",
+      "id": "blpic-167",
       "topicId": "physiology-mechanisms",
       "topicName": "Physiology & Mechanisms",
-      "stem": "This schematic shows a red blood cell passing a thrombus and emerging as a schistocyte. This mechanism underlies which finding?",
+      "stem": "The vessel depicted shows uncleaved ultra-large multimers trapping platelets into thrombi. As red cells are sheared passing these thrombi, which type of anemia develops?",
       "choices": [
         {
           "label": "A",
+          "text": "Warm autoimmune hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "C",
           "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Megaloblastic anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The platelet-vWF thrombi mechanically fragment passing erythrocytes, producing the microangiopathic hemolytic anemia seen in TTP.",
+        "whyCorrect": "The platelet-vWF thrombi mechanically fragment passing erythrocytes, producing the microangiopathic hemolytic anemia seen in TTP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-167_bl020_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-168",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic shows a red cell contacting an intravascular thrombus and being cut as it passes. This mechanism is the basis of which finding in thrombotic microangiopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Immune thrombocytopenia"
+        },
+        {
+          "label": "C",
+          "text": "Neutropenia"
+        },
+        {
+          "label": "D",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Polycythemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thrombus acts like a blade, shearing intact erythrocytes into fragmented cells; this intravascular mechanical hemolysis defines microangiopathic hemolytic anemia.",
+        "whyCorrect": "The thrombus acts like a blade, shearing intact erythrocytes into fragmented cells; this intravascular mechanical hemolysis defines microangiopathic hemolytic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-168_bl020_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-169",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic depicts the metabolic pathway that generates NADPH in the mature red blood cell. What is the primary protective role of the NADPH produced here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reducing methemoglobin back to functional hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Regenerating reduced glutathione (GSH) to neutralize oxidative species"
+        },
+        {
+          "label": "C",
+          "text": "Providing ATP to power the Na+/K+ membrane pump"
+        },
+        {
+          "label": "D",
+          "text": "Producing lactate to sustain anaerobic glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Synthesizing 2,3-BPG to lower hemoglobin oxygen affinity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the pentose phosphate pathway, glucose-6-phosphate dehydrogenase (G6PD) generates NADPH, which regenerates reduced glutathione (GSH) via glutathione reductase. GSH is then used by glutathione peroxidase to neutralize peroxides and other reactive oxygen species, protecting the RBC from oxidative damage and hemolysis.",
+        "whyCorrect": "In the pentose phosphate pathway, glucose-6-phosphate dehydrogenase (G6PD) generates NADPH, which regenerates reduced glutathione (GSH) via glutathione reductase. GSH is then used by glutathione peroxidase to neutralize peroxides and other reactive oxygen species, protecting the RBC from oxidative damage and hemolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-169_bl021_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-170",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram shows the enzymatic pathways that reduce methemoglobin (Hb-Fe3+) back to functional hemoglobin. Methylene blue is used to treat acquired methemoglobinemia by stimulating one of these routes. Which pathway does methylene blue activate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cytochrome b5 reductase (NADH-dependent) pathway"
+        },
+        {
+          "label": "B",
+          "text": "Direct chemical binding of ferric heme"
+        },
+        {
+          "label": "C",
+          "text": "The catalase pathway"
+        },
+        {
+          "label": "D",
+          "text": "The NADPH-dependent methemoglobin reductase pathway"
+        },
+        {
+          "label": "E",
+          "text": "The glutathione peroxidase pathway"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Methylene blue is reduced to leukomethylene blue by NADPH-methemoglobin reductase, using NADPH supplied by G6PD in the pentose phosphate pathway; leukomethylene blue then reduces metHb. Because this route depends on NADPH, methylene blue is ineffective and relatively contraindicated in G6PD-deficient patients. Under normal conditions cytochrome b5 reductase performs the majority of metHb reduction.",
+        "whyCorrect": "Methylene blue is reduced to leukomethylene blue by NADPH-methemoglobin reductase, using NADPH supplied by G6PD in the pentose phosphate pathway; leukomethylene blue then reduces metHb. Because this route depends on NADPH, methylene blue is ineffective and relatively contraindicated in G6PD-deficient patients. Under normal conditions cytochrome b5 reductase performs the majority of metHb reduction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-170_bl021_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-171",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic traces how a single precursor at the top of the hierarchy gives rise to every mature blood cell, split into myeloid and lymphoid lines. Malignant transformation of that precursor produces myeloid or lymphoid neoplasms. In which anatomic site does this precursor normally reside and begin differentiation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Thymus"
+        },
+        {
+          "label": "D",
+          "text": "Spleen"
+        },
+        {
+          "label": "E",
+          "text": "Circulating peripheral blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The single precursor at the apex is the hematopoietic stem cell, which resides in the bone marrow. Early differentiation into both the myeloid and lymphoid lineages occurs there before mature cells are released into the blood.",
+        "whyCorrect": "The single precursor at the apex is the hematopoietic stem cell, which resides in the bone marrow. Early differentiation into both the myeloid and lymphoid lineages occurs there before mature cells are released into the blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-171_bl022_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-172",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This graph plots the logarithm of tumor cell number against time during chemotherapy, showing sawtooth reductions with each treatment. What core principle of tumor kinetics does this curve illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single dose can eradicate all tumor cells if the dose is high enough"
+        },
+        {
+          "label": "B",
+          "text": "Each dose kills a constant absolute number of tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "Tumor regrowth between doses is impossible once treatment starts"
+        },
+        {
+          "label": "D",
+          "text": "Tumor cells stop dividing entirely once therapy begins"
+        },
+        {
+          "label": "E",
+          "text": "Each dose kills a constant fraction (not a constant number) of tumor cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The plot depicts the log-cell kill hypothesis: because chemotherapy follows first-order kinetics, each cycle destroys a fixed proportion of remaining cells, so tumor burden falls logarithmically and multiple cycles are required to reach a clinically undetectable level.",
+        "whyCorrect": "The plot depicts the log-cell kill hypothesis: because chemotherapy follows first-order kinetics, each cycle destroys a fixed proportion of remaining cells, so tumor burden falls logarithmically and multiple cycles are required to reach a clinically undetectable level.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-172_bl023_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-173",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This step-wise graph shows tumor cell count dropping by an equal proportion after each labeled 'X Dose'. What does the repeated 'constant fraction of cell kill' bracket demonstrate about why cure requires many cycles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Each dose becomes progressively more potent as tumor burden falls"
+        },
+        {
+          "label": "B",
+          "text": "A single dose reduces the tumor to zero cells"
+        },
+        {
+          "label": "C",
+          "text": "Later doses kill a larger absolute number of cells than early doses"
+        },
+        {
+          "label": "D",
+          "text": "Each identical dose eliminates the same percentage of surviving cells, so absolute kill shrinks as fewer cells remain"
+        },
+        {
+          "label": "E",
+          "text": "The tumor becomes resistant after the first dose, halting further kill"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because a fixed fraction is killed each cycle, the number of cells destroyed decreases as the population shrinks, meaning several cycles are needed to drive the count low enough for the immune system or other therapy to clear residual disease.",
+        "whyCorrect": "Because a fixed fraction is killed each cycle, the number of cells destroyed decreases as the population shrinks, meaning several cycles are needed to drive the count low enough for the immune system or other therapy to clear residual disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-173_bl023_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-174",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This illustration shows an alkylating agent modifying DNA across three sequential panels. What is the ultimate cellular consequence depicted by the fragmented strand in the final panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improved fidelity of DNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic reversal of the alkyl adducts by a methyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Increased transcription of DNA repair genes"
+        },
+        {
+          "label": "D",
+          "text": "Restoration of normal complementary base pairing"
+        },
+        {
+          "label": "E",
+          "text": "DNA strand breakage that suppresses replication and triggers apoptosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
+        "whyCorrect": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-174_bl029_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-175",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram maps the folate cycle that produces thymidine. What is the direct downstream consequence of the drug-mediated enzyme inhibition shown blocking dihydrofolate reductase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetrahydrofolate cannot be regenerated, so dUMP is no longer converted to dTMP and DNA synthesis stalls"
+        },
+        {
+          "label": "B",
+          "text": "dTMP accumulates and feedback-inhibits thymidylate synthase to protect the cell"
+        },
+        {
+          "label": "C",
+          "text": "Excess tetrahydrofolate is shunted into increased purine synthesis"
+        },
+        {
+          "label": "D",
+          "text": "dUMP and dTMP become covalently crosslinked within the DNA strand"
+        },
+        {
+          "label": "E",
+          "text": "Thymidylate synthase is activated to bypass the folate requirement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
+        "whyCorrect": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-175_bl030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-176",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic contrasts the enzymatic mechanisms of the two DNA-relaxing enzymes shown on the left and on the right. What is the key mechanistic difference between them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left enzyme requires ATP, while the right enzyme cuts a single strand without energy"
+        },
+        {
+          "label": "B",
+          "text": "The left enzyme adds nucleotides while the right enzyme removes them"
+        },
+        {
+          "label": "C",
+          "text": "The left enzyme cleaves only one DNA strand, while the right enzyme cleaves both strands and requires ATP"
+        },
+        {
+          "label": "D",
+          "text": "Both enzymes cleave double strands, but only the right one is reversible"
+        },
+        {
+          "label": "E",
+          "text": "Both enzymes cut a single strand, but only the left one needs ATP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
+        "whyCorrect": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-176_bl031_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-177",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic contrasts erythropoietin signaling in a normal red-cell precursor with that in polycythemia vera. What is the key molecular abnormality driving the uncontrolled cell growth depicted on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal secretion of erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Overexpression of the erythropoietin receptor on the cell surface"
+        },
+        {
+          "label": "C",
+          "text": "Loss of a tumor suppressor gene controlling apoptosis"
+        },
+        {
+          "label": "D",
+          "text": "A JAK2 mutation causing constitutive, EPO-independent activation of the signaling pathway"
+        },
+        {
+          "label": "E",
+          "text": "A BCR-ABL fusion tyrosine kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
+        "whyCorrect": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-177_bl040_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-178",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "The post-transplant recovery timeline shown distinguishes an early from a late form of one immune complication on the allogeneic track. Around which time point does the transition from acute to chronic graft-versus-host disease conventionally occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 14 days after infusion"
+        },
+        {
+          "label": "B",
+          "text": "About 100 days after infusion"
+        },
+        {
+          "label": "C",
+          "text": "About 7 days after infusion"
+        },
+        {
+          "label": "D",
+          "text": "About 30 days after infusion"
+        },
+        {
+          "label": "E",
+          "text": "About 2 years after infusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
+        "whyCorrect": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-178_bl046_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-179",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "Based on the open-circulation pathway diagrammed, why does routing blood through the splenic cords allow effective red cell filtration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cords add oxygen to passing red cells before they return to circulation"
+        },
+        {
+          "label": "B",
+          "text": "Blood is centrifuged by rapid arteriolar spin to separate cells by density"
+        },
+        {
+          "label": "C",
+          "text": "The cords produce antibodies that coat and remove every passing red cell"
+        },
+        {
+          "label": "D",
+          "text": "Splenic cords chemically lyse all red cells regardless of their condition"
+        },
+        {
+          "label": "E",
+          "text": "RBCs must squeeze through narrow slits to re-enter sinusoids, so only flexible healthy cells pass while damaged rigid cells are retained and phagocytosed"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In open circulation, blood empties into the splenic cords and RBCs must deform to pass through slits between sinusoidal stave cells. Aged or abnormal (inflexible) RBCs cannot pass and are retained and destroyed by cord macrophages, while healthy deformable cells re-enter the sinusoids.",
+        "whyCorrect": "In open circulation, blood empties into the splenic cords and RBCs must deform to pass through slits between sinusoidal stave cells. Aged or abnormal (inflexible) RBCs cannot pass and are retained and destroyed by cord macrophages, while healthy deformable cells re-enter the sinusoids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-179_bl047_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-180",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In this overview of splenic microanatomy, the marginal zone positioned between the white pulp and red pulp primarily serves which function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It filters lymph delivered by afferent lymphatic vessels"
+        },
+        {
+          "label": "B",
+          "text": "It stores the body's entire platelet reserve for clotting"
+        },
+        {
+          "label": "C",
+          "text": "It continuously screens blood for antigens and traps pathogens/opsonized cells for presentation to lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "It secretes digestive enzymes into the portal circulation"
+        },
+        {
+          "label": "E",
+          "text": "It generates new red blood cells in the adult by erythropoiesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The marginal zone sits at the interface of white and red pulp and is the site where blood-borne antigens, opsonized bacteria and immune complexes are captured and handed off to B cells and to T cells in the PALS, linking innate blood filtration with adaptive immunity.",
+        "whyCorrect": "The marginal zone sits at the interface of white and red pulp and is the site where blood-borne antigens, opsonized bacteria and immune complexes are captured and handed off to B cells and to T cells in the PALS, linking innate blood filtration with adaptive immunity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-180_bl047_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-181",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram of the portal venous system helps explain why chronic liver disease leads to splenomegaly. Which mechanism is primarily responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Entrapment of rigid red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Increased splenic immune hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Extramedullary hematopoiesis within the spleen"
+        },
+        {
+          "label": "D",
+          "text": "Infiltration by amyloid protein"
+        },
+        {
+          "label": "E",
+          "text": "Increased portal and splenic vein pressure causing vascular congestion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
+        "whyCorrect": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-181_bl048_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-182",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram depicts the fate of developing T cells based on how strongly their receptors bind self-antigen. What is the primary purpose of eliminating cells that bind self-antigen with high affinity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To increase B-cell antibody diversity"
+        },
+        {
+          "label": "B",
+          "text": "To establish central tolerance and prevent autoimmunity"
+        },
+        {
+          "label": "C",
+          "text": "To promote clonal proliferation of effector cells"
+        },
+        {
+          "label": "D",
+          "text": "To generate red blood cell precursors"
+        },
+        {
+          "label": "E",
+          "text": "To expand memory T-cell populations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
+        "whyCorrect": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-182_bl049_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-183",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram maps the neural pathways and structures that trigger nausea and vomiting. The structure labeled as the chemoreceptor trigger zone (area postrema) is uniquely able to sense blood-borne emetic agents such as chemotherapy drugs. What structural feature allows it to do this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the only brain region expressing histamine-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "It receives direct arterial supply that bypasses the systemic circulation"
+        },
+        {
+          "label": "C",
+          "text": "It contains dense sympathetic ganglia that amplify vagal signals"
+        },
+        {
+          "label": "D",
+          "text": "It lies outside the blood-brain barrier, so circulating toxins can reach its chemoreceptors"
+        },
+        {
+          "label": "E",
+          "text": "It secretes cerebrospinal fluid directly into the fourth ventricle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
+        "whyCorrect": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-183_bl050_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-184",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This schematic traces the signaling cascade of a peptide hormone (top center) that is upregulated by plasma iron and inflammatory cytokines but suppressed by increased erythropoietic activity. Sustained overactivity of this cascade is the central mechanism underlying which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-thalassemia major"
         },
         {
           "label": "B",
@@ -96,25 +1461,64 @@
         },
         {
           "label": "C",
-          "text": "Hereditary spherocytosis"
+          "text": "Acute hemolytic anemia"
         },
         {
           "label": "D",
-          "text": "Thalassemia"
+          "text": "Sideroblastic anemia"
         },
         {
           "label": "E",
-          "text": "Autoimmune hemolytic anemia"
+          "text": "Hereditary hemochromatosis"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "The intraluminal thrombus acts like a blade, cutting red cells that contact it into fragments (schistocytes); this mechanical, intravascular destruction defines microangiopathic hemolytic anemia.",
-        "whyCorrect": "The intraluminal thrombus acts like a blade, cutting red cells that contact it into fragments (schistocytes); this mechanical, intravascular destruction defines microangiopathic hemolytic anemia.",
+        "summary": "The hormone is hepcidin. Inflammatory cytokines drive hepcidin, which internalizes and degrades ferroportin, trapping iron inside enterocytes and macrophages and lowering serum iron. Chronic inflammation therefore produces the functional iron restriction of anemia of chronic disease. Hemochromatosis, by contrast, results from inappropriately LOW hepcidin.",
+        "whyCorrect": "The hormone is hepcidin. Inflammatory cytokines drive hepcidin, which internalizes and degrades ferroportin, trapping iron inside enterocytes and macrophages and lowering serum iron. Chronic inflammation therefore produces the functional iron restriction of anemia of chronic disease. Hemochromatosis, by contrast, results from inappropriately LOW hepcidin.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-028_bl04_f07.png",
+      "imageRef": "blpic-184_bl054_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-185",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This signaling schematic shows the central hormone of iron regulation that is upregulated in chronic inflammation, leading to internalization and degradation of ferroportin-1. Which inflammatory mediator most directly drives increased production of this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-10 (IL-10)"
+        },
+        {
+          "label": "C",
+          "text": "Interferon-gamma (IFN-gamma)"
+        },
+        {
+          "label": "D",
+          "text": "Interleukin-6 (IL-6)"
+        },
+        {
+          "label": "E",
+          "text": "Transforming growth factor-beta (TGF-beta)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IL-6 is the principal inflammatory cytokine that stimulates hepatic synthesis of hepcidin. Elevated hepcidin causes internalization and degradation of ferroportin-1, blocking iron release from enterocytes, macrophages, and hepatocytes, so less iron reaches the marrow and anemia results. IL-10 and TGF-beta are anti-inflammatory, IFN-gamma is not the primary hepcidin driver, and erythropoietin actually suppresses hepcidin.",
+        "whyCorrect": "IL-6 is the principal inflammatory cytokine that stimulates hepatic synthesis of hepcidin. Elevated hepcidin causes internalization and degradation of ferroportin-1, blocking iron release from enterocytes, macrophages, and hepatocytes, so less iron reaches the marrow and anemia results. IL-10 and TGF-beta are anti-inflammatory, IFN-gamma is not the primary hepcidin driver, and erythropoietin actually suppresses hepcidin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-185_bl057_f02.png",
       "tags": [
         "picture"
       ]

@@ -3,61 +3,334 @@
   "categoryName": "Pathology",
   "questions": [
     {
-      "id": "blpic-009",
+      "id": "blpic-075",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "A 3-year-old with progressive pancytopenia shows the skin pigmentation change (left) and the bilateral thumb abnormality (right) pictured. These combined findings are most characteristic of which inherited bone marrow failure syndrome?",
+      "stem": "A 3-year-old with these findings — a brown macule (cafe-au-lait spot) on the trunk and a malformed thumb — together with pancytopenia most likely has which condition?",
       "choices": [
         {
           "label": "A",
-          "text": "Dyskeratosis congenita"
-        },
-        {
-          "label": "B",
-          "text": "Idiopathic acquired aplastic anemia"
-        },
-        {
-          "label": "C",
           "text": "Diamond-Blackfan syndrome"
         },
         {
+          "label": "B",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "C",
+          "text": "Acquired aplastic anemia"
+        },
+        {
           "label": "D",
-          "text": "Shwachman-Diamond syndrome"
+          "text": "Fanconi anemia"
         },
         {
           "label": "E",
-          "text": "Fanconi anemia"
+          "text": "Immune thrombocytopenic purpura"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Cafe-au-lait spots with focal hypopigmentation plus radial/thumb anomalies in a child with pancytopenia point to Fanconi anemia, an autosomal recessive DNA-repair defect. Diagnosis is confirmed by increased chromosomal breakage with cross-linking agents.",
-        "whyCorrect": "Cafe-au-lait spots with focal hypopigmentation plus radial/thumb anomalies in a child with pancytopenia point to Fanconi anemia, an autosomal recessive DNA-repair defect. Diagnosis is confirmed by increased chromosomal breakage with cross-linking agents.",
+        "summary": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
+        "whyCorrect": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-009_bl00_f02.png",
+      "imageRef": "blpic-075_bl000_f02.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-010",
+      "id": "blpic-076",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "These clinical photographs show a devastating adverse effect that appears shortly after starting an anticoagulant, caused by thrombosis of small dermal vessels. What underlying mechanism explains this early complication?",
+      "stem": "This illustration of rigid sickled cells lodged within a small blood vessel depicts the mechanism underlying which major consequence of sickle cell disease?",
       "choices": [
         {
           "label": "A",
-          "text": "Heparin-PF4 antibody-mediated platelet activation"
+          "text": "Immune thrombocytopenia"
         },
         {
           "label": "B",
-          "text": "Transient hypercoagulability from rapid depletion of proteins C and S before the procoagulant factors fall"
+          "text": "Vaso-occlusion"
         },
         {
           "label": "C",
-          "text": "Vitamin K deficiency causing capillary fragility"
+          "text": "Iron overload"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune red cell destruction"
+        },
+        {
+          "label": "E",
+          "text": "Extravascular hemolysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sickled cells lose flexibility and become trapped in capillaries, blocking blood flow. The resulting ischemia and infarction of downstream tissue is termed vaso-occlusive disease.",
+        "whyCorrect": "Sickled cells lose flexibility and become trapped in capillaries, blocking blood flow. The resulting ischemia and infarction of downstream tissue is termed vaso-occlusive disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-076_bl002_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-077",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This peripheral blood smear from a patient with G6PD deficiency shows red cells containing small dark peripheral inclusions (arrowed). What are these inclusions composed of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Precipitated intracellular fibrin"
+        },
+        {
+          "label": "B",
+          "text": "Denatured, precipitated hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Iron-laden mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "Residual nuclear DNA remnants"
+        },
+        {
+          "label": "E",
+          "text": "Aggregated ribosomal RNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The inclusions are Heinz bodies, clumps of oxidatively denatured hemoglobin that attach to the inner RBC membrane. They form during oxidative stress in G6PD deficiency and are best seen with supravital stains.",
+        "whyCorrect": "The inclusions are Heinz bodies, clumps of oxidatively denatured hemoglobin that attach to the inner RBC membrane. They form during oxidative stress in G6PD deficiency and are best seen with supravital stains.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-077_bl003_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-078",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This blood smear from a G6PD-deficient patient shows red cells with a scooped-out defect in their membrane (arrowed), alongside a neutrophil and normal erythrocytes. What mechanism produces this characteristic cell shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic swelling from excess intracellular water"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical shearing of RBCs by intravascular fibrin strands"
+        },
+        {
+          "label": "C",
+          "text": "Antibody and complement-mediated membrane lysis"
+        },
+        {
+          "label": "D",
+          "text": "Splenic macrophages remove the membrane segment containing a Heinz body"
+        },
+        {
+          "label": "E",
+          "text": "Enzymatic digestion of the membrane by neutrophil elastase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "These are bite cells. As RBCs with Heinz bodies pass through the spleen, macrophages engulf and remove the portion of membrane to which the Heinz body is attached, leaving a bitten-out contour rather than destroying the whole cell.",
+        "whyCorrect": "These are bite cells. As RBCs with Heinz bodies pass through the spleen, macrophages engulf and remove the portion of membrane to which the Heinz body is attached, leaving a bitten-out contour rather than destroying the whole cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-078_bl003_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-079",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This bleeding into the joint (seen here in the knee) occurring after minimal or no trauma most strongly suggests which underlying disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thrombocytopenia"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia (an X-linked deficiency of an intrinsic-pathway clotting factor)"
+        },
+        {
+          "label": "C",
+          "text": "von Willebrand disease"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency from malabsorption"
+        },
+        {
+          "label": "E",
+          "text": "Factor XII (Hageman factor) deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
+        "whyCorrect": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-079_bl007_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-080",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A 6-year-old boy with a lifelong history of easy bruising and prolonged bleeding presents with the painful, swollen knee highlighted in this photograph. What is the most likely cause of the swelling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleeding into the joint space (hemarthrosis)"
+        },
+        {
+          "label": "B",
+          "text": "Urate crystal deposition (gouty arthritis)"
+        },
+        {
+          "label": "C",
+          "text": "Fat and marrow leakage from an occult fracture (lipohemarthrosis)"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial infection of the joint (septic arthritis)"
+        },
+        {
+          "label": "E",
+          "text": "Autoimmune synovial inflammation (rheumatoid pannus)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Repeated spontaneous bleeding into weight-bearing joints such as the knees, ankles, and elbows (hemarthrosis) is a hallmark of hemophilia and, over time, produces chronic joint swelling, pain, and deformity.",
+        "whyCorrect": "Repeated spontaneous bleeding into weight-bearing joints such as the knees, ankles, and elbows (hemarthrosis) is a hallmark of hemophilia and, over time, produces chronic joint swelling, pain, and deformity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-080_bl009_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-081",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This clinical photograph shows a lacy, reticulated, mottled purplish-red skin discoloration on the lower limb of a patient. What is the underlying mechanism producing this skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstruction of superficial dermal capillaries by microthrombi"
+        },
+        {
+          "label": "B",
+          "text": "Dilation of superficial venules from hepatic dysfunction"
+        },
+        {
+          "label": "C",
+          "text": "Immune complex deposition in vessel walls with leukocytoclastic vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "Extravasation of red cells from platelet-deficient capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Autoantibody-mediated destruction of dermal melanocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mottled, net-like discoloration is livedo reticularis, a characteristic skin manifestation of antiphospholipid antibody syndrome. It results from obstruction of small superficial capillaries by microthrombi, reflecting the prothrombotic state that also causes DVT, PE, stroke, and recurrent pregnancy loss.",
+        "whyCorrect": "The mottled, net-like discoloration is livedo reticularis, a characteristic skin manifestation of antiphospholipid antibody syndrome. It results from obstruction of small superficial capillaries by microthrombi, reflecting the prothrombotic state that also causes DVT, PE, stroke, and recurrent pregnancy loss.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-081_bl013_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-082",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This patient developed sharply demarcated hemorrhagic skin necrosis on the thigh shortly after starting an oral anticoagulant. Which underlying deficiency most predisposes to this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prothrombin G20210A mutation"
+        },
+        {
+          "label": "B",
+          "text": "Protein C deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Antithrombin deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Factor V Leiden"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Warfarin-induced skin necrosis occurs because protein C (a vitamin K-dependent factor with a short half-life) falls faster than the procoagulant factors after warfarin is started, producing a transient hypercoagulable state with microvascular thrombosis. It is characteristically seen in patients with underlying protein C deficiency; protein S deficiency rarely causes it.",
+        "whyCorrect": "Warfarin-induced skin necrosis occurs because protein C (a vitamin K-dependent factor with a short half-life) falls faster than the procoagulant factors after warfarin is started, producing a transient hypercoagulable state with microvascular thrombosis. It is characteristically seen in patients with underlying protein C deficiency; protein S deficiency rarely causes it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-082_bl014_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-083",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These photographs show a dermatologic complication that can occur soon after starting an oral anticoagulant. What mechanism produces this skin damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transient hypercoagulability from rapid depletion of proteins C and S causing microvascular thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Immune-mediated vasculitis from drug hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Capillary fragility from vitamin K deficiency"
         },
         {
           "label": "D",
@@ -65,104 +338,260 @@
         },
         {
           "label": "E",
-          "text": "Immune complex deposition within dermal vessels"
+          "text": "Heparin-antibody-induced platelet activation"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Warfarin-induced skin necrosis occurs because the short-half-life anticoagulant proteins C and S are depleted first, producing a transient hypercoagulable state that thromboses small vessels and infarcts the skin; patients with protein C or S deficiency are especially susceptible.",
-        "whyCorrect": "Warfarin-induced skin necrosis occurs because the short-half-life anticoagulant proteins C and S are depleted first, producing a transient hypercoagulable state that thromboses small vessels and infarcts the skin; patients with protein C or S deficiency are especially susceptible.",
+        "summary": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
+        "whyCorrect": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-010_bl03_f03.png",
+      "imageRef": "blpic-083_bl015_f03.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-011",
+      "id": "blpic-084",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "These skin findings in a patient with a thrombotic microangiopathy result most directly from which underlying abnormality?",
+      "stem": "This skin finding of pinpoint and blotchy red-purple lesions is the classic bleeding pattern seen in platelet disorders. What is the category of bleeding it represents?",
       "choices": [
         {
           "label": "A",
-          "text": "Hemoglobin deposition within the dermis"
+          "text": "Hemarthrosis"
         },
         {
           "label": "B",
-          "text": "Bacterial septic embolization to the skin"
+          "text": "Intracranial bleeding from factor deficiency"
         },
         {
           "label": "C",
-          "text": "Thrombocytopenia causing small microhemorrhages"
+          "text": "Retroperitoneal hemorrhage"
         },
         {
           "label": "D",
-          "text": "Increased vascular permeability from histamine release"
+          "text": "Deep muscle hematoma"
         },
         {
           "label": "E",
-          "text": "Inflammatory vasculitis of dermal arterioles"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The pinpoint petechiae and larger purpura seen here occur because consumption of platelets in microthrombi leaves too few platelets to seal small vessels, allowing bleeding into the skin.",
-        "whyCorrect": "The pinpoint petechiae and larger purpura seen here occur because consumption of platelets in microthrombi leaves too few platelets to seal small vessels, allowing bleeding into the skin.",
-        "whyWrongByChoice": {}
-      },
-      "difficulty": "medium",
-      "imageRef": "blpic-011_bl04_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "blpic-012",
-      "topicId": "pathology",
-      "topicName": "Pathology",
-      "stem": "In this illustration of ADAMTS13 deficiency, why do platelets adhere and form thrombi within the small vessels?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Autoantibodies directly cross-link the platelets"
-        },
-        {
-          "label": "B",
-          "text": "Excess fibrin mesh physically traps the platelets"
-        },
-        {
-          "label": "C",
-          "text": "A bacterial toxin activates the platelets"
-        },
-        {
-          "label": "D",
-          "text": "Complement deposition on endothelium triggers aggregation"
-        },
-        {
-          "label": "E",
-          "text": "Uncleaved ultra-large vWF multimers persist and readily bind platelets"
+          "text": "Mucocutaneous bleeding"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Without ADAMTS13 activity the ultra-large vWF multimers are not broken down; they remain anchored to endothelium and capture circulating platelets, forming the vWF-platelet microthrombi of TTP.",
-        "whyCorrect": "Without ADAMTS13 activity the ultra-large vWF multimers are not broken down; they remain anchored to endothelium and capture circulating platelets, forming the vWF-platelet microthrombi of TTP.",
+        "summary": "Petechiae, purpura, and ecchymoses on the skin are mucocutaneous bleeding, characteristic of platelet (primary hemostasis) disorders. Deep tissue and joint bleeding instead point to clotting factor deficiencies such as hemophilia.",
+        "whyCorrect": "Petechiae, purpura, and ecchymoses on the skin are mucocutaneous bleeding, characteristic of platelet (primary hemostasis) disorders. Deep tissue and joint bleeding instead point to clotting factor deficiencies such as hemophilia.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-012_bl04_f04.png",
+      "imageRef": "blpic-084_bl016_f02.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-013",
+      "id": "blpic-085",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "The arrowed cells on this blood smear are increased in number and each shows a normally segmented, multilobed (2-5 lobe) purple nucleus. An elevation of these cells that is not caused by a neoplasm most commonly reflects what?",
+      "stem": "A 46-year-old man with a low platelet count has the skin lesions shown. The multiple small red-purple spots do not blanch with pressure. What best explains their appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extravasation of blood from small vessels into the skin"
+        },
+        {
+          "label": "B",
+          "text": "Proliferation of abnormal dermal blood vessels"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of hemosiderin from chronic venous stasis"
+        },
+        {
+          "label": "D",
+          "text": "Dilation of superficial dermal capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Inflammatory infiltration of small-vessel walls"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The nonblanching red-purple macules are petechiae and purpura, caused by extravasation of blood from small vessels into the skin due to insufficient platelets. Blanching lesions like telangiectasias are due to vessel dilation, not bleeding.",
+        "whyCorrect": "The nonblanching red-purple macules are petechiae and purpura, caused by extravasation of blood from small vessels into the skin due to insufficient platelets. Blanching lesions like telangiectasias are due to vessel dilation, not bleeding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-085_bl017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-086",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A patient with immune thrombocytopenia has the skin findings shown here (pinpoint red-purple spots on the ankle, left; a larger flat purplish bruise on the thigh, right). What is the direct underlying cause of these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Occlusion of dermal vessels by platelet-rich microthrombi"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex vasculitis inflaming the small dermal vessels"
+        },
+        {
+          "label": "C",
+          "text": "Increased capillary fragility from vitamin C deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Bleeding into the skin from a critically reduced circulating platelet count"
+        },
+        {
+          "label": "E",
+          "text": "Deficiency of clotting factor VIII causing deep-tissue hemorrhage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The small pinpoint lesions are petechiae and the larger flat purple lesions are purpura/bruising. In ITP the platelet count falls so low that spontaneous bleeding from small dermal vessels leaks into the skin. There is no vessel occlusion, clotting-factor defect, vasculitis, or scurvy; the abnormality is purely a quantitative platelet deficiency.",
+        "whyCorrect": "The small pinpoint lesions are petechiae and the larger flat purple lesions are purpura/bruising. In ITP the platelet count falls so low that spontaneous bleeding from small dermal vessels leaks into the skin. There is no vessel occlusion, clotting-factor defect, vasculitis, or scurvy; the abnormality is purely a quantitative platelet deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-086_bl018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-087",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A patient with thrombotic microangiopathy has these skin findings. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutropenia predisposing to infection"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular fragility from vitamin C deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Vasculitis of dermal arterioles"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated fungal emboli"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytopenia impairing clot formation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The petechiae and purpura pictured result from low platelet counts (consumed in microthrombi), which cause bleeding into the skin and oozing from small vessels.",
+        "whyCorrect": "The petechiae and purpura pictured result from low platelet counts (consumed in microthrombi), which cause bleeding into the skin and oozing from small vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-087_bl020_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-088",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This flowchart organizes hematopoietic neoplasms into a branching hierarchy. What single feature does the WHO classification use at the FIRST branch point to divide these neoplasms into their two major groups?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lineage/cell of origin (myeloid vs lymphoid)"
+        },
+        {
+          "label": "B",
+          "text": "The rapidity of clinical progression (acute vs chronic)"
+        },
+        {
+          "label": "C",
+          "text": "The tumor's response to chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "The patient's age at diagnosis"
+        },
+        {
+          "label": "E",
+          "text": "The anatomic site of the tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The WHO system first separates neoplasms by the cell of origin, distinguishing those arising from the myeloid stem cell line from those arising from the lymphoid line. Subsequent branches then subclassify within each group.",
+        "whyCorrect": "The WHO system first separates neoplasms by the cell of origin, distinguishing those arising from the myeloid stem cell line from those arising from the lymphoid line. Subsequent branches then subclassify within each group.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-088_bl022_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-089",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This H&E field (arrow) shows a gigantic cell with two mirror-image nuclei, each containing a single prominent nucleolus, giving an 'owl-eye' appearance. Identification of this cell is diagnostic of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The binucleate 'owl-eye' cell is a Reed-Sternberg cell, the defining feature of Hodgkin lymphoma. Although derived from B cells, these cells have lost their characteristic B-cell expression pattern, which is why Hodgkin lymphoma is classified separately from the B-cell neoplasms.",
+        "whyCorrect": "The binucleate 'owl-eye' cell is a Reed-Sternberg cell, the defining feature of Hodgkin lymphoma. Although derived from B cells, these cells have lost their characteristic B-cell expression pattern, which is why Hodgkin lymphoma is classified separately from the B-cell neoplasms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-089_bl022_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-090",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This peripheral blood smear shows an increased number of the arrowed cells, all with normal nuclear segmentation of 2 to 5 lobes. What is the most common underlying cause of this finding?",
       "choices": [
         {
           "label": "A",
@@ -170,155 +599,233 @@
         },
         {
           "label": "B",
-          "text": "Bacterial infection or inflammation"
+          "text": "Vitamin B12 deficiency"
         },
         {
           "label": "C",
-          "text": "Primary viral infection"
+          "text": "Viral hepatitis"
         },
         {
           "label": "D",
-          "text": "Allergic or parasitic reaction"
+          "text": "Bacterial infection or inflammation"
         },
         {
           "label": "E",
           "text": "Acute lymphoblastic leukemia"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "The arrowed cells are mature segmented neutrophils. Benign mature neutrophilia most often occurs in response to bacterial infection or inflammation; other triggers include stress, smoking, and corticosteroids. Allergic/parasitic causes drive eosinophilia and viral infections drive lymphocytosis.",
-        "whyCorrect": "The arrowed cells are mature segmented neutrophils. Benign mature neutrophilia most often occurs in response to bacterial infection or inflammation; other triggers include stress, smoking, and corticosteroids. Allergic/parasitic causes drive eosinophilia and viral infections drive lymphocytosis.",
+        "summary": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
+        "whyCorrect": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-013_bl05_f02.png",
+      "imageRef": "blpic-090_bl025_f02.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-014",
+      "id": "blpic-091",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "This neutrophil shows abnormally increased numbers of dark-staining cytoplasmic granules, giving them roughly the same color as the nucleus. These abnormal granules represent increased numbers of what?",
+      "stem": "The neutrophil at the center of this smear contains prominent dark primary granules that stain nearly the same color as its nucleus. What does this toxic change most commonly indicate?",
       "choices": [
         {
           "label": "A",
-          "text": "Hemosiderin (iron) deposits"
+          "text": "Chronic myeloid leukemia"
         },
         {
           "label": "B",
-          "text": "Remnants of rough endoplasmic reticulum"
+          "text": "Parasitic infestation"
         },
         {
           "label": "C",
-          "text": "Primary (azurophilic) granules containing peroxidases and hydrolases"
+          "text": "Allergic reaction"
         },
         {
           "label": "D",
-          "text": "Aggregated immunoglobulin complexes"
+          "text": "Severe bacterial infection or inflammation"
         },
         {
           "label": "E",
-          "text": "Membrane-bound lysosomal vacuoles"
+          "text": "Megaloblastic anemia"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "This is toxic granulation, a toxic change in which primary granules laden with peroxidases and hydrolases increase and stain darkly. It typically signals bacterial infection. Rough-ER remnants would be Dohle bodies and clear spaces would be vacuolization.",
-        "whyCorrect": "This is toxic granulation, a toxic change in which primary granules laden with peroxidases and hydrolases increase and stain darkly. It typically signals bacterial infection. Rough-ER remnants would be Dohle bodies and clear spaces would be vacuolization.",
+        "summary": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
+        "whyCorrect": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-014_bl05_f05.png",
+      "imageRef": "blpic-091_bl025_f05.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-015",
+      "id": "blpic-092",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "In addition to dark toxic granules, this neutrophil contains small clear spaces within its cytoplasm. These clear spaces arise from which process, and are most classically seen in which clinical setting?",
+      "stem": "This neutrophil shows small clear bubbles in its cytoplasm in addition to coarse toxic granules. What process produces these vacuoles?",
       "choices": [
         {
           "label": "A",
-          "text": "Fat accumulation from a metabolic disorder"
+          "text": "Degranulation of lysosomes during phagocytosis, typically in sepsis"
         },
         {
           "label": "B",
-          "text": "Nuclear fragmentation during apoptosis"
+          "text": "Nuclear fragmentation from apoptosis"
         },
         {
           "label": "C",
-          "text": "Phagocytosed intact red blood cells"
+          "text": "Lipid deposition from hyperlipidemia"
         },
         {
           "label": "D",
-          "text": "Rough ER remnants left after protein synthesis"
+          "text": "Viral inclusion body formation"
         },
         {
           "label": "E",
-          "text": "Degranulation of lysosomes, seen in sepsis"
+          "text": "Accumulation of hemosiderin"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Cytoplasmic vacuolization results from degranulation of lysosomes as neutrophils destroy pathogens, and is most typical of sepsis with widespread intracellular pathogen destruction. It commonly accompanies toxic granulation as another toxic change.",
-        "whyCorrect": "Cytoplasmic vacuolization results from degranulation of lysosomes as neutrophils destroy pathogens, and is most typical of sepsis with widespread intracellular pathogen destruction. It commonly accompanies toxic granulation as another toxic change.",
+        "summary": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
+        "whyCorrect": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-015_bl05_f06.png",
+      "imageRef": "blpic-092_bl025_f06.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-016",
+      "id": "blpic-093",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "This smear shows enlarged, irregularly shaped lymphocytes with voluminous, deeply basophilic cytoplasm. Such reactive lymphocyte changes are most classically associated with which of the following?",
+      "stem": "The arrow points to a small pale blue-gray inclusion at the periphery of this neutrophil's cytoplasm. What is this structure composed of?",
       "choices": [
         {
           "label": "A",
-          "text": "Allergic or parasitic reaction"
+          "text": "Ribosomes and remnants of rough endoplasmic reticulum"
         },
         {
           "label": "B",
-          "text": "Viral infection such as infectious mononucleosis (EBV)"
+          "text": "Phagocytosed bacteria"
         },
         {
           "label": "C",
+          "text": "Denatured nuclear DNA"
+        },
+        {
+          "label": "D",
+          "text": "Aggregated hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Condensed mitochondria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
+        "whyCorrect": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-093_bl025_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-094",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This figure compares lymphocyte morphology: cell A appears small and normal, while cells B and C are larger, with more abundant and irregular cytoplasm. What term best describes cells B and C?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Blast cells"
+        },
+        {
+          "label": "C",
+          "text": "Smudge cells"
+        },
+        {
+          "label": "D",
+          "text": "Reactive lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Atypical granulocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
+        "whyCorrect": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-094_bl025_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-095",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This smear shows enlarged lymphocytes with abundant, deeply basophilic cytoplasm that molds around neighboring red cells. This reactive appearance is most characteristic of which category of illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Viral infection such as infectious mononucleosis"
+        },
+        {
+          "label": "B",
           "text": "Iron deficiency anemia"
         },
         {
+          "label": "C",
+          "text": "Allergic drug reaction"
+        },
+        {
           "label": "D",
-          "text": "Bacterial pyogenic infection"
+          "text": "Chronic myeloid leukemia"
         },
         {
           "label": "E",
-          "text": "Chronic myeloid leukemia"
+          "text": "Bacterial pneumonia"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Reactive lymphocytes are larger than normal with abundant, sometimes dark blue cytoplasm and can be bilobed. They are seen primarily in viral infections such as EBV (infectious mononucleosis), CMV, and viral hepatitis.",
-        "whyCorrect": "Reactive lymphocytes are larger than normal with abundant, sometimes dark blue cytoplasm and can be bilobed. They are seen primarily in viral infections such as EBV (infectious mononucleosis), CMV, and viral hepatitis.",
+        "summary": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
+        "whyCorrect": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-016_bl05_f09.png",
+      "imageRef": "blpic-095_bl025_f09.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-017",
+      "id": "blpic-096",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "This large lymphocyte has abundant agranular cytoplasm that abuts and molds around the adjacent red cells, giving a 'fried egg' appearance. This cell type is most strongly associated with which virus?",
+      "stem": "This large lymphocyte has abundant pale cytoplasm that abuts and molds around the adjacent red blood cells, giving a 'fried egg' appearance. It is most classically associated with which virus?",
       "choices": [
         {
           "label": "A",
@@ -326,7 +833,475 @@
         },
         {
           "label": "B",
+          "text": "Influenza virus"
+        },
+        {
+          "label": "C",
           "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "D",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Epstein-Barr virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
+        "whyCorrect": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-096_bl025_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-097",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This CDC map plots reported human cases concentrated in the western United States. Which zoonotic infection is being mapped?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tularemia"
+        },
+        {
+          "label": "B",
+          "text": "Hantavirus pulmonary syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Rocky Mountain spotted fever"
+        },
+        {
+          "label": "D",
+          "text": "Lyme disease"
+        },
+        {
+          "label": "E",
+          "text": "Plague (Yersinia pestis)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
+        "whyCorrect": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-097_bl027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-098",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This markedly enlarged, tender lymph node in a febrile patient is the defining lesion of which form of plague?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillary angiomatosis"
+        },
+        {
+          "label": "B",
+          "text": "Pneumonic plague"
+        },
+        {
+          "label": "C",
+          "text": "Septicemic plague"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Bubonic plague"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyCorrect": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-098_bl027_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-099",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This blackened, gangrenous necrosis of the fingers in a septic patient reflects which underlying process that gave plague its 'Black Death' nickname?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct dermonecrotic exotoxin injury"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex leukocytoclastic vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Superficial venous thrombophlebitis"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated intravascular coagulation with peripheral ischemic necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Localized flea-bite hypersensitivity reaction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
+        "whyCorrect": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-099_bl027_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-100",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This map shows US cases of a rabbit-associated zoonosis clustered in the Ozarks. How is this organism usually transmitted to humans?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bite of an infected rat flea"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of contaminated drinking water"
+        },
+        {
+          "label": "C",
+          "text": "A cat scratch or bite"
+        },
+        {
+          "label": "D",
+          "text": "Direct contact with infected rabbits or bites of ticks and deer flies"
+        },
+        {
+          "label": "E",
+          "text": "Person-to-person respiratory droplets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
+        "whyCorrect": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-100_bl027_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-101",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This punched-out ulcer at an inoculation site, with regional lymphadenopathy in a rabbit hunter, is characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bubonic plague"
+        },
+        {
+          "label": "B",
+          "text": "Cat scratch disease inoculation papule"
+        },
+        {
+          "label": "C",
+          "text": "Primary syphilitic chancre"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Cutaneous anthrax eschar"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
+        "whyCorrect": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-101_bl027_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-102",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This crusted primary inoculation papule with adjacent lymphadenitis on the neck of a young child with cat exposure is most consistent with which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcal impetigo"
+        },
+        {
+          "label": "B",
+          "text": "Cat scratch disease (Bartonella henselae)"
+        },
+        {
+          "label": "C",
+          "text": "Kawasaki disease"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Mycobacterial scrofula"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
+        "whyCorrect": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-102_bl027_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-103",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These multiple red-purple vascular skin nodules in a severely immunocompromised transplant recipient, caused by a gram-negative bacillus, represent which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous metastatic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Kaposi sarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Multiple pyogenic granulomas"
+        },
+        {
+          "label": "D",
+          "text": "Bacillary angiomatosis (Bartonella henselae)"
+        },
+        {
+          "label": "E",
+          "text": "Disseminated candidiasis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyCorrect": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-103_bl027_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-104",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "Panel (a) shows marked conjunctival redness without purulent discharge and panel (b) shows oral mucosal hemorrhage in a systemically ill patient. These findings are most characteristic of severe disease caused by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "B",
+          "text": "Yellow fever virus"
+        },
+        {
+          "label": "C",
+          "text": "Dengue virus"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
+        "whyCorrect": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-104_bl028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-105",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This patient shows gross enlargement, hyperkeratosis, and thickening of the lower leg due to long-standing lymphatic obstruction. What is the most likely underlying infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Onchocerca volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "C",
+          "text": "Loa loa"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma mansoni"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyCorrect": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-105_bl028_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-106",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This patient developed the oral findings shown after starting chemotherapy. What underlying mechanism best explains why the oral mucosa is affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial superinfection of the gingiva"
+        },
+        {
+          "label": "B",
+          "text": "A direct chemical burn from the drug contacting the mouth"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of the salivary glands"
+        },
+        {
+          "label": "D",
+          "text": "A nutritional vitamin deficiency from poor oral intake"
+        },
+        {
+          "label": "E",
+          "text": "Chemotherapy kills the rapidly dividing cells of the oral mucosal lining"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
+        "whyCorrect": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-106_bl029_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-107",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This lymph node biopsy shows low-power effacement of nodal architecture (top) by diffuse sheets of small round lymphocytes at high power (bottom), with a scattered larger cell bearing a central nucleolus. Which disorder does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Small lymphocytic lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
+        "whyCorrect": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-107_bl033_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-108",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gastric biopsy shows neoplastic marginal-zone B cells infiltrating and disrupting the glandular epithelium. This lymphoma is most strongly associated with chronic infection by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Human herpesvirus-8"
         },
         {
           "label": "C",
@@ -334,216 +1309,1035 @@
         },
         {
           "label": "D",
-          "text": "Epstein-Barr virus"
+          "text": "Human papillomavirus"
         },
         {
           "label": "E",
-          "text": "Influenza virus"
+          "text": "Helicobacter pylori"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "This is a Downey type II cell, the most common form of reactive lymphocyte, characteristically linked to Epstein-Barr virus infection (infectious mononucleosis). Its abundant cytoplasm molds around neighboring erythrocytes, producing the fried-egg look.",
-        "whyCorrect": "This is a Downey type II cell, the most common form of reactive lymphocyte, characteristically linked to Epstein-Barr virus infection (infectious mononucleosis). Its abundant cytoplasm molds around neighboring erythrocytes, producing the fried-egg look.",
+        "summary": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
+        "whyCorrect": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-017_bl05_f10.png",
+      "imageRef": "blpic-108_bl033_f06.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-018",
+      "id": "blpic-109",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "This patchy, scaly, erythematous rash on sun-protected skin of the trunk is the earliest cutaneous manifestation of mycosis fungoides. This lesion type represents which stage of the disease?",
+      "stem": "This lymphoma shows a diffuse proliferation of small-to-intermediate sized lymphocytes on H&E (left) that stain strongly positive with the nuclear immunostain shown (right, brown). Which lymphoma is depicted?",
       "choices": [
         {
           "label": "A",
-          "text": "Patch stage"
+          "text": "Mantle cell lymphoma"
         },
         {
           "label": "B",
-          "text": "Plaque stage"
+          "text": "Burkitt lymphoma"
         },
         {
           "label": "C",
-          "text": "Poikiloderma stage"
+          "text": "Diffuse large B-cell lymphoma"
         },
         {
           "label": "D",
-          "text": "Erythrodermic (Sezary) stage"
+          "text": "Chronic lymphocytic leukemia/small lymphocytic lymphoma"
         },
         {
           "label": "E",
-          "text": "Tumor stage"
+          "text": "Follicular lymphoma"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Flat, scaly, erythematous macules/patches, often in a bathing-suit distribution, are the earliest (patch-stage) lesions of mycosis fungoides and are frequently misdiagnosed as eczema or psoriasis.",
-        "whyCorrect": "Flat, scaly, erythematous macules/patches, often in a bathing-suit distribution, are the earliest (patch-stage) lesions of mycosis fungoides and are frequently misdiagnosed as eczema or psoriasis.",
+        "summary": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
+        "whyCorrect": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-018_bl07_f01.png",
+      "imageRef": "blpic-109_bl034_f04.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-019",
+      "id": "blpic-110",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "This raised, thick, red cutaneous lesion is more advanced than a simple scaly patch of mycosis fungoides. Which stage of the disease does it represent?",
+      "stem": "This clinical photograph shows an early skin finding on the trunk of a patient later diagnosed with a cutaneous T-cell neoplasm. What best explains why lesions like this are frequently misdiagnosed for years before the correct diagnosis is made?",
       "choices": [
         {
           "label": "A",
-          "text": "Erythrodermic stage"
+          "text": "They appear only after systemic organ involvement is already advanced"
         },
         {
           "label": "B",
-          "text": "Plaque stage"
+          "text": "They occur exclusively on sun-exposed skin, pointing to actinic damage"
         },
         {
           "label": "C",
-          "text": "Tumor stage"
+          "text": "They are painful vesicular lesions that resemble a viral exanthem"
         },
         {
           "label": "D",
-          "text": "Patch stage"
+          "text": "They are pigmented nodules easily mistaken for melanoma"
         },
         {
           "label": "E",
-          "text": "Leukemic phase"
+          "text": "They closely mimic benign inflammatory dermatoses such as eczema and psoriasis"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "As mycosis fungoides progresses, flat patches thicken into raised, indurated, red plaques (plaque stage) before evolving into frank nodular tumors.",
-        "whyCorrect": "As mycosis fungoides progresses, flat patches thicken into raised, indurated, red plaques (plaque stage) before evolving into frank nodular tumors.",
+        "summary": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
+        "whyCorrect": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-019_bl07_f03.png",
+      "imageRef": "blpic-110_bl035_f01.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-020",
+      "id": "blpic-111",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "These large, nodular, mushroom-like growths on the skin are the feature that gave this lymphoma its name. Which stage of mycosis fungoides is shown?",
+      "stem": "This raised, thick, red skin lesion is a more advanced form of a cutaneous T-cell lymphoma. In the classic staged progression of this disease, this type of lesion typically follows which earlier finding?",
       "choices": [
         {
           "label": "A",
-          "text": "Smoldering stage"
+          "text": "Lytic bone lesions with hypercalcemia"
         },
         {
           "label": "B",
-          "text": "Erythrodermic stage"
+          "text": "Peripheral blood leukemic flower cells"
         },
         {
           "label": "C",
-          "text": "Tumor stage"
+          "text": "Flat scaly patches and plaques"
         },
         {
           "label": "D",
-          "text": "Plaque stage"
+          "text": "Generalized erythroderma covering most of the body"
         },
         {
           "label": "E",
-          "text": "Patch stage"
+          "text": "Diffuse lymphadenopathy with hepatosplenomegaly"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Nodular, exophytic 'fungating' tumors define the advanced tumor stage of mycosis fungoides and are the origin of the name (fungus-like).",
-        "whyCorrect": "Nodular, exophytic 'fungating' tumors define the advanced tumor stage of mycosis fungoides and are the origin of the name (fungus-like).",
+        "summary": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
+        "whyCorrect": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-020_bl07_f04.png",
+      "imageRef": "blpic-111_bl035_f03.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-021",
+      "id": "blpic-112",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "This diffuse, red, scaling, peeling eruption involving more than 80% of the body surface, occurring in the leukemic phase of a cutaneous T-cell lymphoma, is a defining feature of which condition?",
+      "stem": "This historical photograph shows advanced nodular, mushroom-like tumors on the skin. These growths are directly responsible for which feature of the disease?",
       "choices": [
         {
           "label": "A",
-          "text": "Patch-stage mycosis fungoides"
+          "text": "The triad defining Sezary syndrome"
         },
         {
           "label": "B",
-          "text": "Sezary syndrome"
+          "text": "The presence of Reed-Sternberg cells"
         },
         {
           "label": "C",
-          "text": "Staphylococcal scalded skin syndrome"
+          "text": "Classification as a fungal (mold) infection"
         },
         {
           "label": "D",
-          "text": "Psoriatic erythroderma"
+          "text": "Its association with HTLV-1 infection"
         },
         {
           "label": "E",
-          "text": "Adult T-cell leukemia/lymphoma"
+          "text": "The name 'mycosis fungoides' (fungus/mushroom-like tumors)"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Sezary syndrome is the leukemic/erythrodermic variant of mycosis fungoides, defined by the triad of diffuse erythroderma, generalized lymphadenopathy, and clonal cerebriform (Sezary) cells in skin, nodes, and blood.",
-        "whyCorrect": "Sezary syndrome is the leukemic/erythrodermic variant of mycosis fungoides, defined by the triad of diffuse erythroderma, generalized lymphadenopathy, and clonal cerebriform (Sezary) cells in skin, nodes, and blood.",
+        "summary": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
+        "whyCorrect": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-021_bl07_f05.png",
+      "imageRef": "blpic-112_bl035_f04.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-022",
+      "id": "blpic-113",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "In this skin biopsy, the circled intraepidermal cluster of atypical lymphocytes is a hallmark histologic finding of mycosis fungoides. What is this feature called?",
+      "stem": "This patient shows diffuse red, itchy, peeling skin over most of the body along with involvement of the palms. This presentation is a defining component of which condition?",
       "choices": [
         {
           "label": "A",
-          "text": "Pautrier microabscess"
+          "text": "Adult T-cell leukemia/lymphoma acute form"
         },
         {
           "label": "B",
-          "text": "Langerhans cell granuloma"
+          "text": "Hodgkin lymphoma with skin involvement"
         },
         {
           "label": "C",
-          "text": "Munro microabscess"
+          "text": "Peripheral T-cell lymphoma, not otherwise specified"
         },
         {
           "label": "D",
-          "text": "Civatte body"
+          "text": "Sezary syndrome (erythrodermic cutaneous T-cell lymphoma)"
         },
         {
           "label": "E",
-          "text": "Kamino body"
+          "text": "Early-patch-stage mycosis fungoides"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
+        "whyCorrect": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-113_bl035_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-114",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This graph plots the incidence of Hodgkin lymphoma against patient age. What pattern of age distribution does it demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bimodal distribution with peaks in young adults and again in older adults"
+        },
+        {
+          "label": "B",
+          "text": "A single peak in middle age only"
+        },
+        {
+          "label": "C",
+          "text": "A flat, uniform incidence across all age groups"
+        },
+        {
+          "label": "D",
+          "text": "A steady, continuous rise in incidence with advancing age"
+        },
+        {
+          "label": "E",
+          "text": "A single peak confined to early childhood"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Intraepidermal collections of neoplastic T lymphocytes are called Pautrier microabscesses; despite the name they contain lymphoma cells, not neutrophils, and are characteristic of mycosis fungoides.",
-        "whyCorrect": "Intraepidermal collections of neoplastic T lymphocytes are called Pautrier microabscesses; despite the name they contain lymphoma cells, not neutrophils, and are characteristic of mycosis fungoides.",
+        "summary": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
+        "whyCorrect": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-022_bl07_f07.png",
+      "imageRef": "blpic-114_bl036_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-115",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The reciprocal chromosomal event depicted creates a fusion gene whose protein product is best described as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An overactive transcription factor driving erythropoiesis"
+        },
+        {
+          "label": "B",
+          "text": "A defective DNA mismatch-repair enzyme"
+        },
+        {
+          "label": "C",
+          "text": "A non-functional membrane folate transporter"
+        },
+        {
+          "label": "D",
+          "text": "A loss-of-function tumor suppressor protein"
+        },
+        {
+          "label": "E",
+          "text": "A constitutively active tyrosine kinase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
+        "whyCorrect": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-115_bl039_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-116",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross specimen is a markedly enlarged organ removed from a patient with advanced polycythemia vera. What process most likely accounts for the enlargement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid infiltration"
+        },
+        {
+          "label": "B",
+          "text": "Portal hypertension due to cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic carcinoma deposits"
+        },
+        {
+          "label": "D",
+          "text": "Reactive hyperplasia from infectious mononucleosis"
+        },
+        {
+          "label": "E",
+          "text": "Extramedullary hematopoiesis in the setting of marrow fibrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
+        "whyCorrect": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-116_bl040_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-117",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This normocellular bone marrow biopsy is from a patient with essential thrombocythemia. Proliferation of which cell type is the characteristic finding that accounts for the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Megakaryocytes (large, clustered)"
+        },
+        {
+          "label": "C",
+          "text": "Mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Lymphoblasts"
+        },
+        {
+          "label": "E",
+          "text": "Erythroid precursors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
+        "whyCorrect": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-117_bl041_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-118",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This stained bone marrow section from a patient with primary myelofibrosis best demonstrates which underlying pathologic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infiltration of the marrow space by sheets of monomorphic lymphoblasts"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation with epithelioid macrophages and giant cells"
+        },
+        {
+          "label": "C",
+          "text": "Replacement of hematopoietic marrow by a dense fibrous (reticulin/collagen) meshwork"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse deposition of amorphous eosinophilic amyloid around vessels"
+        },
+        {
+          "label": "E",
+          "text": "Necrotic gelatinous transformation of marrow fat with serous atrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
+        "whyCorrect": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-118_bl042_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-119",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This schematic classifies hematologic neoplasms into their major branches, with myelodysplastic syndromes (MDS) grouped under the myeloid neoplasms. Progression of MDS most commonly leads to which of the related conditions also shown on this classification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "C",
+          "text": "Hairy cell leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
+        "whyCorrect": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-119_bl044_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-120",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "In this peripheral blood smear the central white cell has very few granules and an almost completely clear cytoplasm. This dysplastic granulocyte change is characteristically associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infectious mononucleosis"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial sepsis with toxic granulation"
+        },
+        {
+          "label": "D",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Myelodysplastic syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
+        "whyCorrect": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-120_bl044_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-121",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The arrows in this bone marrow field indicate abnormally small cells with single, non-lobulated nuclei. These are dysplastic megakaryocytes; their abnormality would most directly impair production of which blood component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophils"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Platelets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
+        "whyCorrect": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-121_bl044_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-122",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These intraoral photographs from a transplant recipient show a common regimen-related toxicity. What is the primary cause of this mucosal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin C deficiency (scurvy)"
+        },
+        {
+          "label": "B",
+          "text": "Primary herpes simplex infection"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial gingivitis from poor oral hygiene"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune pemphigus vulgaris"
+        },
+        {
+          "label": "E",
+          "text": "Cytotoxic damage from the high-intensity conditioning regimen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
+        "whyCorrect": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-122_bl046_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-123",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This chart plots the temporal onset of syndromes complicating marrow transplantation across the post-transplant period. Which complication characteristically appears LATEST, extending well beyond day 100?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucositis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic graft-versus-host disease"
+        },
+        {
+          "label": "C",
+          "text": "Sinusoidal obstruction syndrome (veno-occlusive disease)"
+        },
+        {
+          "label": "D",
+          "text": "Acute graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Early Gram-negative bacterial sepsis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
+        "whyCorrect": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-123_bl046_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-124",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This CT of the abdomen in a patient with sickle cell disease shows a small, calcified spleen (arrow). What process produced this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Splenic abscess formation"
+        },
+        {
+          "label": "B",
+          "text": "Traumatic splenic hematoma"
+        },
+        {
+          "label": "C",
+          "text": "Splenic auto-infarction"
+        },
+        {
+          "label": "D",
+          "text": "Portal venous varicosity"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyCorrect": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-124_bl048_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-125",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These histologic fields are from a slow-growing anterior mediastinal tumor in an adult. Patients with this tumor are at increased risk of which associated condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type 1 diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Graves disease"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "E",
+          "text": "Multiple sclerosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
+        "whyCorrect": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-125_bl049_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-126",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This diffuse skin finding on the trunk of a young boy, together with recurrent infections and easy bruising from small platelets, is part of the triad of which X-linked disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wiskott-Aldrich syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Ataxia-telangiectasia"
+        },
+        {
+          "label": "C",
+          "text": "Severe combined immunodeficiency"
+        },
+        {
+          "label": "D",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Bruton agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
+        "whyCorrect": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-126_bl049_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-127",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This animal appears in a section on filovirus transmission. What is its epidemiologic role for Marburg virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intermediate amplifying host"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical fomite carrier"
+        },
+        {
+          "label": "C",
+          "text": "Dead-end host"
+        },
+        {
+          "label": "D",
+          "text": "Arthropod vector"
+        },
+        {
+          "label": "E",
+          "text": "Natural reservoir host"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bats serve as the natural reservoir for Marburg virus and the likely reservoir for Ebola virus; spillover into humans occurs through contact with infected animal fluids.",
+        "whyCorrect": "Bats serve as the natural reservoir for Marburg virus and the likely reservoir for Ebola virus; spillover into humans occurs through contact with infected animal fluids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-127_bl053_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-128",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This animal is shown in the hantavirus epidemiology section. How do humans most commonly acquire hantavirus infection from it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhalation of aerosolized excreta"
+        },
+        {
+          "label": "B",
+          "text": "Bite of the animal"
+        },
+        {
+          "label": "C",
+          "text": "Tick-borne transmission"
+        },
+        {
+          "label": "D",
+          "text": "Direct blood contact during handling"
+        },
+        {
+          "label": "E",
+          "text": "Ingestion of contaminated meat"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rodents are the reservoir for hantaviruses; humans are infected mainly by inhaling aerosolized particles from rodent feces, urine, and saliva.",
+        "whyCorrect": "Rodents are the reservoir for hantaviruses; humans are infected mainly by inhaling aerosolized particles from rodent feces, urine, and saliva.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-128_bl053_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-129",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This peripheral blood smear is from a patient with chronic fatigue. The red cells show enlarged central pallor and vary noticeably in size. Which single laboratory value is most specific for the deficiency responsible for this morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum ferritin"
+        },
+        {
+          "label": "B",
+          "text": "Low total iron-binding capacity"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum vitamin B12"
+        },
+        {
+          "label": "D",
+          "text": "Elevated reticulocyte count"
+        },
+        {
+          "label": "E",
+          "text": "Low serum ferritin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
+        "whyCorrect": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-129_bl054_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-130",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This chronic fingernail change, in which the nail flattens and curves upward into a concave, spoon-like shape, is a long-standing manifestation of which nutritional deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin C deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Folate deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Zinc deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
+        "whyCorrect": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-130_bl054_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-131",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "In this classification chart of viral hemorrhagic fever agents, what single feature separates the viruses placed in the green 'Arboviruses' branch from those in the blue 'Not Arboviruses' branch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-human animal reservoir"
+        },
+        {
+          "label": "B",
+          "text": "Possession of a lipid envelope"
+        },
+        {
+          "label": "C",
+          "text": "Transmission by an arthropod vector"
+        },
+        {
+          "label": "D",
+          "text": "Ability to cause hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "A segmented RNA genome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Arbovirus means arthropod-borne virus. The green branch (yellow fever, dengue, Zika, West Nile, chikungunya, Rift Valley, CCHF) is spread by mosquitoes or ticks, whereas the blue branch (Ebola, Marburg, hantavirus, Lassa) is acquired from bat or rodent contact, not a vector.",
+        "whyCorrect": "Arbovirus means arthropod-borne virus. The green branch (yellow fever, dengue, Zika, West Nile, chikungunya, Rift Valley, CCHF) is spread by mosquitoes or ticks, whereas the blue branch (Ebola, Marburg, hantavirus, Lassa) is acquired from bat or rodent contact, not a vector.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-131_bl055_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-132",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This historical series of portraits illustrates a clinical course progressing from fever and flushing to marked scleral/skin yellowing and finally to hemorrhage with black (coffee-ground) vomit. Which disease is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dengue hemorrhagic fever"
+        },
+        {
+          "label": "B",
+          "text": "Falciparum malaria"
+        },
+        {
+          "label": "C",
+          "text": "Leptospirosis"
+        },
+        {
+          "label": "D",
+          "text": "Yellow fever"
+        },
+        {
+          "label": "E",
+          "text": "Ebola virus disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The sequence shows the classic toxic phase of yellow fever: high fever followed by jaundice (hence the name) from hepatic injury, then mucosal erosion and hematemesis of partially digested blood ('black vomit').",
+        "whyCorrect": "The sequence shows the classic toxic phase of yellow fever: high fever followed by jaundice (hence the name) from hepatic injury, then mucosal erosion and hematemesis of partially digested blood ('black vomit').",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-132_bl055_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-133",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These images of an infant show cranial/skull irregularities, redundant scalp folds, and a lateral skull radiograph demonstrating a strikingly small calvarium. Congenital infection by which virus is responsible for this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dengue virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "D",
+          "text": "Zika virus"
+        },
+        {
+          "label": "E",
+          "text": "Chikungunya virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
+        "whyCorrect": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-133_bl055_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-134",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This child with severe thalassemia has a prominent, bossed forehead. What process most directly produces this skeletal change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Expansion of the marrow cavity from erythroid hyperplasia driven by ineffective erythropoiesis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic corticosteroid therapy"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D deficiency causing rickets"
+        },
+        {
+          "label": "D",
+          "text": "Excess growth hormone secretion"
+        },
+        {
+          "label": "E",
+          "text": "Iron deposition within the cranial bones"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ineffective erythropoiesis drives massive marrow hyperplasia; in severe thalassemia the marrow expands the skull and facial bones, producing frontal bossing, malar prominence, and maxillary hypertrophy.",
+        "whyCorrect": "Ineffective erythropoiesis drives massive marrow hyperplasia; in severe thalassemia the marrow expands the skull and facial bones, producing frontal bossing, malar prominence, and maxillary hypertrophy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-134_bl056_f03.png",
       "tags": [
         "picture"
       ]

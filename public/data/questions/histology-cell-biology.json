@@ -3,157 +3,898 @@
   "categoryName": "Histology & Cell Biology",
   "questions": [
     {
-      "id": "blpic-001",
+      "id": "blpic-005",
       "topicId": "histology-cell-biology",
       "topicName": "Histology & Cell Biology",
-      "stem": "This schematic traces how blood cells arise from a common precursor and mature through the bone marrow, blood, and tissue compartments. In aplastic anemia, loss of which population at the top of this scheme accounts for the pancytopenia?",
+      "stem": "The rounded cells on the right of this diagram formed after partial removal of the red cell membrane. Why are these cells especially prone to hemolysis?",
       "choices": [
         {
           "label": "A",
-          "text": "Tissue macrophages"
+          "text": "They lack GPI-anchored complement inhibitors CD55 and CD59"
         },
         {
           "label": "B",
-          "text": "Mature circulating erythrocytes"
+          "text": "They have a spectrin cytoskeletal mutation acquired in warm AHA"
         },
         {
           "label": "C",
-          "text": "Myeloid hematopoietic stem cells"
+          "text": "They have lost excess membrane and cannot deform to pass through splenic microvasculature, so they rupture"
         },
         {
           "label": "D",
-          "text": "Bone marrow adipocytes"
+          "text": "They contain hemoglobin S that polymerizes under low oxygen tension"
         },
         {
           "label": "E",
-          "text": "Lymphoid progenitor cells"
+          "text": "They are overloaded with iron granules that damage the membrane"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The diagram shows a multipotent stem cell giving rise to myeloid and lymphoid lineages. Aplastic anemia results from destruction of the myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall while lymphocytes (lymphoid-derived) are relatively spared.",
-        "whyCorrect": "The diagram shows a multipotent stem cell giving rise to myeloid and lymphoid lineages. Aplastic anemia results from destruction of the myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall while lymphocytes (lymphoid-derived) are relatively spared.",
+        "summary": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed.",
+        "whyCorrect": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-001_bl00_f01.png",
+      "imageRef": "blpic-005_bl004_f02.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-002",
+      "id": "blpic-006",
       "topicId": "histology-cell-biology",
       "topicName": "Histology & Cell Biology",
-      "stem": "These images depict the six maturation stages of a granulocyte. At which point in this sequence does the cell lose its ability to divide?",
+      "stem": "This series illustrates the six maturation stages of a granulocyte. As the cells mature from the earliest to the final stage, what characteristic change occurs in the nucleus?",
       "choices": [
         {
           "label": "A",
-          "text": "At the myeloblast stage, before any granules appear"
+          "text": "The nucleus becomes round and steadily enlarges"
         },
         {
           "label": "B",
-          "text": "It continues to divide at every stage until it is fully segmented"
+          "text": "The nucleus becomes progressively segmented and lobulated"
         },
         {
           "label": "C",
-          "text": "At the band stage, just before nuclear segmentation"
+          "text": "The nucleus develops a single large prominent nucleolus"
         },
         {
           "label": "D",
-          "text": "Only the final segmented cell retains the ability to divide"
+          "text": "The cell loses its nucleus entirely"
         },
         {
           "label": "E",
-          "text": "At the metamyelocyte stage; cells beyond the myelocyte no longer divide"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Neutrophil precursors proliferate through the myeloblast, promyelocyte, and myelocyte stages. Once the cell reaches the metamyelocyte stage it can no longer divide and only matures (nuclear indentation to band, then segmentation).",
-        "whyCorrect": "Neutrophil precursors proliferate through the myeloblast, promyelocyte, and myelocyte stages. Once the cell reaches the metamyelocyte stage it can no longer divide and only matures (nuclear indentation to band, then segmentation).",
-        "whyWrongByChoice": {}
-      },
-      "difficulty": "medium",
-      "imageRef": "blpic-002_bl02_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "blpic-003",
-      "topicId": "histology-cell-biology",
-      "topicName": "Histology & Cell Biology",
-      "stem": "Several abnormal red cell forms are labeled on this blood smear (schistocytes, triangulocytes, helmet cells). What single event produces all of these shapes?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Shearing of red cells by intravascular microthrombi"
-        },
-        {
-          "label": "B",
-          "text": "A hereditary defect in membrane spectrin"
-        },
-        {
-          "label": "C",
-          "text": "Oxidative denaturation of hemoglobin"
-        },
-        {
-          "label": "D",
-          "text": "Splenic macrophage digestion of red cell membrane"
-        },
-        {
-          "label": "E",
-          "text": "Osmotic swelling in hypotonic plasma"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Helmet cells, triangulocytes, and other schistocyte forms all arise from mechanical fragmentation as red cells pass fibrin strands and microthrombi, so they share the same microangiopathic origin.",
-        "whyCorrect": "Helmet cells, triangulocytes, and other schistocyte forms all arise from mechanical fragmentation as red cells pass fibrin strands and microthrombi, so they share the same microangiopathic origin.",
-        "whyWrongByChoice": {}
-      },
-      "difficulty": "medium",
-      "imageRef": "blpic-003_bl04_f06.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "blpic-004",
-      "topicId": "histology-cell-biology",
-      "topicName": "Histology & Cell Biology",
-      "stem": "This figure compares lymphocyte morphology across three fields: a small round cell in panel A versus the larger, more irregular and voluminous cells in panels B and C. Cells like those in B and C are best described as what?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atypical neutrophils"
-        },
-        {
-          "label": "B",
-          "text": "Reactive lymphocytes"
-        },
-        {
-          "label": "C",
-          "text": "Monocytes"
-        },
-        {
-          "label": "D",
-          "text": "Blast cells of acute leukemia"
-        },
-        {
-          "label": "E",
-          "text": "Plasma cells"
+          "text": "The nucleus fragments into multiple separate nuclei"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Panel A shows normal-appearing lymphocytes, as seen when a benign lymphocytosis increases normal cells. Panels B and C show reactive lymphocytes, which are larger with more voluminous, sometimes deeply basophilic cytoplasm and are typical of viral infection.",
-        "whyCorrect": "Panel A shows normal-appearing lymphocytes, as seen when a benign lymphocytosis increases normal cells. Panels B and C show reactive lymphocytes, which are larger with more voluminous, sometimes deeply basophilic cytoplasm and are typical of viral infection.",
+        "summary": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil.",
+        "whyCorrect": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-004_bl05_f08.png",
+      "imageRef": "blpic-006_bl010_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-007",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This bone marrow aspirate shows two large cells with abundant cytoplasm and multilobated nuclei. What is the normal function of these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They differentiate into mature red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "They fragment to release platelets into the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "They produce antibodies against foreign antigens"
+        },
+        {
+          "label": "D",
+          "text": "They synthesize and secrete clotting factors"
+        },
+        {
+          "label": "E",
+          "text": "They phagocytose senescent erythrocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
+        "whyCorrect": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-007_bl017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-008",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This peripheral blood smear is marked with colored arrows pointing to abnormal cellular elements among the red cells. What do the arrowed structures most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Target cells"
+        },
+        {
+          "label": "B",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "C",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "D",
+          "text": "Giant platelets"
+        },
+        {
+          "label": "E",
+          "text": "Spherocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review.",
+        "whyCorrect": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-008_bl019_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-009",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "In the deep cortical region of the lymph node labeled the paracortex in this diagram, which lymphocyte population predominates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "T cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
+        "whyCorrect": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-009_bl026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-010",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This Wright-Giemsa blood smear shows normal red blood cells. The pale zone at the center of each cell reflects which structural feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A membrane defect from a cytoskeletal mutation"
+        },
+        {
+          "label": "B",
+          "text": "The biconcave-disc shape, which thins the center of the cell"
+        },
+        {
+          "label": "C",
+          "text": "Cell swelling from osmotic water influx"
+        },
+        {
+          "label": "D",
+          "text": "A retained central nuclear remnant"
+        },
+        {
+          "label": "E",
+          "text": "Complete loss of hemoglobin from the cell interior"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant.",
+        "whyCorrect": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-010_bl032_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-011",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This high-power histology field from a hyper-aggressive lymphoma shows a dense sea of uniform medium-sized lymphocytes interrupted by scattered pale macrophages that have engulfed apoptotic debris. Which lymphoma produces this characteristic appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse large B-cell lymphoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyCorrect": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-011_bl034_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-012",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This peripheral blood field shows a single large lymphoid cell with a deeply grooved, highly convoluted nucleus among normal red cells. What is the significance of this nuclear morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It represents a Reed-Sternberg cell diagnostic of Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "It is a myeloblast with an Auer rod signaling acute leukemia"
+        },
+        {
+          "label": "C",
+          "text": "It is a reactive atypical lymphocyte seen in viral infection"
+        },
+        {
+          "label": "D",
+          "text": "It indicates a plasma cell producing monoclonal immunoglobulin"
+        },
+        {
+          "label": "E",
+          "text": "It reflects the cerebriform nucleus characteristic of the malignant cell of mycosis fungoides/Sezary syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyCorrect": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-012_bl035_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-013",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This H&E skin biopsy (malignant cells highlighted by the red circle) shows a cluster of atypical lymphocytes within the epidermis. What is this finding, and what does it consist of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cluster of eosinophils indicating a hypersensitivity reaction"
+        },
+        {
+          "label": "B",
+          "text": "A Pautrier microabscess made up of clustered neoplastic T lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "A Munro microabscess of neutrophils typical of psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "A neutrophilic abscess consistent with bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "A collection of Langerhans cells forming a granuloma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyCorrect": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-013_bl035_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-014",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The left panel of this lymph node histology shows nodules separated by broad fibrous bands, and the right panel shows cells sitting within clear lacunar spaces. Which histologic subtype of Hodgkin lymphoma does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocyte-rich"
+        },
+        {
+          "label": "B",
+          "text": "Mixed cellularity"
+        },
+        {
+          "label": "C",
+          "text": "Nodular sclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Nodular lymphocyte-predominant"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocyte-depleted"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
+        "whyCorrect": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-014_bl036_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-015",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This high-power marrow field shows numerous cells with an eccentric nucleus and a pale perinuclear zone, some with a spoked chromatin pattern (arrows). Which cell type predominates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myeloblasts"
+        },
+        {
+          "label": "B",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "C",
+          "text": "Erythroblasts"
+        },
+        {
+          "label": "D",
+          "text": "Reactive small lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Malignant plasma cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyCorrect": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-015_bl037_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-016",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This bone marrow section from chronic-phase CML most characteristically demonstrates which feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sheets of neoplastic plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Marked hypercellularity with granulocytic predominance and few fat spaces"
+        },
+        {
+          "label": "C",
+          "text": "Dense fibrosis obliterating hematopoietic elements"
+        },
+        {
+          "label": "D",
+          "text": "Near-total aplasia with fatty replacement"
+        },
+        {
+          "label": "E",
+          "text": "Predominance of erythroid precursors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
+        "whyCorrect": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-016_bl039_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-017",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This peripheral blood smear is from a patient with acute myeloid leukemia. What morphologic feature best identifies the large arrowed cells as myeloblasts rather than mature leukocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bilobed nucleus filled with bright eosinophilic granules"
+        },
+        {
+          "label": "B",
+          "text": "Abundant granular cytoplasm with a segmented multilobed nucleus"
+        },
+        {
+          "label": "C",
+          "text": "A small round condensed nucleus with scant clear cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "A high nuclear-to-cytoplasmic ratio with fine chromatin and visible nucleoli"
+        },
+        {
+          "label": "E",
+          "text": "Densely clumped chromatin with no discernible nucleoli"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
+        "whyCorrect": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-017_bl045_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-018",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This diagram traces the development of every blood cell lineage from a single precursor at the top of the hierarchy. Which property uniquely defines the apex cell shown at the top?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capacity for both self-renewal and differentiation into all blood cell lineages"
+        },
+        {
+          "label": "B",
+          "text": "Terminal differentiation with no further division"
+        },
+        {
+          "label": "C",
+          "text": "Production of hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Ability to phagocytose pathogens"
+        },
+        {
+          "label": "E",
+          "text": "Restriction to only the myeloid lineage"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
+        "whyCorrect": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-018_bl046_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-019",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The elongated endothelial (stave) cells and encircling reticulin fibers shown build the sinusoid wall in a way that creates which feature essential to RBC filtration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A ciliated luminal surface that actively propels cells"
+        },
+        {
+          "label": "B",
+          "text": "Narrow slit-like openings that only flexible red cells can traverse"
+        },
+        {
+          "label": "C",
+          "text": "A thick continuous basement membrane sealing the vessel"
+        },
+        {
+          "label": "D",
+          "text": "Continuous tight junctions that block passage of all cells"
+        },
+        {
+          "label": "E",
+          "text": "One-way valves that regulate the direction of blood flow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis.",
+        "whyCorrect": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-019_bl047_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-020",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "In this schematic of splenic white pulp, the sheath wrapping the central arteriole (the PALS) is populated predominantly by which cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages"
+        },
+        {
+          "label": "C",
+          "text": "T lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "E",
+          "text": "B lymphocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens.",
+        "whyCorrect": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-020_bl047_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-021",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This histologic section showing pink red pulp and bluish lymphoid white pulp around central arterioles is taken from which organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymph node"
+        },
+        {
+          "label": "B",
+          "text": "Spleen"
+        },
+        {
+          "label": "C",
+          "text": "Palatine tonsil"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "E",
+          "text": "Thymus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles.",
+        "whyCorrect": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-021_bl047_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-022",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The densely packed lymphocytes forming the sheath around the central arteriole (PALS) seen in this histology field are predominantly which cell type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T cells"
+        },
+        {
+          "label": "B",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath.",
+        "whyCorrect": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-022_bl047_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-023",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "In this diagram of a splenic follicle, the germinal center at its core contains predominantly activated cells of which type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "T cells"
+        },
+        {
+          "label": "E",
+          "text": "Erythrocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS.",
+        "whyCorrect": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-023_bl047_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-024",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This colorized transmission electron micrograph shows virions of a hemorrhagic fever virus family. Which structural feature is characteristic of the particles shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brick-shaped complex virion"
+        },
+        {
+          "label": "B",
+          "text": "Spherical, segmented particles"
+        },
+        {
+          "label": "C",
+          "text": "Bullet-shaped virion"
+        },
+        {
+          "label": "D",
+          "text": "Filamentous, thread-like enveloped particles"
+        },
+        {
+          "label": "E",
+          "text": "Icosahedral naked capsid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology.",
+        "whyCorrect": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-024_bl053_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-025",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "In this liver histology from a fatal yellow fever case, the arrows indicate small, shrunken, intensely eosinophilic hepatocytes that lack or have a pyknotic nucleus. What cellular process do these bodies represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis of individual hepatocytes"
+        },
+        {
+          "label": "B",
+          "text": "Coagulative necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Macrovesicular steatosis"
+        },
+        {
+          "label": "D",
+          "text": "Ballooning (hydropic) degeneration"
+        },
+        {
+          "label": "E",
+          "text": "Mitotic regeneration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
+        "whyCorrect": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-025_bl055_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-026",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This H&E-stained histologic field appears in a discussion of conditions that cause anemia of chronic disease. The dense basophilic (blue-purple) cellularity shown is most characteristic of which tissue process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An acute suppurative (neutrophil-rich) abscess"
+        },
+        {
+          "label": "B",
+          "text": "Normal adipose tissue"
+        },
+        {
+          "label": "C",
+          "text": "A chronic inflammatory / lymphocytic infiltrate"
+        },
+        {
+          "label": "D",
+          "text": "Mature fibrous scar tissue"
+        },
+        {
+          "label": "E",
+          "text": "Normal cardiac muscle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The field is packed with small, densely staining mononuclear cells typical of a chronic inflammatory (lymphocyte/plasma-cell) infiltrate. Sustained inflammation of this kind drives the cytokine response (IL-6) that underlies anemia of chronic disease, rather than the fat, neutrophilic pus, dense collagen, or striated fibers of the other choices.",
+        "whyCorrect": "The field is packed with small, densely staining mononuclear cells typical of a chronic inflammatory (lymphocyte/plasma-cell) infiltrate. Sustained inflammation of this kind drives the cytokine response (IL-6) that underlies anemia of chronic disease, rather than the fat, neutrophilic pus, dense collagen, or striated fibers of the other choices.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-026_bl057_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-027",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This high-power Wright-Giemsa blood smear shows normal red blood cells. What does the pale central region seen in each cell represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A vacuole formed during slide fixation"
+        },
+        {
+          "label": "B",
+          "text": "An area of increased hemoglobin concentration"
+        },
+        {
+          "label": "C",
+          "text": "The thin center of the biconcave disc, where little hemoglobin is present"
+        },
+        {
+          "label": "D",
+          "text": "A region of degraded hemoglobin forming a Heinz body"
+        },
+        {
+          "label": "E",
+          "text": "A nuclear remnant retained by the mature cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings.",
+        "whyCorrect": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-027_bl059_f01.png",
       "tags": [
         "picture"
       ]

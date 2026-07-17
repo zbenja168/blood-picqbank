@@ -1,6 +1,18 @@
 {
   "categories": [
     {
+      "id": "gross-anatomy",
+      "name": "Gross Anatomy",
+      "topics": [
+        {
+          "id": "gross-anatomy",
+          "name": "Gross Anatomy",
+          "sourceFile": "blood bricks",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
       "id": "histology-cell-biology",
       "name": "Histology & Cell Biology",
       "topics": [
@@ -8,7 +20,7 @@
           "id": "histology-cell-biology",
           "name": "Histology & Cell Biology",
           "sourceFile": "blood bricks",
-          "questionCount": 4
+          "questionCount": 23
         }
       ]
     },
@@ -20,7 +32,7 @@
           "id": "lab-diagnostics",
           "name": "Lab & Diagnostics",
           "sourceFile": "blood bricks",
-          "questionCount": 4
+          "questionCount": 47
         }
       ]
     },
@@ -32,7 +44,7 @@
           "id": "pathology",
           "name": "Pathology",
           "sourceFile": "blood bricks",
-          "questionCount": 14
+          "questionCount": 60
         }
       ]
     },
@@ -44,7 +56,7 @@
           "id": "pharmacology",
           "name": "Pharmacology",
           "sourceFile": "blood bricks",
-          "questionCount": 3
+          "questionCount": 12
         }
       ]
     },
@@ -56,10 +68,10 @@
           "id": "physiology-mechanisms",
           "name": "Physiology & Mechanisms",
           "sourceFile": "blood bricks",
-          "questionCount": 3
+          "questionCount": 39
         }
       ]
     }
   ],
-  "totalQuestions": 28
+  "totalQuestions": 185
 }

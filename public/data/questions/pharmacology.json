@@ -3,118 +3,469 @@
   "categoryName": "Pharmacology",
   "questions": [
     {
-      "id": "blpic-023",
+      "id": "blpic-135",
       "topicId": "pharmacology",
       "topicName": "Pharmacology",
-      "stem": "The highlighted drug in this diagram blocks production of the several clotting factors and regulatory proteins marked at each red box. By what biochemical mechanism does it reduce the activity of these factors?",
+      "stem": "The boxed factors in this figure indicate where warfarin exerts its effect on the clotting cascade. What is the biochemical basis for warfarin acting on exactly this set of factors?",
       "choices": [
         {
           "label": "A",
-          "text": "It potentiates antithrombin to inactivate factor Xa"
+          "text": "They share a calcium-binding site independent of vitamin K"
         },
         {
           "label": "B",
-          "text": "It cleaves cross-linked fibrin to dissolve clots"
+          "text": "They are all synthesized by vascular endothelium"
         },
         {
           "label": "C",
-          "text": "It inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of vitamin K-dependent factors"
+          "text": "They are the only factors of the intrinsic pathway"
         },
         {
           "label": "D",
-          "text": "It directly binds and inhibits the active site of thrombin"
+          "text": "They are all serine proteases uniquely cleaved by thrombin"
         },
         {
           "label": "E",
-          "text": "It chelates ionized calcium required by the cascade"
+          "text": "They are vitamin K-dependent factors requiring gamma-carboxylation"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Warfarin is a vitamin K antagonist: it inhibits vitamin K epoxide reductase, impairing the gamma-carboxylation needed to activate factors II, VII, IX, and X and proteins C and S.",
-        "whyCorrect": "Warfarin is a vitamin K antagonist: it inhibits vitamin K epoxide reductase, impairing the gamma-carboxylation needed to activate factors II, VII, IX, and X and proteins C and S.",
+        "summary": "Warfarin inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X and the regulatory proteins C and S, which are exactly the elements highlighted.",
+        "whyCorrect": "Warfarin inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X and the regulatory proteins C and S, which are exactly the elements highlighted.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-023_bl03_f02.png",
+      "imageRef": "blpic-135_bl015_f02.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-024",
+      "id": "blpic-136",
       "topicId": "pharmacology",
       "topicName": "Pharmacology",
-      "stem": "The agent shown here acts at the two points marked in the common pathway of this cascade. Through which mechanism does it inhibit factors Xa and IIa?",
+      "stem": "This figure illustrates how heparin acts on the coagulation cascade, marking its effect at factors Xa and IIa. Through what mechanism does heparin inhibit these factors?",
       "choices": [
         {
           "label": "A",
-          "text": "It blocks exposure of tissue factor"
+          "text": "It blocks platelet GPIIb/IIIa aggregation"
         },
         {
           "label": "B",
-          "text": "It directly binds the active site of thrombin"
-        },
-        {
-          "label": "C",
-          "text": "It enzymatically degrades fibrinogen"
-        },
-        {
-          "label": "D",
-          "text": "It activates antithrombin, which then inhibits factors Xa and thrombin"
-        },
-        {
-          "label": "E",
           "text": "It inhibits vitamin K epoxide reductase"
+        },
+        {
+          "label": "C",
+          "text": "It chelates the calcium required by the cascade"
+        },
+        {
+          "label": "D",
+          "text": "It directly binds and cleaves thrombin"
+        },
+        {
+          "label": "E",
+          "text": "It activates antithrombin, which then inhibits factors Xa and IIa"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Heparin acts indirectly by activating the endogenous anticoagulant antithrombin, which then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
-        "whyCorrect": "Heparin acts indirectly by activating the endogenous anticoagulant antithrombin, which then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
+        "summary": "Heparin works indirectly by activating endogenous antithrombin; the activated antithrombin then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
+        "whyCorrect": "Heparin works indirectly by activating endogenous antithrombin; the activated antithrombin then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-024_bl03_f04.png",
+      "imageRef": "blpic-136_bl015_f04.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "blpic-025",
+      "id": "blpic-137",
       "topicId": "pharmacology",
       "topicName": "Pharmacology",
-      "stem": "This schematic organizes classes of cytotoxic chemotherapy drugs according to the point in the cell cycle at which they act. Based on where the antimetabolite agents are positioned, what property of a cancer cell makes it especially vulnerable to these drugs?",
+      "stem": "This chemical schematic shows mechlorethamine reacting with guanine bases located on adjacent DNA strands. What class of DNA lesion is being formed?",
       "choices": [
         {
           "label": "A",
-          "text": "Its high rate of DNA replication during the synthesis phase"
+          "text": "Pyrimidine (thymine) dimer"
         },
         {
           "label": "B",
-          "text": "Its dependence on microtubule assembly during mitosis"
+          "text": "Depurination (abasic) site"
         },
         {
           "label": "C",
-          "text": "Its loss of checkpoint control that acts independently of cell-cycle phase"
+          "text": "Single-strand nick"
         },
         {
           "label": "D",
-          "text": "Its reliance on topoisomerase to unwind DNA in interphase"
+          "text": "Base-pair mismatch"
         },
         {
           "label": "E",
-          "text": "Its increased membrane permeability to platinum-based agents"
+          "text": "Interstrand cross-link"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
+        "whyCorrect": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-137_bl029_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-138",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This figure links specific chemotherapy agents to their characteristic organ toxicities. Cyclophosphamide is mapped to the bladder; which urinary metabolite is directly responsible for that toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acrolein"
+        },
+        {
+          "label": "B",
+          "text": "Acetaldehyde"
+        },
+        {
+          "label": "C",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "D",
+          "text": "Phosphoramide mustard"
+        },
+        {
+          "label": "E",
+          "text": "Mesna"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Antimetabolites are placed at the S (synthesis) phase because they masquerade as nucleosides and disrupt DNA synthesis. Rapidly dividing cancer cells spend proportionally more time actively replicating DNA, so blocking nucleotide/DNA synthesis in S phase preferentially kills them. Microtubule inhibitors act in M phase, topoisomerase and alkylating/platinum agents work by other mechanisms shown elsewhere on the diagram.",
-        "whyCorrect": "Antimetabolites are placed at the S (synthesis) phase because they masquerade as nucleosides and disrupt DNA synthesis. Rapidly dividing cancer cells spend proportionally more time actively replicating DNA, so blocking nucleotide/DNA synthesis in S phase preferentially kills them. Microtubule inhibitors act in M phase, topoisomerase and alkylating/platinum agents work by other mechanisms shown elsewhere on the diagram.",
+        "summary": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
+        "whyCorrect": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "blpic-025_bl06_f01.png",
+      "imageRef": "blpic-138_bl029_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-139",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "In this diagram of where chemotherapy drug classes act across the cell cycle, why are the antimetabolite agents positioned to act specifically during the highlighted synthesis phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They block mitotic spindle assembly, which occurs during the S phase"
+        },
+        {
+          "label": "B",
+          "text": "They crosslink DNA in a cell-cycle-independent manner concentrated in the S phase"
+        },
+        {
+          "label": "C",
+          "text": "They interfere with nucleotide/DNA synthesis, which only occurs during the S phase"
+        },
+        {
+          "label": "D",
+          "text": "They arrest cells at the G1/S checkpoint before DNA is copied"
+        },
+        {
+          "label": "E",
+          "text": "They inhibit topoisomerase-mediated transcription unique to the S phase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
+        "whyCorrect": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-139_bl030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-140",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This diagram compares two classes of targeted agents blocking signal transduction at the same receptor. Why do the agents depicted acting inside the cell tend to cause more off-target adverse effects than those acting outside the cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They selectively target a single cell-surface antigen"
+        },
+        {
+          "label": "B",
+          "text": "They are large proteins that provoke severe immune reactions"
+        },
+        {
+          "label": "C",
+          "text": "They bind extracellular receptors irreversibly"
+        },
+        {
+          "label": "D",
+          "text": "They enter the cell and competitively block ATP binding with relatively low target specificity"
+        },
+        {
+          "label": "E",
+          "text": "They can only be administered by continuous IV infusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
+        "whyCorrect": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-140_bl038_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-141",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "In the mechanism shown on the right side of the schematic, the small-molecule agent produces its effect on the receptor by which action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cross-linking two extracellular ligand-binding domains"
+        },
+        {
+          "label": "B",
+          "text": "Neutralizing the circulating ligand before it binds"
+        },
+        {
+          "label": "C",
+          "text": "Degrading the receptor mRNA in the cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Binding the intracellular kinase domain to block receptor autophosphorylation"
+        },
+        {
+          "label": "E",
+          "text": "Competitively occupying the extracellular ligand-binding site"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
+        "whyCorrect": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-141_bl039_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-142",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The adverse reactions illustrated are caused by an antimalarial drug. By what mechanism does this drug kill the parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits parasite dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits mitochondrial electron transport of the parasite"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits protein synthesis at the 30S ribosomal subunit"
+        },
+        {
+          "label": "D",
+          "text": "Binds parasite DNA and disrupts mitochondrial function"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits conversion of toxic heme to hemozoin and raises lysosomal pH in the digestive vacuole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chloroquine and hydroxychloroquine block detoxification of heme to hemozoin and increase digestive-vacuole pH, causing accumulation of toxic heme that damages the parasite. Their adverse effects include pruritus, cardiomyopathy, and hemolysis (especially in G6PD deficiency).",
+        "whyCorrect": "Chloroquine and hydroxychloroquine block detoxification of heme to hemozoin and increase digestive-vacuole pH, causing accumulation of toxic heme that damages the parasite. Their adverse effects include pruritus, cardiomyopathy, and hemolysis (especially in G6PD deficiency).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-142_bl052_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-143",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The adverse reactions shown belong to a first-line combination prophylaxis. What is the combined mechanism of its two components?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds parasite DNA and disrupts mitochondria"
+        },
+        {
+          "label": "B",
+          "text": "Interferes with parasite 80S protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits mitochondrial electron transport and blocks folate (dihydrofolate reductase) synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits heme detoxification within the digestive vacuole"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits protein synthesis at the 30S ribosomal subunit"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Atovaquone selectively inhibits parasite mitochondrial electron transport, while proguanil's metabolite inhibits dihydrofolate reductase, blocking folate/DNA synthesis. Common adverse effects include nausea, abdominal pain, and transaminitis (increased AST/ALT).",
+        "whyCorrect": "Atovaquone selectively inhibits parasite mitochondrial electron transport, while proguanil's metabolite inhibits dihydrofolate reductase, blocking folate/DNA synthesis. Common adverse effects include nausea, abdominal pain, and transaminitis (increased AST/ALT).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-143_bl052_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-144",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The adverse effects depicted are associated with a tetracycline-class antimalarial. What is its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits parasite protein synthesis at the 30S ribosomal subunit"
+        },
+        {
+          "label": "B",
+          "text": "Binds parasite DNA and disrupts mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits heme detoxification in the digestive vacuole"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits mitochondrial electron transport"
+        },
+        {
+          "label": "E",
+          "text": "Cleaves an endoperoxide bridge to generate free radicals"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Doxycycline is a 30S protein-synthesis inhibitor that prevents the parasite from replicating. Its adverse effects include GI disturbances (diarrhea, vomiting, nausea) and photosensitivity, plus chelation with cations.",
+        "whyCorrect": "Doxycycline is a 30S protein-synthesis inhibitor that prevents the parasite from replicating. Its adverse effects include GI disturbances (diarrhea, vomiting, nausea) and photosensitivity, plus chelation with cations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-144_bl052_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-145",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The adverse effects shown are caused by an antimalarial used to prevent relapse of P. ovale and P. vivax. What is its mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits heme detoxification in the digestive vacuole"
+        },
+        {
+          "label": "B",
+          "text": "Interferes with 80S protein synthesis and heme digestion"
+        },
+        {
+          "label": "C",
+          "text": "Disrupts parasite mitochondrial function and binds parasite DNA"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits mitochondrial electron transport and folate synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits protein synthesis at the 30S ribosomal subunit"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primaquine disrupts mitochondria and binds parasite DNA, and is uniquely active against exoerythrocytic (hypnozoite) stages. Its adverse effects include cardiac arrhythmias (QT prolongation), leukopenia, and hemolytic anemia in G6PD deficiency.",
+        "whyCorrect": "Primaquine disrupts mitochondria and binds parasite DNA, and is uniquely active against exoerythrocytic (hypnozoite) stages. Its adverse effects include cardiac arrhythmias (QT prolongation), leukopenia, and hemolytic anemia in G6PD deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-145_bl052_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-146",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic maps where FDA-approved monoclonal antibody therapies bind on the Ebola virus surface glycoprotein. By what mechanism do these antibodies neutralize the virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking glycoprotein binding to host cell receptors"
+        },
+        {
+          "label": "B",
+          "text": "Blocking viral budding from the membrane"
+        },
+        {
+          "label": "C",
+          "text": "Degrading the viral envelope lipid"
+        },
+        {
+          "label": "D",
+          "text": "Preventing nucleocapsid assembly"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting the viral RNA polymerase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The monoclonal antibodies bind the viral surface glycoprotein and block its engagement of cognate host receptors, neutralizing the virus; they also mediate antibody-dependent cellular cytotoxicity.",
+        "whyCorrect": "The monoclonal antibodies bind the viral surface glycoprotein and block its engagement of cognate host receptors, neutralizing the virus; they also mediate antibody-dependent cellular cytotoxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-146_bl053_f03.png",
       "tags": [
         "picture"
       ]
