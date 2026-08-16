@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Hemophilia (an X-linked deficiency of an intrinsic-pathway clotting factor)"
+          "text": "Hemophilia"
         },
         {
           "label": "C",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "It stabilizes the temporary platelet plug into a permanent crosslinked fibrin clot (secondary hemostasis)"
+          "text": "It stabilizes the platelet plug into a crosslinked fibrin clot"
         }
       ],
       "correctAnswer": "E",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "EDTA and citrate chelate calcium, which is required as a cofactor at numerous points of the coagulation cascade"
+          "text": "EDTA and citrate chelate calcium"
         },
         {
           "label": "D",
@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "They keep coagulation localized and self-limited, preventing runaway clot formation"
+          "text": "They keep coagulation localized and self-limited"
         },
         {
           "label": "D",

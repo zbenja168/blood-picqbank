@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Bleeding into the skin from a critically reduced circulating platelet count"
+          "text": "Bleeding into the skin from a reduced platelet count"
         },
         {
           "label": "E",
@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "The transfused platelets are also coated by circulating antibody and are rapidly cleared by splenic macrophages"
+          "text": "The transfused platelets are also coated by antibody and are rapidly cleared"
         },
         {
           "label": "C",

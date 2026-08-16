@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Bacterial infection or inflammation"
+          "text": "Bacterial infection"
         },
         {
           "label": "E",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Severe bacterial infection or inflammation"
+          "text": "Severe bacterial infection"
         },
         {
           "label": "E",
@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Degranulation of lysosomes during phagocytosis, typically in sepsis"
+          "text": "Degranulation of lysosomes during phagocytosis"
         },
         {
           "label": "B",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Viral infection such as infectious mononucleosis"
+          "text": "Viral infection"
         },
         {
           "label": "B",

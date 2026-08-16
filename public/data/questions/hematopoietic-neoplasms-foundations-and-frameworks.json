@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "To provide a firm supporting medium so the tissue can be cut into very thin sections"
+          "text": "To provide a firm supporting medium"
         },
         {
           "label": "C",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "They express the specific target antigen the antibody was directed against"
+          "text": "They express the specific target antigen"
         },
         {
           "label": "E",
@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "An extra copy of that chromosome (trisomy)"
+          "text": "An extra copy of that chromosome"
         },
         {
           "label": "B",

@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Transient hypercoagulability from rapid depletion of proteins C and S causing microvascular thrombosis"
+          "text": "Transient hypercoagulability from rapid depletion of proteins C and S"
         },
         {
           "label": "B",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "They are vitamin K-dependent factors requiring gamma-carboxylation"
+          "text": "They are vitamin K-dependent factors"
         }
       ],
       "correctAnswer": "E",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "It activates antithrombin, which then inhibits factors Xa and IIa"
+          "text": "It activates antithrombin"
         }
       ],
       "correctAnswer": "E",

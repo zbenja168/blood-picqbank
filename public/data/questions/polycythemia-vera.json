@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "Extramedullary hematopoiesis in the setting of marrow fibrosis"
+          "text": "Extramedullary hematopoiesis"
         }
       ],
       "correctAnswer": "E",
@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "A JAK2 mutation causing constitutive, EPO-independent activation of the signaling pathway"
+          "text": "A JAK2 mutation causing constitutive activation"
         },
         {
           "label": "E",

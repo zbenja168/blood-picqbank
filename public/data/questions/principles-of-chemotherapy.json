@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "Each dose kills a constant fraction (not a constant number) of tumor cells"
+          "text": "Each dose kills a constant fraction of tumor cells"
         }
       ],
       "correctAnswer": "E",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Each identical dose eliminates the same percentage of surviving cells, so absolute kill shrinks as fewer cells remain"
+          "text": "Each identical dose eliminates the same percentage of surviving cells"
         },
         {
           "label": "E",

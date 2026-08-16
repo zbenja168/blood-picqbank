@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Microangiopathic hemolytic anemia (MAHA)"
+          "text": "Microangiopathic hemolytic anemia"
         },
         {
           "label": "B",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Mechanical red-cell fragmentation by microthrombi"
+          "text": "Mechanical red-cell fragmentation"
         },
         {
           "label": "E",

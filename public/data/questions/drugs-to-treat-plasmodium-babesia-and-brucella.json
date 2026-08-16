@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "Inhibits conversion of toxic heme to hemozoin and raises lysosomal pH in the digestive vacuole"
+          "text": "Inhibits conversion of toxic heme to hemozoin"
         }
       ],
       "correctAnswer": "E",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Inhibits mitochondrial electron transport and blocks folate (dihydrofolate reductase) synthesis"
+          "text": "Inhibits mitochondrial electron transport and blocks folate synthesis"
         },
         {
           "label": "D",
@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibits parasite protein synthesis at the 30S ribosomal subunit"
+          "text": "Inhibits protein synthesis at the 30S ribosomal subunit"
         },
         {
           "label": "B",

@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Tetrahydrofolate cannot be regenerated, so dUMP is no longer converted to dTMP and DNA synthesis stalls"
+          "text": "Tetrahydrofolate cannot be regenerated, so dUMP is no longer converted to dTMP"
         },
         {
           "label": "B",
