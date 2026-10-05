@@ -1,0 +1,747 @@
+{
+  "categoryId": "w3s4",
+  "categoryName": "Session 4",
+  "questions": [
+    {
+      "id": "blpic-016",
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "stem": "This bone marrow section from chronic-phase CML most characteristically demonstrates which feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sheets of neoplastic plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Marked hypercellularity with granulocytic predominance"
+        },
+        {
+          "label": "C",
+          "text": "Dense fibrosis obliterating hematopoietic elements"
+        },
+        {
+          "label": "D",
+          "text": "Near-total aplasia with fatty replacement"
+        },
+        {
+          "label": "E",
+          "text": "Predominance of erythroid precursors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
+        "whyCorrect": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-016_bl039_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-115",
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "stem": "The reciprocal chromosomal event depicted creates a fusion gene whose protein product is best described as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An overactive transcription factor driving erythropoiesis"
+        },
+        {
+          "label": "B",
+          "text": "A defective DNA mismatch-repair enzyme"
+        },
+        {
+          "label": "C",
+          "text": "A non-functional membrane folate transporter"
+        },
+        {
+          "label": "D",
+          "text": "A loss-of-function tumor suppressor protein"
+        },
+        {
+          "label": "E",
+          "text": "A constitutively active tyrosine kinase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
+        "whyCorrect": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-115_bl039_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-141",
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "stem": "In the mechanism shown on the right side of the schematic, the small-molecule agent produces its effect on the receptor by which action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cross-linking two extracellular ligand-binding domains"
+        },
+        {
+          "label": "B",
+          "text": "Neutralizing the circulating ligand before it binds"
+        },
+        {
+          "label": "C",
+          "text": "Degrading the receptor mRNA in the cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Binding the intracellular kinase domain"
+        },
+        {
+          "label": "E",
+          "text": "Competitively occupying the extracellular ligand-binding site"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
+        "whyCorrect": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-141_bl039_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-060",
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "stem": "This peripheral blood smear is from a patient with polycythemia vera. Which feature best characterizes the appearance shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Predominance of blasts containing Auer rods"
+        },
+        {
+          "label": "B",
+          "text": "Marked spherocytosis with polychromasia"
+        },
+        {
+          "label": "C",
+          "text": "A crowded field of increased but morphologically normal red cells"
+        },
+        {
+          "label": "D",
+          "text": "Numerous teardrop cells with nucleated red cells"
+        },
+        {
+          "label": "E",
+          "text": "Prominent rouleaux formation on a blue background"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
+        "whyCorrect": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-060_bl040_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-116",
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "stem": "This gross specimen is a markedly enlarged organ removed from a patient with advanced polycythemia vera. What process most likely accounts for the enlargement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid infiltration"
+        },
+        {
+          "label": "B",
+          "text": "Portal hypertension due to cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic carcinoma deposits"
+        },
+        {
+          "label": "D",
+          "text": "Reactive hyperplasia from infectious mononucleosis"
+        },
+        {
+          "label": "E",
+          "text": "Extramedullary hematopoiesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
+        "whyCorrect": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-116_bl040_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-177",
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "stem": "This schematic contrasts erythropoietin signaling in a normal red-cell precursor with that in polycythemia vera. What is the key molecular abnormality driving the uncontrolled cell growth depicted on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal secretion of erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Overexpression of the erythropoietin receptor on the cell surface"
+        },
+        {
+          "label": "C",
+          "text": "Loss of a tumor suppressor gene controlling apoptosis"
+        },
+        {
+          "label": "D",
+          "text": "A JAK2 mutation causing constitutive activation"
+        },
+        {
+          "label": "E",
+          "text": "A BCR-ABL fusion tyrosine kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
+        "whyCorrect": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-177_bl040_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-117",
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "stem": "This normocellular bone marrow biopsy is from a patient with essential thrombocythemia. Proliferation of which cell type is the characteristic finding that accounts for the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "C",
+          "text": "Mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Lymphoblasts"
+        },
+        {
+          "label": "E",
+          "text": "Erythroid precursors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
+        "whyCorrect": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-117_bl041_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-118",
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "stem": "This stained bone marrow section from a patient with primary myelofibrosis best demonstrates which underlying pathologic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infiltration of the marrow space by sheets of monomorphic lymphoblasts"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation with epithelioid macrophages and giant cells"
+        },
+        {
+          "label": "C",
+          "text": "Replacement of hematopoietic marrow by a dense fibrous meshwork"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse deposition of amorphous eosinophilic amyloid around vessels"
+        },
+        {
+          "label": "E",
+          "text": "Necrotic gelatinous transformation of marrow fat with serous atrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
+        "whyCorrect": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-118_bl042_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-119",
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "stem": "This schematic classifies hematologic neoplasms into their major branches, with myelodysplastic syndromes (MDS) grouped under the myeloid neoplasms. Progression of MDS most commonly leads to which of the related conditions also shown on this classification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "C",
+          "text": "Hairy cell leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
+        "whyCorrect": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-119_bl044_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-120",
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "stem": "In this peripheral blood smear the central white cell has very few granules and an almost completely clear cytoplasm. This dysplastic granulocyte change is characteristically associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infectious mononucleosis"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial sepsis with toxic granulation"
+        },
+        {
+          "label": "D",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Myelodysplastic syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
+        "whyCorrect": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-120_bl044_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-121",
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "stem": "The arrows in this bone marrow field indicate abnormally small cells with single, non-lobulated nuclei. These are dysplastic megakaryocytes; their abnormality would most directly impair production of which blood component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophils"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Platelets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
+        "whyCorrect": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-121_bl044_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-017",
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "stem": "This peripheral blood smear is from a patient with acute myeloid leukemia. What morphologic feature best identifies the large arrowed cells as myeloblasts rather than mature leukocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bilobed nucleus filled with bright eosinophilic granules"
+        },
+        {
+          "label": "B",
+          "text": "Abundant granular cytoplasm with a segmented multilobed nucleus"
+        },
+        {
+          "label": "C",
+          "text": "A small round condensed nucleus with scant clear cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "A high nuclear-to-cytoplasmic ratio with fine chromatin and visible nucleoli"
+        },
+        {
+          "label": "E",
+          "text": "Densely clumped chromatin with no discernible nucleoli"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
+        "whyCorrect": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-017_bl045_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-061",
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "stem": "The left centrifuged specimen is from a leukemia patient with a WBC count over 600,000/microL; the right is from a healthy donor. What accounts for the markedly expanded middle layer in the patient's sample?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An accumulation of plasma lipids"
+        },
+        {
+          "label": "B",
+          "text": "A massive increase in circulating white blood cells"
+        },
+        {
+          "label": "C",
+          "text": "A large rise in plasma protein concentration"
+        },
+        {
+          "label": "D",
+          "text": "A marked excess of platelets alone"
+        },
+        {
+          "label": "E",
+          "text": "An expansion of the red blood cell mass (polycythemia)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
+        "whyCorrect": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-061_bl045_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-018",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "This diagram traces the development of every blood cell lineage from a single precursor at the top of the hierarchy. Which property uniquely defines the apex cell shown at the top?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capacity for both self-renewal and differentiation into all blood cell lineages"
+        },
+        {
+          "label": "B",
+          "text": "Terminal differentiation with no further division"
+        },
+        {
+          "label": "C",
+          "text": "Production of hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Ability to phagocytose pathogens"
+        },
+        {
+          "label": "E",
+          "text": "Restriction to only the myeloid lineage"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
+        "whyCorrect": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-018_bl046_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-062",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "The paired diagram and photograph show a large-bore needle being inserted to harvest hematopoietic stem cells. From which anatomical site is this sample most commonly obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sternum"
+        },
+        {
+          "label": "B",
+          "text": "Proximal tibia"
+        },
+        {
+          "label": "C",
+          "text": "Anterior superior iliac spine"
+        },
+        {
+          "label": "D",
+          "text": "Femoral shaft"
+        },
+        {
+          "label": "E",
+          "text": "Posterior iliac crest"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
+        "whyCorrect": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-062_bl046_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-063",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "The machine depicted separates circulating stem cells while returning the remaining blood to the donor. What agent is most commonly given beforehand to mobilize these cells into the bloodstream and raise the collection yield?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rituximab"
+        },
+        {
+          "label": "B",
+          "text": "G-CSF"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin"
+        },
+        {
+          "label": "D",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous iron"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
+        "whyCorrect": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-063_bl046_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-122",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "These intraoral photographs from a transplant recipient show a common regimen-related toxicity. What is the primary cause of this mucosal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin C deficiency (scurvy)"
+        },
+        {
+          "label": "B",
+          "text": "Primary herpes simplex infection"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial gingivitis from poor oral hygiene"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune pemphigus vulgaris"
+        },
+        {
+          "label": "E",
+          "text": "Cytotoxic damage from the conditioning regimen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
+        "whyCorrect": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-122_bl046_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-123",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "This chart plots the temporal onset of syndromes complicating marrow transplantation across the post-transplant period. Which complication characteristically appears LATEST, extending well beyond day 100?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucositis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic graft-versus-host disease"
+        },
+        {
+          "label": "C",
+          "text": "Sinusoidal obstruction syndrome (veno-occlusive disease)"
+        },
+        {
+          "label": "D",
+          "text": "Acute graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Early Gram-negative bacterial sepsis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
+        "whyCorrect": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-123_bl046_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-178",
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "stem": "The post-transplant recovery timeline shown distinguishes an early from a late form of one immune complication on the allogeneic track. Around which time point does the transition from acute to chronic graft-versus-host disease conventionally occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 14 days after infusion"
+        },
+        {
+          "label": "B",
+          "text": "About 100 days after infusion"
+        },
+        {
+          "label": "C",
+          "text": "About 7 days after infusion"
+        },
+        {
+          "label": "D",
+          "text": "About 30 days after infusion"
+        },
+        {
+          "label": "E",
+          "text": "About 2 years after infusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
+        "whyCorrect": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-178_bl046_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

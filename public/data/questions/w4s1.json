@@ -1,6 +1,6 @@
 {
-  "categoryId": "structure-and-function-of-the-spleen",
-  "categoryName": "Structure and Function of the Spleen",
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
   "questions": [
     {
       "id": "blpic-001",
@@ -427,6 +427,357 @@
       },
       "difficulty": "medium",
       "imageRef": "blpic-180_bl047_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-004",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "Based on the anatomical location shown in this diagram, the highlighted organ in the left upper quadrant is most vulnerable to injury from trauma to which region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The right flank"
+        },
+        {
+          "label": "B",
+          "text": "The lower left ribs"
+        },
+        {
+          "label": "C",
+          "text": "The midline epigastrium"
+        },
+        {
+          "label": "D",
+          "text": "The right upper quadrant ribs"
+        },
+        {
+          "label": "E",
+          "text": "The pelvis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side.",
+        "whyCorrect": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-004_bl048_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-065",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "This contrast CT after blunt abdominal trauma shows a darker region within the spleen (arrow) with surrounding free fluid. What is the most immediate life-threatening concern with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overwhelming post-splenectomy infection"
+        },
+        {
+          "label": "B",
+          "text": "Splenic abscess with sepsis"
+        },
+        {
+          "label": "C",
+          "text": "Portal hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Hemorrhage leading to hypovolemic shock"
+        },
+        {
+          "label": "E",
+          "text": "Splenic vein thrombosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
+        "whyCorrect": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-065_bl048_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-124",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "This CT of the abdomen in a patient with sickle cell disease shows a small, calcified spleen (arrow). What process produced this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Splenic abscess formation"
+        },
+        {
+          "label": "B",
+          "text": "Traumatic splenic hematoma"
+        },
+        {
+          "label": "C",
+          "text": "Splenic auto-infarction"
+        },
+        {
+          "label": "D",
+          "text": "Portal venous varicosity"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyCorrect": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-124_bl048_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-181",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "This diagram of the portal venous system helps explain why chronic liver disease leads to splenomegaly. Which mechanism is primarily responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Entrapment of rigid red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Increased splenic immune hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Extramedullary hematopoiesis within the spleen"
+        },
+        {
+          "label": "D",
+          "text": "Infiltration by amyloid protein"
+        },
+        {
+          "label": "E",
+          "text": "Increased portal and splenic vein pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
+        "whyCorrect": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-181_bl048_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-066",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "In the right-hand radiograph, the arrow marks a mediastinal contour abnormality causing loss of the upper-left heart border silhouette. In which compartment is this thymic mass located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Anterior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial cavity"
+        },
+        {
+          "label": "D",
+          "text": "Lung apex"
+        },
+        {
+          "label": "E",
+          "text": "Pleural space"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
+        "whyCorrect": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-066_bl049_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-125",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "These histologic fields are from a slow-growing anterior mediastinal tumor in an adult. Patients with this tumor are at increased risk of which associated condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type 1 diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Graves disease"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "E",
+          "text": "Multiple sclerosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
+        "whyCorrect": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-125_bl049_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-126",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "This diffuse skin finding on the trunk of a young boy, together with recurrent infections and easy bruising from small platelets, is part of the triad of which X-linked disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wiskott-Aldrich syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Ataxia-telangiectasia"
+        },
+        {
+          "label": "C",
+          "text": "Severe combined immunodeficiency"
+        },
+        {
+          "label": "D",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Bruton agammaglobulinemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
+        "whyCorrect": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-126_bl049_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-182",
+      "topicId": "structure-function-and-disorders-of-the-thymus",
+      "topicName": "Structure, Function, and Disorders of the Thymus",
+      "stem": "This diagram depicts the fate of developing T cells based on how strongly their receptors bind self-antigen. What is the primary purpose of eliminating cells that bind self-antigen with high affinity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To increase B-cell antibody diversity"
+        },
+        {
+          "label": "B",
+          "text": "To establish central tolerance and prevent autoimmunity"
+        },
+        {
+          "label": "C",
+          "text": "To promote clonal proliferation of effector cells"
+        },
+        {
+          "label": "D",
+          "text": "To generate red blood cell precursors"
+        },
+        {
+          "label": "E",
+          "text": "To expand memory T-cell populations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
+        "whyCorrect": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-182_bl049_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-183",
+      "topicId": "antiemetics-for-chemotherapy-patients",
+      "topicName": "Antiemetics for Chemotherapy Patients",
+      "stem": "This diagram maps the neural pathways and structures that trigger nausea and vomiting. The structure labeled as the chemoreceptor trigger zone (area postrema) is uniquely able to sense blood-borne emetic agents such as chemotherapy drugs. What structural feature allows it to do this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the only brain region expressing histamine-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "It receives direct arterial supply that bypasses the systemic circulation"
+        },
+        {
+          "label": "C",
+          "text": "It contains dense sympathetic ganglia that amplify vagal signals"
+        },
+        {
+          "label": "D",
+          "text": "It lies outside the blood-brain barrier"
+        },
+        {
+          "label": "E",
+          "text": "It secretes cerebrospinal fluid directly into the fourth ventricle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
+        "whyCorrect": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-183_bl050_f01.png",
       "tags": [
         "picture"
       ]

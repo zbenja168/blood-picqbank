@@ -1,0 +1,708 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "blpic-011",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This high-power histology field from a hyper-aggressive lymphoma shows a dense sea of uniform medium-sized lymphocytes interrupted by scattered pale macrophages that have engulfed apoptotic debris. Which lymphoma produces this characteristic appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse large B-cell lymphoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyCorrect": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-011_bl034_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-056",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This peripheral blood smear from a patient with a marked lymphocytosis shows many small mature-appearing lymphocytes, along with a fragile cell (circled) that was crushed during slide preparation. What is this circled structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reed-Sternberg cell"
+        },
+        {
+          "label": "B",
+          "text": "Heinz body"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "D",
+          "text": "Auer rod"
+        },
+        {
+          "label": "E",
+          "text": "Smudge cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyCorrect": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-056_bl033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-107",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This lymph node biopsy shows low-power effacement of nodal architecture (top) by diffuse sheets of small round lymphocytes at high power (bottom), with a scattered larger cell bearing a central nucleolus. Which disorder does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Small lymphocytic lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
+        "whyCorrect": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-107_bl033_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-108",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This gastric biopsy shows neoplastic marginal-zone B cells infiltrating and disrupting the glandular epithelium. This lymphoma is most strongly associated with chronic infection by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Human herpesvirus-8"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Helicobacter pylori"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
+        "whyCorrect": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-108_bl033_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-109",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas",
+      "stem": "This lymphoma shows a diffuse proliferation of small-to-intermediate sized lymphocytes on H&E (left) that stain strongly positive with the nuclear immunostain shown (right, brown). Which lymphoma is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Chronic lymphocytic leukemia/small lymphocytic lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Follicular lymphoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
+        "whyCorrect": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-109_bl034_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-012",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This peripheral blood field shows a single large lymphoid cell with a deeply grooved, highly convoluted nucleus among normal red cells. What is the significance of this nuclear morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It represents a Reed-Sternberg cell diagnostic of Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "It is a myeloblast with an Auer rod signaling acute leukemia"
+        },
+        {
+          "label": "C",
+          "text": "It is a reactive atypical lymphocyte seen in viral infection"
+        },
+        {
+          "label": "D",
+          "text": "It indicates a plasma cell producing monoclonal immunoglobulin"
+        },
+        {
+          "label": "E",
+          "text": "It reflects the cerebriform nucleus of mycosis fungoides/Sezary syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyCorrect": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-012_bl035_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-013",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This H&E skin biopsy (malignant cells highlighted by the red circle) shows a cluster of atypical lymphocytes within the epidermis. What is this finding, and what does it consist of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cluster of eosinophils indicating a hypersensitivity reaction"
+        },
+        {
+          "label": "B",
+          "text": "A Pautrier microabscess made up of clustered neoplastic T lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "A Munro microabscess of neutrophils typical of psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "A neutrophilic abscess consistent with bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "A collection of Langerhans cells forming a granuloma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyCorrect": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-013_bl035_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-110",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This clinical photograph shows an early skin finding on the trunk of a patient later diagnosed with a cutaneous T-cell neoplasm. What best explains why lesions like this are frequently misdiagnosed for years before the correct diagnosis is made?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They appear only after systemic organ involvement is already advanced"
+        },
+        {
+          "label": "B",
+          "text": "They occur exclusively on sun-exposed skin, pointing to actinic damage"
+        },
+        {
+          "label": "C",
+          "text": "They are painful vesicular lesions that resemble a viral exanthem"
+        },
+        {
+          "label": "D",
+          "text": "They are pigmented nodules easily mistaken for melanoma"
+        },
+        {
+          "label": "E",
+          "text": "They closely mimic benign inflammatory dermatoses"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
+        "whyCorrect": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-110_bl035_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-111",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This raised, thick, red skin lesion is a more advanced form of a cutaneous T-cell lymphoma. In the classic staged progression of this disease, this type of lesion typically follows which earlier finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lytic bone lesions with hypercalcemia"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral blood leukemic flower cells"
+        },
+        {
+          "label": "C",
+          "text": "Flat scaly patches and plaques"
+        },
+        {
+          "label": "D",
+          "text": "Generalized erythroderma covering most of the body"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse lymphadenopathy with hepatosplenomegaly"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
+        "whyCorrect": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-111_bl035_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-112",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This historical photograph shows advanced nodular, mushroom-like tumors on the skin. These growths are directly responsible for which feature of the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The triad defining Sezary syndrome"
+        },
+        {
+          "label": "B",
+          "text": "The presence of Reed-Sternberg cells"
+        },
+        {
+          "label": "C",
+          "text": "Classification as a fungal (mold) infection"
+        },
+        {
+          "label": "D",
+          "text": "Its association with HTLV-1 infection"
+        },
+        {
+          "label": "E",
+          "text": "The name 'mycosis fungoides'"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
+        "whyCorrect": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-112_bl035_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-113",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-Cell Non-Hodgkin Lymphomas",
+      "stem": "This patient shows diffuse red, itchy, peeling skin over most of the body along with involvement of the palms. This presentation is a defining component of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult T-cell leukemia/lymphoma acute form"
+        },
+        {
+          "label": "B",
+          "text": "Hodgkin lymphoma with skin involvement"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral T-cell lymphoma, not otherwise specified"
+        },
+        {
+          "label": "D",
+          "text": "Sezary syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Early-patch-stage mycosis fungoides"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
+        "whyCorrect": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-113_bl035_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-014",
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "stem": "The left panel of this lymph node histology shows nodules separated by broad fibrous bands, and the right panel shows cells sitting within clear lacunar spaces. Which histologic subtype of Hodgkin lymphoma does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocyte-rich"
+        },
+        {
+          "label": "B",
+          "text": "Mixed cellularity"
+        },
+        {
+          "label": "C",
+          "text": "Nodular sclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Nodular lymphocyte-predominant"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocyte-depleted"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
+        "whyCorrect": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-014_bl036_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-114",
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "stem": "This graph plots the incidence of Hodgkin lymphoma against patient age. What pattern of age distribution does it demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bimodal distribution"
+        },
+        {
+          "label": "B",
+          "text": "A single peak in middle age only"
+        },
+        {
+          "label": "C",
+          "text": "A flat, uniform incidence across all age groups"
+        },
+        {
+          "label": "D",
+          "text": "A steady, continuous rise in incidence with advancing age"
+        },
+        {
+          "label": "E",
+          "text": "A single peak confined to early childhood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
+        "whyCorrect": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-114_bl036_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-015",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This high-power marrow field shows numerous cells with an eccentric nucleus and a pale perinuclear zone, some with a spoked chromatin pattern (arrows). Which cell type predominates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myeloblasts"
+        },
+        {
+          "label": "B",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "C",
+          "text": "Erythroblasts"
+        },
+        {
+          "label": "D",
+          "text": "Reactive small lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Malignant plasma cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyCorrect": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-015_bl037_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-057",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This peripheral blood smear shows red blood cells stacked like coins (circled areas). What underlying change produces this arrangement in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated agglutination of RBCs into clumps"
+        },
+        {
+          "label": "B",
+          "text": "Microcytosis from iron deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum immunoglobulin reduces the surface charge"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic swelling of RBCs in hypotonic plasma"
+        },
+        {
+          "label": "E",
+          "text": "Increased rigidity of the RBC membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
+        "whyCorrect": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-057_bl037_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-058",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This lateral skull radiograph shows multiple sharply demarcated, punched-out lucencies. What process produces these lesions in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic dystrophic calcification"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial osteomyelitis"
+        },
+        {
+          "label": "C",
+          "text": "Osteoclast-mediated bone resorption"
+        },
+        {
+          "label": "D",
+          "text": "Osteoblastic new bone formation"
+        },
+        {
+          "label": "E",
+          "text": "Fibrous dysplasia remodeling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyCorrect": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-058_bl037_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-059",
+      "topicId": "multiple-myeloma-and-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Plasma Cell Disorders",
+      "stem": "This gel study shows a discrete band aligning in one heavy-chain lane and one light-chain lane. What does this test add beyond serum protein electrophoresis in multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It assesses bone marrow cellularity"
+        },
+        {
+          "label": "B",
+          "text": "It identifies the specific heavy- and light-chain class"
+        },
+        {
+          "label": "C",
+          "text": "It measures the erythrocyte sedimentation rate"
+        },
+        {
+          "label": "D",
+          "text": "It detects circulating bacterial antigens"
+        },
+        {
+          "label": "E",
+          "text": "It quantifies the total serum protein concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
+        "whyCorrect": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-059_bl037_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-140",
+      "topicId": "targeted-inhibitors-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors in Cancer Therapy",
+      "stem": "This diagram compares two classes of targeted agents blocking signal transduction at the same receptor. Why do the agents depicted acting inside the cell tend to cause more off-target adverse effects than those acting outside the cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They selectively target a single cell-surface antigen"
+        },
+        {
+          "label": "B",
+          "text": "They are large proteins that provoke severe immune reactions"
+        },
+        {
+          "label": "C",
+          "text": "They bind extracellular receptors irreversibly"
+        },
+        {
+          "label": "D",
+          "text": "They enter the cell and block ATP binding with low target specificity"
+        },
+        {
+          "label": "E",
+          "text": "They can only be administered by continuous IV infusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
+        "whyCorrect": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-140_bl038_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

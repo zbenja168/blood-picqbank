@@ -1,0 +1,1215 @@
+{
+  "categoryId": "w3s1_2",
+  "categoryName": "Sessions 1 & 2",
+  "questions": [
+    {
+      "id": "blpic-047",
+      "topicId": "acute-lymphoblastic-leukemia-lymphoma",
+      "topicName": "Acute Lymphoblastic Leukemia/Lymphoma",
+      "stem": "This illustration shows the procedure essential for confirming ALL when blood counts are abnormal. In an adult, from which site is the needle most commonly inserted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Distal femoral metaphysis"
+        },
+        {
+          "label": "B",
+          "text": "Proximal tibial plateau"
+        },
+        {
+          "label": "C",
+          "text": "Body of the sternum"
+        },
+        {
+          "label": "D",
+          "text": "Posterior superior iliac crest"
+        },
+        {
+          "label": "E",
+          "text": "Lumbar spinous process"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
+        "whyCorrect": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-047_bl024_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-048",
+      "topicId": "acute-lymphoblastic-leukemia-lymphoma",
+      "topicName": "Acute Lymphoblastic Leukemia/Lymphoma",
+      "stem": "The left chest radiograph from a child with T-cell ALL differs from the normal film on the right at the arrow. What abnormality does the arrow indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Anterior mediastinal mass"
+        },
+        {
+          "label": "E",
+          "text": "Large pleural effusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyCorrect": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-048_bl024_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-090",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This peripheral blood smear shows an increased number of the arrowed cells, all with normal nuclear segmentation of 2 to 5 lobes. What is the most common underlying cause of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Viral hepatitis"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "Acute lymphoblastic leukemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
+        "whyCorrect": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-090_bl025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-091",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "The neutrophil at the center of this smear contains prominent dark primary granules that stain nearly the same color as its nucleus. What does this toxic change most commonly indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Parasitic infestation"
+        },
+        {
+          "label": "C",
+          "text": "Allergic reaction"
+        },
+        {
+          "label": "D",
+          "text": "Severe bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "Megaloblastic anemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
+        "whyCorrect": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-091_bl025_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-092",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This neutrophil shows small clear bubbles in its cytoplasm in addition to coarse toxic granules. What process produces these vacuoles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degranulation of lysosomes during phagocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Nuclear fragmentation from apoptosis"
+        },
+        {
+          "label": "C",
+          "text": "Lipid deposition from hyperlipidemia"
+        },
+        {
+          "label": "D",
+          "text": "Viral inclusion body formation"
+        },
+        {
+          "label": "E",
+          "text": "Accumulation of hemosiderin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
+        "whyCorrect": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-092_bl025_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-093",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "The arrow points to a small pale blue-gray inclusion at the periphery of this neutrophil's cytoplasm. What is this structure composed of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ribosomes and remnants of rough endoplasmic reticulum"
+        },
+        {
+          "label": "B",
+          "text": "Phagocytosed bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Denatured nuclear DNA"
+        },
+        {
+          "label": "D",
+          "text": "Aggregated hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Condensed mitochondria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
+        "whyCorrect": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-093_bl025_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-094",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This figure compares lymphocyte morphology: cell A appears small and normal, while cells B and C are larger, with more abundant and irregular cytoplasm. What term best describes cells B and C?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Blast cells"
+        },
+        {
+          "label": "C",
+          "text": "Smudge cells"
+        },
+        {
+          "label": "D",
+          "text": "Reactive lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Atypical granulocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
+        "whyCorrect": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-094_bl025_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-095",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This smear shows enlarged lymphocytes with abundant, deeply basophilic cytoplasm that molds around neighboring red cells. This reactive appearance is most characteristic of which category of illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Viral infection"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Allergic drug reaction"
+        },
+        {
+          "label": "D",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial pneumonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
+        "whyCorrect": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-095_bl025_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-096",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "This large lymphocyte has abundant pale cytoplasm that abuts and molds around the adjacent red blood cells, giving a 'fried egg' appearance. It is most classically associated with which virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis C virus"
+        },
+        {
+          "label": "B",
+          "text": "Influenza virus"
+        },
+        {
+          "label": "C",
+          "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "D",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Epstein-Barr virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
+        "whyCorrect": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-096_bl025_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-009",
+      "topicId": "benign-lymphadenopathies",
+      "topicName": "Benign Lymphadenopathies",
+      "stem": "In the deep cortical region of the lymph node labeled the paracortex in this diagram, which lymphocyte population predominates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "T cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
+        "whyCorrect": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-009_bl026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-049",
+      "topicId": "benign-lymphadenopathies",
+      "topicName": "Benign Lymphadenopathies",
+      "stem": "This chest radiograph shows symmetric enlargement of both hilar regions (arrows) in a young adult. Which condition is the most likely underlying cause of this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Bronchogenic carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasmosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyCorrect": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-049_bl026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-050",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This stained smear shows bacilli with a 'safety-pin' appearance (arrow). What staining feature produces this look?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central endospore formation"
+        },
+        {
+          "label": "B",
+          "text": "Bipolar staining"
+        },
+        {
+          "label": "C",
+          "text": "Intracytoplasmic inclusion bodies"
+        },
+        {
+          "label": "D",
+          "text": "A refractile capsular halo"
+        },
+        {
+          "label": "E",
+          "text": "Metachromatic volutin (polar) granules"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyCorrect": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-050_bl027_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-097",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This CDC map plots reported human cases concentrated in the western United States. Which zoonotic infection is being mapped?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tularemia"
+        },
+        {
+          "label": "B",
+          "text": "Hantavirus pulmonary syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Rocky Mountain spotted fever"
+        },
+        {
+          "label": "D",
+          "text": "Lyme disease"
+        },
+        {
+          "label": "E",
+          "text": "Plague (Yersinia pestis)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
+        "whyCorrect": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-097_bl027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-098",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This markedly enlarged, tender lymph node in a febrile patient is the defining lesion of which form of plague?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillary angiomatosis"
+        },
+        {
+          "label": "B",
+          "text": "Pneumonic plague"
+        },
+        {
+          "label": "C",
+          "text": "Septicemic plague"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Bubonic plague"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyCorrect": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-098_bl027_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-099",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This blackened, gangrenous necrosis of the fingers in a septic patient reflects which underlying process that gave plague its 'Black Death' nickname?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct dermonecrotic exotoxin injury"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex leukocytoclastic vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Superficial venous thrombophlebitis"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "E",
+          "text": "Localized flea-bite hypersensitivity reaction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
+        "whyCorrect": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-099_bl027_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-100",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This map shows US cases of a rabbit-associated zoonosis clustered in the Ozarks. How is this organism usually transmitted to humans?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bite of an infected rat flea"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of contaminated drinking water"
+        },
+        {
+          "label": "C",
+          "text": "A cat scratch or bite"
+        },
+        {
+          "label": "D",
+          "text": "Direct contact with infected rabbits"
+        },
+        {
+          "label": "E",
+          "text": "Person-to-person respiratory droplets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
+        "whyCorrect": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-100_bl027_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-101",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This punched-out ulcer at an inoculation site, with regional lymphadenopathy in a rabbit hunter, is characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bubonic plague"
+        },
+        {
+          "label": "B",
+          "text": "Cat scratch disease inoculation papule"
+        },
+        {
+          "label": "C",
+          "text": "Primary syphilitic chancre"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Cutaneous anthrax eschar"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
+        "whyCorrect": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-101_bl027_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-102",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "This crusted primary inoculation papule with adjacent lymphadenitis on the neck of a young child with cat exposure is most consistent with which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcal impetigo"
+        },
+        {
+          "label": "B",
+          "text": "Cat scratch disease"
+        },
+        {
+          "label": "C",
+          "text": "Kawasaki disease"
+        },
+        {
+          "label": "D",
+          "text": "Ulceroglandular tularemia"
+        },
+        {
+          "label": "E",
+          "text": "Mycobacterial scrofula"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
+        "whyCorrect": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-102_bl027_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-103",
+      "topicId": "y-pestis-f-tularemia-and-b-henselae",
+      "topicName": "Y. pestis, F. tularemia, and B. henselae",
+      "stem": "These multiple red-purple vascular skin nodules in a severely immunocompromised transplant recipient, caused by a gram-negative bacillus, represent which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous metastatic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Kaposi sarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Multiple pyogenic granulomas"
+        },
+        {
+          "label": "D",
+          "text": "Bacillary angiomatosis"
+        },
+        {
+          "label": "E",
+          "text": "Disseminated candidiasis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyCorrect": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-103_bl027_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-051",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This Giemsa-stained thick blood smear shows an elongated, sheathed larval organism coiling among the red cells. What is this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trypanosoma brucei trypomastigote"
+        },
+        {
+          "label": "B",
+          "text": "Loa loa adult worm"
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium falciparum gametocyte"
+        },
+        {
+          "label": "D",
+          "text": "Wuchereria bancrofti microfilaria"
+        },
+        {
+          "label": "E",
+          "text": "Borrelia recurrentis spirochete"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyCorrect": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-051_bl028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-052",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This Giemsa-stained thick blood smear from a febrile traveler shows a long, coiled, sheathed larva among the red cells. Detection of this organism confirms infection with which parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plasmodium falciparum"
+        },
+        {
+          "label": "B",
+          "text": "Babesia microti"
+        },
+        {
+          "label": "C",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma cruzi"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
+        "whyCorrect": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-052_bl028_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-053",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This thick blood smear stained with Giemsa demonstrates a single elongated sheathed microfilaria. Given this organism's periodicity, when should the blood sample ideally be collected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early in the morning at waking"
+        },
+        {
+          "label": "B",
+          "text": "Immediately after a fatty meal"
+        },
+        {
+          "label": "C",
+          "text": "At night, around 10 PM to 2 AM"
+        },
+        {
+          "label": "D",
+          "text": "At any random time of day"
+        },
+        {
+          "label": "E",
+          "text": "At midday"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
+        "whyCorrect": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-053_bl028_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-104",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "Panel (a) shows marked conjunctival redness without purulent discharge and panel (b) shows oral mucosal hemorrhage in a systemically ill patient. These findings are most characteristic of severe disease caused by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "B",
+          "text": "Yellow fever virus"
+        },
+        {
+          "label": "C",
+          "text": "Dengue virus"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
+        "whyCorrect": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-104_bl028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-105",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "This patient shows gross enlargement, hyperkeratosis, and thickening of the lower leg due to long-standing lymphatic obstruction. What is the most likely underlying infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Onchocerca volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "C",
+          "text": "Loa loa"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma mansoni"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyCorrect": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-105_bl028_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-106",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This patient developed the oral findings shown after starting chemotherapy. What underlying mechanism best explains why the oral mucosa is affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial superinfection of the gingiva"
+        },
+        {
+          "label": "B",
+          "text": "A direct chemical burn from the drug contacting the mouth"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of the salivary glands"
+        },
+        {
+          "label": "D",
+          "text": "A nutritional vitamin deficiency from poor oral intake"
+        },
+        {
+          "label": "E",
+          "text": "Chemotherapy kills rapidly dividing cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
+        "whyCorrect": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-106_bl029_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-137",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This chemical schematic shows mechlorethamine reacting with guanine bases located on adjacent DNA strands. What class of DNA lesion is being formed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyrimidine (thymine) dimer"
+        },
+        {
+          "label": "B",
+          "text": "Depurination (abasic) site"
+        },
+        {
+          "label": "C",
+          "text": "Single-strand nick"
+        },
+        {
+          "label": "D",
+          "text": "Base-pair mismatch"
+        },
+        {
+          "label": "E",
+          "text": "Interstrand cross-link"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
+        "whyCorrect": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-137_bl029_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-138",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This figure links specific chemotherapy agents to their characteristic organ toxicities. Cyclophosphamide is mapped to the bladder; which urinary metabolite is directly responsible for that toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acrolein"
+        },
+        {
+          "label": "B",
+          "text": "Acetaldehyde"
+        },
+        {
+          "label": "C",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "D",
+          "text": "Phosphoramide mustard"
+        },
+        {
+          "label": "E",
+          "text": "Mesna"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
+        "whyCorrect": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-138_bl029_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-174",
+      "topicId": "alkylating-agents",
+      "topicName": "Alkylating Agents",
+      "stem": "This illustration shows an alkylating agent modifying DNA across three sequential panels. What is the ultimate cellular consequence depicted by the fragmented strand in the final panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improved fidelity of DNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic reversal of the alkyl adducts by a methyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Increased transcription of DNA repair genes"
+        },
+        {
+          "label": "D",
+          "text": "Restoration of normal complementary base pairing"
+        },
+        {
+          "label": "E",
+          "text": "DNA strand breakage that suppresses replication and triggers apoptosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
+        "whyCorrect": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-174_bl029_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-139",
+      "topicId": "antimetabolite-agents",
+      "topicName": "Antimetabolite Agents",
+      "stem": "In this diagram of where chemotherapy drug classes act across the cell cycle, why are the antimetabolite agents positioned to act specifically during the highlighted synthesis phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They block mitotic spindle assembly, which occurs during the S phase"
+        },
+        {
+          "label": "B",
+          "text": "They crosslink DNA in a cell-cycle-independent manner concentrated in the S phase"
+        },
+        {
+          "label": "C",
+          "text": "They interfere with nucleotide/DNA synthesis, which only occurs during the S phase"
+        },
+        {
+          "label": "D",
+          "text": "They arrest cells at the G1/S checkpoint before DNA is copied"
+        },
+        {
+          "label": "E",
+          "text": "They inhibit topoisomerase-mediated transcription unique to the S phase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
+        "whyCorrect": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-139_bl030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-175",
+      "topicId": "antimetabolite-agents",
+      "topicName": "Antimetabolite Agents",
+      "stem": "This diagram maps the folate cycle that produces thymidine. What is the direct downstream consequence of the drug-mediated enzyme inhibition shown blocking dihydrofolate reductase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetrahydrofolate cannot be regenerated, so dUMP is no longer converted to dTMP"
+        },
+        {
+          "label": "B",
+          "text": "dTMP accumulates and feedback-inhibits thymidylate synthase to protect the cell"
+        },
+        {
+          "label": "C",
+          "text": "Excess tetrahydrofolate is shunted into increased purine synthesis"
+        },
+        {
+          "label": "D",
+          "text": "dUMP and dTMP become covalently crosslinked within the DNA strand"
+        },
+        {
+          "label": "E",
+          "text": "Thymidylate synthase is activated to bypass the folate requirement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
+        "whyCorrect": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-175_bl030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "blpic-176",
+      "topicId": "topoisomerase-microtubule-inhibitors-and-antitumor-antibiotics",
+      "topicName": "Topoisomerase, Microtubule Inhibitors, and Antitumor Antibiotics",
+      "stem": "This schematic contrasts the enzymatic mechanisms of the two DNA-relaxing enzymes shown on the left and on the right. What is the key mechanistic difference between them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left enzyme requires ATP, while the right enzyme cuts a single strand without energy"
+        },
+        {
+          "label": "B",
+          "text": "The left enzyme adds nucleotides while the right enzyme removes them"
+        },
+        {
+          "label": "C",
+          "text": "The left enzyme cleaves only one DNA strand, while the right enzyme cleaves both strands and requires ATP"
+        },
+        {
+          "label": "D",
+          "text": "Both enzymes cleave double strands, but only the right one is reversible"
+        },
+        {
+          "label": "E",
+          "text": "Both enzymes cut a single strand, but only the left one needs ATP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
+        "whyCorrect": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "blpic-176_bl031_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
