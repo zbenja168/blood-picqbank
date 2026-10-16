@@ -29,7 +29,11 @@
       "explanation": {
         "summary": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
         "whyCorrect": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "P. vivax rings are small delicate rings inside enlarged red cells with Schuffner dots; vivax gametocytes are round, not crescent-shaped.",
+          "C": "Babesia forms small rings and tetrads (Maltese cross) within red cells, not banana-shaped gametocytes.",
+          "D": "Trypanosoma brucei trypomastigotes are extracellular, slender, flagellated forms in plasma, not intracellular crescents."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-067_bl051_f02.png",
@@ -64,7 +68,11 @@
       "explanation": {
         "summary": "The dark-stained organisms lie inside the erythrocytes, a hallmark of intraerythrocytic malarial parasites. Bacteria, viral inclusions, and yeast forms would not produce this intra-RBC parasitized appearance across multiple fields.",
         "whyCorrect": "The dark-stained organisms lie inside the erythrocytes, a hallmark of intraerythrocytic malarial parasites. Bacteria, viral inclusions, and yeast forms would not produce this intra-RBC parasitized appearance across multiple fields.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Extracellular cocci lie outside cells and are small round bacteria, not inclusions within red cells.",
+          "C": "Mature red cells have no nucleus, so they cannot harbor intranuclear viral inclusions.",
+          "D": "Budding yeast are larger oval forms that are extracellular or inside phagocytes, not within erythrocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-068_bl051_f04.png",
@@ -99,7 +107,11 @@
       "explanation": {
         "summary": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
         "whyCorrect": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Falciparum malaria shows multiple rings and banana-shaped gametocytes but never a tetrad.",
+          "C": "Bartonella bacilliformis appears as small rods on red cells, not as a tetrad of merozoites.",
+          "D": "Trypanosomes are extracellular flagellated organisms in plasma, not tetrads inside red cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-069_bl051_f08.png",
@@ -138,7 +150,12 @@
       "explanation": {
         "summary": "Chloroquine and hydroxychloroquine block detoxification of heme to hemozoin and increase digestive-vacuole pH, causing accumulation of toxic heme that damages the parasite. Their adverse effects include pruritus, cardiomyopathy, and hemolysis (especially in G6PD deficiency).",
         "whyCorrect": "Chloroquine and hydroxychloroquine block detoxification of heme to hemozoin and increase digestive-vacuole pH, causing accumulation of toxic heme that damages the parasite. Their adverse effects include pruritus, cardiomyopathy, and hemolysis (especially in G6PD deficiency).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Inhibiting parasite DHFR is the mechanism of proguanil and pyrimethamine, not chloroquine.",
+          "B": "Inhibiting mitochondrial electron transport is atovaquone's mechanism.",
+          "C": "30S protein synthesis inhibition is the mechanism of doxycycline, a tetracycline used for malaria prophylaxis.",
+          "D": "Binding DNA and disrupting parasite mitochondria describes primaquine, which targets liver hypnozoites."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-142_bl052_f01.png",
@@ -177,7 +194,12 @@
       "explanation": {
         "summary": "Atovaquone selectively inhibits parasite mitochondrial electron transport, while proguanil's metabolite inhibits dihydrofolate reductase, blocking folate/DNA synthesis. Common adverse effects include nausea, abdominal pain, and transaminitis (increased AST/ALT).",
         "whyCorrect": "Atovaquone selectively inhibits parasite mitochondrial electron transport, while proguanil's metabolite inhibits dihydrofolate reductase, blocking folate/DNA synthesis. Common adverse effects include nausea, abdominal pain, and transaminitis (increased AST/ALT).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Binding DNA and disrupting mitochondria describes primaquine, a single agent used for hypnozoites.",
+          "B": "80S protein synthesis interference is not the mechanism of atovaquone or proguanil; mefloquine has been proposed to target the 80S ribosome.",
+          "D": "Inhibiting heme detoxification is the mechanism of chloroquine and related quinolines.",
+          "E": "30S protein synthesis inhibition is doxycycline's mechanism, not that of the atovaquone-proguanil combination."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-143_bl052_f02.png",
@@ -216,7 +238,12 @@
       "explanation": {
         "summary": "Doxycycline is a 30S protein-synthesis inhibitor that prevents the parasite from replicating. Its adverse effects include GI disturbances (diarrhea, vomiting, nausea) and photosensitivity, plus chelation with cations.",
         "whyCorrect": "Doxycycline is a 30S protein-synthesis inhibitor that prevents the parasite from replicating. Its adverse effects include GI disturbances (diarrhea, vomiting, nausea) and photosensitivity, plus chelation with cations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Binding DNA and disrupting mitochondria describes primaquine, not a tetracycline.",
+          "C": "Inhibiting heme detoxification is the action of chloroquine and quinine.",
+          "D": "Mitochondrial electron transport inhibition is atovaquone's mechanism.",
+          "E": "Cleaving an endoperoxide bridge to make free radicals is the action of artemisinins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-144_bl052_f03.png",
@@ -255,7 +282,12 @@
       "explanation": {
         "summary": "Primaquine disrupts mitochondria and binds parasite DNA, and is uniquely active against exoerythrocytic (hypnozoite) stages. Its adverse effects include cardiac arrhythmias (QT prolongation), leukopenia, and hemolytic anemia in G6PD deficiency.",
         "whyCorrect": "Primaquine disrupts mitochondria and binds parasite DNA, and is uniquely active against exoerythrocytic (hypnozoite) stages. Its adverse effects include cardiac arrhythmias (QT prolongation), leukopenia, and hemolytic anemia in G6PD deficiency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Inhibiting heme detoxification describes chloroquine, which does not kill dormant liver hypnozoites.",
+          "B": "Interfering with 80S protein synthesis is proposed for mefloquine, which acts on blood stages, not hypnozoites.",
+          "D": "Blocking mitochondrial electron transport and folate synthesis is the atovaquone-proguanil combination.",
+          "E": "30S protein synthesis inhibition is doxycycline's mechanism and does not eradicate hypnozoites."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-145_bl052_f05.png",
@@ -294,7 +326,12 @@
       "explanation": {
         "summary": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology.",
         "whyCorrect": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Brick-shaped complex virions are characteristic of poxviruses such as smallpox, not hemorrhagic fever filoviruses.",
+          "B": "Spherical segmented particles describe arenaviruses and bunyaviruses (e.g., Lassa, hantavirus), not the long threads shown.",
+          "C": "Bullet-shaped virions are characteristic of rhabdoviruses such as rabies.",
+          "E": "Icosahedral naked capsids describe viruses like picornaviruses and adenoviruses, not enveloped filamentous particles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-024_bl053_f01.png",
@@ -333,7 +370,12 @@
       "explanation": {
         "summary": "Bats serve as the natural reservoir for Marburg virus and the likely reservoir for Ebola virus; spillover into humans occurs through contact with infected animal fluids.",
         "whyCorrect": "Bats serve as the natural reservoir for Marburg virus and the likely reservoir for Ebola virus; spillover into humans occurs through contact with infected animal fluids.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An amplifying host boosts virus levels between reservoir and humans; bats are the long-term natural source of Marburg virus.",
+          "B": "A fomite is an inanimate object carrying a pathogen; an animal that maintains the virus is not a fomite.",
+          "C": "A dead-end host cannot transmit further; bats sustain and transmit Marburg virus.",
+          "D": "Arthropod vectors are insects or ticks; bats are mammals that maintain the virus rather than vectors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-127_bl053_f02.png",
@@ -372,7 +414,12 @@
       "explanation": {
         "summary": "Rodents are the reservoir for hantaviruses; humans are infected mainly by inhaling aerosolized particles from rodent feces, urine, and saliva.",
         "whyCorrect": "Rodents are the reservoir for hantaviruses; humans are infected mainly by inhaling aerosolized particles from rodent feces, urine, and saliva.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Rodent bites are an uncommon route; most infections come from inhaling dust contaminated with excreta.",
+          "C": "Hantavirus is not tick-borne; ticks transmit diseases like Lyme disease and Rocky Mountain spotted fever.",
+          "D": "Direct blood contact is not the main route; aerosolized urine, feces, and saliva are the usual sources.",
+          "E": "Hantavirus is not acquired by eating meat; inhalation of contaminated dust is the main route."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-128_bl053_f04.png",
@@ -411,7 +458,12 @@
       "explanation": {
         "summary": "The monoclonal antibodies bind the viral surface glycoprotein and block its engagement of cognate host receptors, neutralizing the virus; they also mediate antibody-dependent cellular cytotoxicity.",
         "whyCorrect": "The monoclonal antibodies bind the viral surface glycoprotein and block its engagement of cognate host receptors, neutralizing the virus; they also mediate antibody-dependent cellular cytotoxicity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Antibodies binding the surface glycoprotein act at entry; blocking virion release from the membrane is not their neutralizing mechanism.",
+          "C": "Antibodies recognize protein epitopes and do not enzymatically degrade the lipid envelope; detergents and solvents do that.",
+          "D": "Nucleocapsid assembly happens inside infected cells, out of reach of antibodies bound to the external glycoprotein.",
+          "E": "Inhibiting the viral RNA polymerase is the mechanism of nucleoside analogs such as remdesivir, not antibodies against the surface glycoprotein."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-146_bl053_f03.png",
@@ -450,7 +502,12 @@
       "explanation": {
         "summary": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
         "whyCorrect": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Coagulative necrosis affects sheets of contiguous cells with preserved outlines, not scattered, shrunken individual eosinophilic bodies.",
+          "C": "Macrovesicular steatosis shows a large fat vacuole pushing the nucleus aside, not shrunken, dense, pink cells.",
+          "D": "Ballooning degeneration makes hepatocytes swollen and pale with cleared cytoplasm, the opposite of shrunken eosinophilic cells.",
+          "E": "Mitotic figures show condensed chromosomes in dividing cells, not shrunken eosinophilic bodies with absent or pyknotic nuclei."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-025_bl055_f04.png",
@@ -489,7 +546,12 @@
       "explanation": {
         "summary": "Arbovirus means arthropod-borne virus. The green branch (yellow fever, dengue, Zika, West Nile, chikungunya, Rift Valley, CCHF) is spread by mosquitoes or ticks, whereas the blue branch (Ebola, Marburg, hantavirus, Lassa) is acquired from bat or rodent contact, not a vector.",
         "whyCorrect": "Arbovirus means arthropod-borne virus. The green branch (yellow fever, dengue, Zika, West Nile, chikungunya, Rift Valley, CCHF) is spread by mosquitoes or ticks, whereas the blue branch (Ebola, Marburg, hantavirus, Lassa) is acquired from bat or rodent contact, not a vector.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Both branches include viruses with animal reservoirs (bats and rodents for filoviruses, hantaviruses, and arenaviruses; primates and birds for arboviruses), so a reservoir does not separate them.",
+          "B": "Virtually all hemorrhagic fever viruses are enveloped, so having an envelope does not split the two branches.",
+          "D": "All agents on the chart are hemorrhagic fever viruses, so the ability to cause hemorrhage is shared, not distinguishing.",
+          "E": "Segmented genomes occur on both sides (Rift Valley and CCHF among arboviruses, hantavirus and Lassa among the others), so they don't define the split."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-131_bl055_f02.png",
@@ -528,7 +590,12 @@
       "explanation": {
         "summary": "The sequence shows the classic toxic phase of yellow fever: high fever followed by jaundice (hence the name) from hepatic injury, then mucosal erosion and hematemesis of partially digested blood ('black vomit').",
         "whyCorrect": "The sequence shows the classic toxic phase of yellow fever: high fever followed by jaundice (hence the name) from hepatic injury, then mucosal erosion and hematemesis of partially digested blood ('black vomit').",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dengue hemorrhagic fever causes plasma leakage, thrombocytopenia, and bleeding, but marked jaundice with black vomit is not its classic course.",
+          "B": "Falciparum malaria causes cyclic fevers, hemolysis, and possibly jaundice, but the classic sequence ending in black vomit is yellow fever.",
+          "C": "Leptospirosis can cause jaundice and hemorrhage (Weil disease), but it is a bacterial illness with conjunctival suffusion, not the historic yellow fever picture with black vomit.",
+          "E": "Ebola causes fever, GI losses, and hemorrhage, but prominent jaundice is not a defining feature."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-132_bl055_f03.png",
@@ -567,7 +634,12 @@
       "explanation": {
         "summary": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
         "whyCorrect": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dengue is not a recognized cause of congenital microcephaly syndrome.",
+          "B": "Congenital CMV can cause microcephaly with periventricular calcifications, but severe skull collapse with redundant scalp folds is characteristic of congenital Zika syndrome.",
+          "C": "Congenital rubella classically causes cataracts, sensorineural deafness, and PDA, with a blueberry muffin rash, not the collapsed skull pattern shown.",
+          "E": "Chikungunya causes fever and severe arthralgia; vertical transmission can cause neonatal encephalopathy but not congenital microcephaly with collapsed skull."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-133_bl055_f07.png",

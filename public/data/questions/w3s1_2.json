@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
         "whyCorrect": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The distal femur is not a standard marrow biopsy site in adults.",
+          "B": "The proximal tibia is used for marrow access in infants and for intraosseous lines, but not routinely for adult marrow biopsy.",
+          "C": "The sternum may be used for aspiration only (not core biopsy) and carries risk of mediastinal injury, so it is not the most common site.",
+          "E": "The lumbar spinous process is not used; lumbar puncture samples CSF between vertebrae, not bone marrow."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-047_bl024_f03.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
         "whyCorrect": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax shows a hyperlucent hemithorax without lung markings and mediastinal shift away from the affected side, not mediastinal widening.",
+          "B": "Cardiomegaly enlarges the cardiac silhouette below, whereas T-ALL characteristically widens the upper anterior mediastinum.",
+          "C": "Lobar pneumonia appears as consolidation within lung parenchyma with air bronchograms, not a central mediastinal opacity.",
+          "E": "A large pleural effusion blunts the costophrenic angle with a meniscus at the lung base, not widening of the central mediastinum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-048_bl024_f05.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
         "whyCorrect": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Iron deficiency affects red cells and does not cause an increase in mature neutrophils.",
+          "B": "B12 deficiency causes hypersegmented neutrophils with six or more lobes, not more neutrophils with normal 2-to-5-lobe nuclei.",
+          "C": "Viral infections typically raise lymphocytes, including reactive lymphocytes, rather than mature neutrophils.",
+          "E": "ALL fills the blood with lymphoblasts and often causes neutropenia, not an increase of mature segmented neutrophils."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-090_bl025_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
         "whyCorrect": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CML shows a full spectrum of granulocyte precursors and basophilia; toxic granulation is a reactive change of infection or inflammation, not CML's hallmark.",
+          "B": "Parasitic infections typically cause eosinophilia, not toxic granulation of neutrophils.",
+          "C": "Allergic reactions increase eosinophils, which have large orange-red granules, not dark primary granules in neutrophils.",
+          "E": "Megaloblastic anemia causes hypersegmented neutrophils from impaired DNA synthesis, not toxic granulation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-091_bl025_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
         "whyCorrect": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Apoptosis condenses and fragments the nucleus (karyorrhexis); it does not create clear cytoplasmic bubbles alongside toxic granules.",
+          "C": "Hyperlipidemia does not produce cytoplasmic vacuoles in neutrophils; these form from lysosomal degranulation during phagocytosis.",
+          "D": "Viral inclusions are dense bodies in infected tissue cells, such as owl-eye CMV inclusions, not clear vacuoles in neutrophils.",
+          "E": "Hemosiderin is golden-brown iron pigment in macrophages, not clear vacuoles in neutrophils."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-092_bl025_f06.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
         "whyCorrect": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Phagocytosed bacteria appear as small dark rods or cocci inside vacuoles, not as a pale blue-gray patch at the cell edge.",
+          "C": "Neutrophils retain their nucleus; DNA remnants such as Howell-Jolly bodies are dense purple dots in red cells.",
+          "D": "Aggregated hemoglobin (Heinz bodies) forms in red cells under oxidative stress, not in neutrophils.",
+          "E": "Mitochondria are not visible as discrete inclusions on Wright stain; the blue color reflects ribosomal RNA."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-093_bl025_f07.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
         "whyCorrect": "Cells B and C show the enlarged, voluminous, sometimes deeply basophilic cytoplasm of reactive lymphocytes, typically seen in viral infections, as opposed to the small mature lymphocyte in A.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Plasma cells have an eccentric round nucleus with clock-face chromatin and a perinuclear clear zone (hof), rather than the abundant, irregular cytoplasm shown.",
+          "B": "Blasts have a high nuclear-to-cytoplasmic ratio, fine chromatin, and nucleoli, with only a thin rim of cytoplasm, not abundant cytoplasm.",
+          "C": "Smudge cells are crushed lymphocytes without intact cytoplasm, typical of CLL, not intact large cells with irregular cytoplasm.",
+          "E": "Granulocytes have lobulated nuclei and cytoplasmic granules, whereas these are lymphocytes with round nuclei and agranular cytoplasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-094_bl025_f08.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
         "whyCorrect": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Iron deficiency anemia affects red cells (microcytosis, hypochromia) and does not produce reactive lymphocytes.",
+          "C": "Allergic drug reactions classically cause eosinophilia; reactive lymphocytes are not the typical finding.",
+          "D": "CML shows increased granulocytes at all stages of maturation and basophilia, not reactive lymphocytes molding around red cells.",
+          "E": "Bacterial pneumonia usually causes neutrophilia with left shift and toxic changes, not reactive lymphocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-095_bl025_f09.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
         "whyCorrect": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hepatitis C causes chronic liver disease and is not the classic cause of Downey cells molding around red cells.",
+          "B": "Influenza may cause mild lymphocyte changes but is not classically associated with prominent reactive lymphocytes.",
+          "C": "HIV seroconversion can produce some reactive lymphocytes, but the classic association with these molding lymphocytes is infectious mononucleosis.",
+          "D": "CMV causes a heterophile-negative mononucleosis with reactive lymphocytes, but EBV is the most classic cause."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-096_bl025_f10.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
         "whyCorrect": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Plasma cells mostly reside in the medullary cords, where they secrete antibodies, not the paracortex.",
+          "B": "Macrophages are concentrated in the medullary sinuses and germinal centers (tingible-body macrophages), not dominating the paracortex.",
+          "C": "B cells populate the follicles and germinal centers of the outer cortex, not the deep cortex.",
+          "D": "Natural killer cells are found mainly in blood and spleen and do not form a distinct lymph node zone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-009_bl026_f02.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
         "whyCorrect": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hodgkin lymphoma typically presents with an anterior mediastinal mass and often asymmetric nodes, rather than symmetric bilateral hilar enlargement alone.",
+          "B": "Primary tuberculosis tends to cause unilateral hilar adenopathy with a Ghon focus, not symmetric bilateral hilar enlargement.",
+          "D": "Bronchogenic carcinoma usually causes a lung mass with unilateral, ipsilateral hilar adenopathy, and is unusual in young adults.",
+          "E": "Histoplasmosis can cause hilar adenopathy, but it is often asymmetric with calcified granulomas and a history of bird or bat dropping exposure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-049_bl026_f01.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
         "whyCorrect": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Central endospores create an unstained gap in rods such as Clostridium or Bacillus, but Yersinia pestis does not form spores.",
+          "C": "Intracytoplasmic inclusion bodies are features of viruses or chlamydia within host cells, not of free-living bacilli.",
+          "D": "A capsular halo appears as a clear zone around the organism on negative staining, not as dense dye at both poles.",
+          "E": "Metachromatic volutin granules are characteristic of Corynebacterium diphtheriae, which appear as club-shaped rods, not safety pins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-050_bl027_f06.png",
@@ -482,7 +542,7 @@
         },
         {
           "label": "B",
-          "text": "Hantavirus pulmonary syndrome"
+          "text": "Ehrlichiosis"
         },
         {
           "label": "C",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
         "whyCorrect": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tularemia cases concentrate in the south-central states, especially Arkansas and Missouri, not the Southwest and Pacific states.",
+          "B": "Ehrlichiosis is tick-borne (lone star tick) and concentrated in the south-central and southeastern United States, not the rural West.",
+          "C": "Rocky Mountain spotted fever, despite its name, is most common in the southeastern and south-central states such as North Carolina, Arkansas, and Oklahoma.",
+          "D": "Lyme disease is concentrated in the Northeast and upper Midwest, with very few cases in the western states."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-097_bl027_f02.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
         "whyCorrect": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bacillary angiomatosis is a Bartonella infection in immunocompromised hosts, producing vascular skin nodules rather than a single huge tender node.",
+          "B": "Pneumonic plague is a fulminant lung infection with bloody sputum, often spread person-to-person; it is not defined by a regional bubo.",
+          "C": "Septicemic plague is bacteremia without a prominent bubo, presenting with shock and DIC.",
+          "D": "Ulceroglandular tularemia also causes regional lymphadenopathy, but it has an ulcer at the inoculation site and is not a form of plague."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-098_bl027_f03.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
         "whyCorrect": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Y. pestis does not cause gangrene through a direct dermonecrotic exotoxin; the necrosis is ischemic from widespread microvascular thrombosis.",
+          "B": "Leukocytoclastic vasculitis causes palpable purpura, not symmetric acral gangrene from microvascular thrombosis in septic shock.",
+          "C": "Superficial thrombophlebitis causes tender, cordlike veins, not blackened, necrotic fingertips.",
+          "E": "A flea-bite reaction stays at the bite site and is mild; it cannot produce gangrene of multiple fingers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-099_bl027_f04.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
         "whyCorrect": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Rat flea bites transmit plague (Yersinia pestis), not the rabbit-associated infection tularemia.",
+          "B": "Contaminated water is an uncommon route for tularemia; the usual exposure is handling infected animals or arthropod bites.",
+          "C": "Cat scratches transmit Bartonella henselae (cat scratch disease), not Francisella tularensis.",
+          "E": "Tularemia is not spread from person to person, which is notable given that it is highly infectious."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-100_bl027_f07.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
         "whyCorrect": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bubonic plague causes a painful, swollen bubo without an ulcer at the bite site.",
+          "B": "Cat scratch disease begins with a small papule or pustule after cat contact, not a punched-out ulcer after rabbit hunting.",
+          "C": "A syphilitic chancre is a painless, clean-based genital ulcer from sexual contact, unrelated to rabbit exposure.",
+          "E": "Cutaneous anthrax forms a painless black eschar surrounded by edema, typically from contact with livestock hides or wool."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-101_bl027_f08.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
         "whyCorrect": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Impetigo shows honey-colored crusts on the face and does not usually come with prominent regional lymphadenitis after cat contact.",
+          "C": "Kawasaki disease causes fever, conjunctivitis, strawberry tongue, rash, and extremity changes, not an inoculation papule.",
+          "D": "Ulceroglandular tularemia follows rabbit or tick exposure and forms an ulcer, not a crusted papule after cat scratches.",
+          "E": "Scrofula is mycobacterial cervical lymphadenitis without a cat-related inoculation papule."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-102_bl027_f11.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
         "whyCorrect": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Metastatic carcinoma produces firm skin nodules from tumor cells, not infection by a gram-negative bacillus.",
+          "B": "Kaposi sarcoma is caused by HHV-8 and shows lymphocytic, not neutrophilic, infiltrates; it is a viral neoplasm rather than a bacterial infection.",
+          "C": "Pyogenic granulomas are usually single, rapidly growing benign lesions often after trauma, not multiple infectious nodules in immunocompromise.",
+          "E": "Disseminated candidiasis produces papulopustular lesions from a fungus, not friable vascular nodules from a gram-negative bacillus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-103_bl027_f12.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
         "whyCorrect": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trypanosoma brucei trypomastigotes are smaller and have an undulating membrane and flagellum, not a coiled sheathed larva.",
+          "B": "Loa loa adults live in subcutaneous tissue and migrate across the eye; they are not seen in blood smears.",
+          "C": "P. falciparum gametocytes are banana-shaped and sit within red cells, not large free larvae.",
+          "E": "Borrelia recurrentis is a thin spirochete that is much smaller and lacks a sheath."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-051_bl028_f05.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
         "whyCorrect": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Plasmodium falciparum appears as small rings and banana-shaped gametocytes within red cells, not a long sheathed larva.",
+          "B": "Babesia appears as intraerythrocytic rings and tetrad (Maltese cross) forms, not free larvae.",
+          "C": "Leptospira are thin spirochetes not visible on routine Giemsa smears; they are diagnosed by serology or PCR.",
+          "D": "Trypanosoma cruzi appears as C-shaped trypomastigotes with a kinetoplast and flagellum, not sheathed larvae."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-052_bl028_f09.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
         "whyCorrect": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Early morning collection misses the nocturnal peak, since microfilariae retreat to the lungs during the day.",
+          "B": "A fatty meal makes plasma lipemic but does not increase W. bancrofti microfilariae in the blood.",
+          "D": "Because W. bancrofti shows strong nocturnal periodicity, random daytime sampling often yields false negatives.",
+          "E": "Midday sampling is ideal for day-biting Loa loa, not for nocturnally periodic W. bancrofti."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-053_bl028_f10.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
         "whyCorrect": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Yellow fever causes jaundice and hemorrhage but is not characterized by conjunctival suffusion without discharge.",
+          "C": "Dengue causes fever, retro-orbital pain, rash, and possible hemorrhage, but conjunctival suffusion is not its hallmark.",
+          "D": "Rocky Mountain spotted fever is typified by a rash spreading from wrists and ankles toward the trunk after a tick bite, not conjunctival suffusion.",
+          "E": "W. bancrofti causes lymphatic filariasis with lymphedema, not acute conjunctival suffusion and mucosal hemorrhage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-104_bl028_f03.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
         "whyCorrect": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Onchocerca volvulus causes river blindness and itchy dermatitis, not massive lymphatic leg swelling.",
+          "B": "Leptospira causes an acute febrile illness with conjunctival suffusion and possibly Weil disease, not chronic lymphatic obstruction.",
+          "C": "Loa loa causes transient Calabar swellings and eye-worm migration, not chronic elephantiasis.",
+          "D": "Schistosoma mansoni causes hepatic periportal fibrosis and portal hypertension, not lymphatic obstruction of the leg."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-105_bl028_f08.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
         "whyCorrect": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Secondary infection can complicate mucositis, but the primary injury is drug killing of rapidly dividing epithelium.",
+          "B": "Most chemotherapy is given systemically; mucosal injury reflects systemic cytotoxicity, not contact burns.",
+          "C": "Autoimmune salivary gland destruction is Sjogren syndrome, not a consequence of starting chemotherapy.",
+          "D": "Poor intake can worsen nutrition over time, but acute mucositis comes from direct cytotoxicity to dividing mucosal cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-106_bl029_f04.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
         "whyCorrect": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thymine dimers form from UV light linking adjacent pyrimidines on the same strand, not from nitrogen mustards bridging opposite strands.",
+          "B": "Depurination removes a base to leave an abasic site; the figure shows covalent bridging between two guanines.",
+          "C": "A single-strand nick is a break in the backbone, typical of topoisomerase I or ionizing radiation, not a covalent bridge between strands.",
+          "D": "Base mismatches arise from replication errors and are fixed by mismatch repair; they do not covalently link two strands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-137_bl029_f03.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
         "whyCorrect": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Acetaldehyde is the toxic metabolite of ethanol, not of cyclophosphamide.",
+          "C": "Cisplatin is a separate platinum drug whose main toxicity is nephrotoxicity and ototoxicity, not a metabolite of cyclophosphamide.",
+          "D": "Phosphoramide mustard is cyclophosphamide's active alkylating metabolite responsible for its anticancer effect, not its bladder toxicity.",
+          "E": "Mesna is the protective drug that neutralizes acrolein in the bladder; it prevents rather than causes hemorrhagic cystitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-138_bl029_f05.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
         "whyCorrect": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alkylating damage degrades DNA integrity and causes mutations; it does not improve polymerase fidelity.",
+          "B": "Methyltransferases such as MGMT can repair some adducts, but the fragmented strand shows unrepaired damage leading to breakage.",
+          "C": "The final panel depicts strand fragmentation and cell death, not increased expression of repair genes.",
+          "D": "Alkylation disrupts normal base pairing, and the broken strand shows damage rather than restoration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-174_bl029_f02.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
         "whyCorrect": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Spindle assembly occurs in M phase and is targeted by vinca alkaloids and taxanes, not antimetabolites.",
+          "B": "Crosslinking DNA is the mechanism of alkylating agents, which act independent of cell-cycle phase, not of antimetabolites.",
+          "D": "Antimetabolites act while DNA is being synthesized in S phase rather than by holding cells at the G1/S checkpoint.",
+          "E": "Topoisomerase inhibitors such as etoposide and irinotecan are a separate class, and topoisomerases act in replication and transcription, not uniquely in S phase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-139_bl030_f01.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
         "whyCorrect": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Blocking DHFR depletes dTMP rather than causing it to accumulate, so there is no protective feedback.",
+          "C": "DHFR inhibition depletes tetrahydrofolate, so it cannot be shunted into extra purine synthesis; purine synthesis also falls.",
+          "D": "dUMP and dTMP are nucleotides, not crosslinked DNA elements; the problem is failure to make dTMP for DNA synthesis.",
+          "E": "Thymidylate synthase requires methylene-tetrahydrofolate and cannot bypass the folate requirement when DHFR is blocked."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-175_bl030_f02.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
         "whyCorrect": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "This reverses the true roles; topoisomerase I (left) cuts a single strand without ATP, while topoisomerase II (right) needs ATP.",
+          "B": "Topoisomerases neither add nor remove nucleotides; they cut and reseal DNA to relieve supercoiling.",
+          "D": "Only topoisomerase II cleaves both strands, and both enzymes reseal their breaks, so reversibility does not distinguish them.",
+          "E": "Only topoisomerase I cuts a single strand, and it does not need ATP; topoisomerase II cuts both strands using ATP."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-176_bl031_f01.png",

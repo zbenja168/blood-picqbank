@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The spleen lies in the left upper quadrant, tucked beneath the diaphragm and posterolateral to the stomach, shielded by ribs 9-11. Its position explains why splenic enlargement is felt below the left costal margin.",
         "whyCorrect": "The spleen lies in the left upper quadrant, tucked beneath the diaphragm and posterolateral to the stomach, shielded by ribs 9-11. Its position explains why splenic enlargement is felt below the left costal margin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The suprapubic region overlies the bladder and uterus, far below the spleen.",
+          "B": "The right upper quadrant contains the liver and gallbladder; the spleen is on the left.",
+          "D": "The right lower quadrant contains the cecum and appendix, not the spleen.",
+          "E": "The left lower quadrant contains the sigmoid colon; the spleen lies higher, beneath the left ribs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-001_bl047_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The gastrosplenic ligament carries the short gastric arteries/veins and the left gastroepiploic vessels, all branches of the splenic vessels. The nearby splenorenal ligament instead conveys the splenic artery and vein and the tail of the pancreas.",
         "whyCorrect": "The gastrosplenic ligament carries the short gastric arteries/veins and the left gastroepiploic vessels, all branches of the splenic vessels. The nearby splenorenal ligament instead conveys the splenic artery and vein and the tail of the pancreas.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The renal vessels run in the retroperitoneum from the aorta and IVC to the kidney, not within a peritoneal ligament.",
+          "B": "The hepatic artery proper and portal vein run in the hepatoduodenal ligament (free edge of the lesser omentum), not the gastrosplenic ligament.",
+          "C": "The superior mesenteric vessels run in the mesentery of the small intestine, not between the stomach and spleen.",
+          "D": "The inferior mesenteric vessels supply the hindgut and travel retroperitoneally to the left colon, not to the spleen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-002_bl047_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The splenic artery is the largest branch of the celiac trunk. Its accompanying splenic vein leaves the hilum and unites with the superior mesenteric vein to form the hepatic portal vein, as depicted.",
         "whyCorrect": "The splenic artery is the largest branch of the celiac trunk. Its accompanying splenic vein leaves the hilum and unites with the superior mesenteric vein to form the hepatic portal vein, as depicted.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The common hepatic artery is a sibling branch of the celiac trunk that supplies the liver, not the source of the splenic artery.",
+          "C": "The left gastric artery is the smallest celiac branch and supplies the lesser curvature, not the spleen.",
+          "D": "The superior mesenteric artery supplies the midgut and does not give rise to the splenic artery.",
+          "E": "The inferior mesenteric artery supplies the hindgut and has no connection to the splenic artery."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-003_bl047_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis.",
         "whyCorrect": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Splenic sinusoid endothelium is not ciliated; cells are not actively propelled but must squeeze through slits.",
+          "C": "The sinusoid basement membrane is discontinuous, arranged as hoop-like reticulin rings, which is what creates the slits.",
+          "D": "Continuous tight junctions would block passage entirely, while the sinusoid wall is built with gaps for red cells to squeeze through.",
+          "E": "Sinusoids have no valves; filtration depends on red cell deformability through slits, not on directional valves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-019_bl047_f06.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens.",
         "whyCorrect": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neutrophils circulate in blood and enter tissues during acute inflammation; they do not form the PALS.",
+          "B": "Macrophages are concentrated in the red pulp cords and marginal zone, not as the main residents of the PALS.",
+          "D": "Plasma cells mainly reside in the red pulp cords and marginal zone, not the periarteriolar sheath.",
+          "E": "B lymphocytes occupy the follicles and germinal centers beside the PALS, not the sheath itself."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-020_bl047_f07.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles.",
         "whyCorrect": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymph nodes have a cortex, paracortex, medulla, and subcapsular sinus, with no red pulp or central arterioles.",
+          "C": "Palatine tonsils are covered by stratified squamous epithelium with crypts and contain no red pulp.",
+          "D": "Bone marrow consists of hematopoietic cells and fat between bony trabeculae, without white pulp around central arterioles.",
+          "E": "The thymus has a cortex and medulla with Hassall corpuscles, not red and white pulp."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-021_bl047_f08.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath.",
         "whyCorrect": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Plasma cells mostly reside in the red pulp cords, not packed around the central arteriole.",
+          "C": "B cells form the adjacent follicles with germinal centers, not the sheath immediately around the central arteriole.",
+          "D": "Macrophages are mainly in the red pulp and marginal zone, not as dense lymphocyte-like sheaths.",
+          "E": "Neutrophils are blood leukocytes and do not form a structured lymphoid sheath in the spleen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-022_bl047_f09.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS.",
         "whyCorrect": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Germinal centers contain tingible-body macrophages, but the predominant cells are proliferating B cells.",
+          "B": "Neutrophils are not resident in lymphoid follicles; they arrive at sites of acute inflammation.",
+          "D": "T cells occupy the PALS; only a few follicular helper T cells are in the germinal center.",
+          "E": "Erythrocytes fill the red pulp, not the lymphoid germinal center."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-023_bl047_f10.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The image is an axial CT slice: it shows a single transverse plane with soft-tissue attenuation differences distinguishing liver, stomach, aorta and spleen, and the vertebral body posteriorly. CT provides this cross-sectional bony-and-soft-tissue detail in one plane.",
         "whyCorrect": "The image is an axial CT slice: it shows a single transverse plane with soft-tissue attenuation differences distinguishing liver, stomach, aorta and spleen, and the vertebral body posteriorly. CT provides this cross-sectional bony-and-soft-tissue detail in one plane.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "MRI also produces cross-sectional images, but CT is identified by its grayscale attenuation pattern, with bright bone and contrast-enhanced vessels in a single axial slice.",
+          "B": "PET shows metabolic tracer uptake as blurry hot spots with poor anatomic detail, not a sharply labeled anatomic slice.",
+          "C": "A plain radiograph is a two-dimensional projection with overlapping structures, not an axial cross-section.",
+          "D": "Ultrasound produces fan-shaped grainy images limited by acoustic windows, not a full axial slice through the abdomen and spine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-064_bl047_f02.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In open circulation, blood empties into the splenic cords and RBCs must deform to pass through slits between sinusoidal stave cells. Aged or abnormal (inflexible) RBCs cannot pass and are retained and destroyed by cord macrophages, while healthy deformable cells re-enter the sinusoids.",
         "whyCorrect": "In open circulation, blood empties into the splenic cords and RBCs must deform to pass through slits between sinusoidal stave cells. Aged or abnormal (inflexible) RBCs cannot pass and are retained and destroyed by cord macrophages, while healthy deformable cells re-enter the sinusoids.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The spleen does not oxygenate red cells; that occurs only in the lungs.",
+          "B": "The spleen does not spin blood; filtration relies on mechanical deformability through slits, not density separation.",
+          "C": "Antibodies coat only abnormal or antigen-bearing cells; healthy red cells are not coated and removed.",
+          "D": "Healthy red cells pass back into circulation; only rigid or aged cells are retained and phagocytosed, not chemically lysed."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-179_bl047_f05.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The marginal zone sits at the interface of white and red pulp and is the site where blood-borne antigens, opsonized bacteria and immune complexes are captured and handed off to B cells and to T cells in the PALS, linking innate blood filtration with adaptive immunity.",
         "whyCorrect": "The marginal zone sits at the interface of white and red pulp and is the site where blood-borne antigens, opsonized bacteria and immune complexes are captured and handed off to B cells and to T cells in the PALS, linking innate blood filtration with adaptive immunity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymph nodes, not the spleen, filter lymph from afferent lymphatics; the spleen has no afferent lymphatics.",
+          "B": "The spleen holds about one third of the platelet pool, not the entire reserve, and that pool sits in the red pulp, not the marginal zone.",
+          "D": "The spleen does not secrete digestive enzymes; that is the pancreas's role.",
+          "E": "The adult spleen does not normally produce red cells; erythropoiesis occurs in the bone marrow."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-180_bl047_f11.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side.",
         "whyCorrect": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The right flank overlies the right kidney and ascending colon, away from the left-sided spleen.",
+          "C": "Midline epigastric trauma typically injures the pancreas, duodenum, or left lobe of the liver rather than the laterally placed spleen.",
+          "D": "Right upper quadrant rib trauma typically injures the liver, not the spleen.",
+          "E": "Pelvic trauma injures the bladder, urethra, and pelvic vessels, far from the spleen in the left upper quadrant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-004_bl048_f01.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
         "whyCorrect": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Overwhelming post-splenectomy infection is a long-term risk after splenectomy, not the immediate threat of an acute splenic injury.",
+          "B": "A splenic abscess develops over days in the setting of infection, not immediately after blunt trauma with free fluid.",
+          "C": "Portal hypertension results from chronic liver disease, not from acute splenic laceration.",
+          "E": "Splenic vein thrombosis is linked to pancreatitis or hypercoagulability and is not the immediate danger of a bleeding laceration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-065_bl048_f07.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
         "whyCorrect": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A splenic abscess appears as a low-density fluid collection, often in an enlarged spleen, not a small calcified remnant.",
+          "B": "A traumatic hematoma would be a fluid collection after injury, not a shrunken, calcified spleen.",
+          "D": "Portal venous varices are dilated collateral vessels that do not shrink and calcify the spleen.",
+          "E": "Amyloid deposition typically enlarges the spleen rather than making it small and calcified."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-124_bl048_f05.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
         "whyCorrect": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Entrapment of rigid red cells enlarges the spleen in hemolytic anemias such as hereditary spherocytosis, not in cirrhosis.",
+          "B": "Immune hyperplasia enlarges the spleen in infections and autoimmune disease, not as the direct result of liver scarring.",
+          "C": "Extramedullary hematopoiesis enlarges the spleen in myelofibrosis and severe thalassemia, not in cirrhosis.",
+          "D": "Amyloid infiltration enlarges the spleen in systemic amyloidosis, unrelated to the portal venous pressure shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-181_bl048_f02.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
         "whyCorrect": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Posterior mediastinal masses (often neurogenic) lie behind the heart and preserve the heart border silhouette.",
+          "C": "The pericardial cavity surrounds the heart; the thymus sits in front of it in the anterior mediastinum.",
+          "D": "The lung apex sits above the clavicle; an apical mass would not obscure the upper heart border.",
+          "E": "Pleural space lesions surround the lung laterally and are not where the thymus resides."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-066_bl049_f07.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
         "whyCorrect": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type 1 diabetes is an autoimmune disease of pancreatic beta cells and is not a classic thymoma association.",
+          "B": "Graves disease is caused by TSH receptor-stimulating antibodies and is not characteristically linked to thymoma.",
+          "C": "Rheumatoid arthritis is not a classic paraneoplastic association of thymoma.",
+          "E": "Multiple sclerosis is a CNS demyelinating disease not associated with thymoma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-125_bl049_f06.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
         "whyCorrect": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ataxia-telangiectasia is autosomal recessive and presents with ataxia, telangiectasias, and IgA deficiency, not eczema with small platelets.",
+          "C": "SCID causes severe infections from birth but not eczema with thrombocytopenia and small platelets.",
+          "D": "DiGeorge syndrome (22q11 deletion) causes thymic aplasia, hypocalcemia, and cardiac defects, not the eczema triad.",
+          "E": "Bruton agammaglobulinemia is X-linked but causes recurrent bacterial infections without eczema or thrombocytopenia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-126_bl049_f08.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
         "whyCorrect": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thymic selection shapes the T-cell repertoire; B-cell diversity comes from VDJ recombination in the bone marrow.",
+          "C": "Clonal proliferation of effector cells occurs in the periphery after antigen activation, not by deleting self-reactive thymocytes.",
+          "D": "Red cell precursors arise in the bone marrow and have nothing to do with T-cell selection in the thymus.",
+          "E": "Memory T cells form after peripheral antigen exposure, not through negative selection in the thymus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-182_bl049_f05.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
         "whyCorrect": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "H1 receptors are widespread in the brain and are most relevant to vestibular nausea; the CTZ is defined by D2, 5-HT3, and NK1 receptors.",
+          "B": "The area postrema receives normal brainstem blood supply; its sensing ability comes from fenestrated capillaries lacking a blood-brain barrier.",
+          "C": "The CTZ is not a sympathetic ganglion; it is a circumventricular organ in the medulla.",
+          "E": "CSF is secreted by the choroid plexus, not by the chemoreceptor trigger zone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-183_bl050_f01.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
         "whyCorrect": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sheets of neoplastic plasma cells characterize multiple myeloma, not CML.",
+          "C": "Dense fibrosis is typical of primary myelofibrosis or late spent-phase disease, not chronic-phase CML.",
+          "D": "Aplasia with fatty replacement describes aplastic anemia, the opposite of the packed marrow of CML.",
+          "E": "Erythroid predominance suggests polycythemia vera or erythroid hyperplasia; CML marrow is dominated by granulocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-016_bl039_f03.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
         "whyCorrect": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An overactive erythropoiesis-driving signal describes JAK2 V617F in polycythemia vera, not the BCR-ABL fusion of t(9;22).",
+          "B": "Defective mismatch repair enzymes cause Lynch syndrome and microsatellite instability, not CML.",
+          "C": "BCR-ABL is not a transporter; reduced folate carrier defects relate to methotrexate resistance, not this translocation.",
+          "D": "BCR-ABL is a gain-of-function oncoprotein, not a lost tumor suppressor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-115_bl039_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
         "whyCorrect": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cross-linking extracellular domains is how some antibodies act, not small-molecule inhibitors working inside the cell.",
+          "B": "Neutralizing a circulating ligand describes ligand-trapping antibodies such as bevacizumab, which act outside the cell.",
+          "C": "Degrading mRNA is the mechanism of antisense or siRNA therapies, not tyrosine kinase inhibitors.",
+          "E": "Occupying the extracellular ligand-binding site is the action of receptor-blocking antibodies such as cetuximab, not intracellular small molecules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-141_bl039_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
         "whyCorrect": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Blasts with Auer rods indicate acute myeloid leukemia, not polycythemia vera.",
+          "B": "Spherocytes with polychromasia suggest hereditary spherocytosis or warm AHA, not polycythemia vera.",
+          "D": "Teardrop cells with nucleated red cells (leukoerythroblastosis) indicate marrow fibrosis, as in myelofibrosis or spent-phase PV, not typical PV.",
+          "E": "Rouleaux on a blue background reflect high plasma protein as in multiple myeloma, not increased red cell mass."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-060_bl040_f03.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
         "whyCorrect": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amyloid can enlarge the spleen, but it is not the mechanism linked to advanced polycythemia vera.",
+          "B": "Portal hypertension causes congestive splenomegaly in cirrhosis, but the massive spleen of spent-phase PV reflects extramedullary blood formation.",
+          "C": "Splenic metastases from carcinoma are uncommon and unrelated to polycythemia vera.",
+          "D": "Mononucleosis causes moderate splenic enlargement from lymphoid hyperplasia in young people, not the massive spleen of spent-phase PV."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-116_bl040_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
         "whyCorrect": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Polycythemia vera has low or normal EPO because the problem is intrinsic to the precursor; high renal EPO causes secondary polycythemia.",
+          "B": "PV precursors do not overexpress the EPO receptor; they signal without EPO because of a constitutively active JAK2.",
+          "C": "Loss of an apoptosis-controlling tumor suppressor is not the driver of PV; the key lesion is a gain-of-function JAK2 mutation.",
+          "E": "BCR-ABL drives CML, not polycythemia vera, which is BCR-ABL negative."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-177_bl040_f02.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
         "whyCorrect": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Plasma cell proliferation characterizes multiple myeloma, not essential thrombocythemia.",
+          "C": "Mast cell proliferation characterizes systemic mastocytosis, often with a KIT mutation, not essential thrombocythemia.",
+          "D": "Lymphoblast proliferation defines acute lymphoblastic leukemia, which causes cytopenias rather than thrombocytosis.",
+          "E": "Erythroid proliferation is the main feature of polycythemia vera; essential thrombocythemia is driven by megakaryocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-117_bl041_f02.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
         "whyCorrect": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sheets of lymphoblasts indicate acute lymphoblastic leukemia, not the fibrous replacement of myelofibrosis.",
+          "B": "Granulomas with epithelioid macrophages suggest infections such as TB or fungi, or sarcoidosis, not myelofibrosis.",
+          "D": "Amyloid appears as pink amorphous material that shows apple-green birefringence with Congo red, not a reticulin-rich fibrous meshwork.",
+          "E": "Gelatinous transformation occurs with starvation or cachexia, not primary myelofibrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-118_bl042_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
         "whyCorrect": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CLL is a mature B-cell lymphoid neoplasm and does not arise from progression of a myeloid disorder like MDS.",
+          "B": "Multiple myeloma arises from plasma cells, usually progressing from MGUS, not from MDS.",
+          "C": "Hairy cell leukemia is a mature B-cell neoplasm unrelated to the myeloid lineage of MDS.",
+          "E": "Hodgkin lymphoma arises from germinal center B cells, not from progression of a myeloid neoplasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-119_bl044_f01.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
         "whyCorrect": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Infectious mononucleosis produces reactive lymphocytes with abundant basophilic cytoplasm, not hypogranular neutrophils.",
+          "B": "Iron deficiency anemia affects red cells (microcytosis, hypochromia) and does not cause dysplastic granulocytes.",
+          "C": "Sepsis causes toxic granulation, an increase in coarse granules, the opposite of the near-absent granules shown.",
+          "D": "CML shows increased, mostly normal-appearing granulocytes at all stages of maturation, not prominent dysplastic hypogranular forms."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-120_bl044_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
         "whyCorrect": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphocytes derive from lymphoid progenitors and are unaffected by megakaryocyte dysplasia.",
+          "B": "Red cells come from erythroid precursors, not megakaryocytes, so these cells do not make RBCs.",
+          "C": "Eosinophils come from granulocyte precursors, not from megakaryocytes.",
+          "D": "Neutrophils come from myeloblasts through the granulocytic series, not from megakaryocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-121_bl044_f05.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
         "whyCorrect": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A bilobed nucleus with bright eosinophilic granules identifies a mature eosinophil, not a blast.",
+          "B": "Granular cytoplasm with a segmented nucleus describes a mature neutrophil, the end of the maturation sequence.",
+          "C": "A small round condensed nucleus with scant cytoplasm describes a mature small lymphocyte, not a blast.",
+          "E": "Densely clumped chromatin without nucleoli is a sign of maturity; blasts have fine, open chromatin with nucleoli."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-017_bl045_f01.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
         "whyCorrect": "When centrifuged, blood separates into plasma, a buffy coat of WBCs and platelets, and red cells. Hyperleukocytosis in acute leukemia grossly expands the buffy (WBC/platelet) layer compared with the thin normal band seen in the healthy donor's blood.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lipids float as a milky layer at the top of the plasma, not in the middle layer between plasma and red cells.",
+          "C": "Plasma proteins stay dissolved in the top plasma layer and do not form a thick middle band.",
+          "D": "Platelets contribute to the buffy coat, but with a WBC count over 600,000/microL the expansion is overwhelmingly due to leukocytes.",
+          "E": "Red cells settle as the bottom layer; polycythemia would enlarge that bottom layer, not the middle buffy coat."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-061_bl045_f04.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
         "whyCorrect": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Terminal differentiation describes mature end cells at the bottom of the tree, the opposite of the self-renewing apex cell.",
+          "C": "Hemoglobin production is a property of erythroid precursors far down one branch, not the stem cell.",
+          "D": "Phagocytosis is a function of mature neutrophils and macrophages, not the undifferentiated stem cell.",
+          "E": "Restriction to the myeloid lineage describes the common myeloid progenitor, a step below the multipotent stem cell."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-018_bl046_f01.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
         "whyCorrect": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The sternum can be aspirated, but it is thin, overlies the heart and great vessels, and is not used for large-volume harvest.",
+          "B": "The proximal tibia is used for marrow access in infants, not for adult stem cell harvests.",
+          "C": "The anterior iliac crest can be used, but the posterior crest is the standard, higher-yield and safer site.",
+          "D": "The femoral shaft is not used for marrow harvest because it has dense cortical bone and is hard to access."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-062_bl046_f02.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
         "whyCorrect": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Rituximab is an anti-CD20 antibody that depletes B cells and does not mobilize stem cells.",
+          "C": "Warfarin is an anticoagulant with no role in stem cell mobilization.",
+          "D": "Erythropoietin stimulates red cell production but does not drive stem cells into circulation for collection.",
+          "E": "IV iron treats iron deficiency and has no effect on stem cell mobilization."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-063_bl046_f03.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
         "whyCorrect": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Scurvy causes swollen bleeding gums from defective collagen synthesis due to dietary deficiency, not acute mucositis after conditioning.",
+          "B": "HSV reactivation can complicate transplant, but the common regimen-related toxicity is mucositis from cytotoxic conditioning.",
+          "C": "Gingivitis from poor hygiene is localized gum inflammation, not the widespread mucosal injury caused by conditioning therapy.",
+          "D": "Pemphigus vulgaris is an autoimmune blistering disease with anti-desmoglein antibodies, not a transplant regimen toxicity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-122_bl046_f07.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
         "whyCorrect": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mucositis occurs in the first weeks after conditioning and resolves as counts recover.",
+          "C": "Sinusoidal obstruction syndrome typically appears within the first three weeks after conditioning.",
+          "D": "Acute GVHD typically occurs before day 100, earlier than chronic GVHD.",
+          "E": "Gram-negative sepsis is an early complication during the neutropenic period before engraftment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-123_bl046_f08.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
         "whyCorrect": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Around day 14 patients are typically still in the pre-engraftment neutropenic period, well before the acute-to-chronic GVHD boundary.",
+          "C": "Day 7 is still within the early neutropenic phase, long before the conventional day 100 cutoff.",
+          "D": "Day 30 is about when engraftment and possible acute GVHD begin, not when the chronic phase starts.",
+          "E": "Chronic GVHD can persist for years, but the conventional transition from acute to chronic is around day 100, not two years."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-178_bl046_f06.png",

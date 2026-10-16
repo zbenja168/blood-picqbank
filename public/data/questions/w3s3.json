@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
         "whyCorrect": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hodgkin lymphoma shows scattered large Reed-Sternberg cells in a mixed inflammatory background, not uniform sheets with tingible-body macrophages.",
+          "B": "Follicular lymphoma forms crowded, back-to-back neoplastic follicles and is indolent rather than hyper-aggressive.",
+          "D": "Mantle cell lymphoma shows small-to-intermediate cells with cyclin D1 positivity, without a starry-sky pattern.",
+          "E": "DLBCL is aggressive but consists of large, pleomorphic cells, typically without the uniform starry-sky appearance of Burkitt lymphoma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-011_bl034_f03.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
         "whyCorrect": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reed-Sternberg cells are large binucleate owl-eye cells in Hodgkin lymphoma tissue, not crushed cells on a blood smear.",
+          "B": "Heinz bodies are denatured hemoglobin inclusions in red cells, seen with supravital stains in oxidative injury.",
+          "C": "Howell-Jolly bodies are small DNA remnants inside red cells, much smaller than the crushed cell shown.",
+          "D": "Auer rods are needle-like azurophilic inclusions in myeloblasts of AML, not ruptured lymphocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-056_bl033_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
         "whyCorrect": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Classic Hodgkin lymphoma shows scattered Reed-Sternberg cells in a mixed inflammatory background, not diffuse sheets of small round lymphocytes.",
+          "B": "Follicular lymphoma has a nodular, follicular architecture of centrocytes and centroblasts rather than diffuse sheets with prolymphocytes.",
+          "C": "Mantle cell lymphoma is made of small-to-intermediate cells with irregular nuclei and is cyclin D1-positive; prolymphocytes with central nucleoli are not typical.",
+          "D": "Burkitt lymphoma shows medium-sized cells with a starry-sky pattern, not small round lymphocytes with scattered prolymphocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-107_bl033_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
         "whyCorrect": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "EBV is linked to Burkitt lymphoma, Hodgkin lymphoma, and nasopharyngeal carcinoma, not gastric MALT lymphoma.",
+          "B": "HHV-8 causes Kaposi sarcoma and primary effusion lymphoma, not gastric MALT lymphoma.",
+          "C": "CMV causes ulcers and owl-eye inclusions in immunocompromised hosts but is not a driver of lymphoma.",
+          "D": "HPV causes cervical, anogenital, and oropharyngeal squamous neoplasms, not gastric lymphoma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-108_bl033_f06.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
         "whyCorrect": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Burkitt lymphoma consists of medium-sized cells with a starry-sky pattern and MYC translocation, and is cyclin D1-negative.",
+          "C": "DLBCL is composed of large cells and typically lacks cyclin D1 expression.",
+          "D": "CLL/SLL has small round lymphocytes and is usually cyclin D1-negative but CD23-positive, unlike the strongly cyclin D1-positive cells shown.",
+          "E": "Follicular lymphoma has a nodular architecture and expresses BCL2 from t(14;18), not cyclin D1."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-109_bl034_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
         "whyCorrect": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reed-Sternberg cells are large binucleate owl-eye cells found in lymph node tissue, not convoluted single lymphoid cells in blood.",
+          "B": "Myeloblasts have fine chromatin, nucleoli, and sometimes needle-like Auer rods, not a deeply grooved cerebriform nucleus.",
+          "C": "Reactive lymphocytes have abundant cytoplasm that molds around red cells, with a round or mildly irregular nucleus rather than a cerebriform one.",
+          "D": "Plasma cells have an eccentric round nucleus with clock-face chromatin and a perinuclear clear zone, not a convoluted nucleus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-012_bl035_f06.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
         "whyCorrect": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Eosinophils have bilobed nuclei and bright orange-red granules; the clustered cells here are atypical lymphocytes.",
+          "C": "Munro microabscesses are collections of neutrophils in the stratum corneum of psoriasis, not atypical lymphocytes in the epidermis.",
+          "D": "Bacterial abscesses consist of neutrophils and necrotic debris, not neoplastic T lymphocytes.",
+          "E": "Langerhans cell collections have grooved, coffee-bean nuclei and are associated with eosinophils, as in Langerhans cell histiocytosis, not atypical T cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-013_bl035_f07.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
         "whyCorrect": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Early patch-stage lesions appear long before any systemic spread; the disease usually stays confined to the skin for years.",
+          "B": "Early mycosis fungoides favors sun-protected areas such as the buttocks and trunk (a bathing-suit distribution), not sun-exposed skin.",
+          "C": "Early lesions are flat, scaly, often itchy patches, not painful vesicles resembling a viral rash.",
+          "D": "Pigmented nodules mimicking melanoma do not describe early disease, which presents as flat, erythematous, scaly patches."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-110_bl035_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
         "whyCorrect": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lytic bone lesions with hypercalcemia point to multiple myeloma or adult T-cell leukemia/lymphoma, not the skin-limited progression of mycosis fungoides.",
+          "B": "Flower cells are the multilobed circulating cells of HTLV-1-associated adult T-cell leukemia/lymphoma, not an early stage of mycosis fungoides.",
+          "D": "Generalized erythroderma is a late manifestation (Sezary syndrome) that may follow tumors, not the stage that precedes plaques.",
+          "E": "Diffuse lymphadenopathy and organ involvement occur only in advanced disease, after the skin stages, not before plaques."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-111_bl035_f03.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
         "whyCorrect": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sezary syndrome is defined by erythroderma, lymphadenopathy, and circulating cerebriform T cells, not by mushroom-shaped skin tumors.",
+          "B": "Reed-Sternberg cells define Hodgkin lymphoma and are unrelated to the cutaneous tumors of this T-cell lymphoma.",
+          "C": "Despite the mushroom-like look and the name, the disease is a T-cell lymphoma, not a fungal infection.",
+          "D": "HTLV-1 is linked to adult T-cell leukemia/lymphoma; mycosis fungoides is not caused by HTLV-1, and the tumors' shape has nothing to do with a virus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-112_bl035_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
         "whyCorrect": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute adult T-cell leukemia/lymphoma is HTLV-1-related and presents with hypercalcemia, lytic bone lesions, and flower cells rather than the erythroderma triad.",
+          "B": "Hodgkin lymphoma rarely involves the skin and presents with painless nodal enlargement and B symptoms, not diffuse erythroderma.",
+          "C": "Peripheral T-cell lymphoma NOS is a nodal lymphoma without the defining erythroderma and circulating cerebriform cells.",
+          "E": "Early patch-stage mycosis fungoides involves limited scaly patches, not red, peeling skin covering most of the body."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-113_bl035_f05.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
         "whyCorrect": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphocyte-rich Hodgkin lymphoma has a lymphocyte-dominant background without the broad collagen bands and lacunar cells shown.",
+          "B": "Mixed cellularity shows classic Reed-Sternberg cells in a mixed inflammatory background (eosinophils, plasma cells) without fibrous banding.",
+          "D": "Nodular lymphocyte-predominant Hodgkin lymphoma features popcorn (LP) cells, not lacunar cells, and lacks broad collagen bands.",
+          "E": "Lymphocyte-depleted Hodgkin lymphoma has abundant pleomorphic Reed-Sternberg cells with few lymphocytes and diffuse fibrosis, not banded nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-014_bl036_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
         "whyCorrect": "The curves rise to an early peak in adolescents/young adults, dip in middle age, and rise again after about age 65, producing the classic bimodal age-incidence pattern of Hodgkin lymphoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The curve has two peaks, in young adults and in older adults, not a single middle-age peak.",
+          "C": "Incidence varies markedly with age, with clear peaks and a trough, so it is not uniform.",
+          "D": "Incidence dips in middle age after the young-adult peak rather than rising steadily with age.",
+          "E": "Hodgkin lymphoma is uncommon in early childhood; the first peak is in adolescents and young adults."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-114_bl036_f01.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
         "whyCorrect": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myeloblasts have a high nuclear-to-cytoplasmic ratio, fine chromatin, and nucleoli, without an eccentric nucleus or perinuclear clearing.",
+          "B": "Megakaryocytes are giant cells with multilobated nuclei, far larger than the cells shown.",
+          "C": "Erythroblasts have a central round nucleus and blue-to-pink cytoplasm without a perinuclear hof or eccentric placement.",
+          "D": "Small lymphocytes have a round central nucleus with scant cytoplasm and lack the perinuclear hof and clock-face chromatin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-015_bl037_f02.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
         "whyCorrect": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Antibody agglutination forms irregular three-dimensional clumps, while rouleaux are orderly coin stacks caused by reduced surface charge.",
+          "B": "Iron deficiency makes cells small and pale but does not cause them to stack in coin-like chains.",
+          "D": "Osmotic swelling makes red cells spherical and fragile, not stacked into rouleaux.",
+          "E": "Membrane rigidity is not the cause; rouleaux form because plasma proteins reduce the repulsive charge between red cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-057_bl037_f03.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
         "whyCorrect": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dystrophic calcification deposits calcium in damaged tissue and would look dense, not create punched-out lucent holes.",
+          "B": "Osteomyelitis causes irregular bone destruction with periosteal reaction and sequestra, not multiple sharply punched-out skull lesions.",
+          "D": "Osteoblastic activity produces sclerotic, dense lesions (as with prostate cancer metastases), the opposite of lucent holes.",
+          "E": "Fibrous dysplasia produces expansile ground-glass lesions, not multiple discrete punched-out lucencies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-058_bl037_f04.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
         "whyCorrect": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Marrow cellularity is assessed by bone marrow biopsy, not by a serum gel test.",
+          "C": "ESR is measured by how fast red cells settle in a tube; it has nothing to do with immunofixation lanes.",
+          "D": "Immunofixation uses antisera against human immunoglobulin chains, not bacterial antigens.",
+          "E": "Total serum protein is measured chemically; immunofixation identifies the M protein's type rather than quantifying total protein."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-059_bl037_f06.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
         "whyCorrect": "Monoclonal antibodies bind the extracellular ligand-binding domain, whereas tyrosine kinase inhibitors enter the cell and competitively inhibit ATP binding at the intracellular kinase domain. Because TKIs are small molecules with less specific targeting, they interact with kinases beyond the intended one, producing more off-target adverse effects.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Selective targeting of a single surface antigen describes monoclonal antibodies, the extracellular agents with fewer off-target effects.",
+          "B": "Large proteins causing immune reactions are the monoclonal antibodies; the intracellular agents are small molecules.",
+          "C": "Binding extracellular receptors describes the antibody class acting outside the cell, not the small-molecule intracellular agents.",
+          "E": "Small-molecule tyrosine kinase inhibitors are usually oral, and route of administration does not explain off-target toxicity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-140_bl038_f02.png",

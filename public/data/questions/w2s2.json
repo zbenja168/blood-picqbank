@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Repeated spontaneous bleeding into weight-bearing joints such as the knees, ankles, and elbows (hemarthrosis) is a hallmark of hemophilia and, over time, produces chronic joint swelling, pain, and deformity.",
         "whyCorrect": "Repeated spontaneous bleeding into weight-bearing joints such as the knees, ankles, and elbows (hemarthrosis) is a hallmark of hemophilia and, over time, produces chronic joint swelling, pain, and deformity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Gout is rare in a 6-year-old and presents with urate crystals in adults, often in the first toe, not in a child with a lifelong bleeding tendency.",
+          "C": "Lipohemarthrosis follows an intra-articular fracture after significant trauma, which is not part of this child's lifelong bleeding history.",
+          "D": "Septic arthritis presents acutely with fever and a hot, very painful joint, not in the context of lifelong easy bruising and prolonged bleeding.",
+          "E": "Rheumatoid pannus is an autoimmune synovitis of adults, typically symmetric small joints, unrelated to a lifelong bleeding disorder."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-080_bl009_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Factors VIII and IX act in the intrinsic arm of the cascade, which is measured by the activated partial thromboplastin time (aPTT). Their deficiency therefore prolongs the aPTT while leaving the extrinsic-pathway-dependent PT normal.",
         "whyCorrect": "Factors VIII and IX act in the intrinsic arm of the cascade, which is measured by the activated partial thromboplastin time (aPTT). Their deficiency therefore prolongs the aPTT while leaving the extrinsic-pathway-dependent PT normal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PT and aPTT are both prolonged with common-pathway defects (factors X, V, II, fibrinogen) or vitamin K deficiency, not with isolated VIII or IX deficiency.",
+          "B": "An isolated prolonged PT points to factor VII deficiency or early warfarin effect, since PT measures the extrinsic pathway.",
+          "C": "Thrombin time tests fibrinogen-to-fibrin conversion and is unaffected by intrinsic pathway factor deficiencies.",
+          "E": "Bleeding time reflects platelet function; hemophilia leaves it normal while prolonging the aPTT."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-158_bl009_f02.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Hemophilia A and B are X-linked recessive disorders. Sons of a carrier mother have a 50% chance of being affected, and daughters have a 50% chance of being carriers, which is why the disease predominantly affects males.",
         "whyCorrect": "Hemophilia A and B are X-linked recessive disorders. Sons of a carrier mother have a 50% chance of being affected, and daughters have a 50% chance of being carriers, which is why the disease predominantly affects males.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitochondrial disorders pass from an affected mother to all children and are never transmitted by fathers, unlike the carrier-mother pattern shown.",
+          "B": "In X-linked dominant inheritance, heterozygous females are affected, but hemophilia carriers are typically unaffected.",
+          "C": "Autosomal dominant traits affect both sexes equally with an affected parent each generation; hemophilia affects mainly males from unaffected parents.",
+          "E": "Autosomal recessive disorders affect males and females equally and need two carrier parents, whereas only the mother carries this X-linked gene."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-159_bl009_f03.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The pedigree shows an affected parent transmitting the trait to roughly half of the children of either sex, with no skipping of generations and no sex predominance, which is the pattern of autosomal dominant inheritance. Most cases of von Willebrand disease follow this pattern, although rare autosomal recessive (e.g., type 3) forms exist.",
         "whyCorrect": "The pedigree shows an affected parent transmitting the trait to roughly half of the children of either sex, with no skipping of generations and no sex predominance, which is the pattern of autosomal dominant inheritance. Most cases of von Willebrand disease follow this pattern, although rare autosomal recessive (e.g., type 3) forms exist.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Autosomal recessive inheritance (seen in rare type 3 vWD) needs two carrier parents and typically skips generations, unlike the pedigree shown.",
+          "B": "Mitochondrial inheritance passes only through mothers to all children, which does not fit a trait passed by either parent to about half of offspring.",
+          "C": "X-linked dominant inheritance is never transmitted father to son, while von Willebrand disease is autosomal and passes to both sexes.",
+          "D": "X-linked recessive inheritance mainly affects males via carrier mothers, as in hemophilia; vWD affects both sexes equally."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-161_bl011_f01.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The mottled, net-like discoloration is livedo reticularis, a characteristic skin manifestation of antiphospholipid antibody syndrome. It results from obstruction of small superficial capillaries by microthrombi, reflecting the prothrombotic state that also causes DVT, PE, stroke, and recurrent pregnancy loss.",
         "whyCorrect": "The mottled, net-like discoloration is livedo reticularis, a characteristic skin manifestation of antiphospholipid antibody syndrome. It results from obstruction of small superficial capillaries by microthrombi, reflecting the prothrombotic state that also causes DVT, PE, stroke, and recurrent pregnancy loss.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hepatic dysfunction produces spider angiomas and palmar erythema, not a lacy reticulated mottling of the legs.",
+          "C": "Leukocytoclastic vasculitis produces palpable purpura, raised discrete lesions, not a flat net-like discoloration.",
+          "D": "Platelet deficiency causes petechiae and purpura from red cell extravasation, not a reticular net pattern.",
+          "E": "Melanocyte destruction causes depigmented patches (vitiligo), not purplish-red mottling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-081_bl013_f01.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Warfarin-induced skin necrosis occurs because protein C (a vitamin K-dependent factor with a short half-life) falls faster than the procoagulant factors after warfarin is started, producing a transient hypercoagulable state with microvascular thrombosis. It is characteristically seen in patients with underlying protein C deficiency; protein S deficiency rarely causes it.",
         "whyCorrect": "Warfarin-induced skin necrosis occurs because protein C (a vitamin K-dependent factor with a short half-life) falls faster than the procoagulant factors after warfarin is started, producing a transient hypercoagulable state with microvascular thrombosis. It is characteristically seen in patients with underlying protein C deficiency; protein S deficiency rarely causes it.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Prothrombin G20210A raises prothrombin levels and venous thrombosis risk but is not specifically linked to warfarin skin necrosis.",
+          "C": "Antithrombin deficiency causes heparin resistance and venous thrombosis, not necrosis triggered by starting warfarin.",
+          "D": "Vitamin K deficiency causes bleeding, not the thrombotic skin necrosis that follows warfarin initiation.",
+          "E": "Factor V Leiden causes resistance to activated protein C and venous thrombosis, but warfarin necrosis is classically tied to protein C deficiency."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-082_bl014_f02.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Activated protein C, using protein S as a cofactor, proteolytically inactivates factors Va and VIIIa to switch off the common pathway. Factor V Leiden resists this cleavage, and protein C or S deficiency removes this brake, both causing hypercoagulability. Antithrombin instead inhibits thrombin and factor Xa.",
         "whyCorrect": "Activated protein C, using protein S as a cofactor, proteolytically inactivates factors Va and VIIIa to switch off the common pathway. Factor V Leiden resists this cleavage, and protein C or S deficiency removes this brake, both causing hypercoagulability. Antithrombin instead inhibits thrombin and factor Xa.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Antithrombin inactivates thrombin and factor Xa (and other serine proteases), not the cofactors Va and VIIIa.",
+          "C": "Thrombomodulin binds thrombin on the endothelium to activate protein C, but it does not itself cleave factors Va and VIIIa.",
+          "D": "Plasmin dissolves fibrin clots during fibrinolysis; it is not the anticoagulant that inactivates Va and VIIIa.",
+          "E": "TFPI inhibits the tissue factor-VIIa complex and factor Xa at the start of the extrinsic pathway, not Va and VIIIa."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-162_bl014_f01.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
         "whyCorrect": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hypersensitivity vasculitis causes palpable purpura days to weeks after drug exposure, not sharply demarcated necrosis from microvascular thrombosis.",
+          "C": "Vitamin K deficiency causes bleeding, not thrombosis; warfarin necrosis is a clotting complication.",
+          "D": "Warfarin is not directly toxic to keratinocytes; the skin dies from ischemia due to small-vessel thrombosis.",
+          "E": "Heparin-induced thrombocytopenia involves antibodies to heparin-PF4 complexes, not an oral anticoagulant such as warfarin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-083_bl015_f03.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Warfarin inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X and the regulatory proteins C and S, which are exactly the elements highlighted.",
         "whyCorrect": "Warfarin inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X and the regulatory proteins C and S, which are exactly the elements highlighted.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The shared calcium-binding Gla domain depends on vitamin K-mediated gamma-carboxylation; it is not independent of vitamin K.",
+          "B": "These factors are synthesized in the liver, not by vascular endothelium.",
+          "C": "Factors II, VII, IX, and X span the extrinsic, intrinsic, and common pathways; factor VII is extrinsic, so they are not only intrinsic factors.",
+          "D": "Thrombin does not uniquely cleave these factors, and proteins C and S are regulatory rather than serine proteases activated by thrombin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-135_bl015_f02.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Heparin works indirectly by activating endogenous antithrombin; the activated antithrombin then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
         "whyCorrect": "Heparin works indirectly by activating endogenous antithrombin; the activated antithrombin then inhibits clotting factors Xa and IIa (thrombin) in the common pathway.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "GPIIb/IIIa blockade is the mechanism of abciximab, eptifibatide, and tirofiban, which act on platelets rather than coagulation factors.",
+          "B": "Inhibiting vitamin K epoxide reductase is warfarin's mechanism, which reduces synthesis of functional factors over days.",
+          "C": "Calcium chelation is how EDTA and citrate anticoagulate collected blood; heparin does not bind calcium.",
+          "D": "Heparin does not bind and cleave thrombin directly; direct thrombin inhibitors such as argatroban bind thrombin without needing antithrombin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-136_bl015_f04.png",

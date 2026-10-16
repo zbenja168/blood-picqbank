@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil.",
         "whyCorrect": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Granulocyte nuclei shrink and condense as the cell matures; a round, enlarging nucleus is the opposite of the indenting, lobulating sequence from myeloblast to segmented neutrophil.",
+          "C": "Prominent nucleoli are a feature of the earliest, immature blast stage; they disappear as chromatin condenses, so they do not characterize maturation.",
+          "D": "Nuclear extrusion is the final step of erythroid maturation (orthochromatic erythroblast to reticulocyte); mature neutrophils retain a multilobed nucleus.",
+          "E": "The mature neutrophil nucleus is a single nucleus with lobes joined by thin chromatin strands, not several separate nuclei."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-006_bl010_f04.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Platelets are small (1-3 microns) anucleate cytoplasmic fragments shed from megakaryocytes, appearing as tiny purple bodies between erythrocytes on a smear. They lack a nucleus, unlike lymphocytes, and are separate cells rather than inclusions like Howell-Jolly bodies.",
         "whyCorrect": "Platelets are small (1-3 microns) anucleate cytoplasmic fragments shed from megakaryocytes, appearing as tiny purple bodies between erythrocytes on a smear. They lack a nucleus, unlike lymphocytes, and are separate cells rather than inclusions like Howell-Jolly bodies.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphocytes are nucleated white cells about the size of an RBC or larger, with a dense round nucleus filling most of the cell, not tiny anucleate fragments.",
+          "B": "Howell-Jolly bodies are small DNA remnants located inside red cells, whereas the marked structures lie free between the erythrocytes.",
+          "C": "Schistocytes are fragmented red cells with sharp angular edges and pink hemoglobin, not the tiny purple granular bodies seen between intact RBCs.",
+          "E": "Reticulocytes are slightly larger, bluish (polychromatophilic) young red cells containing residual RNA, not small purple fragments between erythrocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-037_bl010_f06.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The curves show hematopoiesis beginning in the yolk sac, shifting to the liver (with a minor spleen contribution) through mid-gestation, and being taken over by the bone marrow late in gestation so that the marrow is the predominant site by the third trimester and birth.",
         "whyCorrect": "The curves show hematopoiesis beginning in the yolk sac, shifting to the liver (with a minor spleen contribution) through mid-gestation, and being taken over by the bone marrow late in gestation so that the marrow is the predominant site by the third trimester and birth.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "During the yolk sac phase (first weeks of gestation) the bone marrow has not yet formed, so it cannot be the dominant site then.",
+          "B": "In mid-gestation the liver is still the predominant hematopoietic organ; marrow activity is rising but does not overtake the liver until late gestation.",
+          "D": "In the first month, blood islands in the yolk sac are the only hematopoietic site; marrow hematopoiesis begins months later.",
+          "E": "The marrow is already the main hematopoietic organ by birth; it does not wait until after the first postnatal year to dominate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-160_bl010_f01.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
         "whyCorrect": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sickle cell disease does not change the color of a blood sample; its HbS carries oxygen as normal heme iron and the defect is polymerization on deoxygenation.",
+          "B": "Carboxyhemoglobin gives blood a bright cherry-red color, not the dark chocolate-brown seen in the patient sample.",
+          "D": "Polycythemia vera increases red cell mass and viscosity, making blood thick and dark red, but the hemoglobin itself is normal and not brown.",
+          "E": "Iron-deficiency anemia lowers hemoglobin content and yields paler, thinner-appearing blood rather than a chocolate-brown discoloration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-043_bl021_f03.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "In the pentose phosphate pathway, glucose-6-phosphate dehydrogenase (G6PD) generates NADPH, which regenerates reduced glutathione (GSH) via glutathione reductase. GSH is then used by glutathione peroxidase to neutralize peroxides and other reactive oxygen species, protecting the RBC from oxidative damage and hemolysis.",
         "whyCorrect": "In the pentose phosphate pathway, glucose-6-phosphate dehydrogenase (G6PD) generates NADPH, which regenerates reduced glutathione (GSH) via glutathione reductase. GSH is then used by glutathione peroxidase to neutralize peroxides and other reactive oxygen species, protecting the RBC from oxidative damage and hemolysis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Most methemoglobin is reduced by NADH-dependent cytochrome b5 reductase; the NADPH pathway's main physiologic job is keeping glutathione reduced.",
+          "C": "ATP for the Na+/K+ pump comes from anaerobic glycolysis (Embden-Meyerhof pathway), not from NADPH, which is a reducing equivalent rather than an energy currency.",
+          "D": "Lactate is the end product of anaerobic glycolysis in RBCs; the pentose phosphate shunt generating NADPH is a separate branch with no role in lactate production.",
+          "E": "2,3-BPG is made by the Rapoport-Luebering shunt off glycolysis, not from NADPH, and its role is regulating oxygen affinity rather than antioxidant defense."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-169_bl021_f01.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Methylene blue is reduced to leukomethylene blue by NADPH-methemoglobin reductase, using NADPH supplied by G6PD in the pentose phosphate pathway; leukomethylene blue then reduces metHb. Because this route depends on NADPH, methylene blue is ineffective and relatively contraindicated in G6PD-deficient patients. Under normal conditions cytochrome b5 reductase performs the majority of metHb reduction.",
         "whyCorrect": "Methylene blue is reduced to leukomethylene blue by NADPH-methemoglobin reductase, using NADPH supplied by G6PD in the pentose phosphate pathway; leukomethylene blue then reduces metHb. Because this route depends on NADPH, methylene blue is ineffective and relatively contraindicated in G6PD-deficient patients. Under normal conditions cytochrome b5 reductase performs the majority of metHb reduction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cytochrome b5 reductase reduces most methemoglobin under normal conditions, but it uses NADH and is not the route methylene blue activates.",
+          "B": "Methylene blue does not bind heme directly; it acts as an electron carrier after being reduced to leukomethylene blue by an NADPH-dependent enzyme.",
+          "C": "Catalase breaks down hydrogen peroxide to water and oxygen and does not reduce ferric heme iron back to the ferrous state.",
+          "E": "Glutathione peroxidase detoxifies peroxides using reduced glutathione; it protects against oxidant injury but is not the pathway methylene blue drives."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-170_bl021_f04.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant.",
         "whyCorrect": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cytoskeletal mutations such as spectrin defects produce spherocytes that lose central pallor; normal cells' pallor reflects normal shape, not a defect.",
+          "C": "Osmotic swelling makes red cells rounder and spherical, which erases rather than creates central pallor.",
+          "D": "Mature red cells extrude their nucleus; a nuclear remnant appears as a small dense purple dot (Howell-Jolly body), not a pale central zone.",
+          "E": "The center still contains hemoglobin; it looks pale only because the biconcave disc is thinnest there, and the pallor normally spans just about one third of the cell."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-010_bl032_f01.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings.",
         "whyCorrect": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fixation artifacts produce irregular refractile spots on some cells, not the uniform, centered pale zone present in every normal erythrocyte.",
+          "B": "The central region contains less hemoglobin, not more, because the biconcave disc is thinnest at its center.",
+          "D": "Heinz bodies are dark inclusions of denatured hemoglobin seen with supravital stains, typically at the cell membrane; they are abnormal and not visible as pallor.",
+          "E": "Mature RBCs have no nucleus; nuclear remnants (Howell-Jolly bodies) appear as dense purple dots, not a pale center."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-027_bl059_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Electrophoretic separation depends on charge: negatively charged hemoglobin moves toward the anode. The glutamate-to-valine substitution in HbS removes a negative charge, so HbS is less negatively charged than HbA and migrates less far, allowing the variants to be distinguished.",
         "whyCorrect": "Electrophoretic separation depends on charge: negatively charged hemoglobin moves toward the anode. The glutamate-to-valine substitution in HbS removes a negative charge, so HbS is less negatively charged than HbA and migrates less far, allowing the variants to be distinguished.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "HbS differs from HbA by a single amino acid substitution, so its molecular weight is essentially identical; electrophoresis here separates by charge.",
+          "B": "HbS contains abnormal beta-globin chains carrying the valine substitution; it is not a beta-chain-deficient hemoglobin.",
+          "C": "At the alkaline gel pH used, HbS is still net negatively charged and moves toward the anode, just less far than HbA.",
+          "D": "A more negative molecule would travel farther toward the anode; HbS travels less far because glutamate-to-valine removes a negative charge."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-054_bl032_f03.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The direct antiglobulin test detects RBCs already coated in vivo with antibody or complement. Coombs reagent (anti-human immunoglobulin/complement) cross-links these coated cells, producing visible agglutination, a positive result seen in autoimmune hemolytic anemia, hemolytic transfusion reactions, and hemolytic disease of the newborn.",
         "whyCorrect": "The direct antiglobulin test detects RBCs already coated in vivo with antibody or complement. Coombs reagent (anti-human immunoglobulin/complement) cross-links these coated cells, producing visible agglutination, a positive result seen in autoimmune hemolytic anemia, hemolytic transfusion reactions, and hemolytic disease of the newborn.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Residual ribosomal RNA marks reticulocytes and is detected with supravital stains; it has no role in antiglobulin-mediated agglutination.",
+          "C": "Coombs reagent is anti-human immunoglobulin/complement and does not recognize bacterial antigens on red cells.",
+          "D": "Iron granules (Pappenheimer bodies, siderocytes) are intracellular and detected by Prussian blue, not by anti-globulin reagent.",
+          "E": "Hemoglobin variants are intracellular and identified by electrophoresis; the DAT detects surface-bound antibody or complement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-055_bl032_f05.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "In gel electrophoresis, an applied electric field causes charged hemoglobin molecules to migrate; the net surface charge (determined by amino acid substitutions in the globin chains) chiefly governs the migration distance, allowing separation of variants such as HbA, HbF, HbS, and HbC.",
         "whyCorrect": "In gel electrophoresis, an applied electric field causes charged hemoglobin molecules to migrate; the net surface charge (determined by amino acid substitutions in the globin chains) chiefly governs the migration distance, allowing separation of variants such as HbA, HbF, HbS, and HbC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemoglobin variants differ by single amino acid substitutions with negligible change in mass, so molecular weight cannot explain their separation.",
+          "B": "All hemoglobin tetramers contain four heme irons, so iron content does not differ between variants such as HbA, HbS, and HbC.",
+          "C": "Oxygen affinity affects loading and unloading of oxygen in vivo but has no bearing on how far a molecule moves in an electric field.",
+          "D": "Concentration determines how intense a band is, not where it migrates; position reflects the variant's net charge."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-072_bl059_f03.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Cells that lyse at relatively high (less hypotonic) NaCl concentrations are more fragile; this leftward-shifted curve is classic for hereditary spherocytosis, whose spherocytes have a low surface-area-to-volume ratio and rupture easily. Conditions like sickle cell anemia and thalassemia instead show decreased fragility.",
         "whyCorrect": "Cells that lyse at relatively high (less hypotonic) NaCl concentrations are more fragile; this leftward-shifted curve is classic for hereditary spherocytosis, whose spherocytes have a low surface-area-to-volume ratio and rupture easily. Conditions like sickle cell anemia and thalassemia instead show decreased fragility.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Greater resistance to hypotonic lysis means cells survive to lower NaCl concentrations, which shifts the curve to the right, not left.",
+          "B": "A higher surface-area-to-volume ratio (as in target cells) lets cells swell more before rupturing, decreasing fragility rather than increasing it.",
+          "C": "Lower intracellular solute would reduce water influx in hypotonic saline and make cells more resistant to lysis, not less.",
+          "E": "Decreased osmotic fragility, seen with sickle cells and thalassemia target cells, shifts the curve to the right, toward lower NaCl concentrations."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-073_bl059_f04.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The direct antiglobulin test uses anti-immunoglobulin (Coombs) reagent that cross-links RBCs already coated in vivo with antibody or complement, producing visible agglutination. A positive DAT indicates in vivo sensitization, as in autoimmune hemolytic anemia or hemolytic disease of the newborn.",
         "whyCorrect": "The direct antiglobulin test uses anti-immunoglobulin (Coombs) reagent that cross-links RBCs already coated in vivo with antibody or complement, producing visible agglutination. A positive DAT indicates in vivo sensitization, as in autoimmune hemolytic anemia or hemolytic disease of the newborn.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Loss of membrane antigens would leave nothing for antibody to bind; agglutination with Coombs reagent requires cells already coated with antibody or complement.",
+          "C": "Reticulocyte count reflects marrow response and is measured with supravital stains; it does not cause agglutination with anti-human globulin.",
+          "D": "Abnormal hemoglobins are inside the cell and are detected by electrophoresis, not by an antiglobulin reagent acting on the cell surface.",
+          "E": "Osmotic fragility is tested by exposing cells to graded hypotonic saline; it is unrelated to antibody coating detected by the DAT."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-074_bl059_f05.png",

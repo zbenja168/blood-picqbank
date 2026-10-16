@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
         "whyCorrect": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Diamond-Blackfan anemia is pure red cell aplasia with thumb anomalies; it spares platelets and white cells, so it does not cause pancytopenia.",
+          "B": "Beta-thalassemia major causes severe microcytic anemia with marrow expansion; it does not produce pancytopenia, cafe-au-lait spots, or thumb malformations.",
+          "C": "Acquired aplastic anemia also causes pancytopenia, but it lacks congenital anomalies such as cafe-au-lait spots and malformed thumbs.",
+          "E": "ITP causes isolated thrombocytopenia from antiplatelet antibodies, without anemia, leukopenia, or skeletal anomalies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-075_bl000_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Aplastic anemia is caused by loss of myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall (pancytopenia). Lymphoid progenitors arise from a separate branch of this scheme and are relatively preserved, so lymphocyte counts remain near normal on a CBC.",
         "whyCorrect": "Aplastic anemia is caused by loss of myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall (pancytopenia). Lymphoid progenitors arise from a separate branch of this scheme and are relatively preserved, so lymphocyte counts remain near normal on a CBC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Platelets arise from the myeloid branch via megakaryocytes, so they fall along with other myeloid lineages in aplastic anemia.",
+          "B": "Monocytes derive from myeloid progenitors and are reduced along with neutrophils in aplastic anemia.",
+          "D": "Erythrocytes are myeloid-derived, and anemia is a defining component of the pancytopenia of aplastic anemia.",
+          "E": "Neutropenia is a key, often dangerous, feature of aplastic anemia because neutrophils come from the depleted myeloid stem cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-147_bl000_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "This is the osmotic fragility test. Normal biconcave cells have excess membrane and can swell to absorb water; spherocytes have little membrane reserve, so even modest water influx in a hypotonic solution causes them to lyse, giving increased osmotic fragility.",
         "whyCorrect": "This is the osmotic fragility test. Normal biconcave cells have excess membrane and can swell to absorb water; spherocytes have little membrane reserve, so even modest water influx in a hypotonic solution causes them to lyse, giving increased osmotic fragility.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Antibody coating marks cells for macrophage removal but does not intrinsically weaken the bilayer; osmotic lysis of spherocytes reflects lost membrane reserve.",
+          "C": "Unstable hemoglobins form Heinz bodies and cause oxidative hemolysis; they do not explain increased lysis in hypotonic saline.",
+          "D": "Spherocytes have a low, not high, surface-area-to-volume ratio; a high ratio, as in target cells, actually protects against osmotic lysis.",
+          "E": "The Na+/K+ ATPase pumps ions out to limit cell swelling; water enters passively by osmosis in hypotonic solution, not through active pumping."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-028_bl001_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
         "whyCorrect": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sickle cells are crescent-shaped with pointed ends from HbS polymerization, a hemoglobinopathy rather than a membrane disorder, and are not uniform ovals.",
+          "C": "G6PD deficiency shows bite cells and Heinz bodies during oxidative hemolysis, not a population of elongated elliptical cells.",
+          "D": "Hereditary spherocytosis produces small, round cells lacking central pallor, not elongated cigar-shaped cells.",
+          "E": "Hereditary pyropoikilocytosis shows bizarre fragments and microspherocytes with marked poikilocytosis, rather than a uniform population of intact elliptocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-029_bl001_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Hereditary pyropoikilocytosis, caused by two hereditary elliptocytosis mutations, produces striking red-cell fragmentation and bizarre poikilocytes that resemble the burned red cells seen after severe thermal injury.",
         "whyCorrect": "Hereditary pyropoikilocytosis, caused by two hereditary elliptocytosis mutations, produces striking red-cell fragmentation and bizarre poikilocytes that resemble the burned red cells seen after severe thermal injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hereditary elliptocytosis typically shows uniform oval or cigar-shaped cells with mild or no hemolysis, not extreme fragmentation resembling burned cells.",
+          "B": "MAHA (e.g., TTP, HUS, DIC) produces schistocytes from mechanical shearing, with thrombocytopenia, but not the burn-like inherited poikilocytosis described.",
+          "C": "Beta-thalassemia major shows microcytic, hypochromic target cells and nucleated RBCs rather than burn-like fragmented poikilocytes.",
+          "E": "Hereditary spherocytosis shows round, dense microspherocytes without central pallor, not widespread bizarre fragments."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-030_bl001_f06.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The rounded cells on the right (spherocytes) lack the membrane excess that allows normal biconcave cells to squeeze through splenic sinusoids, so they are trapped and destroyed there, producing extravascular hemolysis. Their oxygen-carrying capacity remains essentially normal.",
         "whyCorrect": "The rounded cells on the right (spherocytes) lack the membrane excess that allows normal biconcave cells to squeeze through splenic sinusoids, so they are trapped and destroyed there, producing extravascular hemolysis. Their oxygen-carrying capacity remains essentially normal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Each spherocyte contains essentially normal hemoglobin and carries oxygen normally; the problem is reduced deformability and splenic trapping.",
+          "B": "The opposite occurs: rigid spherocytes are avidly recognized and removed by splenic macrophages, causing extravascular hemolysis.",
+          "D": "Spherocytes are destroyed mainly extravascularly in the spleen; intravascular hemolysis is typical of mechanical or complement-mediated injury.",
+          "E": "Haptoglobin binds free hemoglobin released into plasma; red cells themselves do not bind haptoglobin, and spherocyte destruction is mainly extravascular."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-148_bl001_f02.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
         "whyCorrect": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Heinz bodies are denatured hemoglobin seen only with supravital stains, usually at the membrane, and indicate oxidative injury, not asplenia.",
+          "C": "Malarial parasites appear as ring forms with a chromatin dot and blue cytoplasm, not as a single dense round basophilic dot.",
+          "D": "Basophilic stippling is many fine blue dots of ribosomal RNA throughout the cell, not a single round inclusion.",
+          "E": "Pappenheimer bodies are small iron granules clustered at the cell periphery and indicate sideroblastic states, not a single round DNA remnant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-031_bl002_f07.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The glutamate-to-valine substitution removes a negative charge, so HbS migrates less far toward the anode than HbA in an electric field. Electrophoresis therefore separates hemoglobins mainly by charge.",
         "whyCorrect": "The glutamate-to-valine substitution removes a negative charge, so HbS migrates less far toward the anode than HbA in an electric field. Electrophoresis therefore separates hemoglobins mainly by charge.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reduced solubility of deoxygenated HbS underlies the sickling solubility test, but electrophoresis separates proteins by charge, not solubility.",
+          "B": "HbS and HbA differ by one amino acid, so their molecular weights are nearly identical and cannot explain their separation.",
+          "D": "Both HbS and HbA contain four heme groups with one iron each, so iron content does not differ between them.",
+          "E": "Oxygen affinity does not influence movement in an electric field; separation reflects the charge change from glutamate-to-valine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-032_bl002_f08.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Sickled cells lose flexibility and become trapped in capillaries, blocking blood flow. The resulting ischemia and infarction of downstream tissue is termed vaso-occlusive disease.",
         "whyCorrect": "Sickled cells lose flexibility and become trapped in capillaries, blocking blood flow. The resulting ischemia and infarction of downstream tissue is termed vaso-occlusive disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Immune thrombocytopenia results from antiplatelet antibodies, not from sickled red cells physically blocking small vessels.",
+          "C": "Iron overload in sickle cell disease comes mainly from repeated transfusions, not from sickled cells lodging in vessels.",
+          "D": "Sickle cell hemolysis is not autoimmune; red cells are damaged by HbS polymerization rather than autoantibodies.",
+          "E": "Extravascular hemolysis is splenic removal of damaged red cells, whereas the picture shows cells obstructing a vessel and blocking flow."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-076_bl002_f05.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In the taut, deoxygenated state the exposed hydrophobic valine residues cause HbS molecules to line up into rigid polymers. These insoluble strands physically contort the RBC into a sickle shape.",
         "whyCorrect": "In the taut, deoxygenated state the exposed hydrophobic valine residues cause HbS molecules to line up into rigid polymers. These insoluble strands physically contort the RBC into a sickle shape.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Osmotic swelling makes red cells round up and lyse; sickling is driven by protein polymerization, not water influx.",
+          "C": "Agglutination clumps whole red cells together via antibodies; sickling is an intracellular change in hemoglobin, not antibody-mediated.",
+          "D": "Spectrin loss causes spherocytosis or elliptocytosis; sickle cells have normal membrane proteins and are distorted by HbS polymers.",
+          "E": "Oxidation to methemoglobin impairs oxygen binding and turns blood brown but does not cause polymer formation or sickling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-149_bl002_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The inclusions are Heinz bodies, clumps of oxidatively denatured hemoglobin that attach to the inner RBC membrane. They form during oxidative stress in G6PD deficiency and are best seen with supravital stains.",
         "whyCorrect": "The inclusions are Heinz bodies, clumps of oxidatively denatured hemoglobin that attach to the inner RBC membrane. They form during oxidative stress in G6PD deficiency and are best seen with supravital stains.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fibrin forms extracellularly during coagulation and never precipitates inside red cells.",
+          "C": "Mature red cells lack mitochondria; iron-containing granules (Pappenheimer bodies) occur in sideroblastic states, not as the oxidative inclusions of G6PD deficiency.",
+          "D": "Nuclear DNA remnants are Howell-Jolly bodies, seen with asplenia, not inclusions produced by oxidant stress.",
+          "E": "Ribosomal RNA aggregates form basophilic stippling, as in lead poisoning or thalassemia, not the inclusions caused by oxidative damage in G6PD deficiency."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-077_bl003_f02.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "These are bite cells. As RBCs with Heinz bodies pass through the spleen, macrophages engulf and remove the portion of membrane to which the Heinz body is attached, leaving a bitten-out contour rather than destroying the whole cell.",
         "whyCorrect": "These are bite cells. As RBCs with Heinz bodies pass through the spleen, macrophages engulf and remove the portion of membrane to which the Heinz body is attached, leaving a bitten-out contour rather than destroying the whole cell.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Osmotic swelling makes cells spherical and prone to lysis; it does not remove a discrete segment of membrane.",
+          "B": "Shearing by fibrin strands produces schistocytes (helmet cells, fragments) in microangiopathic hemolysis, not bite cells in G6PD deficiency.",
+          "C": "Complement-mediated lysis punches pores and ruptures the whole cell intravascularly rather than leaving a scooped-out contour.",
+          "E": "Neutrophil elastase does not shape circulating red cells; bite cells come from splenic macrophages removing Heinz bodies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-078_bl003_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The diagram is the hexose monophosphate (pentose phosphate) shunt step catalyzed by G6PD, which regenerates NADPH. NADPH keeps glutathione reduced so it can detoxify peroxides; when G6PD is deficient, reduced glutathione falls and RBCs cannot neutralize oxidative stress, leading to hemolysis.",
         "whyCorrect": "The diagram is the hexose monophosphate (pentose phosphate) shunt step catalyzed by G6PD, which regenerates NADPH. NADPH keeps glutathione reduced so it can detoxify peroxides; when G6PD is deficient, reduced glutathione falls and RBCs cannot neutralize oxidative stress, leading to hemolysis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "G6PD has no role in heme synthesis or iron incorporation; that occurs in erythroid precursor mitochondria via ferrochelatase.",
+          "B": "ATP comes from glycolysis, and G6PD deficiency does not increase it; the defect is loss of NADPH for antioxidant defense.",
+          "D": "2,3-BPG accumulation results from distal glycolytic blocks such as pyruvate kinase deficiency, not from loss of the pentose phosphate shunt.",
+          "E": "Hemoglobin oxygen affinity is governed by 2,3-BPG, pH, and temperature; G6PD deficiency does not alter it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-150_bl003_f01.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed.",
         "whyCorrect": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lack of CD55 and CD59 causes paroxysmal nocturnal hemoglobinuria with complement-mediated intravascular lysis, not spherocytes formed by partial membrane removal.",
+          "B": "Warm AHA is antibody-mediated and acquired; spectrin mutations are inherited defects that cause hereditary spherocytosis.",
+          "D": "HbS polymerization causes sickle cells in sickle cell disease, not round cells formed by macrophage nibbling of antibody-coated membrane.",
+          "E": "Iron granules (Pappenheimer bodies) occur in sideroblastic and iron-loading states and do not explain spherocyte formation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-005_bl004_f02.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "As a pentamer with ten binding sites, this antibody cross-links several red cells at once, forming the agglutinates typical of cold AHA when blood cools.",
         "whyCorrect": "As a pentamer with ten binding sites, this antibody cross-links several red cells at once, forming the agglutinates typical of cold AHA when blood cools.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Splenic phagocytosis of opsonized cells at body temperature describes warm IgG-mediated AHA; the pentameric cold antibody acts by cross-linking cells in the cold.",
+          "B": "Antibodies do not insert into membranes to form pores; pore formation is the job of the complement membrane attack complex (C5b-9).",
+          "C": "Anti-D antibodies are IgG and do not agglutinate cells in the cold; the cold agglutinin is IgM usually directed at I antigen.",
+          "D": "This antibody is cold-reactive, binding in cooler peripheral areas such as fingers, toes, and ears, not in warm central vessels."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-151_bl004_f03.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
         "whyCorrect": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Spherocytes are small, round, dense cells without central pallor, not large oval cells.",
+          "B": "Target cells have a central dark spot of hemoglobin within the pallor (bull's-eye) and are typically normal or small in size.",
+          "D": "Schistocytes are small irregular fragments with sharp edges, the opposite of an enlarged intact oval cell.",
+          "E": "Teardrop cells (dacrocytes) have a single tapered tail and suggest myelofibrosis, not a smooth large oval shape."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-033_bl005_f02.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Hypersegmented neutrophils have nuclei with more than five lobes and are a hallmark of megaloblastic anemia due to impaired DNA synthesis in myeloid precursors. They appear alongside macro-ovalocytes on the peripheral smear.",
         "whyCorrect": "Hypersegmented neutrophils have nuclei with more than five lobes and are a hallmark of megaloblastic anemia due to impaired DNA synthesis in myeloid precursors. They appear alongside macro-ovalocytes on the peripheral smear.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ten lobes would be extreme; hypersegmentation is defined at a far lower threshold, more than five lobes.",
+          "B": "Normal mature neutrophils already have three to five lobes, so more than two lobes is normal, not hypersegmented.",
+          "D": "Seven lobes would certainly be abnormal, but the defining threshold is lower, more than five lobes.",
+          "E": "Three to five lobes is the normal range for a segmented neutrophil, so more than three lobes is not abnormal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-034_bl005_f03.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The reaction converting methylmalonyl-CoA to succinyl-CoA is catalyzed by methylmalonyl-CoA mutase, which uses vitamin B12 as a cofactor. In B12 deficiency this step is blocked, methylmalonyl-CoA accumulates, and elevated serum methylmalonic acid results, impairing myelin synthesis and producing neurologic deficits.",
         "whyCorrect": "The reaction converting methylmalonyl-CoA to succinyl-CoA is catalyzed by methylmalonyl-CoA mutase, which uses vitamin B12 as a cofactor. In B12 deficiency this step is blocked, methylmalonyl-CoA accumulates, and elevated serum methylmalonic acid results, impairing myelin synthesis and producing neurologic deficits.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lactic acid accumulates with tissue hypoxia or pyruvate metabolism defects, not with a block in methylmalonyl-CoA mutase.",
+          "B": "Ammonia accumulates with urea cycle defects or liver failure and is not a specific marker of B12 deficiency.",
+          "D": "Homocysteine rises in both B12 and folate deficiency via methionine synthase, but it is not the product of the methylmalonyl-CoA step shown.",
+          "E": "Uric acid reflects purine breakdown, as in gout or tumor lysis, and is unrelated to the B12-dependent mutase reaction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-152_bl005_f01.png",

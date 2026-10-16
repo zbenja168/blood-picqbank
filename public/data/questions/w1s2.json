@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Pallor of the palpebral conjunctiva reflects a reduced hemoglobin concentration and is a classic bedside sign of anemia. Elevated bilirubin would yellow the sclera (jaundice), and cyanosis produces a bluish rather than pale appearance.",
         "whyCorrect": "Pallor of the palpebral conjunctiva reflects a reduced hemoglobin concentration and is a classic bedside sign of anemia. Elevated bilirubin would yellow the sclera (jaundice), and cyanosis produces a bluish rather than pale appearance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Carboxyhemoglobin gives tissues a cherry-red tint rather than pallor, and it does not reflect the low hemoglobin of anemia.",
+          "C": "Hyperbilirubinemia produces yellow scleral and conjunctival icterus, not a pale conjunctiva.",
+          "D": "Cyanosis produces a bluish discoloration from increased deoxygenated hemoglobin and is actually harder to detect in anemia; it does not cause pallor.",
+          "E": "Dehydration makes mucosa dry, but the conjunctival color is driven by the hemoglobin in its capillaries, so pallor points to anemia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-070_bl054_f03.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
         "whyCorrect": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ferritin falls in iron deficiency; an elevated ferritin indicates replete or excess stores or inflammation, as in anemia of chronic disease.",
+          "B": "TIBC rises in iron deficiency as the liver makes more transferrin; a low TIBC suggests anemia of chronic disease or iron overload.",
+          "C": "B12 deficiency causes macrocytic, megaloblastic anemia with hypersegmented neutrophils, not hypochromic microcytes; an elevated B12 is irrelevant here.",
+          "D": "Reticulocyte count is low in iron deficiency because the marrow lacks iron to make red cells, and it is not specific for any deficiency."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-129_bl054_f02.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
         "whyCorrect": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Scurvy causes perifollicular hemorrhages, corkscrew hairs, and bleeding gums, not spoon-shaped nails.",
+          "C": "B12 deficiency causes megaloblastic anemia and neurologic deficits (subacute combined degeneration); koilonychia is not a characteristic finding.",
+          "D": "Folate deficiency causes megaloblastic anemia and glossitis without neurologic signs, but not spoon nails.",
+          "E": "Zinc deficiency causes periorificial and acral dermatitis, alopecia, and impaired wound healing and taste, not koilonychia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-130_bl054_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The hormone is hepcidin. Inflammatory cytokines drive hepcidin, which internalizes and degrades ferroportin, trapping iron inside enterocytes and macrophages and lowering serum iron. Chronic inflammation therefore produces the functional iron restriction of anemia of chronic disease. Hemochromatosis, by contrast, results from inappropriately LOW hepcidin.",
         "whyCorrect": "The hormone is hepcidin. Inflammatory cytokines drive hepcidin, which internalizes and degrades ferroportin, trapping iron inside enterocytes and macrophages and lowering serum iron. Chronic inflammation therefore produces the functional iron restriction of anemia of chronic disease. Hemochromatosis, by contrast, results from inappropriately LOW hepcidin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "In beta-thalassemia major, ineffective erythropoiesis suppresses hepcidin via erythroferrone, causing iron overload rather than hepcidin overactivity.",
+          "C": "Acute hemolysis increases erythropoietic drive, which lowers hepcidin; it is not caused by sustained hepcidin excess.",
+          "D": "Sideroblastic anemia is a defect in heme synthesis (often ALA synthase, lead, or alcohol) with mitochondrial iron accumulation, not a hepcidin-driven disorder.",
+          "E": "Hereditary hemochromatosis results from inappropriately low hepcidin (e.g., HFE mutations), so ferroportin stays active and iron is over-absorbed."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-184_bl054_f01.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Ineffective erythropoiesis drives massive marrow hyperplasia; in severe thalassemia the marrow expands the skull and facial bones, producing frontal bossing, malar prominence, and maxillary hypertrophy.",
         "whyCorrect": "Ineffective erythropoiesis drives massive marrow hyperplasia; in severe thalassemia the marrow expands the skull and facial bones, producing frontal bossing, malar prominence, and maxillary hypertrophy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Chronic corticosteroids cause osteoporosis and growth suppression, not expansion of the skull's marrow space with frontal bossing.",
+          "C": "Rickets can cause frontal bossing, but it results from defective osteoid mineralization, whereas in thalassemia the cause is erythroid marrow expansion.",
+          "D": "Growth hormone excess in children causes gigantism, and in adults acromegaly with a prominent jaw and brow from bone overgrowth, not hematopoietic marrow expansion.",
+          "E": "Iron overload in thalassemia damages the heart, liver, and endocrine organs; it does not expand the cranial bones."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-134_bl056_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The field is packed with small, densely staining mononuclear cells typical of a chronic inflammatory (lymphocyte/plasma-cell) infiltrate. Sustained inflammation of this kind drives the cytokine response (IL-6) that underlies anemia of chronic disease, rather than the fat, neutrophilic pus, dense collagen, or striated fibers of the other choices.",
         "whyCorrect": "The field is packed with small, densely staining mononuclear cells typical of a chronic inflammatory (lymphocyte/plasma-cell) infiltrate. Sustained inflammation of this kind drives the cytokine response (IL-6) that underlies anemia of chronic disease, rather than the fat, neutrophilic pus, dense collagen, or striated fibers of the other choices.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An abscess is dominated by neutrophils with lobulated nuclei and necrotic debris; the field shows small, round mononuclear cells instead.",
+          "B": "Adipose tissue appears as large empty-looking clear vacuoles with thin rims and flattened nuclei, not dense blue cellularity.",
+          "D": "Mature scar is pink, paucicellular collagen with few spindle-shaped fibroblast nuclei, the opposite of dense basophilic cellularity.",
+          "E": "Cardiac muscle shows pink, branching, striated fibers with central nuclei and intercalated discs, not sheets of small dark round cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-026_bl057_f01.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "IL-6 is the principal inflammatory cytokine that stimulates hepatic synthesis of hepcidin. Elevated hepcidin causes internalization and degradation of ferroportin-1, blocking iron release from enterocytes, macrophages, and hepatocytes, so less iron reaches the marrow and anemia results. IL-10 and TGF-beta are anti-inflammatory, IFN-gamma is not the primary hepcidin driver, and erythropoietin actually suppresses hepcidin.",
         "whyCorrect": "IL-6 is the principal inflammatory cytokine that stimulates hepatic synthesis of hepcidin. Elevated hepcidin causes internalization and degradation of ferroportin-1, blocking iron release from enterocytes, macrophages, and hepatocytes, so less iron reaches the marrow and anemia results. IL-10 and TGF-beta are anti-inflammatory, IFN-gamma is not the primary hepcidin driver, and erythropoietin actually suppresses hepcidin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Erythropoietin, through erythroferrone, suppresses hepcidin so more iron reaches the marrow; it does not increase hepcidin production.",
+          "B": "IL-10 is an anti-inflammatory cytokine that dampens immune responses and is not the main inducer of hepatic hepcidin.",
+          "C": "IFN-gamma contributes to anemia of chronic disease by suppressing erythropoiesis and promoting macrophage iron retention, but IL-6 is the direct hepcidin inducer.",
+          "E": "TGF-beta is largely anti-inflammatory and immunosuppressive; hepcidin's inflammatory induction runs through IL-6 and STAT3, not TGF-beta."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-185_bl057_f02.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The arrows indicate Pappenheimer bodies, iron-containing granules that stain with Prussian blue and cluster at the RBC periphery. They reflect abnormal iron incorporation seen in sideroblastic anemia, not hemoglobin, nuclear, or RNA remnants.",
         "whyCorrect": "The arrows indicate Pappenheimer bodies, iron-containing granules that stain with Prussian blue and cluster at the RBC periphery. They reflect abnormal iron incorporation seen in sideroblastic anemia, not hemoglobin, nuclear, or RNA remnants.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Precipitated alpha or beta globin chains form inclusions in thalassemia and are seen with supravital stains, not with Prussian blue, which is specific for iron.",
+          "C": "Denatured hemoglobin forms Heinz bodies, seen with crystal violet or other supravital stains; they do not stain blue with Prussian blue.",
+          "D": "Residual nuclear DNA forms a single round Howell-Jolly body seen on Wright stain, not clustered peripheral granules that stain for iron.",
+          "E": "Aggregated ribosomal RNA produces basophilic stippling, as in lead poisoning, which is diffuse and does not stain with Prussian blue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-071_bl058_f02.png",

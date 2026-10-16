@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
         "whyCorrect": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thrombocytopenia causes mucocutaneous bleeding such as petechiae, epistaxis, and gum bleeding, rarely spontaneous joint bleeds.",
+          "C": "Von Willebrand disease mainly causes mucosal bleeding (menorrhagia, epistaxis); hemarthrosis occurs only in the rare severe type 3 form.",
+          "D": "Vitamin K deficiency causes easy bruising, mucosal and GI bleeding with prolonged PT; spontaneous hemarthrosis is not typical.",
+          "E": "Factor XII deficiency prolongs the aPTT in the lab but causes no clinical bleeding at all."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-079_bl007_f07.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The figure depicts secondary hemostasis: tissue factor drives thrombin generation, which converts fibrinogen to fibrin. The fibrin mesh weaves through and stabilizes the fragile platelet plug into a durable clot.",
         "whyCorrect": "The figure depicts secondary hemostasis: tissue factor drives thrombin generation, which converts fibrinogen to fibrin. The fibrin mesh weaves through and stabilizes the fragile platelet plug into a durable clot.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vasoconstriction is the immediate reflex response to vessel injury via endothelin and neural reflexes, not the role of the fibrin network.",
+          "B": "Calcium is required for the cascade; chelating it is how lab tubes prevent clotting, not what reinforces the platelet plug.",
+          "C": "Initial adhesion to collagen is primary hemostasis, mediated by von Willebrand factor binding platelet GPIb, before fibrin forms.",
+          "D": "Dissolving the plug is the role of fibrinolysis by plasmin, which happens after repair rather than reinforcing the clot."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-153_bl007_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The figure marks calcium (Ca2+) participating in the intrinsic, extrinsic, and common pathways. Chelating agents like EDTA and citrate bind free calcium, so its removal blocks the cascade at multiple steps and keeps collected blood liquid.",
         "whyCorrect": "The figure marks calcium (Ca2+) participating in the intrinsic, extrinsic, and common pathways. Chelating agents like EDTA and citrate bind free calcium, so its removal blocks the cascade at multiple steps and keeps collected blood liquid.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enhancing antithrombin is heparin's mechanism; EDTA and citrate do not act on antithrombin.",
+          "B": "Direct thrombin inhibition describes drugs like dabigatran and argatroban, not EDTA or citrate.",
+          "D": "Blocking vitamin K-dependent gamma-carboxylation is warfarin's action, which takes days in vivo and does not work in a collection tube.",
+          "E": "Activating plasmin describes thrombolytics such as tPA; EDTA and citrate prevent clotting by removing calcium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-154_bl007_f05.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The diagram shows TFPI, activated Protein C, and antithrombin turning off the cascade at specific steps. These anticoagulant mechanisms restrain clotting to the site of injury and shut it down when no longer needed; clot breakdown itself is a separate fibrinolytic process.",
         "whyCorrect": "The diagram shows TFPI, activated Protein C, and antithrombin turning off the cascade at specific steps. These anticoagulant mechanisms restrain clotting to the site of injury and shut it down when no longer needed; clot breakdown itself is a separate fibrinolytic process.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Platelet adhesion is promoted by von Willebrand factor and collagen; TFPI, protein C, and antithrombin restrain clotting.",
+          "B": "Breaking down existing fibrin is fibrinolysis by plasmin; these inhibitors prevent further clot formation instead.",
+          "D": "Vasoconstriction is driven by endothelin, thromboxane A2, and neural reflexes, not by coagulation inhibitors.",
+          "E": "Hepatic synthesis of clotting factors depends on vitamin K and liver function, not on natural anticoagulant activity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-155_bl007_f06.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Naturally occurring anti-A and anti-B antibodies are pentameric IgM. Its ten antigen-binding sites let it bridge antigens on many adjacent red cells at once, producing the macroscopic agglutination read as a positive result.",
         "whyCorrect": "Naturally occurring anti-A and anti-B antibodies are pentameric IgM. Its ten antigen-binding sites let it bridge antigens on many adjacent red cells at once, producing the macroscopic agglutination read as a positive result.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgA protects mucosal surfaces and is not the natural isohemagglutinin class against A and B antigens.",
+          "B": "IgD functions mainly as a B-cell surface receptor and has no role in red cell agglutination.",
+          "C": "IgG mediates Rh incompatibility and warm AHA but, being small and divalent, agglutinates poorly without Coombs reagent; natural anti-A and anti-B are mainly IgM.",
+          "D": "IgE mediates allergic reactions through mast cells and does not agglutinate red cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-035_bl008_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Agglutination or hemolysis of donor cells means the recipient has antibodies against antigens on the donor red cells. This positive cross-match indicates incompatibility, so that unit must not be transfused.",
         "whyCorrect": "Agglutination or hemolysis of donor cells means the recipient has antibodies against antigens on the donor red cells. This positive cross-match indicates incompatibility, so that unit must not be transfused.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A positive crossmatch is a true signal of recipient antibodies against donor cells and must never be dismissed as artifact.",
+          "C": "A compatible crossmatch shows no agglutination or hemolysis; visible clumping indicates a mismatch.",
+          "D": "A crossmatch tests one specific donor unit; an incompatible result never broadens which ABO types a patient can receive.",
+          "E": "A universal donor (type O negative red cells) would not be agglutinated by the recipient's anti-A or anti-B; the clumping shows these donor cells are incompatible."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-036_bl008_f04.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Every red cell, including type O cells that lack A and B sugars, expresses the H antigen precursor. Enzymes add A or B sugars onto the H substrate to form the A and B antigens; type O cells leave the H antigen unmodified.",
         "whyCorrect": "Every red cell, including type O cells that lack A and B sugars, expresses the H antigen precursor. Enzymes add A or B sugars onto the H substrate to form the A and B antigens; type O cells leave the H antigen unmodified.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lewis antigens are adsorbed onto red cells from plasma and are not the precursor on which A and B sugars are built.",
+          "C": "The i antigen is the fetal and neonatal form of the I antigen (the cold agglutinin target), not the ABO precursor.",
+          "D": "The D antigen is a protein of the Rh system, separate from ABO, and is absent in Rh-negative people.",
+          "E": "Kell is an independent protein antigen system, not the carbohydrate precursor for A and B antigens."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-156_bl008_f01.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Initial sensitization produces IgM, which is too large to cross the placenta. On re-exposure the mother makes IgG anti-Rh antibodies, which do cross the placenta and hemolyze fetal Rh-positive red cells, causing hemolytic disease of the newborn.",
         "whyCorrect": "Initial sensitization produces IgM, which is too large to cross the placenta. On re-exposure the mother makes IgG anti-Rh antibodies, which do cross the placenta and hemolyze fetal Rh-positive red cells, causing hemolytic disease of the newborn.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgD is a B-cell surface receptor with no role in transplacental transfer.",
+          "B": "IgA is transferred to the infant via breast milk, not across the placenta, and does not mediate Rh disease.",
+          "C": "IgM is the first antibody made at sensitization, but as a large pentamer it cannot cross the placenta.",
+          "E": "IgE mediates allergic and antiparasitic responses and does not cross the placenta to cause hemolytic disease of the newborn."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-157_bl008_f02.png",

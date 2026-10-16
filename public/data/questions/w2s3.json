@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Petechiae, purpura, and ecchymoses on the skin are mucocutaneous bleeding, characteristic of platelet (primary hemostasis) disorders. Deep tissue and joint bleeding instead point to clotting factor deficiencies such as hemophilia.",
         "whyCorrect": "Petechiae, purpura, and ecchymoses on the skin are mucocutaneous bleeding, characteristic of platelet (primary hemostasis) disorders. Deep tissue and joint bleeding instead point to clotting factor deficiencies such as hemophilia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemarthrosis is deep bleeding into joints, typical of clotting factor deficiencies such as hemophilia, not the skin lesions shown.",
+          "B": "Intracranial bleeding is deep, life-threatening hemorrhage, not visible pinpoint skin lesions.",
+          "C": "Retroperitoneal hemorrhage is deep bleeding seen with factor deficiencies or anticoagulant overdose, not surface petechiae.",
+          "D": "Deep muscle hematomas are characteristic of factor deficiencies like hemophilia, not of platelet disorders."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-084_bl016_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The image depicts a hemostatic clot plugging a vessel. Clot formation begins with platelet adhesion and aggregation at the site of injury, which then triggers the fibrin mesh that stabilizes the clot.",
         "whyCorrect": "The image depicts a hemostatic clot plugging a vessel. Clot formation begins with platelet adhesion and aggregation at the site of injury, which then triggers the fibrin mesh that stabilizes the clot.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fibroblasts lay down collagen during later wound healing and repair; they do not initiate the hemostatic plug.",
+          "B": "Macrophages clear debris and the clot during healing but do not aggregate to start clot formation.",
+          "D": "Erythrocytes become trapped in the fibrin mesh of a clot, but they do not initiate its formation.",
+          "E": "Neutrophils arrive for acute inflammation and defense, not to aggregate and plug a bleeding vessel."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-163_bl016_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
         "whyCorrect": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Red cells come from erythroid precursors (proerythroblasts to normoblasts), which are smaller cells with round nuclei.",
+          "C": "Antibody production is the job of plasma cells, which have an eccentric round nucleus and perinuclear clearing, not multilobed nuclei.",
+          "D": "Most clotting factors are synthesized by hepatocytes, and von Willebrand factor and factor VIII mainly by endothelium, not by marrow megakaryocytes.",
+          "E": "Senescent erythrocytes are removed by macrophages in the spleen and liver, not by the large platelet-producing cells shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-007_bl017_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
         "whyCorrect": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Platelet clumps do not affect the measured size of red cells; MCV is spuriously raised by cold agglutinins or marked hyperglycemia, not platelet aggregates.",
+          "B": "Very large clumps can occasionally be miscounted as leukocytes, but the characteristic and clinically important artifact is a falsely low platelet count.",
+          "D": "Hemoglobin is measured chemically after lysing the red cells, so platelet clumping does not lower it.",
+          "E": "Clumped platelets are too large to be counted as individual platelets, so the analyzer undercounts rather than overcounts them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-038_bl017_f03.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
         "whyCorrect": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "ITP destroys platelets through antibodies but leaves red cells intact; schistocytes are not a feature unless a separate process shears red cells.",
+          "B": "Iron deficiency produces small, pale (microcytic, hypochromic) red cells and pencil cells, not sheared fragments.",
+          "D": "Hereditary spherocytosis produces small, round, dense spherocytes from membrane loss, not irregular fragments with sharp edges.",
+          "E": "B12 deficiency produces macro-ovalocytes and hypersegmented neutrophils; fragmentation is not its defining finding."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-039_bl017_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The nonblanching red-purple macules are petechiae and purpura, caused by extravasation of blood from small vessels into the skin due to insufficient platelets. Blanching lesions like telangiectasias are due to vessel dilation, not bleeding.",
         "whyCorrect": "The nonblanching red-purple macules are petechiae and purpura, caused by extravasation of blood from small vessels into the skin due to insufficient platelets. Blanching lesions like telangiectasias are due to vessel dilation, not bleeding.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Proliferating abnormal vessels form raised vascular lesions such as hemangiomas or Kaposi sarcoma, not flat pinpoint spots in a thrombocytopenic patient.",
+          "C": "Hemosiderin from venous stasis causes brownish discoloration of the lower legs that develops over months, not acute red-purple petechiae.",
+          "D": "Dilated capillaries (telangiectasias) blanch with pressure because blood remains inside the vessels; these lesions do not blanch.",
+          "E": "Small-vessel vasculitis produces palpable purpura, raised lesions from inflamed vessel walls, rather than flat petechiae caused by a low platelet count."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-085_bl017_f01.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The small pinpoint lesions are petechiae and the larger flat purple lesions are purpura/bruising. In ITP the platelet count falls so low that spontaneous bleeding from small dermal vessels leaks into the skin. There is no vessel occlusion, clotting-factor defect, vasculitis, or scurvy; the abnormality is purely a quantitative platelet deficiency.",
         "whyCorrect": "The small pinpoint lesions are petechiae and the larger flat purple lesions are purpura/bruising. In ITP the platelet count falls so low that spontaneous bleeding from small dermal vessels leaks into the skin. There is no vessel occlusion, clotting-factor defect, vasculitis, or scurvy; the abnormality is purely a quantitative platelet deficiency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Platelet-rich microthrombi occur in TTP and HIT, but in ITP platelets are destroyed by antibodies, so there are too few to plug or occlude vessels.",
+          "B": "Immune-complex vasculitis produces palpable, inflamed purpura; ITP antibodies target platelets, not vessel walls.",
+          "C": "Scurvy causes perifollicular hemorrhages, corkscrew hairs, and gum bleeding from defective collagen, with a normal platelet count.",
+          "E": "Factor VIII deficiency causes deep bleeding into joints and muscles, while skin petechiae point to a platelet problem."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-086_bl018_f01.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The diagram shows opsonization of platelets by IgG and their destruction by macrophages via Fc receptors in the spleen. Any transfused platelets are opsonized by the same circulating antibody and destroyed just as fast as the patient's own, so transfusion gives only a fleeting rise and is reserved for severe, actively bleeding patients.",
         "whyCorrect": "The diagram shows opsonization of platelets by IgG and their destruction by macrophages via Fc receptors in the spleen. Any transfused platelets are opsonized by the same circulating antibody and destroyed just as fast as the patient's own, so transfusion gives only a fleeting rise and is reserved for severe, actively bleeding patients.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Transfused platelets are not stored intact in the liver; in ITP they are opsonized and destroyed, mainly by splenic macrophages.",
+          "C": "Transfused platelets do not meaningfully suppress megakaryocyte production; the problem is rapid antibody-mediated clearance of the infused cells.",
+          "D": "Platelet transfusions are not ineffective because of anaphylaxis, which is rare and usually linked to IgA deficiency.",
+          "E": "Platelets do not carry clotting factors that antibodies consume; the antibodies opsonize the platelets themselves for phagocytosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-164_bl018_f02.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review.",
         "whyCorrect": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Target cells are red cells with a central dark hemoglobin spot inside a pale ring, a bull's-eye look, not separate purple granular bodies.",
+          "B": "Howell-Jolly bodies are small dense purple dots inside red cells, much smaller than the free-standing structures marked.",
+          "C": "Schistocytes are pink red-cell fragments with sharp edges, not purple granular structures the size of red cells.",
+          "E": "Spherocytes are small, round, dense red cells without central pallor; they stain pink like other erythrocytes rather than purple and granular."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-008_bl019_f01.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
         "whyCorrect": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hemophilia A is a coagulation factor deficiency; platelet aggregation studies, including the ristocetin response, are normal.",
+          "C": "Glanzmann thrombasthenia abolishes aggregation to ADP, epinephrine, and collagen but preserves the ristocetin response, the reverse of this pattern.",
+          "D": "Aspirin blocks thromboxane synthesis, impairing collagen and secondary-wave epinephrine and ADP aggregation, while ristocetin agglutination stays normal.",
+          "E": "Storage pool disease impairs secondary-wave aggregation to ADP, epinephrine, and collagen, with normal ristocetin agglutination."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-040_bl019_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "GPIb is the platelet receptor that binds von Willebrand factor to mediate initial adhesion. In Bernard-Soulier syndrome platelets lack normal GPIb, so they cannot bind vWF and fail to aggregate in response to ristocetin despite normal responses to other agonists.",
         "whyCorrect": "GPIb is the platelet receptor that binds von Willebrand factor to mediate initial adhesion. In Bernard-Soulier syndrome platelets lack normal GPIb, so they cannot bind vWF and fail to aggregate in response to ristocetin despite normal responses to other agonists.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Collagen receptors (GPIa/IIa and GPVI) support adhesion and activation, but their deficiency is not Bernard-Soulier syndrome.",
+          "B": "P2Y12 is the ADP receptor targeted by clopidogrel; its deficiency impairs ADP-induced aggregation and is not Bernard-Soulier syndrome.",
+          "D": "GPIIb/IIIa deficiency is Glanzmann thrombasthenia, which impairs fibrinogen-mediated aggregation while ristocetin agglutination stays normal.",
+          "E": "Fibrinogen is a plasma ligand bridging GPIIb/IIIa receptors, not a platelet receptor, and its loss (afibrinogenemia) is a separate disorder."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-165_bl019_f03.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "These cells never appear in normal or artifactual smears; their presence indicates mechanical red-cell fragmentation from intravascular microthrombi, i.e., MAHA.",
         "whyCorrect": "These cells never appear in normal or artifactual smears; their presence indicates mechanical red-cell fragmentation from intravascular microthrombi, i.e., MAHA.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Iron deficiency produces microcytic, hypochromic cells and pencil cells, not mechanically sheared fragments.",
+          "C": "Sickle cell disease produces crescent-shaped cells from HbS polymerization, not fragments caused by passage through microthrombi.",
+          "D": "Oxidative G6PD hemolysis produces bite cells and Heinz bodies, which have a scooped-out contour rather than sharp-edged fragments.",
+          "E": "Hereditary spherocytosis produces round, dense spherocytes from membrane loss, not irregular sheared pieces."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-041_bl020_f05.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Helmet cells and triangulocytes are morphologic subtypes of schistocytes, formed when red cells are cut passing through fibrin/platelet microthrombi in small vessels.",
         "whyCorrect": "Helmet cells and triangulocytes are morphologic subtypes of schistocytes, formed when red cells are cut passing through fibrin/platelet microthrombi in small vessels.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Antibody-mediated destruction produces spherocytes as macrophages remove coated membrane, not helmet cells or triangulocytes.",
+          "B": "Splenic sequestration pools red cells and may produce spherocytes, but it does not cut cells into angular fragments.",
+          "C": "Defective globin synthesis (thalassemia) yields microcytic target cells and basophilic stippling rather than sheared helmet-shaped fragments.",
+          "E": "Oxidative injury produces Heinz bodies and bite or blister cells, not the angular fragments of mechanical shearing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-042_bl020_f06.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The petechiae and purpura pictured result from low platelet counts (consumed in microthrombi), which cause bleeding into the skin and oozing from small vessels.",
         "whyCorrect": "The petechiae and purpura pictured result from low platelet counts (consumed in microthrombi), which cause bleeding into the skin and oozing from small vessels.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neutropenia predisposes to infections but does not itself cause petechiae and purpura from bleeding into the skin.",
+          "B": "Scurvy causes perifollicular hemorrhages from defective collagen; in thrombotic microangiopathy the cause is platelet consumption.",
+          "C": "Vasculitis causes palpable purpura from inflamed vessel walls, whereas thrombotic microangiopathy causes flat bleeding from low platelets.",
+          "D": "Fungal emboli cause scattered necrotic nodules in neutropenic patients, not the diffuse petechiae of platelet consumption."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-087_bl020_f01.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The enzyme shown normally cleaves ultra-large vWF multimers; its deficiency leaves these sticky multimers uncleaved, causing platelet-rich microthrombi characteristic of TTP.",
         "whyCorrect": "The enzyme shown normally cleaves ultra-large vWF multimers; its deficiency leaves these sticky multimers uncleaved, causing platelet-rich microthrombi characteristic of TTP.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Typical HUS is caused by Shiga toxin (or complement dysregulation in atypical HUS) damaging renal endothelium, not by loss of ADAMTS13 cleavage of vWF.",
+          "C": "ITP is antibody-mediated platelet destruction without microthrombi; ADAMTS13 function is normal.",
+          "D": "DIC results from widespread activation of coagulation (sepsis, trauma, malignancy) with factor consumption, not from failure to cleave vWF multimers.",
+          "E": "Hemophilia A is a factor VIII deficiency causing bleeding, the opposite of the thrombotic state from uncleaved vWF multimers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-166_bl020_f03.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The platelet-vWF thrombi mechanically fragment passing erythrocytes, producing the microangiopathic hemolytic anemia seen in TTP.",
         "whyCorrect": "The platelet-vWF thrombi mechanically fragment passing erythrocytes, producing the microangiopathic hemolytic anemia seen in TTP.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Warm AHA is antibody-mediated destruction of red cells in the spleen producing spherocytes, not mechanical shearing on thrombi.",
+          "B": "Iron deficiency anemia results from inadequate iron for hemoglobin synthesis, not from red cells being cut in small vessels.",
+          "D": "Aplastic anemia reflects failure of marrow stem cells to produce cells, not peripheral destruction of formed red cells.",
+          "E": "Megaloblastic anemia results from impaired DNA synthesis in marrow precursors (B12 or folate deficiency), not intravascular fragmentation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-167_bl020_f04.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The thrombus acts like a blade, shearing intact erythrocytes into fragmented cells; this intravascular mechanical hemolysis defines microangiopathic hemolytic anemia.",
         "whyCorrect": "The thrombus acts like a blade, shearing intact erythrocytes into fragmented cells; this intravascular mechanical hemolysis defines microangiopathic hemolytic anemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Leukocytosis is an increase in white cells and has nothing to do with red cells being cut by a thrombus.",
+          "B": "Thrombocytopenia in thrombotic microangiopathy is from platelet consumption in microthrombi, not immune destruction, and is unrelated to red cell shearing.",
+          "C": "Neutropenia is a reduction of neutrophils and is not produced by red cells passing intravascular thrombi.",
+          "E": "Polycythemia is an increase in red cell mass, the opposite of the destruction caused by mechanical shearing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-168_bl020_f07.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "These are formalin-fixed, paraffin-embedded (FFPE) blocks. The paraffin provides a firm medium that supports the fixed tissue so a microtome can slice it into thin sections for staining and microscopy. FFPE blocks also preserve morphology and can be stored for years.",
         "whyCorrect": "These are formalin-fixed, paraffin-embedded (FFPE) blocks. The paraffin provides a firm medium that supports the fixed tissue so a microtome can slice it into thin sections for staining and microscopy. FFPE blocks also preserve morphology and can be stored for years.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "H&E staining is performed on thin sections cut from the block after embedding; the wax itself does not stain tissue.",
+          "C": "Formalin fixation and paraffin embedding kill the cells; flow cytometry requires fresh, live cell suspensions.",
+          "D": "Red cell lysis is a step in preparing blood samples for some analyses, not the purpose of embedding fixed tissue in wax.",
+          "E": "DNA amplification is done by PCR on extracted nucleic acid; paraffin stores tissue but does not amplify its DNA."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-044_bl022_f05.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "This is an immunohistochemical (IHC) stain: a labeled antibody binds its target antigen, and a chromogen deposits brown color wherever the antigen is present. Brown-positive nuclei therefore express the specific protein being tested, which helps classify the tumor.",
         "whyCorrect": "This is an immunohistochemical (IHC) stain: a labeled antibody binds its target antigen, and a chromogen deposits brown color wherever the antigen is present. Brown-positive nuclei therefore express the specific protein being tested, which helps classify the tumor.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Apoptosis is identified by shrunken cells with condensed, fragmented nuclei or special assays, not by an antibody-linked brown chromogen.",
+          "B": "Cells lacking the target antigen remain blue with only the hematoxylin counterstain; brown means the antigen is present.",
+          "C": "Hemosiderin is golden-brown pigment seen in the cytoplasm of macrophages and confirmed with Prussian blue; it does not localize crisply to tumor nuclei.",
+          "E": "Necrotic cells show loss of nuclear staining (karyolysis) and eosinophilic cytoplasm, not specific brown nuclear signal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-045_bl022_f08.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "This is fluorescence in situ hybridization (FISH). Each probe signal marks one copy of the targeted chromosome; three signals instead of two means an extra copy is present (trisomy). Because FISH uses specific probes, you must know which chromosome to interrogate.",
         "whyCorrect": "This is fluorescence in situ hybridization (FISH). Each probe signal marks one copy of the targeted chromosome; three signals instead of two means an extra copy is present (trisomy). Because FISH uses specific probes, you must know which chromosome to interrogate.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A point mutation alters a single base and cannot be seen as an extra fluorescent signal; it requires sequencing or PCR methods.",
+          "C": "Monosomy would show one signal per nucleus, not three.",
+          "D": "A balanced translocation does not change copy number; with appropriate probes it appears as fused or split signals, not an extra copy.",
+          "E": "A deletion of the probed region would show fewer signals, one instead of two, not an additional signal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-046_bl022_f11.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The WHO system first separates neoplasms by the cell of origin, distinguishing those arising from the myeloid stem cell line from those arising from the lymphoid line. Subsequent branches then subclassify within each group.",
         "whyCorrect": "The WHO system first separates neoplasms by the cell of origin, distinguishing those arising from the myeloid stem cell line from those arising from the lymphoid line. Subsequent branches then subclassify within each group.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Acute versus chronic is a later distinction within each lineage (e.g., AML vs CML), not the first branch point.",
+          "C": "Response to chemotherapy is a clinical outcome and plays no role in WHO classification.",
+          "D": "Patient age affects incidence and prognosis but is not a classification criterion.",
+          "E": "Anatomic site helps describe a lymphoma (nodal vs extranodal) but does not define the primary myeloid vs lymphoid split."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-088_bl022_f02.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The binucleate 'owl-eye' cell is a Reed-Sternberg cell, the defining feature of Hodgkin lymphoma. Although derived from B cells, these cells have lost their characteristic B-cell expression pattern, which is why Hodgkin lymphoma is classified separately from the B-cell neoplasms.",
         "whyCorrect": "The binucleate 'owl-eye' cell is a Reed-Sternberg cell, the defining feature of Hodgkin lymphoma. Although derived from B cells, these cells have lost their characteristic B-cell expression pattern, which is why Hodgkin lymphoma is classified separately from the B-cell neoplasms.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CML is diagnosed by leukocytosis with a left shift and the BCR-ABL fusion, not by binucleate owl-eye cells in tissue.",
+          "B": "Myeloma is defined by clonal plasma cells with eccentric nuclei and a perinuclear clear zone, not Reed-Sternberg cells.",
+          "C": "Follicular lymphoma consists of crowded neoplastic follicles of centrocytes and centroblasts, with no binucleate owl-eye cells.",
+          "D": "Burkitt lymphoma shows sheets of uniform medium-sized cells with a starry-sky pattern, not scattered giant binucleate cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-089_bl022_f04.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The single precursor at the apex is the hematopoietic stem cell, which resides in the bone marrow. Early differentiation into both the myeloid and lymphoid lineages occurs there before mature cells are released into the blood.",
         "whyCorrect": "The single precursor at the apex is the hematopoietic stem cell, which resides in the bone marrow. Early differentiation into both the myeloid and lymphoid lineages occurs there before mature cells are released into the blood.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lymph nodes are secondary lymphoid organs where mature lymphocytes respond to antigen; they do not harbor the hematopoietic stem cell.",
+          "C": "The thymus is where T-cell precursors that have already left the marrow mature, not the site of the stem cell at the top of the hierarchy.",
+          "D": "The spleen hosts hematopoiesis only during fetal life or in extramedullary hematopoiesis; it is not the normal adult home of the stem cell.",
+          "E": "Small numbers of stem cells circulate (used for stem cell collection), but they normally reside and differentiate in the marrow niche."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-171_bl022_f01.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "The plot depicts the log-cell kill hypothesis: because chemotherapy follows first-order kinetics, each cycle destroys a fixed proportion of remaining cells, so tumor burden falls logarithmically and multiple cycles are required to reach a clinically undetectable level.",
         "whyCorrect": "The plot depicts the log-cell kill hypothesis: because chemotherapy follows first-order kinetics, each cycle destroys a fixed proportion of remaining cells, so tumor burden falls logarithmically and multiple cycles are required to reach a clinically undetectable level.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "No single dose can eradicate all cells, because each dose kills only a fraction; this is why repeated cycles are needed.",
+          "B": "A constant absolute number would produce a straight decline on a linear scale; the log-scale steps show a constant fraction killed.",
+          "C": "The sawtooth curve shows the tumor regrowing between doses, which is exactly why cycle timing matters.",
+          "D": "The curve's rising segments between doses show that surviving tumor cells keep dividing during therapy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-172_bl023_f01.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Because a fixed fraction is killed each cycle, the number of cells destroyed decreases as the population shrinks, meaning several cycles are needed to drive the count low enough for the immune system or other therapy to clear residual disease.",
         "whyCorrect": "Because a fixed fraction is killed each cycle, the number of cells destroyed decreases as the population shrinks, meaning several cycles are needed to drive the count low enough for the immune system or other therapy to clear residual disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Identical doses kill the same fraction each time; potency does not increase as the tumor burden shrinks.",
+          "B": "Each step reduces the count by a fraction, never to zero, which is why multiple cycles are required.",
+          "C": "Because a fixed fraction is killed, later doses kill fewer absolute cells as the population shrinks, not more.",
+          "E": "The graph shows equal proportional drops with every dose, so killing continues rather than stopping after the first dose."
+        }
       },
       "difficulty": "medium",
       "imageRef": "blpic-173_bl023_f02.png",
