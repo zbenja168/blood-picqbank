@@ -39,7 +39,7 @@ export const SITE: SiteConfig = {
       "current": false
     },
     {
-      "label": "Games",
+      "label": "Classic Games",
       "url": "https://zbenja168.github.io/blood_and_lymph/",
       "current": false
     },
@@ -47,16 +47,6 @@ export const SITE: SiteConfig = {
       "label": "Picture QBank",
       "url": "https://zbenja168.github.io/blood-picqbank/",
       "current": true
-    },
-    {
-      "label": "Picture Match",
-      "url": "https://zbenja168.github.io/blood-picdnd/",
-      "current": false
-    },
-    {
-      "label": "Anatomy ID",
-      "url": "https://zbenja168.github.io/blood-anatomy/",
-      "current": false
     }
   ]
 };
